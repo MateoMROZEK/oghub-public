@@ -1,22 +1,22 @@
 [
   {
     "name": "Amazon",
-    "image": "/imgs/partners/474x144/amazon.webp",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/partners/474x144/amazon.webp",
     "url": "https://www.amazon.fr?&linkCode=ll2&tag=oghub07-21&linkId=e147f1184177edc823234cbdd009f673&language=fr_FR&ref_=as_li_ss_tl"
   },
   {
     "name": "Contabo",
-    "image": "/imgs/partners/474x144/contabo.webp",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/partners/474x144/contabo.webp",
     "url": "https://www.tkqlhce.com/a6106wktqks7HADAAEE79BCGCBHG"
   },
   {
     "name": "Instant Gaming",
-    "image": "/imgs/partners/474x144/instant-gaming.webp",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/partners/474x144/instant-gaming.webp",
     "url": "https://www.instant-gaming.com/?igr=oghubfr"
   },
   {
     "name": "Gamivo",
-    "image": "/imgs/partners/474x144/gamivo.webp",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/partners/474x144/gamivo.webp",
     "url": "https://www.gamivo.com/?glv=cybricode"
   }
 ]
