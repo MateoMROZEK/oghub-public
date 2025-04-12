@@ -1,0 +1,292 @@
+{
+  "playlist": {
+    "name": "Vintage Garage",
+    "slug": "vintage-garage",
+    "image": "playlists/bg/vintage-garage.jpg",
+    "icon": "playlists/icons/vintage_garage.png",
+    "themes": [3],
+    "isLegagy": false,
+    "release": "11/09/2023",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Retro Rainbow",
+      "description": "Climb to the top of the HALEIWA rainbow bridge in freedrive",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "SHELBY",
+        "model": "COBRA 427"
+      }
+    },
+    {
+      "name": "Retro Driving",
+      "description": "Drive from WAHIAWA pineapple tower to the HALEIWA motel in less than 3min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "SHELBY",
+        "model": "COBRA 427"
+      }
+    },
+    {
+      "name": "Retro Beach Party",
+      "description": "Drive from the MOKAPU surf shop to the KAHALUU BEACH natural arch in less than 2min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "SHELBY",
+        "model": "COBRA 427"
+      }
+    },
+    {
+      "name": "Retro Leader",
+      "description": "Drive 2km straight in 1ST position in the event STAYIN' AHEAD",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "SHELBY",
+        "model": "COBRA 427"
+      }
+    },
+    {
+      "name": "Retro Story",
+      "description": "Complete the event 911 LEGENDS with a perfect Clean Driving Score",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "SHELBY",
+        "model": "COBRA 427"
+      }
+    },
+    {
+      "name": "Retro Authentic",
+      "description": "Win the event vintage Showdown with the nitro switched off",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "SHELBY",
+        "model": "COBRA 427"
+      }
+    },
+    {
+      "name": "Retro Snake Groove",
+      "description": "Perform 5 OVERTAKE without collision in the event VINTAGE SHOWDOWN",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "SHELBY",
+        "model": "COBRA 427"
+      }
+    },
+    {
+      "name": "Retro Top Driver",
+      "description": "Reach the top 15 in a GRAND RACE",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "SHELBY",
+        "model": "COBRA 427"
+      }
+    },
+    {
+      "name": "Retro Car Lover",
+      "description": "Finish the event STOCK AROUND THE CLOCK without collision",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "CADILLAC",
+        "model": "ELDORADO BROUGHAM"
+      }
+    },
+    {
+      "name": "Retro Caretaker",
+      "description": "Finish the event BACK IN TIME without collision",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "CADILLAC",
+        "model": "ELDORADO BROUGHAM"
+      }
+    },
+    {
+      "name": "Retro Wrestler",
+      "description": "Collide 10 times with your opponents driving a demolition car in the event STOCK AROUND THE CLOCK",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Retro Stroll",
+      "description": "Finish the event MUSTANG SALLY in less than 3:15min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG BOSS 429"
+      }
+    },
+    {
+      "name": "Retro Mudracer",
+      "description": "Drive 1000m on dirt roads above 175km/h in the event GET DIRT ON IT",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "Fairlady Z 432 (PS30) (Rally Edition)"
+      }
+    },
+    {
+      "name": "Retro Night Rider",
+      "description": "Drive for 8min in freedrive by night ",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "PONTIAC",
+        "model": "FIREBIRD T/A"
+      }
+    },
+    {
+      "name": "Retro Drifter",
+      "description": "Drift 5 times with a CLASSIC vehicle and the ABS switched off in the event STOCK AROUND THE CLOCK",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Retro Warriors",
+      "description": "Complete the event VINTAGE SHOWDOWN in a Crew of vehicles",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Retro Speedster",
+      "description": "Drive for 5sec straight above 250km/h without using nitro",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "SHELBY",
+        "model": "COBRA 427"
+      }
+    },
+    {
+      "name": "Retro Level",
+      "description": "Win any event with the max Perf Level",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "SHELBY",
+        "model": "COBRA 427"
+      }
+    },
+    {
+      "name": "Retro Nitro",
+      "description": "Empty your entire nitro gauge at least 3 times in the event KISS ME KOMBI",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "VOLKSWAGEN",
+        "model": "KOMBI 21 Window Bus"
+      }
+    },
+    {
+      "name": "Retro Van Life",
+      "description": "Drive for 10min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "VOLKSWAGEN",
+        "model": "KOMBI 21 Window Bus"
+      }
+    },
+    {
+      "name": "Retro Spicing Up",
+      "description": "Win 2 events without using nitro while driving a CLASSIC vehicle",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Retro Machine",
+      "description": "Win 3 events without ABS while driving a CLASSIC vehicle",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Retro Gang Spirit",
+      "description": "Drive 5km in a Crew Formation with a least 2 CLASSIC vehicle",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Retro Expert",
+      "description": "Equip a visual part on 3 vehicles",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Retro Texas",
+      "description": "Find all the Retro Gas Pump collectibles located near gas stations",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 27
+      }
+    }
+  ]
+}

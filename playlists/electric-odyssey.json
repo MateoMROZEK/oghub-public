@@ -1,0 +1,310 @@
+{
+  "playlist": {
+    "name": "Electric Odyssey",
+    "slug": "electric-odyssey",
+    "image": "playlists/bg/electric-odyssey.jpg",
+    "icon": "playlists/icons/electric-odyssey.png",
+    "themes": [1, 3, 4, 6],
+    "isLegagy": false,
+    "release": "11/09/2023",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "E-Skilled",
+      "description": "Perform 50 OVERTAJE WITHOUT COLLISION in a GRAND RACE with an ELECTRIC VEHICLE",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "E-Spin",
+      "description": "Drive from the TURTLE BAY RESORT to the AULINAII RESORT",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LOTUS",
+        "model": "EVIJA Pure Edition"
+      }
+    },
+    {
+      "name": "E-lectric Mood",
+      "description": "Reach a speed of 350km/h during a STORM in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LOTUS",
+        "model": "EVIJA Pure Edition"
+      }
+    },
+    {
+      "name": "E-Leader",
+      "description": "Drive for 1min STRAIGHT in 1ST POSITION in the event PIECE OF E-STORY",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LOTUS",
+        "model": "EVIJA Pure Edition"
+      }
+    },
+    {
+      "name": "Full E-Charge",
+      "description": "Empty your ENTIRE NITRO GAUGE 3 TIMES in the event MO x POWA (Rule the Streets)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LOTUS",
+        "model": "EVIJA Pure Edition"
+      }
+    },
+    {
+      "name": "E-Pristine",
+      "description": "Finish the event LOTUS E-XPRESS WITHOUT COLLISION",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LOTUS",
+        "model": "EVIJA Pure Edition"
+      }
+    },
+    {
+      "name": "E-Storm",
+      "description": "Perform 10 NEAR MISS during a STORM in the event LOTUS E-XPRESS",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LOTUS",
+        "model": "EVIJA Pure Edition"
+      }
+    },
+    {
+      "name": "E-Virtuose",
+      "description": "Complete 5 SLALOM Feats WITHOUT COLLISION",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PORSCHE",
+        "model": "TAYCAN TURBO S"
+      }
+    },
+    {
+      "name": "Clean E-nergy",
+      "description": "Drive from the WAIMEA wind turbines to the WAIPIO FIELDS south wind turbines WITHOUT COLLISION",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PORSCHE",
+        "model": "TAYCAN TURBO S"
+      }
+    },
+    {
+      "name": "E-xtreme Velocity",
+      "description": "Finish the event PORSCHE x E-XPRESS in less than 5min WITHOUT USING NITRO",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PORSCHE",
+        "model": "TAYCAN TURBO S"
+      }
+    },
+    {
+      "name": "E-Careful!",
+      "description": "Finish the event PORSCHE E-XPRESS WITHOUT COLLISION",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PORSCHE",
+        "model": "TAYCAN TURBO S"
+      }
+    },
+    {
+      "name": "E-Legend",
+      "description": "Get a PERFECT CLEAN DRIVING score in the event 911 LEGENDS (911 Legacy: A Porsche Story)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PORSCHE",
+        "model": "TAYCAN TURBO S"
+      }
+    },
+    {
+      "name": "E-Snake",
+      "description": "Complete 5 SLALOM Feats WITHOUT COLLISION",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "GMC",
+        "model": "HUMMER EV"
+      }
+    },
+    {
+      "name": "E-Rampage",
+      "description": "Break 50 OBJECTS during a STORM in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "GMC",
+        "model": "HUMMER EV"
+      }
+    },
+    {
+      "name": "E-Adventurer",
+      "description": "Win the event OFF-ROAD ISLAND (Off-Roading Addict)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "GMC",
+        "model": "HUMMER EV"
+      }
+    },
+    {
+      "name": "E-Caretaker",
+      "description": "Finish the event HUMMER E-XPRESS WITHOUT COLLISION and during a STORM",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "GMC",
+        "model": "HUMMER EV"
+      }
+    },
+    {
+      "name": "E-ruption",
+      "description": "Visit the MAUNA PELE NUNUI CRATER top in FREEDRIVE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "VOLKSWAGEN",
+        "model": "ID. Buggy"
+      }
+    },
+    {
+      "name": "E-Gold Digger",
+      "description": "Open 5 TREASURE boxes",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "VOLKSWAGEN",
+        "model": "ID. Buggy"
+      }
+    },
+    {
+      "name": "Volkswagen E-xpress",
+      "description": "Finish the event HUMMER E-XPRESS in less than 3:15min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "VOLKSWAGEN",
+        "model": "ID. Buggy"
+      }
+    },
+    {
+      "name": "E-mmaculate Victory",
+      "description": "Win the event FINAL E-VENT WITHOUT USING NITRO",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "E-xtreme Driving",
+      "description": "Perform 50 NEAR MISS in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "LOTUS",
+        "model": "EVIJA Pure Edition"
+      }
+    },
+    {
+      "name": "E-Roadie",
+      "description": "Drive 15km on ASPHALT in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "LOTUS",
+        "model": "EVIJA Pure Edition"
+      }
+    },
+    {
+      "name": "E-Top Driver",
+      "description": "Reach the TOP 15 of a GRAND RACE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "E-Party",
+      "description": "Complete a GRAND RACE with an ELECTRIC VEHICLE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "E-Challenger",
+      "description": "Play 5 SUMMIT CONTEST event with an ELECTRIC VEHICLE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "E-nergy",
+      "description": "Find all the LIGHTNING COLLECTIBLES located near ENERGY PRODUCTION SITES",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 8
+      }
+    }
+  ]
+}

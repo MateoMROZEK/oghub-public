@@ -1,0 +1,22 @@
+{
+  "playlist": {
+    "name": "Street Mastery Main Stage",
+    "slug": "street-mastery-main-stage",
+    "image": "playlists/bg/street-mastery-main-stage.jpg",
+    "icon": "playlists/icons/main-stage-legacy.png",
+    "themes": [9],
+    "isLegagy": true,
+    "release": "N/A",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "CHEVROLET 3100 Big-Block Edition"
+      },
+      "requirement": {}
+    }
+  ]
+}

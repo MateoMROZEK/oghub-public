@@ -1,0 +1,298 @@
+{
+  "playlist": {
+    "name": "Motorsports",
+    "slug": "motorsports",
+    "image": "playlists/bg/motorsports.jpg",
+    "icon": "playlists/icons/motorsports.png",
+    "themes": [2, 6],
+    "isLegagy": false,
+    "release": "11/09/2023",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Alpha Speedster",
+      "description": "Complete 5 SPEEDTRAP Feats 175.0km/h above the objective",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "RED BULL",
+        "model": "RB18"
+      }
+    },
+    {
+      "name": "Alpha Runaway",
+      "description": "Complete 10 ESCAPE Feats",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "RED BULL",
+        "model": "RB18"
+      }
+    },
+    {
+      "name": "Alpha Sprint",
+      "description": "Drive from the KAENA POINT to the AULINAII RESORT in less than 3 min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "RED BULL",
+        "model": "RB18"
+      }
+    },
+    {
+      "name": "Alpha Unchained",
+      "description": "Drive 10km on ASPHALT in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "RED BULL",
+        "model": "RB18"
+      }
+    },
+    {
+      "name": "Alpha Strategy",
+      "description": "Drive for 2min in slipstream in the event ACT: 6 ALPHA RISING",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "RED BULL",
+        "model": "RB18"
+      }
+    },
+    {
+      "name": "Alpha Caretaker",
+      "description": "Get a PERFECT CLEAN DRIVING score in the event ACT2: ALPHA GRAND PRIX",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "RED BULL",
+        "model": "RB18"
+      }
+    },
+    {
+      "name": "Alpha Speed",
+      "description": "Reach a 400km/h speed in the event ACT 5: ACURA DERBY",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "RED BULL",
+        "model": "RB18"
+      }
+    },
+    {
+      "name": "Alpha Overtaking",
+      "description": "Perform 50 OVERTAKE WITHOUT COLLISION",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "RED BULL",
+        "model": "RB18"
+      }
+    },
+    {
+      "name": "Alpha Superpole",
+      "description": "Reach the TOP 15 of a GRAND RACE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Alpha Custom",
+      "description": "Equip 1 LIVERY",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Alpha Near Miss",
+      "description": "Perform 50 NEAR MISS in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT AGP R-07"
+      }
+    },
+    {
+      "name": "Alpha Pace",
+      "description": "Drive 5km on ASPHALT above 300km/h in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT AGP R-07"
+      }
+    },
+    {
+      "name": "Alpha Position",
+      "description": "Drive for 2min straight in 1ST position in the event ACT 7: 24H OF HANAUMA",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT AGP R-07"
+      }
+    },
+    {
+      "name": "Alpha Story",
+      "description": "WIN the event 911 GRAND PRIX ub kess tgab 2:45min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "ESSENZA SCV12"
+      }
+    },
+    {
+      "name": "Alpha Driver",
+      "description": "Perform 50 OVERTAKE WITHOUT COLLISION in a GRABD RACE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT AGP R-07"
+      }
+    },
+    {
+      "name": "Alpha Bully",
+      "description": "WIN the event ACT 5: ACURA DERBY in less than 8:15min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "ESSENZA SCV12"
+      }
+    },
+    {
+      "name": "Alpha Essenza",
+      "description": "Finish the event OPENING ACT during the afternoon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "ESSENZA SCV12"
+      }
+    },
+    {
+      "name": "Alpha Retro Racer",
+      "description": "Drive a vehicle that has 1 VISUAL PART equipped",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "365 GTB4 COMPETIZIONE"
+      }
+    },
+    {
+      "name": "Alpha Level",
+      "description": "Drive for 20min with any ALPHA GP vehicle reaching the MAX PERF LEVEL",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Alpha Team",
+      "description": "Drive for 15min in a CREW of only ALPHA GP vehicles in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Alpha Addict",
+      "description": "Play 5 SUMMIT CONTEST activities with any ALPHA GP vehicle",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Alpha Endurance",
+      "description": "Drive 30km on the HAUNAMA RACETRACK in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Alpha Champion",
+      "description": "WIN the MOTORSPORT CHAMPIONSHIP",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Alpha By Night",
+      "description": "Complete the event ACT 3 by night",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Alpha Racing",
+      "description": "Finish the event GP GLORY (Bike Lovers) with any RACING vehicle",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Alpha Trophy",
+      "description": "Find all the TROPHY COLLECTIBLES located near the HAUNAUMA RACETRACK",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 5
+      }
+    }
+  ]
+}

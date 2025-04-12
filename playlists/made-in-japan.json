@@ -1,0 +1,301 @@
+{
+  "playlist": {
+    "name": "Made in Japan",
+    "slug": "made-in-japan",
+    "image": "playlists/bg/made-in-japan.jpg",
+    "icon": "playlists/icons/made_in_japan_vol1.png",
+    "themes": [2, 5],
+    "isLegagy": false,
+    "release": "11/09/2023",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Nihon No Top Driver",
+      "description": "Reach the TOP 15 in a GRAND RACE",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Nihon No Spirit",
+      "description": "Drive from the MADE IN JAPAN CONTAINER to the JAPANESE TEMPLE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "SUPRA Ryujin Edition"
+      }
+    },
+    {
+      "name": "Nihon No Senpai",
+      "description": "Reach a 300km/h speed on the HIGHWAY by night",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "SUPRA Ryujin Edition"
+      }
+    },
+    {
+      "name": "Nihon No Speedway",
+      "description": "Drive for 10min on the HIGHWAY in FREEDRIVE by night",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "SUPRA Ryujin Edition"
+      }
+    },
+    {
+      "name": "Nihon No Kohai",
+      "description": "Reach a 200/h speed inside the CONVENTION CENTER in FREEDRIVE by night",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "SUPRA Ryujin Edition"
+      }
+    },
+    {
+      "name": "Nihon No Style",
+      "description": "Drive from the JAPANESE TEMPLATE to HONOLULU by night",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "SUPRA Ryujin Edition"
+      }
+    },
+    {
+      "name": "Nihon No Jaunt",
+      "description": "Drive from the OAHU AIRPORT to the MEMORIAL NATATORIUM by night",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "SUPRA Ryujin Edition"
+      }
+    },
+    {
+      "name": "Nihon No Hashiriya",
+      "description": "Drive for 5min above 200km/h in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "SUPRA Ryujin Edition"
+      }
+    },
+    {
+      "name": "Nihon No Top Dogs",
+      "description": "Reach the TOP RANKING in the event KYUSHA SPIRIT in a CREW",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "SUPRA Ryujin Edition"
+      }
+    },
+    {
+      "name": "Nihon No Blast",
+      "description": "Perform 10 OVERTAKE WITHOUT COLLISION in the event KYUSHA SPIRIT",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "SUPRA Ryujin Edition"
+      }
+    },
+    {
+      "name": "Nihon No Runaway",
+      "description": "Complete 5 ESCAPE Feats by night",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HONDA",
+        "model": "S2000 ULTIMATE Ed."
+      }
+    },
+    {
+      "name": "Nihon No Gust",
+      "description": "Perform 25 NEAR MISS on the HIGHWAY in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HONDA",
+        "model": "S2000 ULTIMATE Ed."
+      }
+    },
+    {
+      "name": "Nihon No Gold Digger",
+      "description": "Open 5 TREASURE boxes by night with a JAPANESE CAR",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Nihon No Rubber Burner",
+      "description": "Perform a DONUT in the event WAGAN SPIRIT and win the race by night",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HONDA",
+        "model": "S2000 ULTIMATE Ed."
+      }
+    },
+    {
+      "name": "Nihon No Yamabiko",
+      "description": "WIN the event TOUGE SPIRIT with CUSTOM TIRES equipped by night",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "RX7 (Drift Ed.)"
+      }
+    },
+    {
+      "name": "Nihon No Vice",
+      "description": "Reach the MAX COMBO MULTIPLIER (x50) while drifting in the event EBISU STYLE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "RX7 (Dirft Ed.)"
+      }
+    },
+    {
+      "name": "Nihon No Kaiju",
+      "description": "Reach a 400km/h speed in the event ZEROYON STYLE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "SKYLINE GT-R (R34)"
+      }
+    },
+    {
+      "name": "Nihon No Drag Master",
+      "description": "Get perfect GEAR SHIFTS, perfect BURN and perfect STARTS in every run of the eventZEROYON STYLE without using the retry feature",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Nihon No Expert",
+      "description": "Complete 5 ESCAPE Feats by night",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "RX7"
+      }
+    },
+    {
+      "name": "Nihon No Clan",
+      "description": "Drive 10km with a VANITY equipped in a CREW in a JAPANESE CAR",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Nihon No Weapon X",
+      "description": "Reach a 300km/h speed in the event KANJO STYLE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MITSUBISHI",
+        "model": "LANCER EVOLUTION X Black Knight Edition"
+      }
+    },
+    {
+      "name": "Nihon No Street Gang",
+      "description": "Win 3 RACES with a VANITY equipped in a CREW with a JAPANESE CAR",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Nihon No Club",
+      "description": "Drive for 10min in a CREW FORMATION of JAPANESE CARS only in FREEDRIVE by night",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Nihon No Glows",
+      "description": "Own 1 UNDERGLOW",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Nihon No Attitude",
+      "description": "Own 1 NITRO vanity",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Nihon No Fire",
+      "description": "Find al the DRAGON COLLECTIBLES located near JAPANESE TEMPLES",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 5
+      }
+    }
+  ]
+}

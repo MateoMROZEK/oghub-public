@@ -1,0 +1,310 @@
+{
+  "playlist": {
+    "name": "Drift Experience",
+    "slug": "drift-experience",
+    "image": "playlists/bg/drift-experience.jpg",
+    "icon": "playlists/icons/drift_vol1.png",
+    "themes": [2, 8],
+    "isLegagy": false,
+    "release": "11/09/2023",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Burning Bird",
+      "description": "Spend 15sec in the air in freedrive",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "370Z NISMO (Drift)"
+      }
+    },
+    {
+      "name": "Burning Turtle",
+      "description": "Drive under the TURTLE ROCK in freedrive by night",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "GR SUPRA (Drift)"
+      }
+    },
+    {
+      "name": "Burning Expert",
+      "description": "Complete 5 SLALOMS Feats",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "GR SUPRA (Drift)"
+      }
+    },
+    {
+      "name": "Burning Escape",
+      "description": "Complete 5 ESCAPE Feats",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "GR SUPRA (Drift)"
+      }
+    },
+    {
+      "name": "Burning Journey",
+      "description": "Drive from the MOTORSPORT GROUNDS to the TURTLE BAY RESORT in less than 8min",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "GR SUPRA (Drift)"
+      }
+    },
+    {
+      "name": "Burning Spirit",
+      "description": "Win the event TOUGE SPIRIT (Made in Japan)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "GR SUPRA (Drift)"
+      }
+    },
+    {
+      "name": "Burning Donut",
+      "description": "Perform a DONUT on top of the CONVENTION CENTER in freedrive",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "370Z NISMO (Drift)"
+      }
+    },
+    {
+      "name": "Burning Leader",
+      "description": "Drive for 3min in 1ST POSITION in the event DRIFT EMPEROR",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "370Z NISMO (Drift)"
+      }
+    },
+    {
+      "name": "Burning Desert",
+      "description": "Empty your entire nitro gauge 3 times in the event DIFFRACTED BLUE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "370Z NISMO (Drift)"
+      }
+    },
+    {
+      "name": "Burning Drift",
+      "description": "Reach the max combo multiplier (x50) in the event INITIAL DRILL",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "370Z NISMO (Drift)"
+      }
+    },
+    {
+      "name": "Burning Turbines",
+      "description": "Accumulate 300 000 in the event WIND SLIDER",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "370Z NISMO (Drift)"
+      }
+    },
+    {
+      "name": "Burning Spiral",
+      "description": "Accumulate 300 000 in the event DREAM SPIRAL",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "370Z NISMO (Drift)"
+      }
+    },
+    {
+      "name": "Burning Kaiju",
+      "description": "Finish the event SKYLINE JUKU in less than 4min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "MITSUBISHI",
+        "model": "LANCER EVOLUTION X (Drift)"
+      }
+    },
+    {
+      "name": "Burning Top Drift",
+      "description": "Reach the max combo multiplier (x50) in the event WIND SLIDER",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "MITSUBISHI",
+        "model": "LANCER EVOLUTION X (Drift)"
+      }
+    },
+    {
+      "name": "Burning Shadow",
+      "description": "Break 50 objects in the event SILVER SHADOW",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "MITSUBISHI",
+        "model": "LANCER EVOLUTION X (Drift)"
+      }
+    },
+    {
+      "name": "Burning Edge",
+      "description": "Accumulate 200 000 in the event INITIAL DRILL",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "MITSUBISHI",
+        "model": "LANCER EVOLUTION X (Drift)"
+      }
+    },
+    {
+      "name": "Burning Call",
+      "description": "Perform 30 NEAR MISS in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "GR SUPRA (Drift)"
+      }
+    },
+    {
+      "name": "Burning Skill",
+      "description": "Drift for 30s straight in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "GR SUPRA (Drift)"
+      }
+    },
+    {
+      "name": "Burning Sand",
+      "description": "Get 1000 drifting points going off-road in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "GR SUPRA (Drift)"
+      }
+    },
+    {
+      "name": "Burning Freedom",
+      "description": "Drive 15km in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "GR SUPRA (Drift)"
+      }
+    },
+    {
+      "name": "Burning Roads",
+      "description": "Get 2000 drifting points on dirft roads in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "GR SUPRA (Drift)"
+      }
+    },
+    {
+      "name": "Burning Dragon",
+      "description": "Accumulate 100 000 in the event EBISU STYLE (Made in Japan)",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "GR SUPRA (Drift)"
+      }
+    },
+    {
+      "name": "Burning Powa",
+      "description": "Reach 100 000 in the event SCREW x DRIFTER (Rule the Streets)",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "GR SUPRA (Drift)"
+      }
+    },
+    {
+      "name": "Burning Style",
+      "description": "Equip 1 underglow on any drift vehicle",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Burning Rubber",
+      "description": "Find all the Burning whell collectibles located on roundabouts",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 13
+      }
+    }
+  ]
+}

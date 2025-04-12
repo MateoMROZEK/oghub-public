@@ -1,0 +1,30 @@
+{
+  "playlist": {
+    "name": "Restomod Exhibition Main Stage Legacy",
+    "slug": "restomod-exhibition-main-stage",
+    "image": "playlists/bg/restomod-exhibition-main-stage.jpg",
+    "icon": "playlists/icons/main-stage-legacy.png",
+    "themes": [9],
+    "isLegagy": true,
+    "release": "11/12/2024",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete 3 events for get Vitage Garage (Dashboard Car Item)",
+      "rewards": {
+        "car": "Vitage Garage (Dashboard Car Item)"
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "DODGE CHALLENGER R/T Riff Edition"
+      },
+      "requirement": {}
+    }
+  ]
+}

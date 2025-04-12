@@ -1,0 +1,22 @@
+{
+  "playlist": {
+    "name": "European Main Stage Legacy",
+    "slug": "european-main-stage",
+    "image": "playlists/bg/no-item.jpg",
+    "icon": "playlists/icons/main-stage-legacy.png",
+    "themes": [9],
+    "isLegagy": true,
+    "release": "13/03/2024",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "PAGANI HUAYRA Rubicone Edizione"
+      },
+      "requirement": {}
+    }
+  ]
+}

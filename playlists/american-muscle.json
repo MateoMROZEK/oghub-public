@@ -1,0 +1,301 @@
+{
+  "playlist": {
+    "name": "American Muscle",
+    "slug": "american-muscle",
+    "image": "playlists/bg/american-muscle.jpg",
+    "icon": "playlists/icons/american_muscle.png",
+    "themes": [1],
+    "isLegagy": false,
+    "release": "11/09/2023",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "American Herd",
+      "description": "Drive for 10min a Crew Formation of MUSCLE vehicles including at least 2 muscle cars, in freedrive.",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "American Close Call",
+      "description": "Perform 50 NEAR MISS",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG GT FASTBACK"
+      }
+    },
+    {
+      "name": "American Vacation",
+      "description": "Visit the EWA golf course at sunrise",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG SHELBY GT500 Tribute Edition"
+      }
+    },
+    {
+      "name": "American Cruiser",
+      "description": "Drive from MA'AKUA BLACK BEACH to BARBERS POINT HARBOR",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG SHELBY GT500 Tribute Edition"
+      }
+    },
+    {
+      "name": "American Cheetah",
+      "description": "Reach a 300km/h speed during the event RENO ROAR",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG SHELBY GT500 Tribute Edition"
+      }
+    },
+    {
+      "name": "American Top Dog",
+      "description": "Reach the top 15 in a GRAND RACE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "FORD ???",
+        "model": "MUSTANG SHELBY GT500 Tribute Edition ???"
+      }
+    },
+    {
+      "name": "American Runaway",
+      "description": "Complete 10 ESCAPE Feats.",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG GT FASTBACK"
+      }
+    },
+    {
+      "name": "American Boost",
+      "description": "Empty your entire nitro gauge 3 times in the event JACKSON V8",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG GT FASTBACK"
+      }
+    },
+    {
+      "name": "American Spin",
+      "description": "Drive from WAHIAWA to FORD ISLAND",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG GT (Monster Truck Edition)"
+      }
+    },
+    {
+      "name": "American Showman",
+      "description": "Complete the event ORLANDO SMACKDOWN in less than 3:45 min.",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG GT (Monster Truck Edition)"
+      }
+    },
+    {
+      "name": "American Rubber",
+      "description": "Equip 1 tire vanity on a vehicle",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "American Buffalo",
+      "description": "Reach a speed of 250km/h in freedrive",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG GT (Rally Raid Edition)"
+      }
+    },
+    {
+      "name": "American Offroader",
+      "description": "Drive 15km offroad in freedrive",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG GT (Rally Raid Edition)"
+      }
+    },
+    {
+      "name": "American Flight",
+      "description": "Spend 1min in the air in freedrive",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG GT (Rally Raid Edition)"
+      }
+    },
+    {
+      "name": "American Leader",
+      "description": "Spend 2min straight in 1ST position in the event TALLHASSEE MELEE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG GT (Rally Raid Edition)"
+      }
+    },
+    {
+      "name": "American Gust",
+      "description": "Perform 5 OVERTAKE without in the event DETROIT FINISHER",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG BOSS 429"
+      }
+    },
+    {
+      "name": "American Maestro",
+      "description": "Use CLEAN DRIVING in the event DENVER RWD with a MUSCLE car",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "American Rocket",
+      "description": "Reach a speed of 350km/h in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG SHELBY GT500 Tribute Edition"
+      }
+    },
+    {
+      "name": "American Run",
+      "description": "Complete 10 ESCAPE Feats.",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG SHELBY GT500 Tribute Edition"
+      }
+    },
+    {
+      "name": "American Snake",
+      "description": "Complete 5 SLALOM Feats 1000 PTS above the objective",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG SHELBY GT500 Tribute Edition"
+      }
+    },
+    {
+      "name": "American Speedster",
+      "description": "Drive 15km on asphalt in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG SHELBY GT500 Tribute Edition"
+      }
+    },
+    {
+      "name": "American Speed",
+      "description": "Drive above 200km/h for 30sec straight",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG GT FASTBACK"
+      }
+    },
+    {
+      "name": "American Monster",
+      "description": "Complete 3 SPEEDTRAP Feats",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG GT (Monster Truck Edition)"
+      }
+    },
+    {
+      "name": "American Blast",
+      "description": "Perform 5 OVERTAKE without in a GRA?D RACE with a MUSCLE vehicle",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "American Stars",
+      "description": "Find all the US Stars collectibles located near American Flags",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 11
+      }
+    }
+  ]
+}

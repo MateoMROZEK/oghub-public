@@ -1,0 +1,283 @@
+{
+  "playlist": {
+    "name": "Gymkhana Grid Masters",
+    "slug": "gymkhana-grid-masters",
+    "image": "playlists/bg/gymkhana-grid-masters.jpg",
+    "icon": "playlists/icons/grid_masters.png",
+    "themes": [1, 3, 5, 7],
+    "isLegagy": false,
+    "release": "05/12/2023",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Gymkhana Trick",
+      "description": "Perform GRIND for 25sec in the GYKMHANA GRID PARK",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Gymkhana Heights",
+      "description": "Spend 1min in the air after a jump in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HOONIGAN",
+        "model": "FORD HOONIGAN MUSTANG"
+      }
+    },
+    {
+      "name": "Gymkhana Caretaker",
+      "description": "Get a perfect CLEAN DRIVING score in the event GRID PARADISE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Gymkhana Skill",
+      "description": "Perform 10 PRECISION in the GYMKHANA GRID PARK in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Gymkhana 360",
+      "description": "Perform 10 DONUT at the MAUNA PELE OBSERVATORY in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Gymkhana Troublemaker",
+      "description": "Perform 30 PRECISION STRIKE in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HOONIGAN",
+        "model": "MITSUBISHI LANCER EVOLUTION IX"
+      }
+    },
+    {
+      "name": "Gymkhana Astra",
+      "description": "Perform 2 NO GRAVITY on the BUSINESS PLAZA ROOFTOP",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Gymkhana Sôram",
+      "description": "Perform 5 GROUND SPIN in the event SCOTTO VS SCOTTO  with the Gymkhana modifier enabled",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Gymkhana Expert",
+      "description": "Win the event GYMKHANA MOTORFEST with a perfect GYMKHANA score",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Gymkhana Cruiser",
+      "description": "Drive 15km on asphalt in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HOONIGAN",
+        "model": "MITSUBISHI LANCER EVOLUTION IX"
+      }
+    },
+    {
+      "name": "Gymkhana Addict",
+      "description": "Spend 10min in the GYMKHANA GRID PARK",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HOONIGAN",
+        "model": "FORD HOONIGAN MUSTANG"
+      }
+    },
+    {
+      "name": "Gymkhana Volts",
+      "description": "Finish 3 GRAND RACE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Gymkhana Mark",
+      "description": "Find all the ROCKET collectibles in the GYMKHANA GRID PARK",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 7
+      }
+    },
+    {
+      "name": "Gymkhana Attitude",
+      "description": "Equip a TIRE VANITY",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Gymkhana Airlines",
+      "description": "Perform 5 PERFECT LANDING in the GYMKHANA GRID PARK",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Gymkhana Dogs",
+      "description": "Get a maximum score with the GYMKHANA MODIFIER enabled in a Crew of 2",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Gymkhana Dock",
+      "description": "Win the event RACEHANA",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HOONIGAN",
+        "model": "MITSUBISHI LANCER EVOLUTION IX"
+      }
+    },
+    {
+      "name": "Gymkhana DNA",
+      "description": "Perform 5 DANGER in VOLKHANA",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HOONIGAN",
+        "model": "AUDI S1 e-tron quattro Hoonitron"
+      }
+    },
+    {
+      "name": "Gymkhana Vice",
+      "description": "Perform 50 PRECISION STRIKE in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HOONIGAN",
+        "model": "AUDI S1 e-tron quattro Hoonitron"
+      }
+    },
+    {
+      "name": "Gymkhana Speed",
+      "description": "Reach a speed of 350km/h in the GYMKHANA GRID PARK",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HOONIGAN",
+        "model": "AUDI S1 e-tron quattro Hoonitron"
+      }
+    },
+    {
+      "name": "Gymkhana Demon",
+      "description": "Perform 10 PRECISION in the event VOLKHANA",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HOONIGAN",
+        "model": "FORD HOONIGAN MUSTANG"
+      }
+    },
+    {
+      "name": "Gymkhana Crew",
+      "description": "Win the event HOONIGAN BURNYARD in a Crew of 2 or more",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Gymkhana Tire Slayer",
+      "description": "Perform 50 CLOSE DRIFT in HONOLULU",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Gymkhana Run",
+      "description": "Win the event ROCKET SCIENCE in less than 5min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HOONIGAN",
+        "model": "FORD HOONIGAN MUSTANG"
+      }
+    },
+    {
+      "name": "Gymkhana Jaunt",
+      "description": "Drive from the OAHU AIRPORT to GYMKHANA GRID PARK in less than 5min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HOONIGAN",
+        "model": "FORD HOONIGAN MUSTANG"
+      }
+    },
+    {
+      "name": "Gymkhana Demolition",
+      "description": "Perform 5 CLOSE DRIFT around the WRECKING BALL in the GYMKHANA GRID PARK",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    }
+  ]
+}

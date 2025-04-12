@@ -1,0 +1,298 @@
+{
+  "playlist": {
+    "name": "Bike Lovers",
+    "slug": "bike-lovers",
+    "image": "playlists/bg/bike-lovers.jpg",
+    "icon": "playlists/icons/bike_lovers.png",
+    "themes": [2, 4, 6, 8],
+    "isLegagy": false,
+    "release": "11/09/2023",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Rider Stroll",
+      "description": "Drive from WAHIAWA to HALEIWA",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "HONDA",
+        "model": "CB1000R NEO SPORTS CAFE"
+      }
+    },
+    {
+      "name": "Rider Speed",
+      "description": "Complete 5 SPEEDTRAP Feats 100.0km/h above the objective",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "HONDA",
+        "model": "CB1000R NEO SPORTS CAFE"
+      }
+    },
+    {
+      "name": "Rider Tourism",
+      "description": "Drive from HALEIWA to KANEOHE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "HONDA",
+        "model": "CB1000R NEO SPORTS CAFE"
+      }
+    },
+    {
+      "name": "Rider Stunt",
+      "description": "Peform 5 BACKFLIP with any MOTOCROSS in freedrive",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Rider Close Call",
+      "description": "Perform 10 NEAR MISS in the event ROADIE RUMBLE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "HONDA",
+        "model": "CB1000R NEO SPORTS CAFE"
+      }
+    },
+    {
+      "name": "Rider Treasure",
+      "description": "Open 5 TREASURES boxes",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "HONDA",
+        "model": "CB1000R NEO SPORTS CAFE"
+      }
+    },
+    {
+      "name": "Rider Sightseing",
+      "description": "Drive from KANEOHE to HONOLULU",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "HARLEY-DAVIDSON",
+        "model": "IRON 883"
+      }
+    },
+    {
+      "name": "Rider Spirit",
+      "description": "Drive for 30min in FREEDRIVE",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {
+        "brand": "HARLEY-DAVIDSON",
+        "model": "IRON 883"
+      }
+    },
+    {
+      "name": "Rider Club",
+      "description": "Visit the MAUNA PELE OBSERVATIORY with an ALL BIKE CREW in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Rider Dirty Skills",
+      "description": "Complete 5 SLALOM Feats on a MOTOCROSS",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Rider Acrobatics",
+      "description": "Perform 3 FRONTFLIP in ANY EVENT on a MOTOCROSS",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Rider Skills",
+      "description": "Complete 5 SLALOM Feats",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "RC16 Red Bull Team"
+      }
+    },
+    {
+      "name": "Rider Cruise",
+      "description": "Drive from HONOLULU to WAHIAWA in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "RC16 Red Bull Team"
+      }
+    },
+    {
+      "name": "Rider Mastery",
+      "description": "GET a PERFECT CLEAN DRIVING score in the event HECTIC HANAUMA",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "RC16 Red Bull Team"
+      }
+    },
+    {
+      "name": "Rider Challenge",
+      "description": "Win the event HALEIWA HEYDAY in less than 3:30min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "HONDA",
+        "model": "CB1000R NEO SPORTS CAFE"
+      }
+    },
+    {
+      "name": "Rider Burn",
+      "description": "Perform a BURN during a RACE and WIN it",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "HONDA",
+        "model": "CB1000R NEO SPORTS CAFE"
+      }
+    },
+    {
+      "name": "Rider Blast",
+      "description": "Perform 50 OVERTAKE WITHOUT COLLISION in a GRAND RACE",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {
+        "brand": "HONDA",
+        "model": "CB1000R NEO SPORTS CAFE"
+      }
+    },
+    {
+      "name": "Rider Steez",
+      "description": "Drive 20km with a BIKE in a CREW FORMATION in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Rider Gust",
+      "description": "Perform 50 NEAR MISS at 250km/h in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HONDA",
+        "model": "CB1000R NEO SPORTS CAFE"
+      }
+    },
+    {
+      "name": "Rider Addiction",
+      "description": "Finish 5 SUMMIT CONTEST activites with a BIKE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Rider Attitude",
+      "description": "Perform a WHEELIE for 20sec with a BIKE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Rider Endurance",
+      "description": "Drive 50km on ASPHALT in EVENTS on a BIKE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Rider Rider",
+      "description": "Win 3 EVENTS from the MOTORSPORTS playlist",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "RC16 Red Bull Team"
+      }
+    },
+    {
+      "name": "Rider Flights",
+      "description": "Spend 1m40 in the air in EVENTS on MOTOCROSS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Rider Gust",
+      "description": "Reach a 350km/h on the HANAUMA RACETRACK in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "RC16 Red Bull Team"
+      }
+    },
+    {
+      "name": "Rider Helmets",
+      "description": "Find all the HELMETS COLLECTIBLES located near the BIKES LOVERS EVENT TAGS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 8
+      }
+    }
+  ]
+}

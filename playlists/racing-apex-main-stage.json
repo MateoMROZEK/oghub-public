@@ -1,0 +1,22 @@
+{
+  "playlist": {
+    "name": "Racing Apex Main Stage",
+    "slug": "racing-apex-main-stage",
+    "image": "playlists/bg/no-item.jpg",
+    "icon": "playlists/icons/main-stage-legacy.png",
+    "themes": [9],
+    "isLegagy": true,
+    "release": "N/A",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "MINI COOPER S Checkered Edition (Racing Edition)"
+      },
+      "requirement": {}
+    }
+  ]
+}

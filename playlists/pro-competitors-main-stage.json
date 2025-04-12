@@ -1,0 +1,22 @@
+{
+  "playlist": {
+    "name": "Pro Competitors Main Stage",
+    "slug": "pro-competitors-main-stage",
+    "image": "playlists/bg/pro-competitors-main-stage.jpg",
+    "icon": "playlists/icons/main-stage-legacy.png",
+    "themes": [9],
+    "isLegagy": true,
+    "release": "11/09/2024",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "FORSBERG RACING NISSAN 350Z Roadster"
+      },
+      "requirement": {}
+    }
+  ]
+}

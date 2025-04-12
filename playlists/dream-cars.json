@@ -1,0 +1,283 @@
+{
+  "playlist": {
+    "name": "Dream cars",
+    "slug": "dream-cars",
+    "image": "playlists/bg/dream-cars.jpg",
+    "icon": "playlists/icons/dreamcars.png",
+    "themes": [6, 7],
+    "isLegagy": false,
+    "release": "11/09/2023",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Supercedes",
+      "description": "Drive 120.9km on ASPHALT in FREEDRIVE",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {
+        "brand": "MERCEDES-BENZ",
+        "model": "Vision EQ Silver Arrow"
+      }
+    },
+    {
+      "name": "Super Caretaker",
+      "description": "Get a PERFECT DRIVING score in the event  TRAILBLAZING FOREVER",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "MERCEDES-BENZ",
+        "model": "Vision EQ Silver Arrow"
+      }
+    },
+    {
+      "name": "Super E-volution",
+      "description": "Win the event HYPER E-VOLUTION",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "MERCEDES-BENZ",
+        "model": "Vision EQ Silver Arrow"
+      }
+    },
+    {
+      "name": "Supa Powa",
+      "description": "Complete the event MO x POWA in less than 4:30",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "MERCEDES-BENZ",
+        "model": "Vision EQ Silver Arrow"
+      }
+    },
+    {
+      "name": "Super Boosts",
+      "description": "Empty your ENTIRE NITRO GAUGE 3 TIMES in the event DREAM BUGATTIS",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "MERCEDES-BENZ",
+        "model": "Vision EQ Silver Arrow"
+      }
+    },
+    {
+      "name": "Super Massive",
+      "description": "Run in 4 GRAND RACE",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Super Driver",
+      "description": "Reach the TOP 15 in GRAND RACE",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Super Ride",
+      "description": "Drive from the ROYAL LUAU to KANEOHE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "EGOISTA"
+      }
+    },
+    {
+      "name": "Super Bull",
+      "description": "Get a PERFECT CLEAN DRIVING score in the event DREAM BULLS",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "EGOISTA"
+      }
+    },
+    {
+      "name": "Super Speed",
+      "description": "Reach a speed of 330km/h in the event Dream Duel: EGOISTA VS TERZO MILLENNIO",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "TERZO MILLENNIO"
+      }
+    },
+    {
+      "name": "Super Voiture",
+      "description": "Win the event Dream Duel: VEYRON VS NOIRE in less than 3:40min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "BUGATTI",
+        "model": "LA VOITURE NOIRE"
+      }
+    },
+    {
+      "name": "Super Club",
+      "description": "Finish the event SUPERCAR FESTIVAL in a CREW and with any HYPERCAR vehicle",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Super Racetrack",
+      "description": "Visit the HANAUMA RACETRACK",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MERCEDES-BENZ",
+        "model": "Vision EQ Silver Arrow"
+      }
+    },
+    {
+      "name": "Super Touristy",
+      "description": "Visit the TURTLE BAY RESORT in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MERCEDES-BENZ",
+        "model": "Vision EQ Silver Arrow"
+      }
+    },
+    {
+      "name": "Super Day Off",
+      "description": "Visit the AULINAII RESORT in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MERCEDES-BENZ",
+        "model": "Vision EQ Silver Arrow"
+      }
+    },
+    {
+      "name": "Super Close Call",
+      "description": "Perform 15 NEAR MISS on the HIGHWAY in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MERCEDES-BENZ",
+        "model": "Vision EQ Silver Arrow"
+      }
+    },
+    {
+      "name": "Super Virtuose",
+      "description": "Complete 5 SLALOM Feats WITHOUT COLLISION",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MERCEDES-BENZ",
+        "model": "Vision EQ Silver Arrow"
+      }
+    },
+    {
+      "name": "Super Runaway",
+      "description": "Complete 5 ESCAPE Feats",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MERCEDES-BENZ",
+        "model": "Vision EQ Silver Arrow"
+      }
+    },
+    {
+      "name": "Super Selfish",
+      "description": "Reach a speed of 340km/h in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "EGOISTA"
+      }
+    },
+    {
+      "name": "Super Sprinter",
+      "description": "Drive for 15sec straight above 300km/h in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "EGOISTA"
+      }
+    },
+    {
+      "name": "Super Squad",
+      "description": "Drive 10km in a CREW FORMATION of at least 2 HYPERCAR in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Super Velocity",
+      "description": "Complete 5 SPEEDSTRAP Feats 100.0km/h above the objective with any HYPERCAR vehicle",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Super Snake",
+      "description": "Complete 5 SLALOM Feats 2000 PTS above the objective with any HYPERCAR vehicle",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Super Shinny",
+      "description": "Find all the DIAMOND COLLECTIBLES located near LUXURY HOTELS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 5
+      }
+    }
+  ]
+}

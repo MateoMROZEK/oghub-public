@@ -1,0 +1,295 @@
+{
+  "playlist": {
+    "name": "Made in Japan Vol. 2",
+    "slug": "made-in-japan-vol-2",
+    "image": "playlists/bg/made-in-japan-vol-2.jpg",
+    "icon": "playlists/icons/made_in_japan_vol1.png",
+    "themes": [2, 5],
+    "isLegagy": false,
+    "release": "06/11/2024",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Sekai No Top Explorer",
+      "description": "Spend 1h on MAUI with ANY CAR in Freedrive",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Sekai No Hashiriya",
+      "description": "Drive from the MADE IN JAPAN CONTAINER to the JAPANESE TEMPLE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LIBERTY WALK",
+        "model": "HONDA NSX"
+      }
+    },
+    {
+      "name": "Sekai No Tourist",
+      "description": "Drive from CAR MEET to KAHULUI in less than 10min in FREEDRIVE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "LIBERTY WALK",
+        "model": "HONDA NSX"
+      }
+    },
+    {
+      "name": "Sekai No Cop",
+      "description": "Visit CHASE SQUAD HQ in Freedrive",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LIBERTY WALK",
+        "model": "HONDA NSX"
+      }
+    },
+    {
+      "name": "Sekai No Speedway",
+      "description": "Reach a 3600km/h on the KAIWI ISLETS roads in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LIBERTY WALK",
+        "model": "HONDA NSX"
+      }
+    },
+    {
+      "name": "Sekai No Valley",
+      "description": "Visit IAO LAKE by NIGHT in Freedrive",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LIBERTY WALK",
+        "model": "HONDA NSX"
+      }
+    },
+    {
+      "name": "Sekai No Gust",
+      "description": "Perform 25 NEAR MISS in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "SUPRA Ryujin Edition"
+      }
+    },
+    {
+      "name": "Sekai No Troublemaker",
+      "description": "Break 50 OBJECTS by NIGHT",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "SKYLINE GT-R (R34) High Octane Edition"
+      }
+    },
+    {
+      "name": "Sekai No Gold Digger",
+      "description": "Open 3 TREASURE BOXES by NIGHT with a CAR",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Sekai No King",
+      "description": "Win against 5 OPPONENTS in RIVAL races",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {
+        "brand": "LIBERTY WALK",
+        "model": "HONDA NSX"
+      }
+    },
+    {
+      "name": "Sekai No Jaga",
+      "description": "Win against the DIAMOND FANGS CHIEF in a RIVAL race in less than 5min",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "LIBERTY WALK",
+        "model": "HONDA NSX"
+      }
+    },
+    {
+      "name": "Sekai No Tiguru",
+      "description": "Win against the QUICKWHISKERS CHIEF in a RIVAL race by NIGHT",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "LIBERTY WALK",
+        "model": "HONDA NSX"
+      }
+    },
+    {
+      "name": "Sekai No Pansa",
+      "description": "Win against the NIGHTSTALKERS CHIEF in a RIVAL race WITHOUT USING NITRO",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "LIBERTY WALK",
+        "model": "HONDA NSX"
+      }
+    },
+    {
+      "name": "Sekai No Kuikkushiruba",
+      "description": "Reach 250km/h and beat SILVER in a RIVAL race",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "SUPRA Ryujin Edition"
+      }
+    },
+    {
+      "name": "Sekai No Snake",
+      "description": "Complete 3 SLALOM Feats by NIGHT",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "SUPRA Ryujin Edition"
+      }
+    },
+    {
+      "name": "Sekai No Yamabiko",
+      "description": "Reach a 250km/h speed in the event TOUGE SPIRIT (Made In Japan Vol.1)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "SUPRA Ryujin Edition"
+      }
+    },
+    {
+      "name": "Sekai No Kaiju",
+      "description": "Reach a 400km/h speed in the event ZEROYON STYLE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "SKYLINE GT-R (R34)"
+      }
+    },
+    {
+      "name": "Sekai No Puntos",
+      "description": "Use NITRO FULL TO EMPTY 3 TIMES in the event K-CAR STYLE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Sekai No Neon",
+      "description": "Win HASHIRIYA STYLE with 1 UNDERGLOW equiped",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "SKYLINE GT-R (R34) High Octane Edition"
+      }
+    },
+    {
+      "name": "Sekai No Attitude",
+      "description": "Win WANGAN SOUL with 1 SMOKE equiped",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "SKYLINE GT-R (R34) High Octane Edition"
+      }
+    },
+    {
+      "name": "Sekai No Soul",
+      "description": "Win BOSZOKU STYLE with a LIVERY applied",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "SKYLINE GT-R (R34) High Octane Edition"
+      }
+    },
+    {
+      "name": "Sekai No Vice",
+      "description": "Reach the MAX COMBO MULTIPLIER (x50) while drifting in the event TSUCHIYA STYLE with a DRIFT car",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Sekai No Top Driver",
+      "description": "Reach the TOP 15 in a GRAND RACE",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Sekai No Style",
+      "description": "Register a NISSAN in the CUSTOM SHOW",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Sekai No Ryujin",
+      "description": "Find al the DRAGON COLLECTIBLES located near JAPANESE TEMPLES on MAUI",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 2
+      }
+    }
+  ]
+}

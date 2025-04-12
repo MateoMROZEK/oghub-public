@@ -1,0 +1,22 @@
+{
+  "playlist": {
+    "name": "Streamers Dream Main Stage",
+    "slug": "streamers-dream-main-stage",
+    "image": "playlists/bg/no-item.jpg",
+    "icon": "playlists/icons/main-stage-legacy.png",
+    "themes": [9],
+    "isLegagy": true,
+    "release": "14/08/2024",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "NISSAN 300ZX (Z32) Kaido-ou Edition"
+      },
+      "requirement": {}
+    }
+  ]
+}

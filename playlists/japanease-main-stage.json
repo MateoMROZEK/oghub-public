@@ -1,0 +1,22 @@
+{
+  "playlist": {
+    "name": "Japanease Main Stage Legacy",
+    "slug": "japanease-main-stage",
+    "image": "playlists/bg/no-item.jpg",
+    "icon": "playlists/icons/main-stage-legacy.png",
+    "themes": [9],
+    "isLegagy": true,
+    "release": "13/03/2024",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "MITSUBISHI LANCER EVOLUTION X Red Fury Edition"
+      },
+      "requirement": {}
+    }
+  ]
+}

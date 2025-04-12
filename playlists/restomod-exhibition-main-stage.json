@@ -1,0 +1,22 @@
+{
+  "playlist": {
+    "name": "Performance Showcase Main Stage",
+    "slug": "performance-showcase-main-stage",
+    "image": "playlists/bg/performance-showcase-main-stage.jpg",
+    "icon": "playlists/icons/main-stage-legacy.png",
+    "themes": [9],
+    "isLegagy": true,
+    "release": "N/A",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "CHEVROLET CORVETTE C7 ZR1 Long Range Edition"
+      },
+      "requirement": {}
+    }
+  ]
+}

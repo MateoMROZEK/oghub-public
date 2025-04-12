@@ -1,0 +1,294 @@
+{
+  "playlist": {
+    "name": "Drift Experience Vol. 2",
+    "slug": "drift-experience-vol2",
+    "image": "playlists/bg/drift-experience-vol2.jpg",
+    "icon": "playlists/icons/drift_vol2.png",
+    "themes": [2],
+    "isLegagy": false,
+    "release": "24/01/2024",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Blazing Crew",
+      "description": "Drive 10km in a crew of at least 2 Drift cars in freedrive",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "car": "Drift Car requirement"
+      }
+    },
+    {
+      "name": "Blazing Cruise",
+      "description": "Drive from HALEIWA to HONOLULU in less than 5 min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "MX-5 (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Spirit",
+      "description": "Win the event NO REST FOR THE DRIFTER without ABS",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "370Z NISMO (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Smoke",
+      "description": "Win the event SMOKE IN THE EYE without collision",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "370Z NISMO (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Oldie",
+      "description": "Win the event GET DIRT ON IT (Vintage Garage)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "370Z NISMO (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Glide",
+      "description": "Win the event NIGHT GLIDER without ABS",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "MX-5 (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Rigor",
+      "description": "Win the event ARCH-DRIFTER without collision",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "MX-5 (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Near Miss",
+      "description": "Perform 30 NEAR MISS in freedrive by night",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "MX-5 (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Miata",
+      "description": "Win the event SKYLINE JUKU (Drift Vol 1)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "MX-5 (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Blue",
+      "description": "Win the event DIFFRACTED BLUE (Drift Vol 1)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "MX-5 (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Top Speed",
+      "description": "Drift for 1min above 120km/h",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "MX-5 (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Precision",
+      "description": "Complete 5 BULLSEYE in freedrive by night",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "370Z NISMO (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Tokyo",
+      "description": "Win the event SHINJUKU STYLE (Made In Japan)",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "GR SUPRA (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Upgrade",
+      "description": "Equip a LEGENDARY Perf Part",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Blazing Rubber",
+      "description": "Find all the BURNING WHELLS located in multi-level parkings lots throughout HONOLULU",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 5
+      }
+    },
+    {
+      "name": "Blazing Snake",
+      "description": "Complete 5 SLALOM Feats without ABS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "MX-5 (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Runaway",
+      "description": "Complete 5 ESCAPE Feats",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "MX-5 (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Vice",
+      "description": "Break 100 OBJECTS while drifting in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "370Z NISMO (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Top Drift",
+      "description": "Reach the max combo multiplier (x50) in the event THE HARD YARDS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "370Z NISMO (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Light",
+      "description": "Get 200 000 drifting points in the event SPEED OF LIGHT",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "MX-5 (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Boost",
+      "description": "Drift for 2km while using nitro in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "MX-5 (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Night",
+      "description": "Drift for 5km with a Drift car, in HONOLULU by night",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Blazing Element",
+      "description": "Get 250 000 drifting points in the event NATURE VS NURTURE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "TOYOTA",
+        "model": "GR SUPRA (Drift)"
+      }
+    },
+    {
+      "name": "Blazing Freedom",
+      "description": "Drive 20km in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MAZDA",
+        "model": "MX-5 (Drift)"
+      }
+    }
+  ]
+}

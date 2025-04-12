@@ -1,0 +1,22 @@
+{
+  "playlist": {
+    "name": "Creative Creators Main Stage",
+    "slug": "creative-creators-main-stage",
+    "image": "playlists/bg/creative-creators-main-stage.jpg",
+    "icon": "playlists/icons/main-stage-legacy.png",
+    "themes": [9],
+    "isLegagy": true,
+    "release": "09/10/2024",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "BUGATTI VEYRON Hepp Blue Edition"
+      },
+      "requirement": {}
+    }
+  ]
+}

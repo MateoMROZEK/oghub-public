@@ -1,0 +1,349 @@
+{
+  "playlist": {
+    "name": "911 Legacy",
+    "slug": "911-legacy",
+    "image": "playlists/bg/911-legacy.jpg",
+    "icon": "playlists/icons/911.png",
+    "themes": [1, 2, 4, 6],
+    "isLegagy": false,
+    "release": "11/09/2023",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "911 Mudracer",
+      "description": "Drive for 9 min 11 sec off-road in FREEDRIVE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "959 RAID"
+      }
+    },
+    {
+      "name": "911 Uphill",
+      "description": "Drive from the AULINAII RESORT to the MAUNA PELE OBSERVATORY in less than 3min",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "959 RAID"
+      }
+    },
+    {
+      "name": "911 Snake In The Forest",
+      "description": "Complete 5 SLALOM Feats",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "959 RAID"
+      }
+    },
+    {
+      "name": "911 Flower In The Mud",
+      "description": "Use CLEAN DRIVING in the event 911 RALLY",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "959 RAID"
+      }
+    },
+    {
+      "name": "911 Perfektion",
+      "description": "Reach a 360 km/h speed in the event 911 CHALLENGE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 CARRERA 4S Timeless Edition"
+      }
+    },
+    {
+      "name": "911 Clean Driving Guru",
+      "description": "Get a PERFECT CLEAN DRIVING score in any RACING event",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 CARRERA 4S Timeless Edition"
+      }
+    },
+    {
+      "name": "911 Top Driver",
+      "description": "Drive for 9min 11sec in a GRAND RACE",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 CARRERA 4S Timeless Edition"
+      }
+    },
+    {
+      "name": "911 Easy Win",
+      "description": "Drive 911m above 300k m/h in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 CARRERA 4S Timeless Edition"
+      }
+    },
+    {
+      "name": "911 Roadie",
+      "description": "Drive for 9min 11sec on ASPHALT in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 CARRERA 4S Timeless Edition"
+      }
+    },
+    {
+      "name": "911 Meters",
+      "description": "Drive 911m straight above 250 km/h",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 CARRERA 4S Timeless Edition"
+      }
+    },
+    {
+      "name": "911 Closer Call",
+      "description": "Perform 5 PRECISION above 100km/h in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 CARRERA 4S Timeless Edition"
+      }
+    },
+    {
+      "name": "911 Close Call",
+      "description": "Perform 25 NEAR MISS above 100km/h in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 CARRERA 4S Timeless Edition"
+      }
+    },
+    {
+      "name": "911 Der Vogel",
+      "description": "Reach a 300km/h speed on the OAHU AIRPORT runway in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 CARRERA 4S Timeless Edition"
+      }
+    },
+    {
+      "name": "911 Royal",
+      "description": "Visit the ROYAL LUAU in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 CARRERA 4S Timeless Edition"
+      }
+    },
+    {
+      "name": "911 Leisure",
+      "description": "Visit the AULINAII RESORT in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 CARRERA 4S Timeless Edition"
+      }
+    },
+    {
+      "name": "911 Speedster",
+      "description": "Complete 5 SPEEDTRAP Feats 100.0km/h above the objective",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 CARRERA 4S Timeless Edition"
+      }
+    },
+    {
+      "name": "911 Endurance",
+      "description": "Drive 9.1km on ASPHALT in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 CARRERA 4S Timeless Edition"
+      }
+    },
+    {
+      "name": "911 Hyperspeed",
+      "description": "Drive 9min 11 above 250km/h",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 TURBO 3.6"
+      }
+    },
+    {
+      "name": "911 Cruising",
+      "description": "Drive from the KANEOHE GOLF COURSE to the COCONUT RESORT in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 TURBO 3.6"
+      }
+    },
+    {
+      "name": "911 Virtuoso",
+      "description": "Complete 3 SLALOM Feat WITHOUT COLLISION",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 TURBO 3.6"
+      }
+    },
+    {
+      "name": "911 Pristine Legend",
+      "description": "Use CLEAN DRIVING in the event 911 LEGENDS",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 TURBO 3.6"
+      }
+    },
+    {
+      "name": "911 Autobahner",
+      "description": "Reach 300km/h speed on the HIGHWAY",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 GT1 Strabenversion (993)"
+      }
+    },
+    {
+      "name": "911 Leading The Way",
+      "description": "Keep the 1ST position in the event 911 FREEWAY for 1min 30sec straight",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 GT1 Strabenversion (993)"
+      }
+    },
+    {
+      "name": "911 Fast And Sharp",
+      "description": "Use CLEAN DRIVING in the event 911 FREEWAY",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 GT1 Strabenversion (993)"
+      }
+    },
+    {
+      "name": "911 Old But Gold",
+      "description": "Use CLEAN DRIVING in the event 911 ARRIVAL",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911"
+      }
+    },
+    {
+      "name": "911 Dark Horse",
+      "description": "Reach a 190 km/h speed",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911"
+      }
+    },
+    {
+      "name": "911 Precision Master",
+      "description": "Use CLEAN DRIVING in the event 911 GRAND PRIX",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "Porsche",
+        "model": "911 GT3 Cup"
+      }
+    },
+    {
+      "name": "911 Collection",
+      "description": "Find all the 911 Collectibles located near HARBORS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 9
+      }
+    }
+  ]
+}

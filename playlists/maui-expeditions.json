@@ -1,0 +1,458 @@
+{
+  "playlist": {
+    "name": "Maui Expeditions: A Motorfest Challenges Log",
+    "slug": "maui-expeditions",
+    "image": "playlists/bg/maui-expeditions.jpg",
+    "icon": "playlists/icons/maui-expeditions.png",
+    "themes": [3],
+    "isLegagy": true,
+    "release": "06/01/2025",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Valley Isle Bamboos",
+      "description": "Visit the KO'OLAU BAMBOO FOREST",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Cruiser",
+      "description": "Drive 10km on Maui in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Addict",
+      "description": "Drive for 30 min on MAUI with any CAR in FREEDRIVE",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Fast Tourism",
+      "description": "Drive from OAHU AIRPORT to KAHULUI AIRPORT with any GROUND VEHICLE in less than 8min",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Star Watcher",
+      "description": "Drive from KAHULUI to HALEAKALA OBSERVATORY with any GROUND VEHICLE in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Monster Trip",
+      "description": "Drive from HALEAKALA OBSERVATORY to WAILEA with a MONSTER TRUck",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Maze",
+      "description": "Drive from WAILEA to KAPLUA LABYRINTH with any GROUND VEHICLE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Jaunt",
+      "description": "Drive from KAPALUA LABYRINTH to KULA FIELD with any GROUND VEHICLE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Stroll",
+      "description": "Drive from KULA FIELD to KE'ANAE POINT with any GROUND VEHICLE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Ascention",
+      "description": "Drive from KE'ANAE POINT to RED HILL HALEAKALA with any GROUND VEHICLE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Descent",
+      "description": "Drive from RED HILL HALEAKALA to MOKULAU BEACH with any RALLY RAID VEHICLE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Wayfarer",
+      "description": "Drive from MOKULAU BEACH to LELE with any RALLY RAID VEHICLE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Chopper Tour",
+      "description": "Drive 10min over MAUI with a HELICOPTER",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Mud-racer",
+      "description": "Drive 30km in MAUI DIRT ROADS in FREEDRIVE with an OFFROAD vehicle",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Gold Diggerr",
+      "description": "Open 5 TREASURE boxes on MAUI",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Sailor",
+      "description": "Sail from KAHULUI BEACH to BLACK ROCK BEACH with any WATER VEHICLE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Rock Beach",
+      "description": "Sail from BLACK ROCK BEACH to BLACK PAILOLO ISLETS with any WATER VEHICLE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Pailolo Islets",
+      "description": "Sail from PAILOLO ISLETS to MOKULAU BEACH with any WATER VEHICLE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Mokulau Beach",
+      "description": "Sail from MOKULAU BEACH to OEAHI BEACH with any WATER VEHICLE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Peahi Beach",
+      "description": "Sail from PEAHI BEACH to KAULUI BEACH with any WATER VEHICLE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Daredevil",
+      "description": "Perform 5 UNDER BRIDGE with a HELICOPTER in MAUI",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle West Falls",
+      "description": "Visit the KAHOMA FALLS",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle East Falls",
+      "description": "Visit the WAIMOKU FALLS",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Eagle",
+      "description": "Fly for 2min at LOW ALTITUDE in MAUI",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Sbaje",
+      "description": "Complete 5 SLALOM Feals on MAUI",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Runaway",
+      "description": "Complete 5 ESCAPE Feats on MAUI",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Sky",
+      "description": "Reach an ALTITUDE of 4km above MAUI",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Stunt",
+      "description": "Perferm 5 BACKFLIP with a MOTORCROSS BIKE on MAUI",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Makani",
+      "description": "Perform 50 NEAR MISS at 250 km/h on MAUI",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Makani",
+      "description": "Perform 50 NEAR MISS at 250 km/h on MAUI in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Speedster",
+      "description": "Drive for 25 sec straight above 300 km/h MAUI",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Troublemaker",
+      "description": "Break 50 OBJECTS driving above 250 km/h on MAUI",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Mud Drifter",
+      "description": "Drive for a total of 5km DRIFTING on the DIRT ROADS on MAUI",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "MINI",
+        "model": "COOPER S"
+      }
+    },
+    {
+      "name": "Valley Isle Expedition",
+      "description": "Finish the event THE MAUI BIG TOUR in less than 10min",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Authentic",
+      "description": "Finish the event THE MAUI BIG TOUR without using NITRO",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Destructor",
+      "description": "Oarticipate in a DEMOLITION ROYALE on MAUI",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Top Driver",
+      "description": "Run in 2 GRAND RACE on MAUI",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Fun Jook",
+      "description": "Find the HOOK FUN OBJECT in HANA MAUI",
+      "rewards": {
+        "xp": 4000,
+        "bucks": 4000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Fun Dolphins",
+      "description": "Find the DOLPHINS FUN OBJECT in KIHEI",
+      "rewards": {
+        "xp": 4000,
+        "bucks": 4000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Street Lava",
+      "description": "Find the MAUI VOLCANO FRESCO in KAHULUI",
+      "rewards": {
+        "xp": 4000,
+        "bucks": 4000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Cowboys",
+      "description": "Find the MAUI PANIOCLOS FRESCO in KAHULUI",
+      "rewards": {
+        "xp": 4000,
+        "bucks": 4000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Wonders",
+      "description": "Find the WATERFALLS & BIOMES FRESCO in WAILEA",
+      "rewards": {
+        "xp": 4000,
+        "bucks": 4000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Sea Turbines",
+      "description": "Find the SHAKA FISH FRESCO in KAHEAWA WIND TURBINES",
+      "rewards": {
+        "xp": 4000,
+        "bucks": 4000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Mountain Tiki",
+      "description": "Find the TIKI COLLECTIBLE on the BELVEDERES near HONOKAHUA",
+      "rewards": {
+        "xp": 4000,
+        "bucks": 4000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle City Tiki",
+      "description": "Find the TIKI COLLECTIBLE on the BELVEDERES near KUIKAHI",
+      "rewards": {
+        "xp": 4000,
+        "bucks": 4000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Tree Tiki",
+      "description": "Find the TIKI COLLECTIBLE on the BELVEDERES near MAKAWAO RESERVE",
+      "rewards": {
+        "xp": 4000,
+        "bucks": 4000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Volcano Tiki",
+      "description": "Find the TIKI COLLECTIBLE on the BELVEDERES near HALEAKALA OBSERVATORY",
+      "rewards": {
+        "xp": 4000,
+        "bucks": 4000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Lighthouse",
+      "description": "Find all the LIGHTHOUSES of MAUI",
+      "rewards": {
+        "xp": 40000,
+        "bucks": 40000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Valley Isle Hopper",
+      "description": "Perform a total of 1min 40sec of JUMP on MAUI",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {}
+    }
+  ]
+}

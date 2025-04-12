@@ -1,0 +1,315 @@
+{
+  "playlist": {
+    "name": "Off-Roading Addict Vol. 2",
+    "slug": "off-roading-addict-vol2",
+    "image": "playlists/bg/off-roading-addict-vol2.jpg",
+    "icon": "playlists/icons/off_road_v2.png",
+    "themes": [4, 8],
+    "isLegagy": false,
+    "release": "14/08/2024",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Wilder Manners",
+      "description": "COLLIDE with opponents 10 TIMES in LIFE OF PIERCE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "JEEP",
+        "model": "WRANGLER 392 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder Supply Shortages",
+      "description": "Find all the BACKPACK COLLECTIBLES located along the MOUNTAIN RIDGES",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 4
+      }
+    },
+    {
+      "name": "Wilder Fauna",
+      "description": "Find all the BEAR CLAWS located near the OFF-ROADING ADDICT VOL. 2 PATHS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 4
+      }
+    },
+    {
+      "name": "Wilder Timing",
+      "description": "Finish the KTM STRIKES BACK... AGAIN in less than 4:20min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MINI",
+        "model": "COOPER S (Rally Edition)"
+      }
+    },
+    {
+      "name": "Wilder Stunts",
+      "description": "Perform 3 BACKFLIP in BOYZ N THE MUD",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Wilder Curves",
+      "description": "DRIFT 20 TIMES in GREEN PLANET",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MINI",
+        "model": "COOPER S (Rally Edition)"
+      }
+    },
+    {
+      "name": "Wilder Skies",
+      "description": "Finish WAIMEA SKY (Off-roading Addict Vol. 1)",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MINI",
+        "model": "COOPER S (Rally Edition)"
+      }
+    },
+    {
+      "name": "Wilder Party",
+      "description": "Finish 3 EVENTS with a CREW",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "JEEP",
+        "model": "WRANGLER 392 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder Rally",
+      "description": "Cumulate 10km driving on DIRT ROADS with any RALLY",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Wilder Forecast",
+      "description": "Win BIG TROUBLE IN LITTLE MAUNA in RAINY WEATHER",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT FALCON S-1000 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder Sun",
+      "description": "Win WETTER WORLD in SUNNY WEATHER",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT FALCON S-1000 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder Leader",
+      "description": "Spend 1min IN A ROW in 1ST POSITION in CAR vs WILD (Off-roading Addict Vol. 1)",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "JEEP",
+        "model": "WRANGLER 392 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder Artist",
+      "description": "Apply 1 VANITY",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "JEEP",
+        "model": "WRANGLER 392 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder Power",
+      "description": "EMPTY YOUR ENTIRE NITRO GAUGE 3 TIMES in GEAR VALLY (Off-roading Addict Vol. 1)",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "JEEP",
+        "model": "WRANGLER 392 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder World",
+      "description": "Win OFF-ROADING ISLAND (Off-roading Addict Vol. 1) in RAINY WEATHER",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "JEEP",
+        "model": "WRANGLER 392 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder Biker",
+      "description": "Cumulate 1000m of OFFROAD WHELLIE with any RALLY RAID BIKE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Wilder Runaway",
+      "description": "Complete 5 ESCAPES Feats",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT FALCON S-1000 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder Velocity",
+      "description": "Drive over 100km/h for 10sec IN A ROW on DIRT ROADS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MINI",
+        "model": "COOPER S (Rally Edition)"
+      }
+    },
+    {
+      "name": "Wilder Drifter",
+      "description": "Cumulate 2km of DRIFT on DIRT ROADS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MINI",
+        "model": "COOPER S (Rally Edition)"
+      }
+    },
+    {
+      "name": "Wilder Snake",
+      "description": "Complete 5 SLALOM Feats",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "JEEP",
+        "model": "WRANGLER 392 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder Speedster",
+      "description": "Drive from MAUNA PELE NUNUI CRATER to HALEIWA in less than 6min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "JEEP",
+        "model": "WRANGLER 392 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder Trakcs",
+      "description": "Drive from MAUNA PELE OBSERVATORY to AULINAII RESORT WITHOUT JUMPING",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "JEEP",
+        "model": "WRANGLER 392 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder Jumps",
+      "description": "Cumulate 15sec of AIR TIME",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "JEEP",
+        "model": "WRANGLER 392 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder Driver",
+      "description": "Cumulate 15km of OFFROAD driving",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "JEEP",
+        "model": "WRANGLER 392 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder Explorer",
+      "description": "Visit MAUNA PELE NUNUI CRATER in RAINY WEATHER",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "JEEP",
+        "model": "WRANGLER 392 Adventure Edition"
+      }
+    },
+    {
+      "name": "Wilder Spin",
+      "description": "Drive OFFROAD from TURTLE BAY BEACH to TURTLE ROCK",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "JEEP",
+        "model": "WRANGLER 392 Adventure Edition"
+      }
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "playlist": {
+    "name": "Rule the Streets",
+    "slug": "rule-the-streets",
+    "image": "playlists/bg/rule-the-streets.jpg",
+    "icon": "playlists/icons/rule_the_streets.png",
+    "themes": [2, 7],
+    "isLegagy": false,
+    "release": "11/09/2023",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Donut x Cruise",
+      "description": "Drive 15km in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CORVETTE C8 STINGRAY DONUT MEDIA ED."
+      }
+    },
+    {
+      "name": "Donut x Bean Giver",
+      "description": "Reach a speed of 300km/h in HONOLULU",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CORVETTE C8 STINGRAY DONUT MEDIA ED."
+      }
+    },
+    {
+      "name": "Donut x Gig Lover",
+      "description": "Get to the top of the KAKAAKO CENTER ROOF in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CORVETTE C8 STINGRAY DONUT MEDIA ED."
+      }
+    },
+    {
+      "name": "Donut x Window Shopper",
+      "description": "Visit the MOANA CENTER in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CORVETTE C8 STINGRAY DONUT MEDIA ED."
+      }
+    },
+    {
+      "name": "Donut x Speedster",
+      "description": "Complete 5 SPEEDTRAP Feats 100.0km/h over the objective",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CORVETTE C8 STINGRAY DONUT MEDIA ED."
+      }
+    },
+    {
+      "name": "Donut x Expert",
+      "description": "Complete 5 SLALOM Feats WITHOUT COLLISION",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CORVETTE C8 STINGRAY DONUT MEDIA ED."
+      }
+    },
+    {
+      "name": "Donut x C-8 Explosion",
+      "description": "Drive from the DIAMOND HEAD to the OAHU AIRPORT in less than 5min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CORVETTE C8 STINGRAY DONUT MEDIA ED."
+      }
+    },
+    {
+      "name": "Donut x Tomorrowland",
+      "description": "Drive from the RULE THE STREETS container to the ELECTRIC ODYSSEY container in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CORVETTE C8 STINGRAY DONUT MEDIA ED."
+      }
+    },
+    {
+      "name": "Donut x Notorious",
+      "description": "Reach the cupola of the BUSINESS PLAZA in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CORVETTE C8 STINGRAY DONUT MEDIA ED."
+      }
+    },
+    {
+      "name": "Donut x Troublemaker",
+      "description": "Break 50 OBJECTS driving above 250km/h",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CORVETTE C8 STINGRAY DONUT MEDIA ED."
+      }
+    },
+    {
+      "name": "Donut x Chevy Rampage",
+      "description": "Break 400 OBJECTS in HONOLULU",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CORVETTE C8 STINGRAY DONUT MEDIA ED."
+      }
+    },
+    {
+      "name": "Donut x Hi Driver",
+      "description": "Reach the TOP15 of a GRAND RACE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Donut x Slide Master",
+      "description": "DRIFT for a cumulative time of 30sec",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MITSUBISHI",
+        "model": "LANCER EVOLUTION X (Drift Ed.)"
+      }
+    },
+    {
+      "name": "Donut x Slide Steez",
+      "description": "Finish the event SCREW x DRIFTER WITHOUT COLLISION",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MITSUBISHI",
+        "model": "LANCER EVOLUTION X (Drift Ed.)"
+      }
+    },
+    {
+      "name": "Donut x Flying Dino",
+      "description": "Reach a speed of 150km/h in the OAHU AIRPORT in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "F-150 SVT RAPTOR"
+      }
+    },
+    {
+      "name": "Donut x Raptor Pack",
+      "description": "Finish the event RAPTOR x DELICACY in a CREW",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "F-150 SVT RAPTOR"
+      }
+    },
+    {
+      "name": "Donut x Buff But Smooth",
+      "description": "Finish the event AMERICAN x WRESTLE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "MUSTANG GT SHELBY GT500"
+      }
+    },
+    {
+      "name": "Donut x Leading The Way",
+      "description": "Drive for 2min STRAIGHT in 1ST POSITION in the event LEGENDARY x RIVALRY",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "F12berlinetta"
+      }
+    },
+    {
+      "name": "Donut x Hi Speed",
+      "description": "Reach a speed of 200km/h through the WAIKIKI MARKET PLACE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "NISSAN",
+        "model": "370Z NISMO"
+      }
+    },
+    {
+      "name": "Donut x Panzer",
+      "description": "Break 20 OBJECTS in the event GERMAN x QUALITAT",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M4 COMPETITION COUPE"
+      }
+    },
+    {
+      "name": "Donut x King Of Hawaii",
+      "description": "Get to the top of the ROYAL LUAU ROOF with any HYPERCAR in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Donut x Over The Top",
+      "description": "Get onto the CONVENTION CENTER roof with any HYPERCAR vehicle in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Donut x Jasper Wong",
+      "description": "Find all the GRAFFITIES of Jasper Wong's characters",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 53
+      }
+    },
+    {
+      "name": "Donut x Lifeguard",
+      "description": "Find all the DONUT BUOY COLLECTIBLES located near TOURISTIC BEACHES",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 18
+      }
+    },
+    {
+      "name": "Donut x Drone",
+      "description": "Find all the DRONES COLLECTIBLES located on BUILDING ROOFS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 5
+      }
+    }
+  ]
+}

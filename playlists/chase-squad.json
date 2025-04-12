@@ -1,0 +1,301 @@
+{
+  "playlist": {
+    "name": "Chase Squad",
+    "slug": "chase-squad",
+    "image": "playlists/bg/chase-squad.jpg",
+    "icon": "playlists/icons/chase-squad.png",
+    "themes": [6],
+    "isLegagy": false,
+    "release": "06/11/2024",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Code 10 - Drive Hard",
+      "description": "Drive 10km in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "AEZUS Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Cop island",
+      "description": "Drive from CHASE SQUAD CONTAINER to HANA BEACH in less than 5min in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "AEZUS Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Maui Patrol",
+      "description": "Drive from HANA BEACH to LELE in less than 10min in FREEDRIVE",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "AEZUS Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Rivals",
+      "description": "Arrest or takedown 4 OPPONENTS in RIVAL chases",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "AEZUS Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Jaguar",
+      "description": "Takedown the DIAMOND FANG CHIEF in RIVAL chase in less than 4min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "AEZUS Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Panther",
+      "description": "Takedown the NIGHTSTALKERS CHIEF and get 1M PTS in a RIVAL chase",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "AEZUS Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Poodle",
+      "description": "Arrest CINNAMON in RIVAL chase in less than 3min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "AEZUS Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Froggy",
+      "description": "Takedown the LEAPFROG in RIVAL chase in MAXIMUM DIFFICULTY",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "AEZUS Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Keyser soze",
+      "description": "Arrest the MYSQTERY DRIVER and get 800 000PTS in RIVAL chase",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "AEZUS Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Stuntman",
+      "description": "Perform 4 STUNTS and takedown an apponent in RIVAL chase",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "AUDI",
+        "model": "RS6 Avant Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Mayhem",
+      "description": "Perform 10 HITS and takedown an opponent in RIVAL chase",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "AUDI",
+        "model": "RS6 Avant Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Roly-poly",
+      "description": "Perform a BARREL ROLL and arrest an opponent in RIVAL chase",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "AUDI",
+        "model": "RS6 Avant Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Terminacop",
+      "description": "Takedown an opponent after performing at least 3 HUGE CRASHES in RIVAL chase",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "AUDI",
+        "model": "RS6 Avant Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Daredevil",
+      "description": "Perform 5 UNDER BRIDGE in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PROTO",
+        "model": "A500 Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Copstronaut",
+      "description": "Reach an ALTITUDE of 4km",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PROTO",
+        "model": "A500 Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Hedgehopping",
+      "description": "Cumulate 30sec of LOW ALTITUDE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PROTO",
+        "model": "A500 Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Gold Robber",
+      "description": "Open 3 TREASURE BOXES by DAY with any CAR",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 22500
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Code 10 - Speed Chaser",
+      "description": "Win CHASE SQUAD ASSEMBLE in less than 5min",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "AEZUS Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Hashiriya",
+      "description": "Win TOUGE STYLE (Made in Japan Vol.2) by DAY",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "AEZUS Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - HeliCOPter",
+      "description": "Completed 3 LOW ALTITUDE Feats",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "PROTO",
+        "model": "A500 Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Supercopter",
+      "description": "Win the event AIRWALKER (Ocean n' Sky)",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "PROTO",
+        "model": "A500 Chase Squad Ed."
+      }
+    },
+    {
+      "name": "Code 10 - Carnage",
+      "description": "Participate to a DEMO ROYALE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Code 10 - Neon",
+      "description": "Equip a UNDERGLOW on ANY CHASE CAR",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Code 10 - Lucky Charm",
+      "description": "Equip a DOLL on ANY CHASE CAR dashboard",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Code 10 - Gordon",
+      "description": "Find al the GORDON COLLECTIBLES located near KAHULUI on MAUI",
+      "rewards": {
+        "xp": 20000,
+        "bucks": 20000
+      },
+      "requirement": {
+        "item": 4
+      }
+    }
+  ]
+}

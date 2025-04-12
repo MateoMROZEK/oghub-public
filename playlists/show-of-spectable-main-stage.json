@@ -1,0 +1,22 @@
+{
+  "playlist": {
+    "name": "Show of Spectacle Main Stage",
+    "slug": "show-of-spectable-main-stage",
+    "image": "playlists/bg/show-of-spectable-main-stage.jpg",
+    "icon": "playlists/icons/main-stage-legacy.png",
+    "themes": [9],
+    "isLegagy": true,
+    "release": "10/07/2024",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "PORSCHE 911 SPEEDSTER Winter Agent Edition"
+      },
+      "requirement": {}
+    }
+  ]
+}

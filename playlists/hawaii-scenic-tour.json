@@ -1,0 +1,298 @@
+{
+  "playlist": {
+    "name": "Hawaii Scenic Tour",
+    "slug": "hawaii-scenic-tour",
+    "image": "playlists/bg/hawaii-scenic-tour.jpg",
+    "icon": "playlists/icons/scenic_tour.png",
+    "themes": [3, 4],
+    "isLegagy": false,
+    "release": "11/09/2023",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Rainbow Flash",
+      "description": "Reach a speed of 200km/h in the BIG BANKED TURN in the MOTORFEST GROUNDS in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "BRONCO Hawaii Scenic Tour Ed."
+      }
+    },
+    {
+      "name": "Rainbow Peak",
+      "description": "Visit the top of the STAIRWAY TO HEAVEN on a SUNNY DAY in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "BRONCO Hawaii Scenic Tour Ed."
+      }
+    },
+    {
+      "name": "Rainbow Stroll",
+      "description": "Drive from inside the MAKUA CAVES to OAHU AIRPORT in less than 7min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "BRONCO Hawaii Scenic Tour Ed."
+      }
+    },
+    {
+      "name": "Rainbow Offroader",
+      "description": "Drive 3km OFF-ROAD in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "BRONCO Hawaii Scenic Tour Ed."
+      }
+    },
+    {
+      "name": "Rainbow Force",
+      "description": "Drive for 10min in a CREW",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Rainbow Surfer",
+      "description": "Spend 10sec IN THE AIR in the event DUKES OF WAI'ANAE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "BRONCO Hawaii Scenic Tour Ed."
+      }
+    },
+    {
+      "name": "Rainbow Thug",
+      "description": "Break 100 OBJECTS in the event DUKES OF WAI'ANAE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "BRONCO Hawaii Scenic Tour Ed."
+      }
+    },
+    {
+      "name": "Rainbow Daredevil",
+      "description": "Reach a 100km/h speed while JUMPING over the KAKAAKO CENTER in the event ART OF HONOLULU",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "BRONCO Hawaii Scenic Tour Ed."
+      }
+    },
+    {
+      "name": "Rainbow Hopper",
+      "description": "Spend 3sec in THE AIR in the event ART OF HONOLULU",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "BRONCO Hawaii Scenic Tour Ed."
+      }
+    },
+    {
+      "name": "Rainbow Caretaker",
+      "description": "Finish the event WONDERS OF KO'OLAU POKO",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Rainbow Spiral",
+      "description": "Fly through the DOUBLE LOOPS of the MOTORFEST GROUNDS in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "NORTHROP GRUMMAN",
+        "model": "F4U CORSAIR"
+      }
+    },
+    {
+      "name": "Rainbow Hedgehopping",
+      "description": "Fly 2min at LOW ALTITUDE in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "NORTHROP GRUMMAN",
+        "model": "F4U CORSAIR"
+      }
+    },
+    {
+      "name": "Rainbow Lava",
+      "description": "Fly from the MOTORFEST GROUNDS to the MAUNA PELE NUNUI CRATER in less than 4min in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "NORTHROP GRUMMAN",
+        "model": "F4U CORSAIR"
+      }
+    },
+    {
+      "name": "Rainbow Maverick",
+      "description": "Fly through 1 CHECKPOINT in INVERTED LOW ALTITUDE in the EVENT KINGDOM OF LANI with a PLANE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "NORTHROP GRUMMAN",
+        "model": "F4U CORSAIR"
+      }
+    },
+    {
+      "name": "Manta Rainbow",
+      "description": "Spend 3sec IN THE AIR in the event EXPLORERS OF MOANA",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "PROTO",
+        "model": "OFFSHORE MK2"
+      }
+    },
+    {
+      "name": "Rainbow Blast",
+      "description": "Perform 3 OVERTAKE WITHOUT COLLISION in the event EXPLORERS OF MOANA",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "PROTO",
+        "model": "OFFSHORE MK2"
+      }
+    },
+    {
+      "name": "Rainbow Troublemaker",
+      "description": "Break 50 OBJECTS in the event WILD HEART OF KO'OLAU LOA",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "DODGE",
+        "model": "CHALLENGER SRT-8 392 (Rally Ed.)"
+      }
+    },
+    {
+      "name": "Rainbow Driver",
+      "description": "Drive for 3min in 1ST POSITION in the event WONDERS OF KO'OLAU POKO",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Rainbow Ocean Arts",
+      "description": "Find all the OCEAN & SURF MURALS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 16
+      }
+    },
+    {
+      "name": "Rainbow Flora Arts",
+      "description": "Find all the BOTANICAL MURALS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 7
+      }
+    },
+    {
+      "name": "Rainbow Portrait Arts",
+      "description": "Find all the CHARACTERS MURALS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 24
+      }
+    },
+    {
+      "name": "Rainbow Word Arts",
+      "description": "Find all the WORD MURALS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 20
+      }
+    },
+    {
+      "name": "Rainbow Fun Treasures",
+      "description": "Find all the FUN OBJECTS located near VILLAGES",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 14
+      }
+    },
+    {
+      "name": "Rainbow Statues",
+      "description": "Find all the HISTORICAL STATUES",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 12
+      }
+    },
+    {
+      "name": "Rainbow Cultural Treasures",
+      "description": "Find all the TIKIS COLLECTIBLES near ICONICS LOCATIONS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 15
+      }
+    }
+  ]
+}

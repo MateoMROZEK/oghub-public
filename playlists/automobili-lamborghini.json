@@ -1,0 +1,307 @@
+{
+  "playlist": {
+    "name": "Automobili Lamborghini",
+    "slug": "automobili-lamborghini",
+    "image": "playlists/bg/automobili-lamborghini.jpg",
+    "icon": "playlists/icons/lamborghini.png",
+    "themes": [1, 2, 6],
+    "isLegagy": false,
+    "release": "11/09/2023",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "A.L. Speed Run",
+      "description": "Drive 10km above 325km/h in FREEDRIVE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "DIABLO GT Pura Potenza Edizione"
+      }
+    },
+    {
+      "name": "A.L. Rivals",
+      "description": "Drive from the AUTOMOBILI LAMBORGHINI CONTAINER to the A PORSCHE STORY: 911 LEGACY FCONTAINER in less than 2min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "DIABLO GT Pura Potenza Edizione"
+      }
+    },
+    {
+      "name": "A.L. Night Menace",
+      "description": "Drive 10km in FREEDRIVE by night",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "DIABLO GT Pura Potenza Edizione"
+      }
+    },
+    {
+      "name": "A.L. Bull Uprising",
+      "description": "Drive 15min in a CREWW of 2 LAMBORGHINI GT PURA POTENZA EDITION in FREEDRIVE",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "DIABLO GT Pura Potenza Edizione"
+      }
+    },
+    {
+      "name": "A.L. Mean And Sharp",
+      "description": "Get a PERFECT CLEAN DRIVING score in the event DEFINING PERFECTION and WIN the race",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "DIABLO GT Pura Potenza Edizione"
+      }
+    },
+    {
+      "name": "A.L. Clean Fight",
+      "description": "Get a PERFECT CLEAN DRIVING score in the event LEGENDARY x RIVALRY (Rule the Streets)",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "DIABLO GT Pura Potenza Edizione"
+      }
+    },
+    {
+      "name": "A.L. Clean Driver Forever",
+      "description": "Get a PERFECT CLEAN DRIVING score in the event TRAILBLAZING FOREVER",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "DIABLO GT Pura Potenza Edizione"
+      }
+    },
+    {
+      "name": "A.L. Clean Driving Spezialist",
+      "description": "Get a PERFECT CLEAN DRIVING score in the event 911 ARRIVAL (911 Legacy: A Porsche Story)",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "DIABLO GT Pura Potenza Edizione"
+      }
+    },
+    {
+      "name": "A.L. Japanese Style",
+      "description": "Finish the event SHINJUKU STYLE (Made in Japan) in less than 4:30min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "DIABLO GT Pura Potenza Edizione"
+      }
+    },
+    {
+      "name": "A.L. Omninous Speed",
+      "description": "Finish the event CHASING THE FUTURE in less than 3min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "DIABLO GT Pura Potenza Edizione"
+      }
+    },
+    {
+      "name": "A.L. Virtuoso",
+      "description": "Complete 5 SLALOM Feats WITHOUT COLLISION",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "MIURA SV"
+      }
+    },
+    {
+      "name": "A.L. Near Miss",
+      "description": "Perform 50 NEAR MISS in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "MIURA SV"
+      }
+    },
+    {
+      "name": "A.L. Gold Digger",
+      "description": "Open 5 TREASURE boxe",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "MIURA SV"
+      }
+    },
+    {
+      "name": "A.L. Caretaker",
+      "description": "Win the event CREATING A LEGEND WITHOUT COLLISION",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "MIURA SV"
+      }
+    },
+    {
+      "name": "A.L. Old But Gold",
+      "description": "Get a PERFECT CLEAN DRIVING score in the event DEFINING PERFECTION",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "MIURA SV"
+      }
+    },
+    {
+      "name": "A.L. Blast",
+      "description": "Perform 50 OVERTAKE WITHOUT COLLISION in any event",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "SIAN ROADSTER"
+      }
+    },
+    {
+      "name": "A.L. Gamber",
+      "description": "Win the event ACT 3: GRAND TOURING (Motorsports) in less than 7:15min",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "ESSENZA SCV12"
+      }
+    },
+    {
+      "name": "A.L. Pro Skills",
+      "description": "Perform 10 OVERTAKE in the event OWNING THE RACETRACKS",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "ESSENZA SCV12"
+      }
+    },
+    {
+      "name": "A.L. Custom",
+      "description": "Equip 1 LIVERY on a [...]",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "A.L. Addict",
+      "description": "Play 10 SUMMIT CONTEST activities",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "DIAGLO GT Pura Potenza Edizione"
+      }
+    },
+    {
+      "name": "A.L. Speedster",
+      "description": "Complete 5 SPEEDTRAP Feats 100.0km/h above the objective",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "DIAGLO GT Pura Potenza Edizione"
+      }
+    },
+    {
+      "name": "A.L. Runaway",
+      "description": "Complete 5 ESCAPE Feats with a 1500m margin",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "ESSENZA SCV12"
+      }
+    },
+    {
+      "name": "A.L. Professional",
+      "description": "Reach a 400km/h speed in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "LAMBORGHINI",
+        "model": "ESSENZA SCV12"
+      }
+    },
+    {
+      "name": "A.L. Top Driver",
+      "description": "Reach the top 15 of a GRAND RACE with a [...]",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "A.L. Wheels",
+      "description": "Find all the COUNTACH WHEELS COLLECTIBLES located near the GOLF COURSES of the island",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 7
+      }
+    }
+  ]
+}

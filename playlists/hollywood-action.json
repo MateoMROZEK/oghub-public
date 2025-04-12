@@ -1,0 +1,313 @@
+{
+  "playlist": {
+    "name": "Hollywood Action !",
+    "slug": "hollywood-action",
+    "image": "playlists/bg/hollywood-action.jpg",
+    "icon": "playlists/icons/hollywood_action.png",
+    "themes": [3],
+    "isLegagy": false,
+    "release": "13/03/2024",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Zero Gravity Movie Award",
+      "description": "Accumulate 1:40min of jumping time",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "PORSCHE",
+        "model": "550 Spyder"
+      }
+    },
+    {
+      "name": "Focus Puller Movie Award",
+      "description": "Find all the CAMERAS collectibles located on the HOLLYWOOD ACTION! PATHS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 8
+      }
+    },
+    {
+      "name": "Swift Romance Movie Award",
+      "description": "Complete SCENE 7: THE LOVE STORY in less than 5min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "ASTON MARTIN",
+        "model": "DB5"
+      }
+    },
+    {
+      "name": "The Saver Movie Award",
+      "description": "Drive from KANEOHE to WAIKIKI in less than 5min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "ASTON MARTIN",
+        "model": "DB5"
+      }
+    },
+    {
+      "name": "SFX Movie Award",
+      "description": "Equip 1 vanity AUDIO SIGNATURE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "PORSCHE",
+        "model": "550 Spyder"
+      }
+    },
+    {
+      "name": "Precision Movie Award",
+      "description": "Complete 5 BULLSEYE Feats",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MINI",
+        "model": "COOPER S"
+      }
+    },
+    {
+      "name": "Speedster Movie Award",
+      "description": "Drive above 100km/h for 10sec straight",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "PORSCHE",
+        "model": "550 Spyder"
+      }
+    },
+    {
+      "name": "Dirty Driver Movie Award",
+      "description": "Get a perfect DIRTY DRIVING score",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "ASTON MARTIN",
+        "model": "DB5"
+      }
+    },
+    {
+      "name": "Recklessness Movie Award",
+      "description": "Complete the event SUPERCAR FESTIVAL (Dreamcars) with a perfect DIRTY DRIVING score",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "PORSCHE",
+        "model": "550 Spyder"
+      }
+    },
+    {
+      "name": "Car Creation Movie Award",
+      "description": "Register a vehicle in the CUSTOM SHOW",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Chaos Master Movie Award",
+      "description": "Get a perfect DIRTY DRIVING score in the event AIRTIME ADVANTAGE (Bike Lovers)",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MINI",
+        "model": "COOPER S"
+      }
+    },
+    {
+      "name": "Hedgehopping Movie Award",
+      "description": "Complete 2 LOW ALTITUDE Feats",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Nitro Thirst Movie Award",
+      "description": "Empty your entire nitro gauge 3 times in the event SCENE 3: THE FIRST JOB",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "ASTON MARTIN",
+        "model": "DB5"
+      }
+    },
+    {
+      "name": "Troublemaker Movie Award",
+      "description": "Destroy 100 breakable items above 100km/h",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "ASTON MARTIN",
+        "model": "DB5"
+      }
+    },
+    {
+      "name": "Proper Speed Movie Award",
+      "description": "Reach a speed of 100km/h in the event SCENE 4 THE ASCENT with any vehicle",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Buddy Movie Award",
+      "description": "Cumulate 10km in a CREW of 2 a STREET CAR",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Runaway Movie Award",
+      "description": "Complete 5 ESCAPE Feats",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "PORSCHE",
+        "model": "550 Spyder"
+      }
+    },
+    {
+      "name": "No Nitro Movie Award",
+      "description": "Finish the event THE PREMIERE without using nitro",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "PORSCHE",
+        "model": "550 Spyder"
+      }
+    },
+    {
+      "name": "Road Addict Movie Award",
+      "description": "Accumulate 20min of driving in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MINI",
+        "model": "COOPER S"
+      }
+    },
+    {
+      "name": "Near Miss Movie Award",
+      "description": "Perform 50 NEAR MISS actions",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MINI",
+        "model": "COOPER S"
+      }
+    },
+    {
+      "name": "Summit Movie Award",
+      "description": "Finish 3 Summit activities",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "PORSCHE",
+        "model": "550 Spyder"
+      }
+    },
+    {
+      "name": "Night Out Movie Award",
+      "description": "Visit the COCONUT RESORT by night in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MINI",
+        "model": "COOPER S"
+      }
+    },
+    {
+      "name": "Props Breaker Movie Award",
+      "description": "DESTROY 25 breakable items in the event SCENE 5: THE RACE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "ASTON MARTIN",
+        "model": "DB5"
+      }
+    },
+    {
+      "name": "Mayhem Movie Award",
+      "description": "Get a perfect DIRTY DRIVING score in the event SCENE 2: THE TEST",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "ASTON MARTIN",
+        "model": "DB5"
+      }
+    },
+    {
+      "name": "Bad Attitude Movie Award",
+      "description": "Get a PERFECT DIRTY DRIVING score in the event SCENE 1: THE DRIVER",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "MINI",
+        "model": "COOPER S"
+      }
+    },
+    {
+      "name": "Road Trip Movie Award",
+      "description": "Drive 15km in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "ASTON MARTIN",
+        "model": "DB5"
+      }
+    }
+  ]
+}

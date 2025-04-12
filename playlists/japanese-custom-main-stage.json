@@ -1,0 +1,30 @@
+{
+  "playlist": {
+    "name": "Japanese Custom Main Main Stage Legacy",
+    "slug": "japanese-custom-main-stage",
+    "image": "playlists/bg/japanese-custom-main-stage.jpg",
+    "icon": "playlists/icons/main-stage-legacy.png",
+    "themes": [9],
+    "isLegagy": true,
+    "release": "12/02/2024",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete 4 events for get Made In Japan (Dashboard Car Item)",
+      "rewards": {
+        "car": "Swifter (Dashboard Car Item)"
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "MAZDA RX-3 Raigyo Edition"
+      },
+      "requirement": {}
+    }
+  ]
+}

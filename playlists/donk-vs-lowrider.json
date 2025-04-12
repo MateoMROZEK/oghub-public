@@ -1,0 +1,300 @@
+{
+  "playlist": {
+    "name": "Donk VS Lowrider",
+    "slug": "donk-vs-lowrider",
+    "image": "playlists/bg/donk-vs-lowrider.jpg",
+    "icon": "playlists/icons/donk_vs_lowrider.png",
+    "themes": [3, 5],
+    "isLegagy": false,
+    "release": "03/07/2024",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Dirty South Chillin'",
+      "description": "Drive 5km in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HOONIGAN",
+        "model": "CHEVROLET CAPRICE Donk"
+      }
+    },
+    {
+      "name": "Dirty South Outlaws",
+      "description": "Reach a speed of 200km/h in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HOONIGAN",
+        "model": "CHEVROLET CAPRICE Donk"
+      }
+    },
+    {
+      "name": "Drity Soul",
+      "description": "Drive above 100km/h for 10sec straight",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CAPRICE Weasel D. Customs Donk Edition"
+      }
+    },
+    {
+      "name": "Drity South N Da Place",
+      "description": "Visit the LOWRIDER HQ in HALEIWA in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CAPRICE Weasel D. Customs Donk Edition"
+      }
+    },
+    {
+      "name": "Drity South Breaks The Law",
+      "description": "Complete 3 SPEEDTRAP Feats",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CAPRICE Weasel D. Customs Donk Edition"
+      }
+    },
+    {
+      "name": "Drity South Sniper",
+      "description": "Perform 5 PRECISION",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CAPRICE Weasel D. Customs Donk Edition"
+      }
+    },
+    {
+      "name": "West Side Cruisin'",
+      "description": "Drive 5km in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "BUICK",
+        "model": "GNX West Side Lowrider Edicion"
+      }
+    },
+    {
+      "name": "West Side Rush",
+      "description": "Reach a speed of 200km/h in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "BUICK",
+        "model": "GNX West Side Lowrider Edicion"
+      }
+    },
+    {
+      "name": "West Side Tension",
+      "description": "Drive above 100km/h for 10sec straight",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "BUICK",
+        "model": "GNX El Sereno Lowrider Edicion"
+      }
+    },
+    {
+      "name": "West Side N Da Hood",
+      "description": "Visit the DONK HQ in WAHIAWA in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "BUICK",
+        "model": "GNX El Sereno Lowrider Edicion"
+      }
+    },
+    {
+      "name": "West Side Delincuente",
+      "description": "Complete 3 SPEEDTRAP Feats",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "BUICK",
+        "model": "GNX El Sereno Lowrider Edicion"
+      }
+    },
+    {
+      "name": "West Side Golddigga",
+      "description": "Open 3 TREASURE boxes with ANY VEHICLE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": "3"
+      }
+    },
+    {
+      "name": "West Side Grind",
+      "description": "Perform a GRIND for 10sec",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "BUICK",
+        "model": "GNX El Sereno Lowrider Edicion"
+      }
+    },
+    {
+      "name": "Dirty South Juicy",
+      "description": "Perform a PERFECT WARMUP in the event GET IT OR DONK COME BACK",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "HOONIGAN",
+        "model": "CHEVROLET CAPRICE Donk"
+      }
+    },
+    {
+      "name": "West South Requiem",
+      "description": "Win the event STILL GNX",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "CHEVROLET",
+        "model": "CAPRICE Weasel D. Customs Donk Edition"
+      }
+    },
+    {
+      "name": "Return Of Dirty South",
+      "description": "Win the event THE RETURN OF \"D\"",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "PONTIAC",
+        "model": "GTO THE JUDGE"
+      }
+    },
+    {
+      "name": "West Side BPM",
+      "description": "Validate 100 NOTES in a row in the event SOME CAR 2 DANCE WITH (Difficulty level 3 or more)",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "BUICK",
+        "model": "GNX El Sereno Lowrider Edicion"
+      }
+    },
+    {
+      "name": "Straight Outta West Side",
+      "description": "Win the event GET IT OR DONK COME BACK",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "BUICK",
+        "model": "GNX El Sereno Lowrider Edicion"
+      }
+    },
+    {
+      "name": "West Side History",
+      "description": "Winthe event DONKS, DON'T KILL MY VIBE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "PONTIAC",
+        "model": "GTO THE JUDGE"
+      }
+    },
+    {
+      "name": "West Side Jewel",
+      "description": "Register a BUICK in the CUSTOM SHOW",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "West Side Hustlers",
+      "description": "Win the event HOP' TILL INFINITY in a CREW",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "BUICK",
+        "model": "GNX El Sereno Lowrider Edicion"
+      }
+    },
+    {
+      "name": "Dirty South Jewel",
+      "description": "Register a CHEVROLET in the CUSTOM SHOW",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Dirty South Paparazzo",
+      "description": "Complete ALL PHOTO OPS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Drity South Dogs",
+      "description": "Win the event RIDE WIT' US in a crew with ANY VEHICLE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Dirty South V West Side",
+      "description": "Find all the DONK vs LOWRIDER COLLECTIBLES located in the RESIDENTIAL NEIGHBORHOODS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 7
+      }
+    }
+  ]
+}

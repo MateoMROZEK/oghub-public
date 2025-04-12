@@ -1,0 +1,343 @@
+{
+  "playlist": {
+    "name": "Off-Roading Addict",
+    "slug": "off-roading-addict",
+    "image": "playlists/bg/off-roading-addict.jpg",
+    "icon": "playlists/icons/off_road_v1.png",
+    "themes": [4, 8],
+    "isLegagy": false,
+    "release": "11/09/2023",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Wild Offroader",
+      "description": "Drive 30km OFF-ROAD in FREEDRIVE",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT FALCON S-1000 Adventure"
+      }
+    },
+    {
+      "name": "Wild Lands",
+      "description": "Drive from STAIRWAY TO HEAVEN RADIO ANTENNA to the COCONUT RESORT without using asphalt roads",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT FALCON S-1000 Adventure"
+      }
+    },
+    {
+      "name": "Wild Horses",
+      "description": "Finish 1 event of the AMERICAN MUSCLE PLAYLIST",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT FALCON S-1000 Adventure"
+      }
+    },
+    {
+      "name": "Wild At Heart",
+      "description": "Complete 3 SUMMIT CONTEST activities",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT FALCON S-1000 Adventure"
+      }
+    },
+    {
+      "name": "Wild Top Driver",
+      "description": "Reach the TOP 15 of a GRAND RACE",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Wild Call",
+      "description": "Visit the STAIRWAY TO HEAVEN RADIO ANTENNA in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "252 XC"
+      }
+    },
+    {
+      "name": "Wild 4 Wheels ",
+      "description": "Drive for 10min in a CREW in FREEDRIVE",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "252 XC"
+      }
+    },
+    {
+      "name": "Wild Sky",
+      "description": "Finish the event WAIMEA SKY by night",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "252 XC"
+      }
+    },
+    {
+      "name": "Wild Speed",
+      "description": "Reach a 250km/h speed in the event WAIMEA SKY",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "252 XC"
+      }
+    },
+    {
+      "name": "Wild Caretaker",
+      "description": "Finish the event MUD HOUR WITHOUT COLLIDING with ANY OPPONENTS",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "252 XC"
+      }
+    },
+    {
+      "name": "Wild Skill",
+      "description": "Perform 2 FRONTFLIP in the event DRIDAY NIGHT RIDES and WIN the race",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "KAWASAKI",
+        "model": "KX450F (Rally Raid Edition)"
+      }
+    },
+    {
+      "name": "Wild Forest",
+      "description": "Dinish the event CAR VS WILD in a CREW and in the RAIN",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "JEEP",
+        "model": "WRANGLER UNLIMITED RUBICON 392"
+      }
+    },
+    {
+      "name": "Wild Beast",
+      "description": "Drive 10km in OFF ROADING ADDICT event with a MONSTER vehicle",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Wild Victory",
+      "description": "Win the OFF-ROADING ADDICT CHAMPIONSHIP",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Wild Dogs",
+      "description": "Finish the event GEAR VALLEY in a CREW",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Wild Peak",
+      "description": "Visit the MAUNA PELE NUNUI CRATER in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT FALCON S-1000 Adventure"
+      }
+    },
+    {
+      "name": "Wild Waves",
+      "description": "Visit the KAENA POINT SATELLITE STATION in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT FALCON S-1000 Adventure"
+      }
+    },
+    {
+      "name": "Wild Run",
+      "description": "Drive from the MAUNA PELE SULPHUR BANKS to the MAUNA PELE NUNUI CRATER in less than 3min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT FALCON S-1000 Adventure"
+      }
+    },
+    {
+      "name": "Wild Turtle",
+      "description": "Drive from the TURTLE BAY RESORT to the TURTLE ROCK in less than 1min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "IVORY-TOWER",
+        "model": "IVT FALCON S-1000 Adventure"
+      }
+    },
+    {
+      "name": "Wild Stunt",
+      "description": "Perform 25 BACKFLIP in freedrive",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "KAWASAKI",
+        "model": "KX450F (Rally Raid Edition)"
+      }
+    },
+    {
+      "name": "Wild 'L'iwi",
+      "description": "Spend 1min in the AIR in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "525 XC"
+      }
+    },
+    {
+      "name": "Wild Looks",
+      "description": "Find all the LOOKOUTS LOCATIONS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 8
+      }
+    },
+    {
+      "name": "Wild Sprint",
+      "description": "Drive from the KAENA POINT to the KAENA POINT SATELLITE STATION in less than 1 min",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "KAWASAKI",
+        "model": "KX450F (Rally Raid Edition)"
+      }
+    },
+    {
+      "name": "Wild Rider",
+      "description": "Hold a WHEELIE for 1000m in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "KAWASAKI",
+        "model": "KX450F (Rally Raid Edition)"
+      }
+    },
+    {
+      "name": "Wild Cruise",
+      "description": "Drive 5km in WATER with a RALLY RAID vehicle in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Wild Roads",
+      "description": "Drive 15km in FREEDRIVE",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "525 XC"
+      }
+    },
+    {
+      "name": "Wild Raider",
+      "description": "Find all the IBEX COLLECTIBLES located near ABANDONED SITES",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 14
+      }
+    },
+    {
+      "name": "Wild Tiki",
+      "description": "Find all the WATER TIKI COLLECTIBLES located near RIVER SOURCES",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 8
+      }
+    },
+    {
+      "name": "Wild Chimney",
+      "description": "Find all the MINI VOLCANO COLLECTIBLES located near INSIDE CRATERS",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 5
+      }
+    }
+  ]
+}
