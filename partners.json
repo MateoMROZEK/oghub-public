@@ -2,7 +2,7 @@
   {
     "name": "Amazon",
     "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/partners/474x144/amazon.webp",
-    "url": "https://www.amazon.fr?&linkCode=ll2&tag=oghub07-21&linkId=e147f1184177edc823234cbdd009f673&language=fr_FR&ref_=as_li_ss_tl"
+    "url": "https://www.amazon.fr?&linkCode=ll2&tag=oghub02-21&linkId=e147f1184177edc823234cbdd009f673&language=fr_FR&ref_=as_li_ss_tl"
   },
   {
     "name": "Contabo",
@@ -18,5 +18,10 @@
     "name": "Gamivo",
     "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/partners/474x144/gamivo.webp",
     "url": "https://www.gamivo.com/?glv=cybricode"
+  },
+  {
+    "name": "Tunerfest",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/partners/474x144/tunerfest.webp",
+    "url": "https://tunerfest.o-d.dev/"
   }
 ]
