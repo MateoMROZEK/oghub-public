@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Off-Roading Addict Vol. 2",
     "slug": "off-roading-addict-vol2",
-    "image": "playlists/bg/off-roading-addict-vol2.jpg",
-    "icon": "playlists/icons/off_road_v2.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/off-roading-addict-vol2.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/off_road_v2.png",
     "themes": [4, 8],
     "isLegagy": false,
     "release": "14/08/2024",

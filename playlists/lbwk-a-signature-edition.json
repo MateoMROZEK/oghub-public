@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Liberty Walk: A Signature Edition",
     "slug": "lbwk-a-signature-edition",
-    "image": "playlists/bg/lbwk-a-signature-edition.jpg",
-    "icon": "playlists/icons/lbwk.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/lbwk-a-signature-edition.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/lbwk.png",
     "themes": [3, 5, 7],
     "isLegagy": false,
     "release": "11/09/2023",

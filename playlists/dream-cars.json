@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Dream cars",
     "slug": "dream-cars",
-    "image": "playlists/bg/dream-cars.jpg",
-    "icon": "playlists/icons/dreamcars.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/dream-cars.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/dreamcars.png",
     "themes": [6, 7],
     "isLegagy": false,
     "release": "11/09/2023",

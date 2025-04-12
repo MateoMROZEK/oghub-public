@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Gymkhana Grid Masters",
     "slug": "gymkhana-grid-masters",
-    "image": "playlists/bg/gymkhana-grid-masters.jpg",
-    "icon": "playlists/icons/grid_masters.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/gymkhana-grid-masters.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/grid_masters.png",
     "themes": [1, 3, 5, 7],
     "isLegagy": false,
     "release": "05/12/2023",

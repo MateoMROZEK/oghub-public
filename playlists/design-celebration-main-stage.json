@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Design Celebration Main Stage Legacy",
     "slug": "design-celebration-main-stage",
-    "image": "playlists/bg/design-celebration-main-stage.jpg",
-    "icon": "playlists/icons/main-stage-legacy.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/design-celebration-main-stage.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
     "themes": [9],
     "isLegagy": true,
     "release": "08/01/2024",

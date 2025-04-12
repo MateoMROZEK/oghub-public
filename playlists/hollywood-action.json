@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Hollywood Action !",
     "slug": "hollywood-action",
-    "image": "playlists/bg/hollywood-action.jpg",
-    "icon": "playlists/icons/hollywood_action.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/hollywood-action.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/hollywood_action.png",
     "themes": [3],
     "isLegagy": false,
     "release": "13/03/2024",

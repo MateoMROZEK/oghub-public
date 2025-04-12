@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Motorsports",
     "slug": "motorsports",
-    "image": "playlists/bg/motorsports.jpg",
-    "icon": "playlists/icons/motorsports.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/motorsports.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/motorsports.png",
     "themes": [2, 6],
     "isLegagy": false,
     "release": "11/09/2023",

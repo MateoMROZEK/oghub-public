@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Bike Lovers",
     "slug": "bike-lovers",
-    "image": "playlists/bg/bike-lovers.jpg",
-    "icon": "playlists/icons/bike_lovers.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/bike-lovers.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/bike_lovers.png",
     "themes": [2, 4, 6, 8],
     "isLegagy": false,
     "release": "11/09/2023",

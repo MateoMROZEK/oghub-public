@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Rule the Streets",
     "slug": "rule-the-streets",
-    "image": "playlists/bg/rule-the-streets.jpg",
-    "icon": "playlists/icons/rule_the_streets.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/rule-the-streets.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/rule_the_streets.png",
     "themes": [2, 7],
     "isLegagy": false,
     "release": "11/09/2023",

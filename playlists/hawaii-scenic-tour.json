@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Hawaii Scenic Tour",
     "slug": "hawaii-scenic-tour",
-    "image": "playlists/bg/hawaii-scenic-tour.jpg",
-    "icon": "playlists/icons/scenic_tour.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/hawaii-scenic-tour.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/scenic_tour.png",
     "themes": [3, 4],
     "isLegagy": false,
     "release": "11/09/2023",

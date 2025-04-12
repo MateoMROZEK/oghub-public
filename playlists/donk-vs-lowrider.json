@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Donk VS Lowrider",
     "slug": "donk-vs-lowrider",
-    "image": "playlists/bg/donk-vs-lowrider.jpg",
-    "icon": "playlists/icons/donk_vs_lowrider.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/donk-vs-lowrider.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/donk_vs_lowrider.png",
     "themes": [3, 5],
     "isLegagy": false,
     "release": "03/07/2024",

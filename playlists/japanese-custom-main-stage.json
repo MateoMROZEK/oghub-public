@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Japanese Custom Main Main Stage Legacy",
     "slug": "japanese-custom-main-stage",
-    "image": "playlists/bg/japanese-custom-main-stage.jpg",
-    "icon": "playlists/icons/main-stage-legacy.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/japanese-custom-main-stage.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
     "themes": [9],
     "isLegagy": true,
     "release": "12/02/2024",

@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Racing Apex Main Stage",
     "slug": "racing-apex-main-stage",
-    "image": "playlists/bg/no-item.jpg",
-    "icon": "playlists/icons/main-stage-legacy.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/no-item.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
     "themes": [9],
     "isLegagy": true,
     "release": "N/A",

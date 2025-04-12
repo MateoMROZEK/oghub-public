@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Maui Expeditions: A Motorfest Challenges Log",
     "slug": "maui-expeditions",
-    "image": "playlists/bg/maui-expeditions.jpg",
-    "icon": "playlists/icons/maui-expeditions.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/maui-expeditions.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/maui-expeditions.png",
     "themes": [3],
     "isLegagy": true,
     "release": "06/01/2025",

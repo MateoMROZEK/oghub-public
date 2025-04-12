@@ -2,8 +2,8 @@
   "playlist": {
     "name": "911 Legacy",
     "slug": "911-legacy",
-    "image": "playlists/bg/911-legacy.jpg",
-    "icon": "playlists/icons/911.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/911-legacy.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/911.png",
     "themes": [1, 2, 4, 6],
     "isLegagy": false,
     "release": "11/09/2023",

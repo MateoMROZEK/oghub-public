@@ -2,8 +2,8 @@
   "playlist": {
     "name": "American Muscle",
     "slug": "american-muscle",
-    "image": "playlists/bg/american-muscle.jpg",
-    "icon": "playlists/icons/american_muscle.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/american-muscle.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/american_muscle.png",
     "themes": [1],
     "isLegagy": false,
     "release": "11/09/2023",

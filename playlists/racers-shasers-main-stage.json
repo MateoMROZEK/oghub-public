@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Racers & Shasers Main Stage Legacy",
     "slug": "racers-shasers-main-stage",
-    "image": "playlists/bg/main-stage-racers-chasers.jpg",
-    "icon": "playlists/icons/main-stage-legacy.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/main-stage-racers-chasers.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
     "themes": [10],
     "isLegagy": true,
     "release": "12/12/2024",

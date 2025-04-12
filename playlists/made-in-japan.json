@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Made in Japan",
     "slug": "made-in-japan",
-    "image": "playlists/bg/made-in-japan.jpg",
-    "icon": "playlists/icons/made_in_japan_vol1.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/made-in-japan.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/made_in_japan_vol1.png",
     "themes": [2, 5],
     "isLegagy": false,
     "release": "11/09/2023",

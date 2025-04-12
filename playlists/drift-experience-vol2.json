@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Drift Experience Vol. 2",
     "slug": "drift-experience-vol2",
-    "image": "playlists/bg/drift-experience-vol2.jpg",
-    "icon": "playlists/icons/drift_vol2.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/drift-experience-vol2.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/drift_vol2.png",
     "themes": [2],
     "isLegagy": false,
     "release": "24/01/2024",

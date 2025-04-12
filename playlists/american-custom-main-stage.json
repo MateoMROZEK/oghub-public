@@ -2,8 +2,8 @@
   "playlist": {
     "name": "American Custom Main Stage Legacy",
     "slug": "american-custom-main-stage",
-    "image": "playlists/bg/american-custom-legacy.jpg",
-    "icon": "playlists/icons/main-stage-legacy.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/american-custom-legacy.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
     "themes": [9],
     "isLegagy": true,
     "release": "20/11/2024",

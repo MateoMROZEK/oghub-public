@@ -2,7 +2,7 @@
   "playlist": {
     "name": "Made in Japan Vol. 2",
     "slug": "made-in-japan-vol-2",
-    "image": "playlists/bg/made-in-japan-vol-2.jpg",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/made-in-japan-vol-2.jpg",
     "icon": "playlists/icons/made_in_japan_vol1.png",
     "themes": [2, 5],
     "isLegagy": false,

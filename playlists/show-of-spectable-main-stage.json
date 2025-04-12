@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Show of Spectacle Main Stage",
     "slug": "show-of-spectable-main-stage",
-    "image": "playlists/bg/show-of-spectable-main-stage.jpg",
-    "icon": "playlists/icons/main-stage-legacy.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/show-of-spectable-main-stage.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
     "themes": [9],
     "isLegagy": true,
     "release": "10/07/2024",

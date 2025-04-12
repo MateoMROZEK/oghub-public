@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Vintage Garage",
     "slug": "vintage-garage",
-    "image": "playlists/bg/vintage-garage.jpg",
-    "icon": "playlists/icons/vintage_garage.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/vintage-garage.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/vintage_garage.png",
     "themes": [3],
     "isLegagy": false,
     "release": "11/09/2023",

@@ -2,8 +2,8 @@
   "playlist": {
     "name": "Chase Squad",
     "slug": "chase-squad",
-    "image": "playlists/bg/chase-squad.jpg",
-    "icon": "playlists/icons/chase-squad.png",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/chase-squad.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/chase-squad.png",
     "themes": [6],
     "isLegagy": false,
     "release": "06/11/2024",

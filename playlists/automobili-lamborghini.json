@@ -3,7 +3,7 @@
     "name": "Automobili Lamborghini",
     "slug": "automobili-lamborghini",
     "image": "playlists/bg/automobili-lamborghini.jpg",
-    "icon": "playlists/icons/lamborghini.png",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/lamborghini.png",
     "themes": [1, 2, 6],
     "isLegagy": false,
     "release": "11/09/2023",
