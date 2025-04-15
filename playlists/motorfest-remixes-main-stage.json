@@ -1,20 +1,20 @@
 {
   "playlist": {
-    "name": "Racers & Shasers Main Stage Legacy",
-    "slug": "racers-shasers-main-stage",
-    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/main-stage-racers-chasers.jpg",
+    "name": "Motorfest Remixes Main Stage Legacy",
+    "slug": "motorfest-remixes-main-stage",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/main-stage-motorfest-remixes.jpg",
     "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
     "themes": [10],
     "isLegagy": true,
-    "release": "12/03/2025",
+    "release": "12/12/2024",
     "policeFont": ""
   },
   "challenges": [
     {
       "name": "Playlist",
-      "description": "Complete 4 events for get Brutagram (Dashboard Car Item)",
+      "description": "Complete 4 events for get Chihuahua Chase (Dashboard Car Item)",
       "rewards": {
-        "car": "Brutagram (Dashboard Car Item)"
+        "car": "Chihuahua Chase (Dashboard Car Item)"
       },
       "requirement": {}
     },
@@ -22,7 +22,7 @@
       "name": "Playlist",
       "description": "Complete the Main Stage Legacy challenges",
       "rewards": {
-        "car": "Mitsubishi Lancer Evolution x Black Knight Ed."
+        "car": "CHEVROLET CAMARO ZL1 Rift Ed."
       },
       "requirement": {}
     }
