@@ -13,157 +13,293 @@
     {
       "name": "Apex Clash",
       "description": "Complete 3 Summit Activities",
-      "rewards": { "xp": 48000, "bucks": 36000 },
-      "requirement": { "brand": "BMW", "model": "M PERFORMANTE M4 RACING" }
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M PERFORMANTE M4 RACING"
+      }
     },
     {
       "name": "Apex Explorer",
       "description": "Drive from the CARMEET BIG WHEEL (Oahu) to the HALEAKALA OBSERVATORY (Maui) in less than 9mins.",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "BMW", "model": "M PERFORMANTE M4 RACING" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M PERFORMANTE M4 RACING"
+      }
     },
     {
       "name": "Apex Caretaker",
       "description": "Drive above 200km/h speed for 20s continuously WITHOUT ANY COLLISION in FREEDRIVE",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "BMW", "model": "M PERFORMANTE M4 RACING" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M PERFORMANTE M4 RACING"
+      }
     },
     {
       "name": "Apex Cruising",
       "description": "Drive from HALEIWA ISLAND (Oahu) to KE-ANAE POINT (Maui)",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "BMW", "model": "M PERFORMANTE M4 RACING" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M PERFORMANTE M4 RACING"
+      }
     },
     {
       "name": "Apex Liberty",
       "description": "Drive 10km in FREEDRIVE",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "FERRARI", "model": "488 GT3 AF Corse" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "488 GT3 AF Corse"
+      }
     },
     {
       "name": "Apex Paradise",
       "description": "Spend 30min in RED BULL PLAYGROUND in FREEDRIVE",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "FERRARI", "model": "488 GT3 AF Corse" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "488 GT3 AF Corse"
+      }
     },
     {
       "name": "Apex Lightspeed",
       "description": "Reach a speed of 300km/h in RED BULL PLAYGROUND in FREEDRIVE",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "FERRARI", "model": "488 GT3 AF Corse" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "488 GT3 AF Corse"
+      }
     },
     {
       "name": "Apex Tourism",
       "description": "Drive from PU'UNIANIAU to RED BULL PLAYGROUND SMOKY TENT (Maui) in less than 1min 40sec by night",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "FERRARI", "model": "488 GT3 AF Corse" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "488 GT3 AF Corse"
+      }
     },
     {
       "name": "Apex Vertigo",
       "description": "Perform 1 DONUT on the BUSINESS PLAZA HELIPAD (Ohau) in FREEDRIVE",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "FERRARI", "model": "488 GT3 AF Corse" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "488 GT3 AF Corse"
+      }
     },
     {
       "name": "Apex Fast Trip",
       "description": "Drive from HANA to LELE via WAILEA (Maui) in less than 5 mins.",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "FERRARI", "model": "488 GT3 AF Corse" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "488 GT3 AF Corse"
+      }
     },
     {
       "name": "Apex Close call",
       "description": "Perform 15 NEAR MISS above 300km/h in FREEDRIVE",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "FERRARI", "model": "488 GT3 AF Corse" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "488 GT3 AF Corse"
+      }
     },
     {
       "name": "Apex Racer",
       "description": "Cumulate 15min above 200km/h",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "FERRARI", "model": "488 GT3 AF Corse" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "488 GT3 AF Corse"
+      }
     },
     {
       "name": "Apex Gamble",
       "description": "Win ACT 4: ALPHA GAMBLE (Motorsports) in less than 4 mins.",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "FERRARI", "model": "488 GT3 AF Corse" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "488 GT3 AF Corse"
+      }
     },
     {
       "name": "Apex Strategy",
       "description": "Reach a speed of 300km/h in the event ALPHA NITRO and WIN",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "FERRARI", "model": "488 GT3 AF Corse" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "488 GT3 AF Corse"
+      }
     },
     {
       "name": "Apex Edges",
       "description": "Finish THE KTM STRIKES BACK... AGAIN (Off-roading addict vol.2) in less than 3min.",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "FORD", "model": "PUMA Hybrid Rally1" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "PUMA Hybrid Rally1"
+      }
     },
     {
       "name": "Apex Level",
       "description": "Finish BOYZ N THE MUD (Off-roading addict vol.2) with MAX VLVL",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "FORD", "model": "PUMA Hybrid Rally1" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "PUMA Hybrid Rally1"
+      }
     },
     {
       "name": "Apex Sky",
       "description": "Finish WAIMEA SKY (Off-roading vol.1) in less than 3min by night",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "FORD", "model": "PUMA Hybrid Rally1" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "PUMA Hybrid Rally1"
+      }
     },
     {
       "name": "Apex Action!",
       "description": "Reach a speed of 250km/h and WIN SCENE 2: THE TEST (Hollywood Action!)",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "brand": "FORD", "model": "PUMA Hybrid Rally1" }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "brand": "FORD",
+        "model": "PUMA Hybrid Rally1"
+      }
     },
     {
       "name": "Apex Rally",
       "description": "Complete each event with RALLY VEHICLE and COLLECT the reward (Custom Mode)",
-      "rewards": { "xp": 0, "bucks": 0 },
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
       "requirement": {}
     },
     {
       "name": "Apex War",
       "description": "Win SPEED WAR with HYPERCAR, MONSTER TRUCK and DRIFT vehicles (Custom mode)",
-      "rewards": { "xp": 0, "bucks": 0 },
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
       "requirement": {}
     },
     {
       "name": "Apex Collector",
       "description": "Own 5 RALLY vehicles",
-      "rewards": { "xp": 0, "bucks": 0 },
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
       "requirement": {}
     },
     {
       "name": "Apex Legendary",
       "description": "Earn 2 LEGENDARY PERF PART for RALLY vehicle",
-      "rewards": { "xp": 0, "bucks": 0 },
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
       "requirement": {}
     },
     {
       "name": "Apex Pylons",
       "description": "Find all the PYLON COLLECTIBLES located in the REDBULL PLAYGROUND (Maui)",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "item": 7 }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 7
+      }
     },
     {
       "name": "Apex Shelters",
       "description": "Find all the HAWAII TRAIL SHELTERS near the REDBULL PLAYGROUND (Maui)",
-      "rewards": { "xp": 0, "bucks": 0 },
-      "requirement": { "item": 3 }
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {
+        "item": 3
+      }
     },
     {
       "name": "Apex Style",
       "description": "Register a RACING vehicle in the CUSTOM SHOW",
-      "rewards": { "xp": 12000, "bucks": 9000 },
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
       "requirement": {}
     },
     {
       "name": "Apex Gold Digger",
       "description": "Collect 5 TREASURE BOX in MAUI",
-      "rewards": { "xp": 0, "bucks": 0 },
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
       "requirement": {}
     }
   ]
