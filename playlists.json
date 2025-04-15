@@ -349,6 +349,22 @@
       "release": "12/02/2025"
     },
     {
+      "name": "Red Bull Speed Clash",
+      "slug": "red-bull-speed-clash",
+      "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/red-bull-speed-clash.jpg",
+      "themes": [2, 5],
+      "isLegagy": false,
+      "release": "05/03/2025"
+    },
+    {
+      "name": "Red Bull Wild Ride",
+      "slug": "red-bull-wild-ride",
+      "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/red-bull-wild-ride.jpg",
+      "themes": [2, 5],
+      "isLegagy": false,
+      "release": "07/05/2025"
+    },
+    {
       "name": "Racers & Shasers Main Stage Legacy",
       "slug": "racers-shasers-main-stage",
       "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/main-stage-racers-chasers.jpg",
