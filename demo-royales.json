@@ -2,9 +2,9 @@
   "ROTATION_START": 1744797600,
   "EVENT_DURATION": 1200,
   "ROTATION": [
-    ["Kahakuloa", "ST1 > Rally > ST2", "", "OLD"],
-    ["Kalaeloa", "AGP > Hyper > ST1", "", "OLD"],
-    ["Mauna Pele", "...", "", "OLD"],
-    ["Wahiawa Fields", "AGP > Racing > Rally", "Main Stage", "OLD"]
+    ["Kealaloloa", "Maui Island", "", "OLD"],
+    ["Mauna Pele", "Oahu Island", "", "OLD"],
+    ["Kealaloloa", "Maui Island", "", "OLD"],
+    ["Wahiawa", "Oahu Island", "", "OLD"]
   ]
 }
