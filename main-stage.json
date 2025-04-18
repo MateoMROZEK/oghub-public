@@ -1,0 +1,747 @@
+{
+  "2025-04": [
+    {
+      "name": "April 2025",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "PROSCHE 935 2.0 COUPE \"Baby\" Old-Timer Ed.",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "4",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "KIT RACING APEX",
+          "level": "10",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/kit-engine.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2025-03": [
+    {
+      "name": "Red Bull",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "KTM 1190 RC8 R TRACK",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "4",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2025-02": [
+    {
+      "name": "February 2025",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2025-01": [
+    {
+      "name": "January 2025",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2024-12": [
+    {
+      "name": "December 2024",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2024-11": [
+    {
+      "name": "Maui Island",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "51000",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2024-10": [
+    {
+      "name": "October 2024",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2024-09": [
+    {
+      "name": "September 2024",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2024-08": [
+    {
+      "name": "August 2024",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2024-07": [
+    {
+      "name": "Donk vs Lowrider",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2024-06": [
+    {
+      "name": "June 2024",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2024-05": [
+    {
+      "name": "May 2024",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2024-04": [
+    {
+      "name": "April 2024",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2024-03": [
+    {
+      "name": "Hollywood Action !",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2024-02": [
+    {
+      "name": "February 2024",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2024-01": [
+    {
+      "name": "Hoonigan",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2023-12": [
+    {
+      "name": "Gymkhana Grid",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2023-11": [
+    {
+      "name": "European",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2023-10": [
+    {
+      "name": "Japanese",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ],
+  "2023-09": [
+    {
+      "name": "American",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Vehicle Name",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "100",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ]
+    }
+  ]
+}
