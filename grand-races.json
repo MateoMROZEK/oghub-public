@@ -25,6 +25,6 @@
     ["Ma'akua Black Beach", "Hyper > ST2 > AGP", "", "OLD"],
     ["Wailea", "ST2 > Hyper > Racing", "", "OLD"],
     ["Kula", "Racing > AGP > ST2", "", "OLD"],
-    ["Lahaina", "Hyper > ST2 > Racing", "Special Weather", "OLD"]
+    ["Lahaina", "Hyper > ST2 > Racing", "No Collision", "OLD"]
   ]
 }
