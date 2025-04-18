@@ -9,7 +9,7 @@
           "endDate": "1745362800",
           "name": "2 WHEELS VS 4 WHEELS",
           "current": true,
-          "bannerUrl": "http://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/2vs4-april2025.webp",
+          "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/2vs4-april2025.webp",
           "url": "2-wheels-vs-4-wheels",
           "modifiers": "Italian Only",
           "events": [
@@ -123,7 +123,7 @@
           "endDate": "1744758000",
           "name": "DRIFT IN HARMONY",
           "current": false,
-          "bannerUrl": "http://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/drift-in-harmony-april2025.webp",
+          "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/drift-in-harmony-april2025.webp",
           "url": "drift-in-harmony",
           "modifiers": "NITRO INSTANT REFILL",
           "events": [
@@ -237,7 +237,7 @@
           "endDate": "1744153200",
           "name": "Apex Opening",
           "current": false,
-          "bannerUrl": "http://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/apex-opening-april2025.webp",
+          "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/apex-opening-april2025.webp",
           "url": "apex-opening",
           "modifiers": "",
           "events": [
