@@ -1,0 +1,164 @@
+{
+  "2025-04": [
+    {
+      "id": "5",
+      "startDate": "30/04/2025 01:00:00",
+      "endDate": "07/05/2025 01:00:00",
+      "name": "AERIAL CIRCUS",
+      "current": false,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "url": "aerial-circus",
+      "modifiers": "Bugatti Bolide Only",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "100000 XP",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "50000 Bucks",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "5 Legend Points",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "BOLD ROOFTOP",
+          "type": "rank"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "startDate": "23/04/2025 01:00:00",
+      "endDate": "30/04/2025 01:00:00",
+      "name": "KOENINGSEGG SELECTION",
+      "current": false,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "url": "koeningsegg-selection",
+      "modifiers": "Koenigsegg Only",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "100000 XP",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "50000 Bucks",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "5 Legend Points",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "ADVECTION UNDERGLOW - EPIC",
+          "type": "rank"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "startDate": "16/04/2025 01:00:00",
+      "endDate": "23/04/2025 01:00:00",
+      "name": "2 WHEELS VS 4 WHEELS",
+      "current": false,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/2vs4_THUMBNAIL.avif",
+      "url": "2-wheels-vs-4-wheels",
+      "modifiers": "Italian Only",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "100000 XP",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "Koenigsegg Jesko Custom",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "5 Legend Points",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "ADVECTION WINDOW TINT - UNCOMMON",
+          "type": "rank"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "startDate": "09/04/2025 01:00:00",
+      "endDate": "16/04/2025 01:00:00",
+      "name": "DRIFT IN HARMONY",
+      "current": false,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/DRIFT_HARMONY_THUMBNAIL.avif",
+      "url": "drift-in-harmony",
+      "modifiers": "Germany Drift Only",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "100000 XP",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "50000 Bucks",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "5 Legend Points",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "RANBOW TIRE - RARE",
+          "type": "rank"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "startDate": "02/04/2025 01:00:00",
+      "endDate": "09/04/2025 01:00:00",
+      "name": "Apex Opening",
+      "current": false,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/S06_M02_W01_APEX_OPENING_MKT_THUMBNAIL.avif",
+      "url": "apex-opening",
+      "modifiers": "Alpha GP",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "100000 XP",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "BMW Z4 sDrive35is Custom",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "5 Legend Points",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "CHECKERED NITRO - UNCOMMON",
+          "type": "rank"
+        }
+      ]
+    }
+  ]
+}
