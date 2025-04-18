@@ -1,11 +1,242 @@
 {
   "2025-04": [
     {
-      "startDate": "1744758000",
-      "endDate": "1745362800",
+      "id": "9",
+      "startDate": "30/04/2025 01:00:00",
+      "endDate": "07/05/2025 01:00:00",
+      "name": "AERIAL CIRCUS",
+      "current": false,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/",
+      "url": "aerial-circus",
+      "modifiers": "",
+      "events": [
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "10000 Details",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 40000,
+          "rankName": "Silver",
+          "name": "200000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 20000,
+          "rankName": "Gold",
+          "name": "FREEDOM STARS NITRO",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 10000,
+          "rankName": "Platinum",
+          "name": "EXTRA AEROBATIC PLANES - EXTRA 330 SC RED BULL ED. [Exclusive car]",
+          "type": "rank"
+        }
+      ],
+      "guides": [
+        {
+          "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
+          "channelName": "Aurel MG",
+          "channelURL": "https://www.youtube.com/@AurelMG",
+          "url": "https://youtu.be/"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "startDate": "23/04/2025 01:00:00",
+      "endDate": "30/04/2025 01:00:00",
+      "name": "KOENINGSEGG SELECTION",
+      "current": false,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/",
+      "url": "koeningsegg-selection",
+      "modifiers": "",
+      "events": [
+        {
+          "name": "SWEDISH PERFORMANCE",
+          "restriction": "LOADED [Hypercar]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "EUROPEAN ROUTE E45",
+          "restriction": "HYPERCAR",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "JESKO'S LEGACY",
+          "restriction": "HYPERCAR KOENIGSEGG - JESKO",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "NO COMPROMISES",
+          "restriction": "HYPERCAR KOENIGSEGG",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "TAKING ACTION",
+          "restriction": "HYPERCAR KOENIGSEGG - AGERA",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "NO FEAR OF FAILURE",
+          "restriction": "HYPERCAR KOENIGSEGG",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "ESCAPE",
+          "restriction": "HYPERCAR",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "BULLSEYE",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom",
+          "restriction": "HYPERCAR KOENIGSEGG - JESKO",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "100000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "150 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100000 Bucks",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 40000,
+          "rankName": "Silver",
+          "name": "150000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 20000,
+          "rankName": "Gold",
+          "name": "KEONINGSEGG CCR",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 10000,
+          "rankName": "Platinum",
+          "name": "RED FURY NITRO - RARE",
+          "type": "rank"
+        }
+      ],
+      "guides": [
+        {
+          "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
+          "channelName": "Aurel MG",
+          "channelURL": "https://www.youtube.com/@AurelMG",
+          "url": "https://youtu.be/"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "startDate": "16/04/2025 01:00:00",
+      "endDate": "23/04/2025 01:00:00",
       "name": "2 WHEELS VS 4 WHEELS",
-      "current": true,
-      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/2vs4-april2025.webp",
+      "current": false,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/2vs4_THUMBNAIL.avif",
       "url": "2-wheels-vs-4-wheels",
       "modifiers": "Italian Only",
       "events": [
@@ -115,11 +346,12 @@
       ]
     },
     {
-      "startDate": "1744153200",
-      "endDate": "1744758000",
+      "id": "6",
+      "startDate": "09/04/2025 01:00:00",
+      "endDate": "16/04/2025 01:00:00",
       "name": "DRIFT IN HARMONY",
       "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/drift-in-harmony-april2025.webp",
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/DRIFT_HARMONY_THUMBNAIL.avif",
       "url": "drift-in-harmony",
       "modifiers": "NITRO INSTANT REFILL",
       "events": [
@@ -229,11 +461,12 @@
       ]
     },
     {
-      "startDate": "1743548400",
-      "endDate": "1744153200",
+      "id": "5",
+      "startDate": "02/04/2025 01:00:00",
+      "endDate": "09/04/2025 01:00:00",
       "name": "Apex Opening",
       "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/apex-opening-april2025.webp",
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/S06_M02_W01_APEX_OPENING_MKT_THUMBNAIL.avif",
       "url": "apex-opening",
       "modifiers": "",
       "events": [
@@ -341,6 +574,440 @@
           "url": "https://youtu.be/tAGTUc07axY?si=eYyEnpdc30O7tfpa"
         }
       ]
+    }
+  ],
+  "2025-03": [
+    {
+      "id": "4",
+      "startDate": "26/03/2025 01:00:00",
+      "endDate": "05/04/2025 01:00:00",
+      "name": "RALLY BEASTS",
+      "current": true,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/S06_M01_W04_RALLY_BEASTS_MKT_THUMBNAIL.avif",
+      "url": "rally-beasts",
+      "modifiers": "",
+      "events": [
+        {
+          "name": "Azores Rally",
+          "restriction": "Loan [Ford Fiesta Red Bull Edition]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Targa Rally",
+          "restriction": "Rally Car",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Rally Sanremo",
+          "restriction": "Lancia Delta S4",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Bio Bio Rally",
+          "restriction": "Modern Rally Car",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Corsica Rally",
+          "restriction": "Audi S1 EKS RX Quattro",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "D-915 Road Rally",
+          "restriction": "Peugeot 2015 T16 Evo2",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Speedtrap Offroad",
+          "restriction": "Rally",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom Asphalt",
+          "restriction": "Audi S1 EKS RX Quattro",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Escape Offroad",
+          "restriction": "Rally",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "100 000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "150 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100000 Bucks",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "200000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 40000,
+          "rankName": "Silver",
+          "name": "200000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 20000,
+          "rankName": "Gold",
+          "name": "EPIC COIL EFFECT SMOKE",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 10000,
+          "rankName": "Platinum",
+          "name": "FORD FIESTA RED BULL ED. [Exclusive car]",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
+      "id": "3",
+      "startDate": "19/03/2025 01:00:00",
+      "endDate": "26/03/2025 01:00:00",
+      "name": "STEEL STALLIONS",
+      "current": true,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/S06_M01_W03_STEEL_STALLIONS_MKT_THUMBNAIL.avif",
+      "url": "steel-stallions",
+      "modifiers": "",
+      "events": [
+        {
+          "name": "Knock Out",
+          "restriction": "Loan [KTM 450 EXC Red Bull Edition]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Isle of O’ahu",
+          "restriction": "Racing Bike",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Impossible Climb",
+          "restriction": "Rally Raid Bike",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Ma’akua Supercross",
+          "restriction": "KTM 450 EXC Red Bull Edition",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Motorfest Motodrome",
+          "restriction": "Suzuki GSX-RR",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Northshore Enduro",
+          "restriction": "KTM 450 Rally",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Escape Asphalt",
+          "restriction": "Suzuki GSX-RR",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom Water",
+          "restriction": "AGP",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Speedtrap Asphalt",
+          "restriction": "Bike",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "100 000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "150 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100000 Bucks",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "5000 Details",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 40000,
+          "rankName": "Silver",
+          "name": "Perf Part Rally Raid",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 20000,
+          "rankName": "Gold",
+          "name": "BMW R1200GS ADVENTURE RALLY RAID ED.",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 10000,
+          "rankName": "Platinum",
+          "name": "SPARKS NITRO - UNCOMMON",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
+      "id": "2",
+      "startDate": "12/03/2025 01:00:00",
+      "endDate": "19/03/2025 01:00:00",
+      "name": "ALPHA CITY",
+      "current": true,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/S06_M01_W02_ALPHA_CITY_MKT_THUMBNAIL.avif",
+      "url": "alpha-city",
+      "modifiers": "",
+      "events": [
+        {
+          "name": "Waikapu Park",
+          "restriction": "Loan [Alpha Mark II]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Pearl Harbor Circuit",
+          "restriction": "Alpha GP",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Waikiki Ring",
+          "restriction": "Alpha Mark II",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Mamala Bay Street Circuit",
+          "restriction": "French AGP",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "State Capitol Showrun",
+          "restriction": "Proto Concept Glow Motorsport",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Kaneohohe Racing Cource",
+          "restriction": "Proto AGP",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom Asphalt",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Speedtrap",
+          "restriction": "AGP",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom Asphalt",
+          "restriction": "Proto Concept Glow Motorsport",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "100 000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "150 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100000 Bucks",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 40000,
+          "rankName": "Silver",
+          "name": "5 Legend Points",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 20000,
+          "rankName": "Gold",
+          "name": "PROTO Concept Sparrow Competition",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 10000,
+          "rankName": "Platinum",
+          "name": "THE ROCKET CO; UNDERGLOW - UNCOMMON",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
+      "id": "1",
+      "startDate": "05/03/2025 01:00:00",
+      "endDate": "12/03/2025 01:00:00",
+      "name": "BULL RIDES",
+      "current": true,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/S06_M01_W01_BULL_RIDES_MKT_THUMBNAIL.avif",
+      "url": "bull-rides",
+      "modifiers": "",
+      "events": [
+        {
+          "name": "Bronc Riding",
+          "restriction": "Loan [Ferrari 488 GT3 AF Corse]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Not My First Rodeo",
+          "restriction": "RLoan [Ford Puma Hybrid Rally]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Mounted Archery",
+          "restriction": "Loan [KTM X-Bow R Red Bull Ed.]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "The Toreador",
+          "restriction": "Lotus Exige S",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "The Bull Rider",
+          "restriction": "Bentley Continental Supersports",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "The Racing Bull",
+          "restriction": "Red Bull RB14",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Long Jump",
+          "restriction": "Ferrari FXX K",
+          "recommendedCar": "Ferrari FXX K",
+          "metaURL": ""
+        },
+        {
+          "name": "Long Jump",
+          "restriction": "Racing",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Long Jump",
+          "restriction": "RB14",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "100 000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "150 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100000 Bucks",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "5000 Details",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 40000,
+          "rankName": "Silver",
+          "name": "Perf Part Racing",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 20000,
+          "rankName": "Gold",
+          "name": "ACURA NSX GT3",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 10000,
+          "rankName": "Platinum",
+          "name": "IL4 TURBO BULL ENGINE",
+          "type": "rank"
+        }
+      ],
+      "guides": []
     }
   ]
 }
