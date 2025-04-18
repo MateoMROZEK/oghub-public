@@ -26,5 +26,36 @@
     ["Wailea", "ST2 > Hyper > Racing", "", "OLD"],
     ["Kula", "Racing > AGP > ST2", "", "OLD"],
     ["Lahaina", "Hyper > ST2 > Racing", "No Collision", "OLD"]
+  ],
+  "SATURDAY__ROTATION": [
+    ["Kahakuloa", "ST1 > Rally > ST2", "Italian Only", "OLD"],
+    ["Kalaeloa", "AGP > Hyper > ST1", "Italian Only", "OLD"],
+    ["Mauna Pele", "Racing > AGP > ST2", "Italian Only", "OLD"],
+    ["Wahiawa Fields", "AGP > Racing > Rally", "Italian Only", "OLD"],
+    ["Diamond Head", "AGP > Rally > Racing", "Italian Only", "OLD"],
+    ["Kaena Point", "ST1 > Motocross > RR", "Italian Only", "OLD"],
+    ["Diamond Head", "Racing > Hyper > ST2", "Italian Only", "OLD"],
+    ["Kaena Point", "AGP > ST2 > Hyper", "Italian Only", "OLD"],
+    ["Kaneohe", "RR > ST1 > Racing", "Italian Only", "OLD"],
+    ["Haleiwa", "Hyper > Racing > ST2", "Italian Only", "OLD"],
+    ["Ma'akua Black Beach", "ST2 > RR > Racing", "Italian Only", "OLD"],
+    ["Haleiwa", "Rally > AGP > Racing", "Italian Only", "OLD"],
+    ["Waikiki", "Racing > Hyper > ST2", "Italian Only", "OLD"],
+    ["Wailea", "AGP > Hyper > Racing", "Italian Only", "OLD"],
+    ["Kalaeloa", "Motocross > Rally/Plane > Drift", "Italian Only", "OLD"],
+    ["Wahiawa Fields", "AGP > ST2 > Hyper", "Italian Only", "OLD"],
+    ["Mauna Pele", "Rally > ST1 > Hyper", "Italian Only", "OLD"],
+    ["Kealaloloa", "ST1 > RR > Hyper", "Italian Only", "OLD"],
+    [
+      "Nuuanu - Punchbowl",
+      "Motocross > Monster > Rally",
+      "Italian Only",
+      "OLD"
+    ],
+    ["Kahuku", "Hyper > RR > ST2", "Italian Only", "OLD"],
+    ["Ma'akua Black Beach", "Racing > ST2 > AGP", "Italian Only", "OLD"],
+    ["Wailea", "ST2 > Hyper > Racing", "Italian Only", "OLD"],
+    ["Kula", "Racing > AGP > ST2", "Italian Only", "OLD"],
+    ["Lahaina", "Hyper > ST2 > Racing", "Italian Only", "OLD"]
   ]
 }
