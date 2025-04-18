@@ -6,7 +6,7 @@
       "endDate": "07/05/2025 01:00:00",
       "name": "AERIAL CIRCUS",
       "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/",
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
       "url": "aerial-circus",
       "modifiers": "",
       "events": [
@@ -121,7 +121,7 @@
       "endDate": "30/04/2025 01:00:00",
       "name": "KOENINGSEGG SELECTION",
       "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/",
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
       "url": "koeningsegg-selection",
       "modifiers": "",
       "events": [
