@@ -1,350 +1,344 @@
 {
-  "summits": [
+  "2025-04": [
     {
-      "month": "april",
-      "year": "2025",
-      "summits": [
+      "startDate": "1744758000",
+      "endDate": "1745362800",
+      "name": "2 WHEELS VS 4 WHEELS",
+      "current": true,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/2vs4-april2025.webp",
+      "url": "2-wheels-vs-4-wheels",
+      "modifiers": "Italian Only",
+      "events": [
         {
-          "startDate": "1744758000",
-          "endDate": "1745362800",
-          "name": "2 WHEELS VS 4 WHEELS",
-          "current": true,
-          "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/2vs4-april2025.webp",
-          "url": "2-wheels-vs-4-wheels",
-          "modifiers": "Italian Only",
-          "events": [
-            {
-              "name": "Ferrari VS Ducati",
-              "restriction": "Loan [Ferrari FXX K]",
-              "recommendedCar": "Ferrari FXX K",
-              "metaURL": ""
-            },
-            {
-              "name": "Facing Off a Ducati",
-              "restriction": "Racing Ferarri",
-              "recommendedCar": "Ferrari 458 Italia GT2",
-              "metaURL": ""
-            },
-            {
-              "name": "Racing Car Supremacy",
-              "restriction": "Ferrari FXX K",
-              "recommendedCar": "Ferrari FXX K",
-              "metaURL": ""
-            },
-            {
-              "name": "Racing Bike Supremacy",
-              "restriction": "Racing Bike",
-              "recommendedCar": "Ducati Panigale R",
-              "metaURL": ""
-            },
-            {
-              "name": "Challenging a Ferarri",
-              "restriction": "Racing European Bike",
-              "recommendedCar": "Ducati Panigale R",
-              "metaURL": ""
-            },
-            {
-              "name": "Ducati VS Ferrari",
-              "restriction": "Ducati Panigale R",
-              "recommendedCar": "Ducati Panigale R",
-              "metaURL": ""
-            },
-            {
-              "name": "Slalom Asphalt",
-              "restriction": "Ferrari FXX K",
-              "recommendedCar": "Ferrari FXX K",
-              "metaURL": ""
-            },
-            {
-              "name": "Bullseye CAR + PLANE",
-              "restriction": "",
-              "recommendedCar": "Red Bull RB14",
-              "metaURL": ""
-            },
-            {
-              "name": "Slalom Asphalt",
-              "restriction": "Racing",
-              "recommendedCar": "Lamborghini Gallardo LP 570-4 Super Trofeo",
-              "metaURL": ""
-            }
-          ],
-          "rewards": [
-            {
-              "eventsNeed": 3,
-              "name": "100 000 XP",
-              "type": "completion"
-            },
-            {
-              "eventsNeed": 6,
-              "name": "150 P Tickets",
-              "type": "completion"
-            },
-            {
-              "eventsNeed": 9,
-              "name": "100000 Bucks",
-              "type": "completion"
-            },
-            {
-              "eventsNeed": 999999,
-              "rankName": "Bronze",
-              "name": "5000 Details",
-              "type": "rank"
-            },
-            {
-              "eventsNeed": 40000,
-              "rankName": "Silver",
-              "name": "Racing Legendary 3 Randome Parts",
-              "type": "rank"
-            },
-            {
-              "eventsNeed": 20000,
-              "rankName": "Gold",
-              "name": "ALFA ROMEO GIULIA QUADRIFOGLIO",
-              "type": "rank"
-            },
-            {
-              "eventsNeed": 10000,
-              "rankName": "Platinum",
-              "name": "GLOW MOTORSPORT UNDERGLOW - UNCOMMON",
-              "type": "rank"
-            }
-          ],
-          "guides": [
-            {
-              "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
-              "channelName": "Aurel MG",
-              "channelURL": "https://www.youtube.com/@AurelMG",
-              "url": "https://youtu.be/5o0Lyb03Sho?si=f3mcH9o6IG0QEVUU"
-            }
-          ]
+          "name": "Ferrari VS Ducati",
+          "restriction": "Loan [Ferrari FXX K]",
+          "recommendedCar": "Ferrari FXX K",
+          "metaURL": ""
         },
         {
-          "startDate": "1744153200",
-          "endDate": "1744758000",
-          "name": "DRIFT IN HARMONY",
-          "current": false,
-          "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/drift-in-harmony-april2025.webp",
-          "url": "drift-in-harmony",
-          "modifiers": "NITRO INSTANT REFILL",
-          "events": [
-            {
-              "name": "ULTIMATE RACETRACK",
-              "restriction": "LOANED",
-              "recommendedCar": "BMW M4 RED BULL DRIFTBROTHERS",
-              "metaURL": ""
-            },
-            {
-              "name": "AIRPORT TERMINAL D",
-              "restriction": "",
-              "recommendedCar": "Hoonigan Audi S1 e-tron quattro Hoonitron",
-              "metaURL": ""
-            },
-            {
-              "name": "A RAINY DAY IN OAHU",
-              "restriction": "",
-              "recommendedCar": "BMW Z4 sDrive35is",
-              "metaURL": ""
-            },
-            {
-              "name": "BROTHERS",
-              "restriction": "",
-              "recommendedCar": "Hoonigan Audi S1 e-tron quattro Hoonitron",
-              "metaURL": ""
-            },
-            {
-              "name": "SHIFTERS",
-              "restriction": "",
-              "recommendedCar": "BMW M5",
-              "metaURL": ""
-            },
-            {
-              "name": "MASTERS",
-              "restriction": "",
-              "recommendedCar": "BMW Z4 sDrive35is",
-              "metaURL": ""
-            },
-            {
-              "name": "Escape",
-              "restriction": "",
-              "recommendedCar": "Bugatti Centodieci",
-              "metaURL": ""
-            },
-            {
-              "name": "Slalom",
-              "restriction": "",
-              "recommendedCar": "Proto WR1",
-              "metaURL": ""
-            },
-            {
-              "name": "Bullseye",
-              "restriction": "",
-              "recommendedCar": "Ivory-Tower IVT AGP R-07",
-              "metaURL": ""
-            }
-          ],
-          "rewards": [
-            {
-              "eventsNeed": 3,
-              "name": "100 000 XP",
-              "type": "completion"
-            },
-            {
-              "eventsNeed": 6,
-              "name": "300 P Tickets",
-              "type": "completion"
-            },
-            {
-              "eventsNeed": 9,
-              "name": "100000 Bucks",
-              "type": "completion"
-            },
-            {
-              "eventsNeed": 999999,
-              "rankName": "Bronze",
-              "name": "100000 XP",
-              "type": "rank"
-            },
-            {
-              "eventsNeed": 40000,
-              "rankName": "Silver",
-              "name": "5 Legend Points",
-              "type": "rank"
-            },
-            {
-              "eventsNeed": 20000,
-              "rankName": "Gold",
-              "name": "RUF CTR-3",
-              "type": "rank"
-            },
-            {
-              "eventsNeed": 10000,
-              "rankName": "Platinum",
-              "name": "RAINBOW TRAIL SMOKE - RARE",
-              "type": "rank"
-            }
-          ],
-          "guides": [
-            {
-              "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
-              "channelName": "Aurel MG",
-              "channelURL": "https://www.youtube.com/@AurelMG",
-              "url": "https://youtu.be/tAGTUc07axY?si=eYyEnpdc30O7tfpa"
-            }
-          ]
+          "name": "Facing Off a Ducati",
+          "restriction": "Racing Ferarri",
+          "recommendedCar": "Ferrari 458 Italia GT2",
+          "metaURL": ""
         },
         {
-          "startDate": "1743548400",
-          "endDate": "1744153200",
-          "name": "Apex Opening",
-          "current": false,
-          "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/apex-opening-april2025.webp",
-          "url": "apex-opening",
-          "modifiers": "",
-          "events": [
-            {
-              "name": "Free Practice",
-              "restriction": "Alpha GP",
-              "recommendedCar": "Red Bull RB14",
-              "metaURL": ""
-            },
-            {
-              "name": "Qualifying",
-              "restriction": "Alpha GP",
-              "recommendedCar": "Red Bull RB14 Disruption Edition",
-              "metaURL": ""
-            },
-            {
-              "name": "Night Duel",
-              "restriction": "Alpha GP - Red Bull - RB13",
-              "recommendedCar": "Red Bull RB13",
-              "metaURL": ""
-            },
-            {
-              "name": "Formation Laps",
-              "restriction": "Alpha GP - UK",
-              "recommendedCar": "Red Bull RB13",
-              "metaURL": ""
-            },
-            {
-              "name": "Sprint Shootout",
-              "restriction": "Alpha GP - Red Bull - RB14 D. Ed",
-              "recommendedCar": "Red Bull RB14 Disruption Edition",
-              "metaURL": ""
-            },
-            {
-              "name": "Hanauma Grand Prix",
-              "restriction": "Alpha GP - Red Bull",
-              "recommendedCar": "Red Bull RB14 Disruption Edition",
-              "metaURL": ""
-            },
-            {
-              "name": "Slalom",
-              "restriction": "Alpha GP",
-              "recommendedCar": "",
-              "metaURL": ""
-            },
-            {
-              "name": "Slalom",
-              "restriction": "Alpha GP",
-              "recommendedCar": "",
-              "metaURL": ""
-            },
-            {
-              "name": "Slalom",
-              "restriction": "Alpha GP - Red Bull - RB14 D. Ed.",
-              "recommendedCar": "Red Bull RB14 Disruption Edition",
-              "metaURL": ""
-            }
-          ],
-          "rewards": [
-            {
-              "eventsNeed": 3,
-              "name": "100 000 XP",
-              "type": "completion"
-            },
-            {
-              "eventsNeed": 6,
-              "name": "150 P Tickets",
-              "type": "completion"
-            },
-            {
-              "eventsNeed": 9,
-              "name": "100000 Bucks",
-              "type": "completion"
-            },
-            {
-              "eventsNeed": 999999,
-              "rankName": "Bronze",
-              "name": "5000 Details",
-              "type": "rank"
-            },
-            {
-              "eventsNeed": 40000,
-              "rankName": "Silver",
-              "name": "Alpha GP Legendary random parts 3 pieces",
-              "type": "rank"
-            },
-            {
-              "eventsNeed": 20000,
-              "rankName": "Gold",
-              "name": "KTM X-Bow R (Alpha Grand Prix Edition)",
-              "type": "rank"
-            },
-            {
-              "eventsNeed": 10000,
-              "rankName": "Platinum",
-              "name": "Laurel Tire - RARE",
-              "type": "rank"
-            }
-          ],
-          "guides": [
-            {
-              "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
-              "channelName": "Aurel MG",
-              "channelURL": "https://www.youtube.com/@AurelMG",
-              "url": "https://youtu.be/tAGTUc07axY?si=eYyEnpdc30O7tfpa"
-            }
-          ]
+          "name": "Racing Car Supremacy",
+          "restriction": "Ferrari FXX K",
+          "recommendedCar": "Ferrari FXX K",
+          "metaURL": ""
+        },
+        {
+          "name": "Racing Bike Supremacy",
+          "restriction": "Racing Bike",
+          "recommendedCar": "Ducati Panigale R",
+          "metaURL": ""
+        },
+        {
+          "name": "Challenging a Ferarri",
+          "restriction": "Racing European Bike",
+          "recommendedCar": "Ducati Panigale R",
+          "metaURL": ""
+        },
+        {
+          "name": "Ducati VS Ferrari",
+          "restriction": "Ducati Panigale R",
+          "recommendedCar": "Ducati Panigale R",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom Asphalt",
+          "restriction": "Ferrari FXX K",
+          "recommendedCar": "Ferrari FXX K",
+          "metaURL": ""
+        },
+        {
+          "name": "Bullseye CAR + PLANE",
+          "restriction": "",
+          "recommendedCar": "Red Bull RB14",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom Asphalt",
+          "restriction": "Racing",
+          "recommendedCar": "Lamborghini Gallardo LP 570-4 Super Trofeo",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "100 000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "150 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100000 Bucks",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "5000 Details",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 40000,
+          "rankName": "Silver",
+          "name": "Racing Legendary 3 Randome Parts",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 20000,
+          "rankName": "Gold",
+          "name": "ALFA ROMEO GIULIA QUADRIFOGLIO",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 10000,
+          "rankName": "Platinum",
+          "name": "GLOW MOTORSPORT UNDERGLOW - UNCOMMON",
+          "type": "rank"
+        }
+      ],
+      "guides": [
+        {
+          "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
+          "channelName": "Aurel MG",
+          "channelURL": "https://www.youtube.com/@AurelMG",
+          "url": "https://youtu.be/5o0Lyb03Sho?si=f3mcH9o6IG0QEVUU"
+        }
+      ]
+    },
+    {
+      "startDate": "1744153200",
+      "endDate": "1744758000",
+      "name": "DRIFT IN HARMONY",
+      "current": false,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/drift-in-harmony-april2025.webp",
+      "url": "drift-in-harmony",
+      "modifiers": "NITRO INSTANT REFILL",
+      "events": [
+        {
+          "name": "ULTIMATE RACETRACK",
+          "restriction": "LOANED",
+          "recommendedCar": "BMW M4 RED BULL DRIFTBROTHERS",
+          "metaURL": ""
+        },
+        {
+          "name": "AIRPORT TERMINAL D",
+          "restriction": "",
+          "recommendedCar": "Hoonigan Audi S1 e-tron quattro Hoonitron",
+          "metaURL": ""
+        },
+        {
+          "name": "A RAINY DAY IN OAHU",
+          "restriction": "",
+          "recommendedCar": "BMW Z4 sDrive35is",
+          "metaURL": ""
+        },
+        {
+          "name": "BROTHERS",
+          "restriction": "",
+          "recommendedCar": "Hoonigan Audi S1 e-tron quattro Hoonitron",
+          "metaURL": ""
+        },
+        {
+          "name": "SHIFTERS",
+          "restriction": "",
+          "recommendedCar": "BMW M5",
+          "metaURL": ""
+        },
+        {
+          "name": "MASTERS",
+          "restriction": "",
+          "recommendedCar": "BMW Z4 sDrive35is",
+          "metaURL": ""
+        },
+        {
+          "name": "Escape",
+          "restriction": "",
+          "recommendedCar": "Bugatti Centodieci",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom",
+          "restriction": "",
+          "recommendedCar": "Proto WR1",
+          "metaURL": ""
+        },
+        {
+          "name": "Bullseye",
+          "restriction": "",
+          "recommendedCar": "Ivory-Tower IVT AGP R-07",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "100 000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "300 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100000 Bucks",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 40000,
+          "rankName": "Silver",
+          "name": "5 Legend Points",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 20000,
+          "rankName": "Gold",
+          "name": "RUF CTR-3",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 10000,
+          "rankName": "Platinum",
+          "name": "RAINBOW TRAIL SMOKE - RARE",
+          "type": "rank"
+        }
+      ],
+      "guides": [
+        {
+          "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
+          "channelName": "Aurel MG",
+          "channelURL": "https://www.youtube.com/@AurelMG",
+          "url": "https://youtu.be/tAGTUc07axY?si=eYyEnpdc30O7tfpa"
+        }
+      ]
+    },
+    {
+      "startDate": "1743548400",
+      "endDate": "1744153200",
+      "name": "Apex Opening",
+      "current": false,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/apex-opening-april2025.webp",
+      "url": "apex-opening",
+      "modifiers": "",
+      "events": [
+        {
+          "name": "Free Practice",
+          "restriction": "Alpha GP",
+          "recommendedCar": "Red Bull RB14",
+          "metaURL": ""
+        },
+        {
+          "name": "Qualifying",
+          "restriction": "Alpha GP",
+          "recommendedCar": "Red Bull RB14 Disruption Edition",
+          "metaURL": ""
+        },
+        {
+          "name": "Night Duel",
+          "restriction": "Alpha GP - Red Bull - RB13",
+          "recommendedCar": "Red Bull RB13",
+          "metaURL": ""
+        },
+        {
+          "name": "Formation Laps",
+          "restriction": "Alpha GP - UK",
+          "recommendedCar": "Red Bull RB13",
+          "metaURL": ""
+        },
+        {
+          "name": "Sprint Shootout",
+          "restriction": "Alpha GP - Red Bull - RB14 D. Ed",
+          "recommendedCar": "Red Bull RB14 Disruption Edition",
+          "metaURL": ""
+        },
+        {
+          "name": "Hanauma Grand Prix",
+          "restriction": "Alpha GP - Red Bull",
+          "recommendedCar": "Red Bull RB14 Disruption Edition",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom",
+          "restriction": "Alpha GP",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom",
+          "restriction": "Alpha GP",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom",
+          "restriction": "Alpha GP - Red Bull - RB14 D. Ed.",
+          "recommendedCar": "Red Bull RB14 Disruption Edition",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "100 000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "150 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100000 Bucks",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "5000 Details",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 40000,
+          "rankName": "Silver",
+          "name": "Alpha GP Legendary random parts 3 pieces",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 20000,
+          "rankName": "Gold",
+          "name": "KTM X-Bow R (Alpha Grand Prix Edition)",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 10000,
+          "rankName": "Platinum",
+          "name": "Laurel Tire - RARE",
+          "type": "rank"
+        }
+      ],
+      "guides": [
+        {
+          "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
+          "channelName": "Aurel MG",
+          "channelURL": "https://www.youtube.com/@AurelMG",
+          "url": "https://youtu.be/tAGTUc07axY?si=eYyEnpdc30O7tfpa"
         }
       ]
     }
