@@ -66,6 +66,11 @@
           "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
+          "name": "APEX UNDERGLOW - UNCOMMON",
+          "level": "10",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
           "name": "EPIC Title",
           "level": "20",
           "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
