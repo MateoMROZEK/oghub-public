@@ -11,56 +11,56 @@
       "modifiers": "",
       "events": [
         {
-          "name": "",
-          "restriction": "",
+          "name": "Flying Bull",
+          "restriction": "Plane (Loaned)",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "restriction": "",
+          "name": "Maximum Altitude",
+          "restriction": "Helicopter",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "restriction": "",
+          "name": "Helicopt'air Race",
+          "restriction": "Helicopter - Proto - A500",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "restriction": "",
+          "name": "Patrouille de Gawaii",
+          "restriction": "JET [New Car] - (Loaned)",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "restriction": "",
+          "name": "Barrnstroming",
+          "restriction": "Plane - WACO Aircraft Corp. - YMF-5D SUPER",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "restriction": "",
+          "name": "GUEEN BEE",
+          "restriction": "Plane - GRANDVILLE BROTHERS AIRCRAFT - GEE BEE R-1",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "restriction": "",
+          "name": "Speedtrap",
+          "restriction": "Plane",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "restriction": "",
+          "name": "Acrobatics",
+          "restriction": "Plane",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "restriction": "",
+          "name": "Escape",
+          "restriction": "Plane - GRANDVILLE BROTHERS AIRCRAFT - GEE BEE R-1",
           "recommendedCar": "",
           "metaURL": ""
         }
@@ -68,17 +68,17 @@
       "rewards": [
         {
           "eventsNeed": 3,
-          "name": "",
+          "name": "200000 XP",
           "type": "completion"
         },
         {
           "eventsNeed": 6,
-          "name": "",
+          "name": "RED CONFETTIS SMOKE - UNCOMMON",
           "type": "completion"
         },
         {
           "eventsNeed": 9,
-          "name": "",
+          "name": "300 P Tickets",
           "type": "completion"
         },
         {
@@ -227,8 +227,8 @@
           "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
           "channelName": "Aurel MG",
           "channelURL": "https://www.youtube.com/@AurelMG",
-          "url": "https://youtu.be/",
-          "urlEmbed": "https://www.youtube.com/embed/"
+          "url": "https://youtu.be/oOosQjgsiD4",
+          "urlEmbed": "https://www.youtube.com/embed/oOosQjgsiD4"
         }
       ]
     },
