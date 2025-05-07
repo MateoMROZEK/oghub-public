@@ -3,7 +3,7 @@
   "EVENT_DURATION": 1200,
   "ROTATION": [
     ["Kealaloloa", "Maui Island", "JET !", "OLD"],
-    ["Mauna Pele", "Oahu Island", "", "OLD"],
+    ["Mauna Pele", "Oahu Island", "JET !", "OLD"],
     ["Kealaloloa", "Maui Island", "", "OLD"],
     ["Wahiawa", "Oahu Island", "", "OLD"]
   ]
