@@ -360,7 +360,7 @@
       "name": "Red Bull Wild Ride",
       "slug": "red-bull-wild-ride",
       "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/red-bull-wild-ride.jpg",
-      "themes": [2, 5],
+      "themes": [1],
       "isLegagy": false,
       "release": "07/05/2025"
     },

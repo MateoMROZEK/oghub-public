@@ -3,7 +3,7 @@
     "name": "Red Bull Wild Ride",
     "slug": "red-bull-wild-ride",
     "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/red-bull-wild-ride.jpg",
-    "themes": [1, 2, 6],
+    "themes": [1],
     "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/red-bull-wild-ride.png",
     "isLegagy": false,
     "release": "07/05/2025",
@@ -11,296 +11,297 @@
   },
   "challenges": [
     {
-      "name": "Apex Clash",
-      "description": "Complete 3 Summit Activities",
+      "name": "Bold Ride",
+      "description": "Drive 10km in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "450 EXC Robbie Maddison Ed."
+      }
+    },
+    {
+      "name": "Bold Shot",
+      "description": "Use the RED BULL CANNON in REDBULL PLAYGROUND (Maui) in Freedrive",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "450 EXC Robbie Maddison Ed."
+      }
+    },
+    {
+      "name": "Bold Rush",
+      "description": "Drive from RED BULL PLAYGROUND SMOKY TENT to KAHO'OLAWE (Maui) in less than 3min.",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "450 EXC Robbie Maddison Ed."
+      }
+    },
+    {
+      "name": "Bold and Dirty",
+      "description": "Drive fro mHALEAKALA OBSERVATORY to the LITTLE ISLAND near MOKULAU BEACH (Maui) without touching ASPHALT",
       "rewards": {
         "xp": 48000,
         "bucks": 36000
       },
       "requirement": {
-        "brand": "BMW",
-        "model": "M PERFORMANTE M4 RACING"
+        "brand": "KTM",
+        "model": "450 EXC Robbie Maddison Ed."
       }
     },
     {
-      "name": "Apex Explorer",
-      "description": "Drive from the CARMEET BIG WHEEL (Oahu) to the HALEAKALA OBSERVATORY (Maui) in less than 9mins.",
+      "name": "Bold Tourism",
+      "description": "Visit the MAUI ARBORETUM (Maui) in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "450 EXC Robbie Maddison Ed."
+      }
+    },
+    {
+      "name": "Bold Surfin'",
+      "description": "Perform 5 WHEELIE in IAO LAKE (Maui) in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "450 EXC Robbie Maddison Ed."
+      }
+    },
+    {
+      "name": "Bold and Wet",
+      "description": "Spend 15 min on WATER in FREEDRIVE",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "450 EXC Robbie Maddison Ed."
+      }
+    },
+    {
+      "name": "Bold Acrobat",
+      "description": "Perform 5 BACKFLIP in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "450 EXC Robbie Maddison Ed."
+      }
+    },
+    {
+      "name": "Bold Search",
+      "description": "Find the UBISOFT Logo in MAUI",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "AUDI",
+        "model": "RS Q e-tron"
+      }
+    },
+    {
+      "name": "Bold Stunts",
+      "description": "Perform 5 GROUND SPIN in the REDBULL PLAYGROUND (Maui) in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "AUDI",
+        "model": "RS Q e-tron"
+      }
+    },
+    {
+      "name": "Bold Birdy",
+      "description": "Perform 10 JUMP in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "AUDI",
+        "model": "RS Q e-tron"
+      }
+    },
+    {
+      "name": "Bold Expedition",
+      "description": "Visit PU'U KOA'E TOP (Maui) in FREEDRIVE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "AUDI",
+        "model": "RS Q e-tron"
+      }
+    },
+    {
+      "name": "Bold Delicacy",
+      "description": "Win RAPTOR x DELICACY (Rule the Streets)",
       "rewards": {
         "xp": 0,
         "bucks": 0
       },
       "requirement": {
-        "brand": "BMW",
-        "model": "M PERFORMANTE M4 RACING"
+        "brand": "AUDI",
+        "model": "RS Q e-tron"
       }
     },
     {
-      "name": "Apex Caretaker",
-      "description": "Drive above 200km/h speed for 20s continuously WITHOUT ANY COLLISION in FREEDRIVE",
+      "name": "Bold Move",
+      "description": "Perform a DONUT on the MAUI COUNTY MAYOR HELIPAD (Maui) in FREEDRIVE",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
       },
       "requirement": {
-        "brand": "BMW",
-        "model": "M PERFORMANTE M4 RACING"
+        "brand": "RED BULL",
+        "model": "RB14 Disruption Edition"
       }
     },
     {
-      "name": "Apex Cruising",
-      "description": "Drive from HALEIWA ISLAND (Oahu) to KE-ANAE POINT (Maui)",
+      "name": "Bold Loop",
+      "description": "Drive in the CARMEET LOOPING (Oahu)",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
       },
       "requirement": {
-        "brand": "BMW",
-        "model": "M PERFORMANTE M4 RACING"
+        "brand": "RED BULL",
+        "model": "RB14 Disruption Edition"
       }
     },
     {
-      "name": "Apex Liberty",
-      "description": "Drive 10km in FREEDRIVE",
+      "name": "Bold Feats",
+      "description": "Finish 3 LONG JUMP Feats",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
       },
       "requirement": {
-        "brand": "FERRARI",
-        "model": "488 GT3 AF Corse"
+        "brand": "RED BULL",
+        "model": "RB14 Disruption Edition"
       }
     },
     {
-      "name": "Apex Paradise",
-      "description": "Spend 30min in RED BULL PLAYGROUND in FREEDRIVE",
+      "name": "Bold Cruising",
+      "description": "Travel 100km",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {
-        "brand": "FERRARI",
-        "model": "488 GT3 AF Corse"
-      }
-    },
-    {
-      "name": "Apex Lightspeed",
-      "description": "Reach a speed of 300km/h in RED BULL PLAYGROUND in FREEDRIVE",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {
-        "brand": "FERRARI",
-        "model": "488 GT3 AF Corse"
-      }
-    },
-    {
-      "name": "Apex Tourism",
-      "description": "Drive from PU'UNIANIAU to RED BULL PLAYGROUND SMOKY TENT (Maui) in less than 1min 40sec by night",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {
-        "brand": "FERRARI",
-        "model": "488 GT3 AF Corse"
-      }
-    },
-    {
-      "name": "Apex Vertigo",
-      "description": "Perform 1 DONUT on the BUSINESS PLAZA HELIPAD (Ohau) in FREEDRIVE",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {
-        "brand": "FERRARI",
-        "model": "488 GT3 AF Corse"
-      }
-    },
-    {
-      "name": "Apex Fast Trip",
-      "description": "Drive from HANA to LELE via WAILEA (Maui) in less than 5 mins.",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {
-        "brand": "FERRARI",
-        "model": "488 GT3 AF Corse"
-      }
-    },
-    {
-      "name": "Apex Close call",
-      "description": "Perform 15 NEAR MISS above 300km/h in FREEDRIVE",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {
-        "brand": "FERRARI",
-        "model": "488 GT3 AF Corse"
-      }
-    },
-    {
-      "name": "Apex Racer",
-      "description": "Cumulate 15min above 200km/h",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {
-        "brand": "FERRARI",
-        "model": "488 GT3 AF Corse"
-      }
-    },
-    {
-      "name": "Apex Gamble",
-      "description": "Win ACT 4: ALPHA GAMBLE (Motorsports) in less than 4 mins.",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {
-        "brand": "FERRARI",
-        "model": "488 GT3 AF Corse"
-      }
-    },
-    {
-      "name": "Apex Strategy",
-      "description": "Reach a speed of 300km/h in the event ALPHA NITRO and WIN",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {
-        "brand": "FERRARI",
-        "model": "488 GT3 AF Corse"
-      }
-    },
-    {
-      "name": "Apex Edges",
-      "description": "Finish THE KTM STRIKES BACK... AGAIN (Off-roading addict vol.2) in less than 3min.",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {
-        "brand": "FORD",
-        "model": "PUMA Hybrid Rally1"
-      }
-    },
-    {
-      "name": "Apex Level",
-      "description": "Finish BOYZ N THE MUD (Off-roading addict vol.2) with MAX VLVL",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {
-        "brand": "FORD",
-        "model": "PUMA Hybrid Rally1"
-      }
-    },
-    {
-      "name": "Apex Sky",
-      "description": "Finish WAIMEA SKY (Off-roading vol.1) in less than 3min by night",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {
-        "brand": "FORD",
-        "model": "PUMA Hybrid Rally1"
-      }
-    },
-    {
-      "name": "Apex Action!",
-      "description": "Reach a speed of 250km/h and WIN SCENE 2: THE TEST (Hollywood Action!)",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {
-        "brand": "FORD",
-        "model": "PUMA Hybrid Rally1"
-      }
-    },
-    {
-      "name": "Apex Rally",
-      "description": "Complete each event with RALLY VEHICLE and COLLECT the reward (Custom Mode)",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 48000,
+        "bucks": 36000
       },
       "requirement": {}
     },
     {
-      "name": "Apex War",
-      "description": "Win SPEED WAR with HYPERCAR, MONSTER TRUCK and DRIFT vehicles (Custom mode)",
+      "name": "Bold and American",
+      "description": "Finish TALLAHASEE MELEE (American Muscle) in less than 4min.",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {}
-    },
-    {
-      "name": "Apex Collector",
-      "description": "Own 5 RALLY vehicles",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {}
-    },
-    {
-      "name": "Apex Legendary",
-      "description": "Earn 2 LEGENDARY PERF PART for RALLY vehicle",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {}
-    },
-    {
-      "name": "Apex Pylons",
-      "description": "Find all the PYLON COLLECTIBLES located in the REDBULL PLAYGROUND (Maui)",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
       },
       "requirement": {
-        "item": 7
+        "brand": "KTM",
+        "model": "450 EXC Robbie Maddison Ed."
       }
     },
     {
-      "name": "Apex Shelters",
-      "description": "Find all the HAWAII TRAIL SHELTERS near the REDBULL PLAYGROUND (Maui)",
+      "name": "Bold Spin",
+      "description": "Drive from KAOHIKAIPU ISLAND to CHINAMAN'S HAT (Oahu) in less than 4min",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "KTM",
+        "model": "450 EXC Robbie Maddison Ed."
+      }
+    },
+    {
+      "name": "Bold Scene",
+      "description": "Win tHE PREMIERE (Hollywood Action!)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "RED BULL",
+        "model": "RB14 Disruption Edition"
+      }
+    },
+    {
+      "name": "Bold 50s",
+      "description": "Finish BACK IN TIME (Vintage garage)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "RED BULL",
+        "model": "RB14 Disruption Edition"
+      }
+    },
+    {
+      "name": "Bold VIP",
+      "description": "Earn PRESTIGE TICKET (Custom Mode)",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "item": 500
+      }
+    },
+    {
+      "name": "Bold Racer",
+      "description": "Finish 3 GRAND RACE",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
       },
       "requirement": {
         "item": 3
       }
     },
     {
-      "name": "Apex Style",
-      "description": "Register a RACING vehicle in the CUSTOM SHOW",
+      "name": "Bold Activities",
+      "description": "Finish 6 SUMMIT ACTIVITIES",
       "rewards": {
-        "xp": 12000,
-        "bucks": 9000
+        "xp": 80000,
+        "bucks": 60000
       },
-      "requirement": {}
+      "requirement": {
+        "item": 6
+      }
     },
     {
-      "name": "Apex Gold Digger",
-      "description": "Collect 5 TREASURE BOX in MAUI",
+      "name": "Bold Explorer",
+      "description": "Find all the ISLES around MAUI",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 40000,
+        "bucks": 40000
       },
-      "requirement": {}
+      "requirement": {
+        "item": 8
+      }
     }
   ]
 }
