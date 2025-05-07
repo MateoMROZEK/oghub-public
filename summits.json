@@ -1,4 +1,526 @@
 {
+  "2025-05": [
+    {
+      "id": "11",
+      "startDate": "28/04/2025 01:00:00",
+      "endDate": "04/06/2025 01:00:00",
+      "name": "Crater Chaos",
+      "current": false,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "url": "crater-chaos",
+      "modifiers": "",
+      "events": [
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "100000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "150 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100000 Bucks",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 40000,
+          "rankName": "Silver",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 20000,
+          "rankName": "Gold",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 10000,
+          "rankName": "Platinum",
+          "name": "",
+          "type": "rank"
+        }
+      ],
+      "guides": [
+        {
+          "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
+          "channelName": "Aurel MG",
+          "channelURL": "https://www.youtube.com/@AurelMG",
+          "url": "https://youtu.be/",
+          "urlEmbed": "https://www.youtube.com/embed/"
+        },
+        {
+          "name": "The Crew Motorfest: \"CRATER CHAOS\" Live Summit",
+          "channelName": "Akor",
+          "channelURL": "https://www.youtube.com/@Akor",
+          "url": "https://youtu.be/",
+          "urlEmbed": "https://www.youtube.com/embed/"
+        },
+        {
+          "name": "The Crew Motorfest CRATER CHAOS SUMMIT GUIDE with PRO SETTINGS",
+          "channelName": "RynoTheRaccoon",
+          "channelURL": "https://www.youtube.com/@rynotheraccoon",
+          "url": "https://youtu.be/",
+          "urlEmbed": "https://www.youtube.com/embed/"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "startDate": "21/04/2025 01:00:00",
+      "endDate": "28/05/2025 01:00:00",
+      "name": "Forest Quests",
+      "current": false,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "url": "forest-quests",
+      "modifiers": "",
+      "events": [
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "100000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "150 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100000 Bucks",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 40000,
+          "rankName": "Silver",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 20000,
+          "rankName": "Gold",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 10000,
+          "rankName": "Platinum",
+          "name": "",
+          "type": "rank"
+        }
+      ],
+      "guides": [
+        {
+          "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
+          "channelName": "Aurel MG",
+          "channelURL": "https://www.youtube.com/@AurelMG",
+          "url": "https://youtu.be/",
+          "urlEmbed": "https://www.youtube.com/embed/"
+        },
+        {
+          "name": "The Crew Motorfest: \"FOREST QUESTS\" Live Summit",
+          "channelName": "Akor",
+          "channelURL": "https://www.youtube.com/@Akor",
+          "url": "https://youtu.be/",
+          "urlEmbed": "https://www.youtube.com/embed/"
+        },
+        {
+          "name": "The Crew Motorfest FOREST QUESTS SUMMIT GUIDE with PRO SETTINGS",
+          "channelName": "RynoTheRaccoon",
+          "channelURL": "https://www.youtube.com/@rynotheraccoon",
+          "url": "https://youtu.be/",
+          "urlEmbed": "https://www.youtube.com/embed/"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "startDate": "14/04/2025 01:00:00",
+      "endDate": "21/05/2025 01:00:00",
+      "name": "Coastal Adventures",
+      "current": false,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "url": "coastal-adventures",
+      "modifiers": "",
+      "events": [
+        {
+          "name": "A Coastline Expedition",
+          "restriction": "Loan [Powerboat]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "A Boat in the dark",
+          "restriction": "Powerboat",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "A Luxury Journey",
+          "restriction": "Lamborghini - Tecnomar for Lamborghini 63",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "A West Coast Road Trip",
+          "restriction": "Rally Raid - USA",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "A Night Ashore",
+          "restriction": "Rally Raid - Ford",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "A Travel Vlog",
+          "restriction": "Rally Raid - Ford BRONCO",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Buoy Smashing - Powerboat",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Bullseye",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom - Ford Bronco",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "100000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "150 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100000 Bucks",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100000 xp",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 40000,
+          "rankName": "Silver",
+          "name": "5 Legend Points",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 20000,
+          "rankName": "Gold",
+          "name": "Ariel Nomad",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 10000,
+          "rankName": "Platinum",
+          "name": "Salem Legacy Smoke - Epic",
+          "type": "rank"
+        }
+      ],
+      "guides": [
+        {
+          "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
+          "channelName": "Aurel MG",
+          "channelURL": "https://www.youtube.com/@AurelMG",
+          "url": "https://youtu.be/",
+          "urlEmbed": "https://www.youtube.com/embed/"
+        },
+        {
+          "name": "The Crew Motorfest: \"Coastal Adventures\" Live Summit",
+          "channelName": "Akor",
+          "channelURL": "https://www.youtube.com/@Akor",
+          "url": "https://youtu.be/",
+          "urlEmbed": "https://www.youtube.com/embed/"
+        },
+        {
+          "name": "The Crew Motorfest Coastal Adventures SUMMIT GUIDE with PRO SETTINGS",
+          "channelName": "RynoTheRaccoon",
+          "channelURL": "https://www.youtube.com/@rynotheraccoon",
+          "url": "https://youtu.be/",
+          "urlEmbed": "https://www.youtube.com/embed/"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "startDate": "07/05/2025 01:00:00",
+      "endDate": "14/05/2025 01:00:00",
+      "name": "BULLS and TRAILS",
+      "current": false,
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/BULLS_AND_TRAILS_THUMBNAIL.avif",
+      "url": "bulls-and-trails",
+      "modifiers": "",
+      "events": [
+        {
+          "name": "Electrik",
+          "restriction": "Loan [Audi RS Q E-Tron]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Trickster's Playground",
+          "restriction": "Hypercar",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Tricks or Retreat",
+          "restriction": "Ford F-150 SVT Raptor EVO",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Tricks of The Raid",
+          "restriction": "Loan - Ford F-150 SVT Raptor EVO",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Maseratricks",
+          "restriction": "Maserati MC20 Cielo",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Clock's Tricking",
+          "restriction": "Mazda RX-8 Pearl Edition + Prod Form",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Bullseye",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Low Altitude",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom - Water",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "100000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "150 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100000 Bucks",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "5000 Details",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 40000,
+          "rankName": "Silver",
+          "name": "Hypercar Legendary random parts 3 pieces",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 20000,
+          "rankName": "Gold",
+          "name": "Ford GT",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 10000,
+          "rankName": "Platinum",
+          "name": "Motorfest x Underglow - Uncommon",
+          "type": "rank"
+        }
+      ],
+      "guides": [
+        {
+          "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
+          "channelName": "Aurel MG",
+          "channelURL": "https://www.youtube.com/@AurelMG",
+          "url": "https://youtu.be/Az2WKBNBSaY",
+          "urlEmbed": "https://www.youtube.com/embed/Az2WKBNBSaY"
+        },
+        {
+          "name": "The Crew Motorfest: \"Bulls and Trails\" Live Summit",
+          "channelName": "Akor",
+          "channelURL": "https://www.youtube.com/@Akor",
+          "url": "https://youtu.be/BgYsolCOTAw",
+          "urlEmbed": "https://www.youtube.com/embed/BgYsolCOTAw"
+        },
+        {
+          "name": "The Crew Motorfest BULLS AND TRAILS SUMMIT GUIDE with PRO SETTINGS",
+          "channelName": "RynoTheRaccoon",
+          "channelURL": "https://www.youtube.com/@rynotheraccoon",
+          "url": "https://youtu.be/abi5QCseik0",
+          "urlEmbed": "https://www.youtube.com/embed/abi5QCseik0"
+        }
+      ]
+    }
+  ],
   "2025-04": [
     {
       "id": "9",
