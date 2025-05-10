@@ -1,4 +1,116 @@
 {
+  "2025-05": [
+    {
+      "name": "Arena Main Stage",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "HUMMER HX CONCEPT ENFORCER UNIT",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/brands/hummer/mx-concept-enforcer-unit.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "4",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "ROUGH Tire - Uncommon",
+          "level": "10",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ],
+      "technologies": [
+        {
+          "blue": [
+            {
+              "name": "+5%",
+              "level": "1",
+              "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "5 Legends Point",
+              "level": "2",
+              "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "KTM 1190 RC8 R Power Track Ed. - Racing - Motorbike",
+              "level": "3",
+              "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "300 P Tickets",
+              "level": "4",
+              "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
+            }
+          ],
+          "orange": [
+            {
+              "name": "50000 Bucks",
+              "level": "1",
+              "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+            },
+            {
+              "name": "+5%",
+              "level": "2",
+              "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "5 Legends Point",
+              "level": "3",
+              "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "T-shirt: Speed Clash",
+              "level": "4",
+              "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/other/speed-clash-tshirt.webp"
+            }
+          ],
+          "green": [
+            {
+              "name": "5 Legends Point",
+              "level": "1",
+              "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "Motorfest X - Epic",
+              "level": "2",
+              "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "+5%",
+              "level": "3",
+              "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "Old school helmet: Motorfest playground",
+              "level": "4",
+              "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/assets/main-stage/other/helmet-motorfest-playground.webp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025-04": [
     {
       "name": "Arena Main Stage",
