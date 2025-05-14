@@ -1,0 +1,309 @@
+{
+  "playlist": {
+    "name": "Ferrari Supercars",
+    "slug": "ferrari-supercars",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/no-item.jpg",
+    "themes": [1, 6],
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/no-item.jpg",
+    "isLegagy": false,
+    "release": "02/07/2025",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Avventura Supercar",
+      "description": "Drive 10km above 200km/h in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "GTO"
+      }
+    },
+    {
+      "name": "Supercar Exhibition",
+      "description": "Spend 3min inside the MUSEO ENZO FERRARI (Maui)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "GTO"
+      }
+    },
+    {
+      "name": "Supercar Speedster",
+      "description": "Complete 5 different speedtrap Feats 100.0 km/h above the objective",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "GTO"
+      }
+    },
+    {
+      "name": "Supercar Close Call",
+      "description": "Perform 50 NEAR MISS in Freedrive",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "GTO"
+      }
+    },
+    {
+      "name": "Strada di Supercar",
+      "description": "Interact with all VEHICLES EXPOSED in the FERRARI MUSEUM",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "GTO"
+      }
+    },
+    {
+      "name": "Supercar Ride'",
+      "description": "Drive from the CAR MEET to the MUSEO ENZO FERRARI in less than 8min",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "GTO"
+      }
+    },
+    {
+      "name": "Supercar Essenza",
+      "description": "Drive 10min inside the HANAUMA RACETRACK (Oahu)",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "GTO"
+      }
+    },
+    {
+      "name": "Supercar Runaway",
+      "description": "Perform 5 different ESCAPE Feats",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "GTO"
+      }
+    },
+    {
+      "name": "Velocità Supercar",
+      "description": "Reach 300 km/h speed in KAIWI ISLETS (Maui)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "F50"
+      }
+    },
+    {
+      "name": "Supercar Cruising",
+      "description": "Drive from LAIE to KANEOHE (Oahu)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "F50"
+      }
+    },
+    {
+      "name": "Supercar Journey",
+      "description": "Drive from HANA to PAIE (Maui)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "F50"
+      }
+    },
+    {
+      "name": "Supercar Pace",
+      "description": "Drive from KANEOHE (Oahu) to HAN (Maui) in less than 7min 40s",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "F50"
+      }
+    },
+    {
+      "name": "Supercar Sprint",
+      "description": "Drive abovve 200km/h for 1min IN A ROW",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "f12berlinetta"
+      }
+    },
+    {
+      "name": "Supercar Quick Stroll",
+      "description": "Drive from BLACK ROCK to WAIKAPU (Maui) in less than 3min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "f12berlinetta"
+      }
+    },
+    {
+      "name": "Supercar Dolco Vita",
+      "description": "Reach HALEIWA ISLAND RESORT (Oahu)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "f12berlinetta"
+      }
+    },
+    {
+      "name": "Supercar Gold Digger",
+      "description": "Collect 5 TREASURE BOX",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {
+        "item": "5"
+      }
+    },
+    {
+      "name": "Belleza Supercar",
+      "description": "Finish the CELEBRATING ENZO in less than 3min 50s",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "GTO"
+      }
+    },
+    {
+      "name": "Supercar Caretaker",
+      "description": "Get a PERFECT CLEAN DRIVING score in the event THE PRANCING HORSE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "GTO"
+      }
+    },
+    {
+      "name": "Supercar Rush",
+      "description": "Finish the event LA FERRARI in less than 4min",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "F50"
+      }
+    },
+    {
+      "name": "Moda Supercar",
+      "description": "Apply 5 VISUAL PART",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "f12berlinetta"
+      }
+    },
+    {
+      "name": "Automobili Supercar",
+      "description": "Win the event CREATING A LEGEND (Automibili Lamborghini)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "FERRARI",
+        "model": "f12berlinetta"
+      }
+    },
+    {
+      "name": "Supercar Prestige",
+      "description": "Earn PRESTIGE TICKET (Custom Mode)",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "item": 500
+      }
+    },
+    {
+      "name": "Supercar Custom",
+      "description": "Register a FERRARI in the CUSTOM SHOW",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "item": 3
+      }
+    },
+    {
+      "name": "Supercar Collector",
+      "description": "Own 3 FERRARI vehicles",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "item": 3
+      }
+    },
+    {
+      "name": "Supercar Stallion",
+      "description": "Find all FERRARI COLLECTIBLES located in KIHEI & WAILEA (Maui)",
+      "rewards": {
+        "xp": 40000,
+        "bucks": 40000
+      },
+      "requirement": {
+        "item": 6
+      }
+    }
+  ]
+}

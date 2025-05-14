@@ -1,0 +1,385 @@
+{
+  "playlist": {
+    "name": "Luxury Chronicles, Europe",
+    "slug": "luxury-chronicles-europe",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/no-item.jpg",
+    "themes": [1, 6],
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/no-item.jpg",
+    "isLegagy": false,
+    "release": "06/08/2025",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Luxury Velocity",
+      "description": "Keep a 200km/h speed for 30sec straight",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "GENTY",
+        "model": "Akylone"
+      }
+    },
+    {
+      "name": "Luxury Speed",
+      "description": "Spend 15min above 200km/h speed",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "GENTY",
+        "model": "Akylone"
+      }
+    },
+    {
+      "name": "Luxury Swing",
+      "description": "Find all LUXURY COLLECTIBLES located in GOLF COURSES",
+      "rewards": {
+        "xp": 40000,
+        "bucks": 40000
+      },
+      "requirement": {
+        "item": 6
+      }
+    },
+    {
+      "name": "Luxury Bleu Blanc Rouge",
+      "description": "Find the FRENCH HOUSE",
+      "rewards": {
+        "xp": 4000,
+        "bucks": 4000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury B&B",
+      "description": "Find the GERMAN BED & BREAKFAST",
+      "rewards": {
+        "xp": 40000,
+        "bucks": 4000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury Stay",
+      "description": "Find the BRITISH HOTEL",
+      "rewards": {
+        "xp": 4000,
+        "bucks": 4000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury Ballad",
+      "description": "Drive 50km with a FRENCH vehicle in Freedrive",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury Win",
+      "description": "Win: FRANCE: Citroen with a Citroën vehicle WITHOUT USING NITRO",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury Summit",
+      "description": "Complete 3 SUMMIT ACTIVITIES with a FRENCH vehicle",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury Performance",
+      "description": "Win: FRANCE BUGATTI PART 1 in less than 3min",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "GENTY",
+        "model": "Akylone"
+      }
+    },
+    {
+      "name": "Luxury Altitude",
+      "description": "Perform 10km in LOW ALTITUDE with an ALPHA JET",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury Close Call",
+      "description": "Perform 50 NEAR MISS in FREEDRIVE with any FRENCH vehicle",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "French Luxury",
+      "description": "Register a BUGATTI in the Custom Show",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Luxury...",
+      "description": "Coming Soon",
+      "rewards": {
+        "xp": 0,
+        "bucks": 0
+      },
+      "requirement": {}
+    }
+  ]
+}

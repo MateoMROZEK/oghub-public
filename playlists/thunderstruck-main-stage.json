@@ -1,0 +1,30 @@
+{
+  "playlist": {
+    "name": "Thunderstruck Main Stage Legacy",
+    "slug": "thunderstruck-main-stage",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/no-item.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
+    "themes": [10],
+    "isLegagy": true,
+    "release": "11/06/2025",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete 4 events for get Clawblades Lion (Dashboard Car Item)",
+      "rewards": {
+        "car": "Clawblades Cat (Dashboard Car Item)"
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "Mazda RX-8 Thunderwave Ed."
+      },
+      "requirement": {}
+    }
+  ]
+}
