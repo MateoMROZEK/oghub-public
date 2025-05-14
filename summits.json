@@ -266,7 +266,7 @@
       "endDate": "21/05/2025 01:00:00",
       "name": "Coastal Adventures",
       "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "bannerUrl": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/summits/THUMNAIL_COASTAL_ADVENTURES.avif",
       "url": "coastal-adventures",
       "modifiers": "",
       "events": [
@@ -371,8 +371,8 @@
           "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
           "channelName": "Aurel MG",
           "channelURL": "https://www.youtube.com/@AurelMG",
-          "url": "https://youtu.be/",
-          "urlEmbed": "https://www.youtube.com/embed/"
+          "url": "https://youtu.be/e3SmDDzTb44",
+          "urlEmbed": "https://www.youtube.com/embed/e3SmDDzTb44"
         },
         {
           "name": "The Crew Motorfest: \"Coastal Adventures\" Live Summit",
