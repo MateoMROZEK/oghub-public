@@ -1,0 +1,30 @@
+{
+  "playlist": {
+    "name": "Island Rush Main Stage Legacy",
+    "slug": "island-rush-main-stage",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/no-item.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
+    "themes": [10],
+    "isLegagy": true,
+    "release": "14/05/2025",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete 5 events for get Clawblades Lion (Dashboard Car Item)",
+      "rewards": {
+        "car": "Clawblades Lion (Dashboard Car Item)"
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "Porsche Carrera GT Green Flash Ed."
+      },
+      "requirement": {}
+    }
+  ]
+}
