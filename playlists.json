@@ -381,8 +381,8 @@
       "release": "09/04/2025"
     },
     {
-      "name": "S5M3 Main Stage Legacy",
-      "slug": "#",
+      "name": "Island Rush Main Stage Legacy",
+      "slug": "island-rush-main-stage",
       "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/no-item.jpg",
       "themes": [10],
       "isLegagy": true,
