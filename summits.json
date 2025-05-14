@@ -84,25 +84,25 @@
         {
           "eventsNeed": 999999,
           "rankName": "Bronze",
-          "name": "",
+          "name": "200 000XP",
           "type": "rank"
         },
         {
           "eventsNeed": 40000,
           "rankName": "Silver",
-          "name": "",
+          "name": "200 000 Bucks",
           "type": "rank"
         },
         {
           "eventsNeed": 20000,
           "rankName": "Gold",
-          "name": "",
+          "name": "Yellow Spangled Nitro - Rare",
           "type": "rank"
         },
         {
           "eventsNeed": 10000,
           "rankName": "Platinum",
-          "name": "",
+          "name": "Monster Truck - Ford F-150 Raptor Race Truck Red Bull Ed.",
           "type": "rank"
         }
       ],
