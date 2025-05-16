@@ -139,191 +139,206 @@
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Reise",
+      "description": "Drive 20km with a GERMAN vehicle",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Skills",
+      "description": "Perform 50 OVERTAKE  WITHOUT COLLISION in any event with a GERMAN vehicle",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Grand Luxury",
+      "description": "Participate to a GRAND RACE with a PORSCHE vehicle",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 24000,
+        "bucks": 18000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Stunt",
+      "description": "Complete 3 different LONG JUMP feats with any GERMAN vehicle",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Stroll",
+      "description": "Drive from LUXURY CONTAINER to AULINAII RESORT without touching OFFROAD",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "AUDI",
+        "model": "R8 LMS GT2"
+      }
+    },
+    {
+      "name": "Luxury Victory",
+      "description": "Complete the event GERMANY: APOLLO AUTOMOBIL WITHOUT USING NITRO",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Melee",
+      "description": "Participate to a GRAND RACE with a GERMAN vehicle",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 24000,
+        "bucks": 18000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Style",
+      "description": "Apply 1 RIM and DRIVE",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "AUDI",
+        "model": "R8 LMS GT2"
+      }
+    },
+    {
+      "name": "Luxury Gold Digger",
+      "description": "Open 5 TREASURE boxes with a AUDI vehicle.",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Activities",
+      "description": "Complete 6 SUMMIT ACTIVITIES with any GERMAN vehicle",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 480000,
+        "bucks": 36000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Landing",
+      "description": "Perform 10 PERFECT LANDING in FREEDRIVE",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "AUDI",
+        "model": "R8 LMS GT2"
+      }
+    },
+    {
+      "name": "Luxury Nitro",
+      "description": "Empty your ENTIRE NITRO GAUGE 3 TIMES in the event GERMANY: MERCEDES AMG with any MERCEDES-AMG vehicle",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Trip",
+      "description": "Drive 50km with a BRITISH vehicle",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Pace",
+      "description": "Spend 2min above 150km/h IN A ROW with a BRITISH vehicle",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Sea",
+      "description": "Complete 3 different BUOY SMASHING Feats with a BRITISH BOAT",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 24000,
+        "bucks": 18000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Smoke",
+      "description": "Apply 1 SMOKE VANITY on any BRITISH vehicle",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Runaway",
+      "description": "Complete 3 ESCAPE feats.",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "TRIUMPH",
+        "model": "ROCKET 3R"
+      }
+    },
+    {
+      "name": "Luxury Leisure",
+      "description": "Complete 3 SUMMIT ACTIVITIES with a McLaren vehicle",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Sprint",
+      "description": "Reach 250km/h SPEED in the RAIN with any BRITISH vehicle",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury First",
+      "description": "Drive for 2min in 1ST POSITION in the event GREAT BRITAIN: JAGUAR",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 24000,
+        "bucks": 18000
       },
-      "requirement": {}
+      "requirement": {
+        "brand": "TRIUMPH",
+        "model": "ROCKET 3R"
+      }
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Feline",
+      "description": "Complete 10 different Feats with a JAGUAR vehicle",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {}
-    },
-    {
-      "name": "Luxury...",
-      "description": "Coming Soon",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {}
-    },
-    {
-      "name": "Luxury...",
-      "description": "Coming Soon",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {}
-    },
-    {
-      "name": "Luxury...",
-      "description": "Coming Soon",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {}
-    },
-    {
-      "name": "Luxury...",
-      "description": "Coming Soon",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 24000,
+        "bucks": 18000
       },
       "requirement": {}
     },
