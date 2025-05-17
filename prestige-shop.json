@@ -162,5 +162,87 @@
         }
       ]
     }
+  ],
+  "season04": [
+    {
+      "cars": [
+        {
+          "brand": "RINGBROTHERS",
+          "model": "Dodge Charger TUSK",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/cars/ringbrothers-dodge-charger-tusk.webp",
+          "price": ""
+        },
+        {
+          "brand": "KRC Japan",
+          "model": "Nissan 240 SX (S14)",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/cars/krc-japan-nissan-240sx.webp",
+          "price": ""
+        },
+        {
+          "brand": "PORSCHE",
+          "model": "Taycan Turbo S - Thunder Ed.",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/cars/porsche-taycan-turbo-s-thunder-ed.webp",
+          "price": ""
+        },
+        {
+          "brand": "CHEVROLET",
+          "model": "IMPALA American Custom Ed.",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/cars/chevrolet-american_custom.webp",
+          "price": ""
+        }
+      ],
+      "vanities": [
+        {
+          "name": "MECHA SUIT UNDERGLOW",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/no-prestige-shop-bg.webp.webp",
+          "price": "1605"
+        },
+        {
+          "name": "MECHA HEAD UNDERGLOW",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/no-prestige-shop-bg.webp.webp",
+          "price": "1750"
+        },
+        {
+          "name": "DESIGN CELEBRATION TIRE",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/no-prestige-shop-bg.webp.webp",
+          "price": "1750"
+        },
+        {
+          "name": "EL SERENO HORN",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/no-prestige-shop-bg.webp.webp",
+          "price": "1750"
+        },
+        {
+          "name": "MOTORFEST NITRO",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/nitro/motorfest.webp",
+          "price": ""
+        },
+        {
+          "name": "YELLOW EXHIBITION TIRE",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/tires/yellow-exhibition.webp",
+          "price": ""
+        },
+        {
+          "name": "AMERICAN DRIFT SMOKE",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/smoke/american-drift.webp",
+          "price": ""
+        },
+        {
+          "name": "WEST SIDE SMOKE",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/smoke/west-side.webp",
+          "price": ""
+        },
+        {
+          "name": "ULTRACHARGER KIT",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/kit-engine.webp",
+          "price": ""
+        },
+        {
+          "name": "USA CAR FLAGS",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/rooftops/usa-car-flag.webp",
+          "price": ""
+        }
+      ]
+    }
   ]
 }
