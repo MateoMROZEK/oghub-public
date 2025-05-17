@@ -343,56 +343,62 @@
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Moves",
+      "description": "Perform 50 JUMP  with a BRITISH vehicle in Freedrive",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 12000,
+        "bucks": 9000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Rocket",
+      "description": "Spend 15min above 100km/h in any event",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "TRIUMPH",
+        "model": "ROCKET 3R"
+      }
+    },
+    {
+      "name": "British Luxury",
+      "description": "Register a BENTLEY in the CUSTOM SHOW",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Caretaker",
+      "description": "Get a PERFECT CLEAN DRIVING in any EVENT with a BRITISH vehicle",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 24000,
+        "bucks": 18000
       },
       "requirement": {}
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Top Driver",
+      "description": "Keep the 1st Position in the event GREAT BRITAN: McLaren for 2min straight",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 24000,
+        "bucks": 18000
       },
-      "requirement": {}
+      "requirement": {
+        "brand": "TRIUMPH",
+        "model": "ROCKET 3R"
+      }
     },
     {
-      "name": "Luxury...",
-      "description": "Coming Soon",
+      "name": "Luxury Standards",
+      "description": "Own 2 000 000 BUCKS and drive any ASTON MARTIN VEHICLE in Freedrive",
       "rewards": {
-        "xp": 0,
-        "bucks": 0
-      },
-      "requirement": {}
-    },
-    {
-      "name": "Luxury...",
-      "description": "Coming Soon",
-      "rewards": {
-        "xp": 0,
-        "bucks": 0
+        "xp": 48000,
+        "bucks": 36000
       },
       "requirement": {}
     }
