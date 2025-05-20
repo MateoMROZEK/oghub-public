@@ -136,61 +136,61 @@
       "endDate": "28/05/2025 01:00:00",
       "name": "Forest Quests",
       "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/FOREST_QUESTS_THUMBNAIL.avif",
       "url": "forest-quests",
       "modifiers": "",
       "events": [
         {
-          "name": "",
+          "name": "Find Your Path",
+          "restriction": "Loan [Chevrolet Corvette Z06 Convertible]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Head For Tall Timbers",
+          "restriction": "Peugeot 3008 DKR Maxi",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Get Out Of The Woods",
+          "restriction": "Sport Rally",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Explore The Bamboo Forest",
+          "restriction": "Chevrolet Corvette Z06 Convertible",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Cut Through",
+          "restriction": "French Rally Raid",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Take a Rainforest Check",
+          "restriction": "Abarth 124 Rally",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Buoy Smashing",
+          "restriction": "Rally Raid",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Bullseye",
           "restriction": "",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "restriction": "",
-          "recommendedCar": "",
-          "metaURL": ""
-        },
-        {
-          "name": "",
-          "restriction": "",
-          "recommendedCar": "",
-          "metaURL": ""
-        },
-        {
-          "name": "",
-          "restriction": "",
-          "recommendedCar": "",
-          "metaURL": ""
-        },
-        {
-          "name": "",
-          "restriction": "",
-          "recommendedCar": "",
-          "metaURL": ""
-        },
-        {
-          "name": "",
-          "restriction": "",
-          "recommendedCar": "",
-          "metaURL": ""
-        },
-        {
-          "name": "",
-          "restriction": "",
-          "recommendedCar": "",
-          "metaURL": ""
-        },
-        {
-          "name": "",
-          "restriction": "",
-          "recommendedCar": "",
-          "metaURL": ""
-        },
-        {
-          "name": "",
-          "restriction": "",
+          "name": "Slalom",
+          "restriction": "Peugeot 3008 DRK Rally",
           "recommendedCar": "",
           "metaURL": ""
         }
