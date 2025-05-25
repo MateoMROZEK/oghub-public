@@ -238,25 +238,32 @@
       ],
       "guides": [
         {
+          "name": "GUIDE THE CREW MOTORFEST - FOREST QUESTS FOR CASUAL PLAYER",
+          "channelName": "OGHUB.FR",
+          "channelURL": "https://www.youtube.com/@oghubfr",
+          "url": "https://youtu.be/OQ7ZjoKv_P8",
+          "urlEmbed": "https://www.youtube.com/embed/OQ7ZjoKv_P8"
+        },
+        {
           "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
           "channelName": "Aurel MG",
           "channelURL": "https://www.youtube.com/@AurelMG",
-          "url": "https://youtu.be/",
-          "urlEmbed": "https://www.youtube.com/embed/"
+          "url": "https://youtu.be/NS9UPhOvbzA",
+          "urlEmbed": "https://www.youtube.com/embed/NS9UPhOvbzA"
         },
         {
           "name": "The Crew Motorfest: \"FOREST QUESTS\" Live Summit",
           "channelName": "Akor",
           "channelURL": "https://www.youtube.com/@Akor",
-          "url": "https://youtu.be/",
-          "urlEmbed": "https://www.youtube.com/embed/"
+          "url": "https://youtu.be/Zyj8iWhH8X8",
+          "urlEmbed": "https://www.youtube.com/embed/Zyj8iWhH8X8"
         },
         {
           "name": "The Crew Motorfest FOREST QUESTS SUMMIT GUIDE with PRO SETTINGS",
           "channelName": "RynoTheRaccoon",
           "channelURL": "https://www.youtube.com/@rynotheraccoon",
-          "url": "https://youtu.be/",
-          "urlEmbed": "https://www.youtube.com/embed/"
+          "url": "https://youtu.be/0rj_3fAnuAA",
+          "urlEmbed": "https://www.youtube.com/embed/0rj_3fAnuAA"
         }
       ]
     },
