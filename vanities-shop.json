@@ -1,0 +1,203 @@
+{
+  "2025-05": [
+    {
+      "id": "4",
+      "startDate": "28/05/2025 01:00:00",
+      "endDate": "04/06/2025 01:00:00",
+      "name": "Crater Chaos",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/CRATER_CHAOS_THUMBNAIL.jpg",
+      "url": "crater-chaos",
+      "vanities": [
+        {
+          "name": "Red Neon Rally Tire",
+          "image": "",
+          "price": "40,000"
+        },
+        {
+          "name": "Earthbreaker Underglow",
+          "image": "",
+          "price": "40,000"
+        },
+        {
+          "name": "Pink Storm Smoke",
+          "image": "",
+          "price": "70,000"
+        },
+        {
+          "name": "Dark Punch Nitro",
+          "image": "",
+          "price": "10,000"
+        },
+        {
+          "name": "V For Valentine Smoke",
+          "image": "",
+          "price": "40,000"
+        },
+        {
+          "name": "Purple Electricity Nitro",
+          "image": "",
+          "price": "25,000"
+        },
+        {
+          "name": "Aesthetic Underglow",
+          "image": "",
+          "price": "40,000"
+        },
+        {
+          "name": "Purple Molten Core Tire",
+          "image": "",
+          "price": "40,000"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "startDate": "21/05/2025 01:00:00",
+      "endDate": "28/05/2025 01:00:00",
+      "name": "Forest Quests",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/FOREST_QUESTS_THUMBNAIL.avif",
+      "url": "forest-quests",
+      "vanities": [
+        {
+          "name": "Neon Blue Tire",
+          "image": "",
+          "price": "40,000"
+        },
+        {
+          "name": "Blue Nitro",
+          "image": "",
+          "price": "10,000"
+        },
+        {
+          "name": "Police Rooftop",
+          "image": "",
+          "price": "70,000"
+        },
+        {
+          "name": "White Tire",
+          "image": "",
+          "price": "10,000"
+        },
+        {
+          "name": "Red Speed Vortex Smoke",
+          "image": "",
+          "price": "40,000"
+        },
+        {
+          "name": "Red Segment Underglow",
+          "image": "",
+          "price": "25,000"
+        },
+        {
+          "name": "Green Lightning Smoke",
+          "image": "",
+          "price": "70,000"
+        },
+        {
+          "name": "Prismatic Green Underglow",
+          "image": "",
+          "price": "70,000"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "startDate": "14/05/2025 01:00:00",
+      "endDate": "21/05/2025 01:00:00",
+      "name": "Coastal Adventures",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/THUMNAIL_COASTAL_ADVENTURES.avif",
+      "url": "coastal-adventures",
+      "vanities": [
+        {
+          "name": "Green Band Tire",
+          "image": "",
+          "price": "10,000"
+        },
+        {
+          "name": "Green Nitro",
+          "image": "",
+          "price": "10,000"
+        },
+        {
+          "name": "Orange Underglow",
+          "image": "",
+          "price": "25,000"
+        },
+        {
+          "name": "Turtle Rooftop",
+          "image": "",
+          "price": "70,000"
+        },
+        {
+          "name": "Ocean Spirit Smoke",
+          "image": "",
+          "price": "70,000"
+        },
+        {
+          "name": "Sky Segment Underglow",
+          "image": "",
+          "price": "25,000"
+        },
+        {
+          "name": "White Cloud Tint",
+          "image": "",
+          "price": "10,000"
+        },
+        {
+          "name": "White Tundra Tire",
+          "image": "",
+          "price": "10,000"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "startDate": "07/05/2025 01:00:00",
+      "endDate": "14/05/2025 01:00:00",
+      "name": "BULLS and TRAILS",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/BULLS_AND_TRAILS_THUMBNAIL.avif",
+      "url": "bulls-and-trails",
+      "vanities": [
+        {
+          "name": "\"Catch Me\" Underglow",
+          "image": "",
+          "price": "25,000"
+        },
+        {
+          "name": "Weisser Kreis Tire",
+          "image": "",
+          "price": "25,000"
+        },
+        {
+          "name": "Iridiscent Laser Underglow",
+          "image": "",
+          "price": "40,000"
+        },
+        {
+          "name": "Neon Purple Tire",
+          "image": "",
+          "price": "40,000"
+        },
+        {
+          "name": "Red Blizzard Smoke",
+          "image": "",
+          "price": "40,000"
+        },
+        {
+          "name": "Red Slash Tire",
+          "image": "",
+          "price": "10,000"
+        },
+        {
+          "name": "Yellow Speed Vortex Smoke",
+          "image": "40,000"
+        },
+        {
+          "name": "Yellow Nitro",
+          "image": "",
+          "price": "10,000"
+        }
+      ]
+    }
+  ]
+}

@@ -1,66 +1,71 @@
 {
   "2025-05": [
     {
-      "id": "11",
+      "id": "12",
       "startDate": "28/05/2025 01:00:00",
       "endDate": "04/06/2025 01:00:00",
       "name": "Crater Chaos",
-      "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/CRATER_CHAOS_THUMBNAIL.jpg",
       "url": "crater-chaos",
       "modifiers": "",
       "events": [
         {
-          "name": "",
+          "name": "Monster Tricks",
+          "activitie": "Daredevils 2",
+          "restriction": "Loan [Ford F-150 Raptor Race Truck Red Bull Edition]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Crater Arena",
+          "activitie": "Apex 2",
+          "restriction": "Abarth 500 Monster",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Monstrous Homework",
+          "activitie": "Daredevils 6",
+          "restriction": "Hombie High School Edition",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Duel at the Top",
+          "activitie": "Chase Silver",
+          "restriction": "Loan Proto Hup One Monster",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Destroyed Derby",
+          "activitie": "Chase Killjoy",
+          "restriction": "Proto Hup One Monster",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Goliath VS David",
+          "activitie": "Chase Shade",
+          "restriction": "Proto Hup One Monster",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom Asphalt",
+          "restriction": "Monster",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Bullseye",
           "restriction": "",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "restriction": "",
-          "recommendedCar": "",
-          "metaURL": ""
-        },
-        {
-          "name": "",
-          "restriction": "",
-          "recommendedCar": "",
-          "metaURL": ""
-        },
-        {
-          "name": "",
-          "restriction": "",
-          "recommendedCar": "",
-          "metaURL": ""
-        },
-        {
-          "name": "",
-          "restriction": "",
-          "recommendedCar": "",
-          "metaURL": ""
-        },
-        {
-          "name": "",
-          "restriction": "",
-          "recommendedCar": "",
-          "metaURL": ""
-        },
-        {
-          "name": "",
-          "restriction": "",
-          "recommendedCar": "",
-          "metaURL": ""
-        },
-        {
-          "name": "",
-          "restriction": "",
-          "recommendedCar": "",
-          "metaURL": ""
-        },
-        {
-          "name": "",
-          "restriction": "",
+          "name": "Escape Offroad",
+          "restriction": "Volkswagen Kombi High School Edition",
           "recommendedCar": "",
           "metaURL": ""
         }
@@ -131,11 +136,10 @@
       ]
     },
     {
-      "id": "10",
+      "id": "11",
       "startDate": "21/05/2025 01:00:00",
       "endDate": "28/05/2025 01:00:00",
       "name": "Forest Quests",
-      "current": false,
       "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/FOREST_QUESTS_THUMBNAIL.avif",
       "url": "forest-quests",
       "modifiers": "",
@@ -272,7 +276,6 @@
       "startDate": "14/05/2025 01:00:00",
       "endDate": "21/05/2025 01:00:00",
       "name": "Coastal Adventures",
-      "current": false,
       "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/THUMNAIL_COASTAL_ADVENTURES.avif",
       "url": "coastal-adventures",
       "modifiers": "",
@@ -402,7 +405,6 @@
       "startDate": "07/05/2025 01:00:00",
       "endDate": "14/05/2025 01:00:00",
       "name": "BULLS and TRAILS",
-      "current": false,
       "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/BULLS_AND_TRAILS_THUMBNAIL.avif",
       "url": "bulls-and-trails",
       "modifiers": "",
@@ -534,7 +536,6 @@
       "startDate": "30/04/2025 01:00:00",
       "endDate": "07/05/2025 01:00:00",
       "name": "AERIAL CIRCUS",
-      "current": false,
       "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/02_TCM_SUMMIT_W09_AERIAL_CIRCUS_960x540.avif",
       "url": "aerial-circus",
       "modifiers": "",
@@ -650,7 +651,6 @@
       "startDate": "23/04/2025 01:00:00",
       "endDate": "30/04/2025 01:00:00",
       "name": "KOENINGSEGG SELECTION",
-      "current": false,
       "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/S06_M02_W08_KOENIGSEGG_MOTORFEST_THUMBNAIL__1_.avif",
       "url": "koeningsegg-selection",
       "modifiers": "",
@@ -780,7 +780,6 @@
       "startDate": "16/04/2025 01:00:00",
       "endDate": "23/04/2025 01:00:00",
       "name": "2 WHEELS VS 4 WHEELS",
-      "current": false,
       "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/2vs4_THUMBNAIL.avif",
       "url": "2-wheels-vs-4-wheels",
       "modifiers": "Italian Only",
@@ -910,7 +909,6 @@
       "startDate": "09/04/2025 01:00:00",
       "endDate": "16/04/2025 01:00:00",
       "name": "DRIFT IN HARMONY",
-      "current": false,
       "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/DRIFT_HARMONY_THUMBNAIL.avif",
       "url": "drift-in-harmony",
       "modifiers": "NITRO INSTANT REFILL",
@@ -1026,7 +1024,6 @@
       "startDate": "02/04/2025 01:00:00",
       "endDate": "09/04/2025 01:00:00",
       "name": "Apex Opening",
-      "current": false,
       "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/S06_M02_W01_APEX_OPENING_MKT_THUMBNAIL.avif",
       "url": "apex-opening",
       "modifiers": "",
@@ -1144,7 +1141,6 @@
       "startDate": "26/03/2025 01:00:00",
       "endDate": "05/04/2025 01:00:00",
       "name": "RALLY BEASTS",
-      "current": false,
       "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/S06_M01_W04_RALLY_BEASTS_MKT_THUMBNAIL.avif",
       "url": "rally-beasts",
       "modifiers": "",
@@ -1252,7 +1248,6 @@
       "startDate": "19/03/2025 01:00:00",
       "endDate": "26/03/2025 01:00:00",
       "name": "STEEL STALLIONS",
-      "current": false,
       "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/S06_M01_W03_STEEL_STALLIONS_MKT_THUMBNAIL.avif",
       "url": "steel-stallions",
       "modifiers": "",
@@ -1360,7 +1355,6 @@
       "startDate": "12/03/2025 01:00:00",
       "endDate": "19/03/2025 01:00:00",
       "name": "ALPHA CITY",
-      "current": false,
       "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/S06_M01_W02_ALPHA_CITY_MKT_THUMBNAIL.avif",
       "url": "alpha-city",
       "modifiers": "",
@@ -1468,7 +1462,6 @@
       "startDate": "05/03/2025 01:00:00",
       "endDate": "12/03/2025 01:00:00",
       "name": "BULL RIDES",
-      "current": false,
       "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/S06_M01_W01_BULL_RIDES_MKT_THUMBNAIL.avif",
       "url": "bull-rides",
       "modifiers": "",
