@@ -190,7 +190,8 @@
         },
         {
           "name": "Yellow Speed Vortex Smoke",
-          "image": "40,000"
+          "image": "",
+          "price": "40,000"
         },
         {
           "name": "Yellow Nitro",

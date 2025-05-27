@@ -1,4 +1,130 @@
 {
+  "2025-06": [
+    {
+      "id": "12",
+      "startDate": "25/06/2025 01:00:00",
+      "endDate": "02/07/2025 01:00:00",
+      "name": "Fury Legagy",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "url": "fury-legacy",
+      "modifiers": "",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "",
+          "type": "rank"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "startDate": "18/06/2025 01:00:00",
+      "endDate": "25/06/2025 01:00:00",
+      "name": "Risk Everything",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "url": "risk-everything",
+      "modifiers": "",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "",
+          "type": "rank"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "startDate": "11/06/2025 01:00:00",
+      "endDate": "18/06/2025 01:00:00",
+      "name": "Ride Anywhere",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "url": "ride-anywhere",
+      "modifiers": "",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "",
+          "type": "rank"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "startDate": "04/06/2025 01:00:00",
+      "endDate": "11/06/2025 01:00:00",
+      "name": "Race Anything",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "url": "race-anything",
+      "modifiers": "",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "",
+          "type": "rank"
+        }
+      ]
+    }
+  ],
   "2025-05": [
     {
       "id": "8",
@@ -6,7 +132,7 @@
       "endDate": "04/06/2025 01:00:00",
       "name": "Crater Chaos",
       "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/CRATER_CHAOS_THUMBNAIL.jpg",
       "url": "crater-chaos",
       "modifiers": "",
       "rewards": [
@@ -38,7 +164,7 @@
       "endDate": "28/05/2025 01:00:00",
       "name": "Forest Quests",
       "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/FOREST_QUESTS_THUMBNAIL.avif",
       "url": "forest-quests",
       "modifiers": "Weekly Vehicle Models",
       "rewards": [
