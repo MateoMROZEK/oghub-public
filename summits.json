@@ -567,25 +567,18 @@
       ],
       "guides": [
         {
+          "name": "GUIDE THE CREW MOTORFEST - CRATER CHAOS FOR CASUAL PLAYER",
+          "channelName": "OGHUB.FR",
+          "channelURL": "https://www.youtube.com/@oghubfr",
+          "url": "https://youtu.be/iHfrnpjnK1w",
+          "urlEmbed": "https://www.youtube.com/embed/iHfrnpjnK1w"
+        },
+        {
           "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
           "channelName": "Aurel MG",
           "channelURL": "https://www.youtube.com/@AurelMG",
-          "url": "https://youtu.be/",
-          "urlEmbed": "https://www.youtube.com/embed/"
-        },
-        {
-          "name": "The Crew Motorfest: \"CRATER CHAOS\" Live Summit",
-          "channelName": "Akor",
-          "channelURL": "https://www.youtube.com/@Akor",
-          "url": "https://youtu.be/",
-          "urlEmbed": "https://www.youtube.com/embed/"
-        },
-        {
-          "name": "The Crew Motorfest CRATER CHAOS SUMMIT GUIDE with PRO SETTINGS",
-          "channelName": "RynoTheRaccoon",
-          "channelURL": "https://www.youtube.com/@rynotheraccoon",
-          "url": "https://youtu.be/",
-          "urlEmbed": "https://www.youtube.com/embed/"
+          "url": "https://youtu.be/KYw7LOxAufI",
+          "urlEmbed": "https://www.youtube.com/embed/KYw7LOxAufI"
         }
       ]
     },
