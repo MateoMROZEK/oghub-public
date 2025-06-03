@@ -1,4 +1,56 @@
 {
+  "2025-06": [
+    {
+      "id": "4",
+      "startDate": "04/06/2025 01:00:00",
+      "endDate": "11/06/2025 01:00:00",
+      "name": "Race Anything",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/THUMBNAIL__3_.avif",
+      "url": "race-anything",
+      "vanities": [
+        {
+          "name": "Cyan Edge Tire",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/tires/cyan-edge.jpg",
+          "price": "10,000"
+        },
+        {
+          "name": "Cyan Speed Vortex Smoke",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/smokes/cyan-speed-vortex.jpg",
+          "price": "40,000"
+        },
+        {
+          "name": "Retro F1R3 Red Tire",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/tires/retro-f1r3-red.jpg",
+          "price": "10,000"
+        },
+        {
+          "name": "Freeride Underglow",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/underglows/freeride.jpg",
+          "price": "40,000"
+        },
+        {
+          "name": "Magenta Lightning Smoke",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/smokes/v-for-valentine.jpg",
+          "price": "70,000"
+        },
+        {
+          "name": "Pink Nitro",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/nitros/pink.jpg",
+          "price": "10,000"
+        },
+        {
+          "name": "Green Smoke",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/smokes/green.jpg",
+          "price": "25,000"
+        },
+        {
+          "name": "Prismatic Green Tire",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/tires/primastic-green.jpg",
+          "price": "40,000"
+        }
+      ]
+    }
+  ],
   "2025-05": [
     {
       "id": "4",
