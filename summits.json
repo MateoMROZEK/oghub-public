@@ -450,7 +450,22 @@
           "type": "rank"
         }
       ],
-      "guides": []
+      "guides": [
+        {
+          "name": "GUIDE THE CREW MOTORFEST - RACE ANYTHING FOR CASUAL PLAYER",
+          "channelName": "OGHUB.FR",
+          "channelURL": "https://www.youtube.com/@oghubfr",
+          "url": "https://youtu.be/5F3_09KVtiw",
+          "urlEmbed": "https://www.youtube.com/embed/5F3_09KVtiw"
+        },
+        {
+          "name": "THE CREW MOTORFEST - Guide Platine Summit de la semaine (Réglage pro, Raccourci ect...)",
+          "channelName": "Aurel MG",
+          "channelURL": "https://www.youtube.com/@AurelMG",
+          "url": "https://youtu.be/",
+          "urlEmbed": "https://www.youtube.com/embed/"
+        }
+      ]
     }
   ],
   "2025-05": [
