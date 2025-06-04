@@ -383,7 +383,7 @@
     {
       "name": "Island Rush Main Stage Legacy",
       "slug": "island-rush-main-stage",
-      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/no-item.jpg",
+      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/island-rush-main-stage.jpg",
       "themes": [10],
       "isLegagy": true,
       "release": "14/05/2025"
@@ -421,9 +421,9 @@
       "release": "10/09/2025"
     },
     {
-      "name": "S6M4 Main Stage Legacy",
+      "name": "Jack of all Trades Main Stage Legacy",
       "slug": "#",
-      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/no-item.jpg",
+      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/jack-of-all-trades.jpg",
       "themes": [10],
       "isLegagy": true,
       "release": "08/10/2025"

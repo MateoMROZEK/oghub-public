@@ -2,7 +2,7 @@
   "playlist": {
     "name": "Island Rush Main Stage Legacy",
     "slug": "island-rush-main-stage",
-    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/no-item.jpg",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/island-rush-main-stage.jpg",
     "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
     "themes": [10],
     "isLegagy": true,
