@@ -202,25 +202,25 @@
         {
           "eventsNeed": 999999,
           "rankName": "Bronze",
-          "name": "",
+          "name": "5,000 Details",
           "type": "rank"
         },
         {
           "eventsNeed": 40000,
           "rankName": "Silver",
-          "name": "",
+          "name": "Plane Legendary 3 Randome Parts",
           "type": "rank"
         },
         {
           "eventsNeed": 20000,
           "rankName": "Gold",
-          "name": "",
+          "name": "Gordon Murray Automotive T.50",
           "type": "rank"
         },
         {
           "eventsNeed": 10000,
           "rankName": "Platinum",
-          "name": "",
+          "name": "The Rocket Co. Nitro - Epic",
           "type": "rank"
         }
       ],
@@ -315,25 +315,25 @@
         {
           "eventsNeed": 999999,
           "rankName": "Bronze",
-          "name": "5,000 Details",
+          "name": "100,000 XP",
           "type": "rank"
         },
         {
           "eventsNeed": 40000,
           "rankName": "Silver",
-          "name": "Racing Legendary 3 Randome Parts",
+          "name": "5 Legends Points",
           "type": "rank"
         },
         {
           "eventsNeed": 20000,
           "rankName": "Gold",
-          "name": "Shelby GT500 Americar Ed. Rally Ed.",
+          "name": "KTM 450 EXC Nighthawk Ed.",
           "type": "rank"
         },
         {
           "eventsNeed": 10000,
           "rankName": "Platinum",
-          "name": "Flashing Yohmhoy Tire - RARE",
+          "name": "Forgotten island smoke - RARE",
           "type": "rank"
         }
       ],
@@ -412,41 +412,41 @@
       "rewards": [
         {
           "eventsNeed": 3,
-          "name": "",
+          "name": "100,000 XP",
           "type": "completion"
         },
         {
           "eventsNeed": 6,
-          "name": "",
+          "name": "150 Tickets Prestige",
           "type": "completion"
         },
         {
           "eventsNeed": 9,
-          "name": "",
+          "name": "100,000 Bucks",
           "type": "completion"
         },
         {
           "eventsNeed": 999999,
           "rankName": "Bronze",
-          "name": "",
+          "name": "5,000 Details",
           "type": "rank"
         },
         {
           "eventsNeed": 40000,
           "rankName": "Silver",
-          "name": "",
+          "name": "Racing Legendary 3 Randome Parts",
           "type": "rank"
         },
         {
           "eventsNeed": 20000,
           "rankName": "Gold",
-          "name": "",
+          "name": "Shelby GT500 Americar Ed. Rally Ed.",
           "type": "rank"
         },
         {
           "eventsNeed": 10000,
           "rankName": "Platinum",
-          "name": "",
+          "name": "Flashing Yohmhoy Tire - RARE",
           "type": "rank"
         }
       ],
