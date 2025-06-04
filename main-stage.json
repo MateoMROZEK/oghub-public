@@ -1,4 +1,121 @@
 {
+"2025-06": [
+    {
+      "name": "Escape Main Stage",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "UNCOMMON TITLE",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "PROTO Concept Spear Racing",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "4",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "Psychedelic Underglow - Rare",
+          "level": "10",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ],
+      "technologies": [
+        {
+          "blue": [
+            {
+              "name": "Checkerboad Flag - Uncommon",
+              "level": "1",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "+5%",
+              "level": "2",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "5 Legends Point",
+              "level": "3",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "300 P Tickets",
+              "level": "4",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
+            }
+          ],
+          "orange": [
+            {
+              "name": "5 Legends Point",
+              "level": "1",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "100,000 Bucks",
+              "level": "2",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+            },
+            {
+              "name": "+5%",
+              "level": "3",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "Casual shirt: Speed Clash",
+              "level": "4",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/speed-clash-tshirt.webp"
+            }
+          ],
+          "green": [
+            {
+              "name": "+5%",
+              "level": "1",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "5 Legends Point",
+              "level": "2",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "EXTRA AEROBATIC PLANES - Extra 300 SC",
+              "level": "3",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "Offroad jacket: Wild Ride",
+              "level": "4",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "Waterproof: Wild Ride",
+              "level": "4",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025-05": [
     {
       "name": "Escape Main Stage",
