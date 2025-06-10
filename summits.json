@@ -740,7 +740,7 @@
       "name": "Coastal Adventures",
       "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/THUMNAIL_COASTAL_ADVENTURES.avif",
       "url": "coastal-adventures",
-      "modifiers": "",
+      "modifiers": "Fair",
       "events": [
         {
           "name": "A Coastline Expedition",
@@ -869,7 +869,7 @@
       "name": "BULLS and TRAILS",
       "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/BULLS_AND_TRAILS_THUMBNAIL.avif",
       "url": "bulls-and-trails",
-      "modifiers": "",
+      "modifiers": "No modifier",
       "events": [
         {
           "name": "Electrik",
