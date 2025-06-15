@@ -1,3 +1,5 @@
+# If you're reusing this github for your project, you'll need to add the phrase “Taken from OGHub.fr” to the redirect link!
+
 ## Want to help OGHub.fr?
 
 We have several files at your disposal. The file containing the names of the different weeks/summits/vanities is located at: ``thematics-week.json``
@@ -32,3 +34,5 @@ We have several files at your disposal. The file containing the names of the dif
 ### Playlists
 - Banner Playlist in "bg" folder in JPEG/WEBP ONLY ! (Possibie to use "default.psd" for create the banner !)
 - Icon Playlist in "icons" folder in PNG/WEBP ONLY !
+
+# If you're reusing this github for your project, you'll need to add the phrase “Taken from OGHub.fr” to the redirect link!
