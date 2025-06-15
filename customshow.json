@@ -1,13 +1,7 @@
 {
   "2025-06": [
     {
-      "id": "12",
-      "startDate": "25/06/2025 01:00:00",
-      "endDate": "02/07/2025 01:00:00",
-      "name": "Fury Legagy",
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
       "url": "fury-legacy",
-      "modifiers": "",
       "rewards": [
         {
           "rankName": "Bronze",
@@ -32,13 +26,7 @@
       ]
     },
     {
-      "id": "12",
-      "startDate": "18/06/2025 01:00:00",
-      "endDate": "25/06/2025 01:00:00",
-      "name": "Risk Everything",
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
       "url": "risk-everything",
-      "modifiers": "",
       "rewards": [
         {
           "rankName": "Bronze",
@@ -63,13 +51,7 @@
       ]
     },
     {
-      "id": "12",
-      "startDate": "11/06/2025 01:00:00",
-      "endDate": "18/06/2025 01:00:00",
-      "name": "Ride Anywhere",
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/THUMBNAIL__4_.avif",
       "url": "ride-anywhere",
-      "modifiers": "Bikes, Custom Bundle",
       "rewards": [
         {
           "rankName": "Bronze",
@@ -94,13 +76,7 @@
       ]
     },
     {
-      "id": "12",
-      "startDate": "04/06/2025 01:00:00",
-      "endDate": "11/06/2025 01:00:00",
-      "name": "Race Anything",
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/THUMBNAIL__3_.avif",
       "url": "race-anything",
-      "modifiers": "",
       "rewards": [
         {
           "rankName": "Bronze",
@@ -127,14 +103,7 @@
   ],
   "2025-05": [
     {
-      "id": "8",
-      "startDate": "28/05/2025 01:00:00",
-      "endDate": "04/06/2025 01:00:00",
-      "name": "Crater Chaos",
-      "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/CRATER_CHAOS_THUMBNAIL.jpg",
       "url": "crater-chaos",
-      "modifiers": "",
       "rewards": [
         {
           "rankName": "Bronze",
@@ -159,14 +128,7 @@
       ]
     },
     {
-      "id": "7",
-      "startDate": "21/05/2025 01:00:00",
-      "endDate": "28/05/2025 01:00:00",
-      "name": "Forest Quests",
-      "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/FOREST_QUESTS_THUMBNAIL.avif",
       "url": "forest-quests",
-      "modifiers": "Weekly Vehicle Models",
       "rewards": [
         {
           "rankName": "Bronze",
@@ -191,14 +153,7 @@
       ]
     },
     {
-      "id": "7",
-      "startDate": "14/05/2025 01:00:00",
-      "endDate": "21/05/2025 01:00:00",
-      "name": "Coastal Adventures",
-      "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits//THUMNAIL_COASTAL_ADVENTURES.avif",
       "url": "coastal-adventures",
-      "modifiers": "USA Modern Rally Raid",
       "rewards": [
         {
           "rankName": "Bronze",
@@ -223,14 +178,7 @@
       ]
     },
     {
-      "id": "6",
-      "startDate": "07/05/2025 01:00:00",
-      "endDate": "14/05/2025 01:00:00",
-      "name": "BULLS and TRAILS",
-      "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/BULLS_AND_TRAILS_THUMBNAIL.avif",
       "url": "bulls-and-trails",
-      "modifiers": "Main Stage Bundle & Custom Bundle Only",
       "rewards": [
         {
           "rankName": "Bronze",
@@ -257,14 +205,7 @@
   ],
   "2025-04": [
     {
-      "id": "5",
-      "startDate": "30/04/2025 01:00:00",
-      "endDate": "07/05/2025 01:00:00",
-      "name": "AERIAL CIRCUS",
-      "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/02_TCM_SUMMIT_W09_AERIAL_CIRCUS_960x540.avif",
       "url": "aerial-circus",
-      "modifiers": "Bugatti Bolide Only",
       "rewards": [
         {
           "rankName": "Bronze",
@@ -289,14 +230,7 @@
       ]
     },
     {
-      "id": "4",
-      "startDate": "23/04/2025 01:00:00",
-      "endDate": "30/04/2025 01:00:00",
-      "name": "KOENINGSEGG SELECTION",
-      "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/S06_M02_W08_KOENIGSEGG_MOTORFEST_THUMBNAIL__1_.avif",
       "url": "koeningsegg-selection",
-      "modifiers": "Koenigsegg Only",
       "rewards": [
         {
           "rankName": "Bronze",
@@ -321,14 +255,7 @@
       ]
     },
     {
-      "id": "3",
-      "startDate": "16/04/2025 01:00:00",
-      "endDate": "23/04/2025 01:00:00",
-      "name": "2 WHEELS VS 4 WHEELS",
-      "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/2vs4_THUMBNAIL.avif",
       "url": "2-wheels-vs-4-wheels",
-      "modifiers": "Italian Only",
       "rewards": [
         {
           "rankName": "Bronze",
@@ -353,14 +280,7 @@
       ]
     },
     {
-      "id": "2",
-      "startDate": "09/04/2025 01:00:00",
-      "endDate": "16/04/2025 01:00:00",
-      "name": "DRIFT IN HARMONY",
-      "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/DRIFT_HARMONY_THUMBNAIL.avif",
       "url": "drift-in-harmony",
-      "modifiers": "Germany Drift Only",
       "rewards": [
         {
           "rankName": "Bronze",
@@ -385,14 +305,7 @@
       ]
     },
     {
-      "id": "1",
-      "startDate": "02/04/2025 01:00:00",
-      "endDate": "09/04/2025 01:00:00",
-      "name": "Apex Opening",
-      "current": false,
-      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/S06_M02_W01_APEX_OPENING_MKT_THUMBNAIL.avif",
       "url": "apex-opening",
-      "modifiers": "Alpha GP",
       "rewards": [
         {
           "rankName": "Bronze",
