@@ -1,0 +1,163 @@
+{
+  "2025-06": [
+    {
+      "startDate": "25/06/2025 01:00:00",
+      "endDate": "02/07/2025 01:00:00",
+      "name": "Fury Legagy",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "url": "fury-legacy",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "18/06/2025 01:00:00",
+      "endDate": "25/06/2025 01:00:00",
+      "name": "Risk Everything",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "url": "risk-everything",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "11/06/2025 01:00:00",
+      "endDate": "18/06/2025 01:00:00",
+      "name": "Ride Anywhere",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/THUMBNAIL__4_.avif",
+      "url": "ride-anywhere",
+      "modifiersSummit": "Nitro Instant Refill & Gymkhana",
+      "modifiersCustomShow": "Bikes, Custom Bundle"
+    },
+    {
+      "startDate": "04/06/2025 01:00:00",
+      "endDate": "11/06/2025 01:00:00",
+      "name": "Race Anything",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/THUMBNAIL__3_.avif",
+      "url": "race-anything",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    }
+  ],
+  "2025-05": [
+    {
+      "startDate": "28/05/2025 01:00:00",
+      "endDate": "04/06/2025 01:00:00",
+      "name": "Crater Chaos",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/CRATER_CHAOS_THUMBNAIL.jpg",
+      "url": "crater-chaos",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "21/05/2025 01:00:00",
+      "endDate": "28/05/2025 01:00:00",
+      "name": "Forest Quests",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/FOREST_QUESTS_THUMBNAIL.avif",
+      "url": "forest-quests",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Weekly Vehicle Models"
+    },
+    {
+      "startDate": "14/05/2025 01:00:00",
+      "endDate": "21/05/2025 01:00:00",
+      "name": "Coastal Adventures",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/THUMNAIL_COASTAL_ADVENTURES.avif",
+      "url": "coastal-adventures",
+      "modifiersSummit": "Fair",
+      "modifiersCustomShow": "USA Modern Rally Raid"
+    },
+    {
+      "startDate": "07/05/2025 01:00:00",
+      "endDate": "14/05/2025 01:00:00",
+      "name": "BULLS and TRAILS",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/BULLS_AND_TRAILS_THUMBNAIL.avif",
+      "url": "bulls-and-trails",
+      "modifiersSummit": "No modifier",
+      "modifiersCustomShow": "Main Stage Bundle & Custom Bundle Only"
+    }
+  ],
+  "2025-04": [
+    {
+      "startDate": "30/04/2025 01:00:00",
+      "endDate": "07/05/2025 01:00:00",
+      "name": "AERIAL CIRCUS",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/02_TCM_SUMMIT_W09_AERIAL_CIRCUS_960x540.avif",
+      "url": "aerial-circus",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Bugatti Bolide Only"
+    },
+    {
+      "startDate": "23/04/2025 01:00:00",
+      "endDate": "30/04/2025 01:00:00",
+      "name": "KOENINGSEGG SELECTION",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/S06_M02_W08_KOENIGSEGG_MOTORFEST_THUMBNAIL__1_.avif",
+      "url": "koeningsegg-selection",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Koenigsegg Only"
+    },
+    {
+      "startDate": "16/04/2025 01:00:00",
+      "endDate": "23/04/2025 01:00:00",
+      "name": "2 WHEELS VS 4 WHEELS",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/2vs4_THUMBNAIL.avif",
+      "url": "2-wheels-vs-4-wheels",
+      "modifiersSummit": "Italian Only",
+      "modifiersCustomShow": "Italian Only"
+    },
+    {
+      "startDate": "09/04/2025 01:00:00",
+      "endDate": "16/04/2025 01:00:00",
+      "name": "DRIFT IN HARMONY",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/DRIFT_HARMONY_THUMBNAIL.avif",
+      "url": "drift-in-harmony",
+      "modifiersSummit": "NITRO INSTANT REFILL",
+      "modifiersCustomShow": "Germany Drift Only"
+    },
+    {
+      "startDate": "02/04/2025 01:00:00",
+      "endDate": "09/04/2025 01:00:00",
+      "name": "Apex Opening",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/S06_M02_W01_APEX_OPENING_MKT_THUMBNAIL.avif",
+      "url": "apex-opening",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Alpha GP"
+    }
+  ],
+  "2025-03": [
+    {
+      "startDate": "26/03/2025 01:00:00",
+      "endDate": "05/04/2025 01:00:00",
+      "name": "RALLY BEASTS",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/S06_M01_W04_RALLY_BEASTS_MKT_THUMBNAIL.avif",
+      "url": "rally-beasts",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "19/03/2025 01:00:00",
+      "endDate": "26/03/2025 01:00:00",
+      "name": "STEEL STALLIONS",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/S06_M01_W03_STEEL_STALLIONS_MKT_THUMBNAIL.avif",
+      "url": "steel-stallions",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "12/03/2025 01:00:00",
+      "endDate": "19/03/2025 01:00:00",
+      "name": "ALPHA CITY",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/S06_M01_W02_ALPHA_CITY_MKT_THUMBNAIL.avif",
+      "url": "alpha-city",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "05/03/2025 01:00:00",
+      "endDate": "12/03/2025 01:00:00",
+      "name": "BULL RIDES",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/S06_M01_W01_BULL_RIDES_MKT_THUMBNAIL.avif",
+      "url": "bull-rides",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    }
+  ]
+}
