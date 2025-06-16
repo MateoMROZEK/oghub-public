@@ -5,43 +5,51 @@
       "vanities": [
         {
           "name": "Chase Red Lights",
-          "image": "",
-          "price": "70,000"
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/rooftops/chase-red-lights.webp",
+          "price": "70,000",
+          "rarety": "Epic"
         },
         {
           "name": "Blinking Red Underglow",
-          "image": "",
-          "price": "25,000"
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/underglows/blinking-red.webp",
+          "price": "25,000",
+          "rarety": "Common"
         },
         {
           "name": "Neon Orange Tire",
-          "image": "",
-          "price": "40,000"
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/tires/neon-orange.webp",
+          "price": "40,000",
+          "rarety": "Epic"
         },
         {
           "name": "Tangerine Speed Vortex Smoke",
-          "image": "",
-          "price": "40,000"
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/smokes/tangerine-speed-vortex.webp",
+          "price": "40,000",
+          "rarety": "Rare"
         },
         {
           "name": "French Touch Smoke",
-          "image": "",
-          "price": "40,000"
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/smokes/french-touch.webp",
+          "price": "40,000",
+          "rarety": "Rare"
         },
         {
           "name": "Blue Underglow",
-          "image": "",
-          "price": "25,000"
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/underglows/blue.webp",
+          "price": "25,000",
+          "rarety": "Common"
         },
         {
           "name": "Prismatic Blue Tire",
-          "image": "",
-          "price": "40,000"
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/tires/prismatic-blue.webp",
+          "price": "40,000",
+          "rarety": "Epic"
         },
         {
           "name": "Artic Tire",
-          "image": "",
-          "price": "10,000"
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/tires/artic.webp",
+          "price": "10,000",
+          "rarety": "Common"
         }
       ]
     },
