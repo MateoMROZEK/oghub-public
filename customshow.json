@@ -30,22 +30,22 @@
       "rewards": [
         {
           "rankName": "Bronze",
-          "name": "",
+          "name": "100,000 XP",
           "type": "rank"
         },
         {
           "rankName": "Silver",
-          "name": "",
+          "name": "Honda Civic Type R Custom",
           "type": "rank"
         },
         {
           "rankName": "Gold",
-          "name": "",
+          "name": "5 Legend Points",
           "type": "rank"
         },
         {
           "rankName": "Platinum",
-          "name": "",
+          "name": "The Rocket CC. Rooftop",
           "type": "rank"
         }
       ]
