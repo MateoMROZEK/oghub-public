@@ -1,0 +1,137 @@
+{
+  "2025-06": [
+    {
+      "url": "fury-legacy",
+      "banner": "",
+      "price": "",
+      "rewards": [
+        {
+          "name": ""
+        }
+      ]
+    },
+    {
+      "url": "risk-everything",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4GPwyelR1VmnKUPlJyFX9X/a97bdea3ed028cc73a3103f6bb820a5d/05_WEEK_16_RISK_EVERYTHING_MAIN_STAGE.jpg",
+          "crewcredits": "175,000",
+          "bucks": "1,350,720",
+          "rewards": [
+            {
+              "name": "McLaren Senna GTR (2021) - Racing Car"
+            },
+            {
+              "name": "Zivko Edge 540 V3 (2016) - Plane"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3KGQ2v7wjN8oUj8adDOSxX/46afac9a271bca1ab091b22ce53e68de/06_W16_CUSTOM_BUNDLE_RISK_EVERYTHING.jpg",
+          "crewcredits": "175,000",
+          "rewards": [
+            {
+              "name": "Ivory Tower Aezus GT (2024) - Racing Car"
+            },
+            {
+              "name": "Zeus Nitro"
+            },
+            {
+              "name": "Gold Line Tire"
+            },
+            {
+              "name": "Yellow Speed Vortex Smoke"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "ride-anywhere",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/YsKOqvn5pB19XzlxCFoCO/82adb1de181f60d7f944a42a22c107ee/05_RIDE_ANYWHERE_MAIN_STAGE_BUNDLE.jpg",
+          "crewcredits": "266,560",
+          "bucks": "38,080",
+          "rewards": [
+            {
+              "name": "Suzuki RM-Z 450 (2016) - Motocross"
+            },
+            {
+              "name": "Kawasaki KX450F (2015) - Motocross"
+            },
+            {
+              "name": "KTM 450 EXC (2015) - Motocross"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3i3pgaN0WQYoLoeDx38YxP/dd0cc011490b474d18f8603c3cc25bbe/06_CUSTOM_BUNDLE__2_.jpg",
+          "crewcredits": "129,990",
+          "rewards": [
+            {
+              "name": "Dodge Challenger SRT® Demon (2018) - Street Car"
+            },
+            {
+              "name": "Red Smoke"
+            },
+            {
+              "name": "Lab Tire"
+            },
+            {
+              "name": "Japanese Nitro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "race-anything",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/57Fo9Bdn2gQtDhuFpGz26h/0b8566ccbd0f17ba9840eaf540e68a44/WEEK_14_RACE_ANYTHING_MAIN_STAGE_BUNDLE.jpg",
+          "crewcredits": "151,280",
+          "bucks": "1,058,960",
+          "rewards": [
+            {
+              "name": "Creators Concept Spruemeister SM71 (2023) - Alpha GP"
+            },
+            {
+              "name": "Proto Buggy A1 (2017) - Rally Raid Car"
+            },
+            {
+              "name": "Corvette C8.R (2020) - Racing Car"
+            },
+            {
+              "name": "Chevrolet 3100 (1951) - Street Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/O2poG9fxT02WzkxZdunuW/cb81c8d0d54b496e9472456215690b3f/CUSTOM_BUNDLE_.jpg",
+          "crewcredits": "116,550",
+          "rewards": [
+            {
+              "name": "Ford Mustang Boss 429 (1969) - Street Car"
+            },
+            {
+              "name": "Golden Eagle Tire"
+            },
+            {
+              "name": "Golden Wings Underglow"
+            },
+            {
+              "name": "Tempesta Nitro"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
