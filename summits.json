@@ -67,41 +67,41 @@
       "rewards": [
         {
           "eventsNeed": 3,
-          "name": "",
+          "name": "200,000 XP",
           "type": "completion"
         },
         {
           "eventsNeed": 6,
-          "name": "",
+          "name": "Red window tint - Uncommon",
           "type": "completion"
         },
         {
           "eventsNeed": 9,
-          "name": "",
+          "name": "300 P Tickets",
           "type": "completion"
         },
         {
           "eventsNeed": 999999,
           "rankName": "Bronze",
-          "name": "",
+          "name": "200,000 XP",
           "type": "rank"
         },
         {
           "eventsNeed": 40000,
           "rankName": "Silver",
-          "name": "",
+          "name": "200,00 Bucks",
           "type": "rank"
         },
         {
           "eventsNeed": 20000,
           "rankName": "Gold",
-          "name": "",
+          "name": "Rooftop Red projectors",
           "type": "rank"
         },
         {
           "eventsNeed": 10000,
           "rankName": "Platinum",
-          "name": "",
+          "name": "Mazda RX7 Red Fury Ed.",
           "type": "rank"
         }
       ],
