@@ -642,5 +642,260 @@
       "modifiersSummit": "",
       "modifiersCustomShow": ""
     }
+  ],
+  "2024-02": [
+    {
+      "startDate": "05/03/2024 01:00:00",
+      "endDate": "13/03/2024 01:00:00",
+      "name": "Hoonigan Showreel",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/71U3FKnRffLbGgRpQBEvjk/27b3da6c3f72fef9beb106adc5a1bd4e/SHOWREEL_Horizontal.jpg",
+      "url": "hoonigan-showreel",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Hoonigan Cars"
+    },
+    {
+      "startDate": "28/02/2024 01:00:00",
+      "endDate": "05/03/2024 01:00:00",
+      "name": "Pitstop Pressure",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3T09WX47TljkSyUY9Ab7H2/208a8090e8206b39ebbdb87da35b8ba8/PIT_STOP_PRESSURE_Horizontal-960x540.jpg",
+      "url": "pitstop-pressure",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "21/02/2024 01:00:00",
+      "endDate": "28/02/2024 01:00:00",
+      "name": "Hoonigan This vs That Vol.3",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2w4nr7ratlhInEvMVCRART/c2a18608430780f18b33efe2d15468f2/THIS_VS_THAT_3_Horizontal.jpg",
+      "url": "hoonigan-this-vs-that-vol-3",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "14/02/2024 01:00:00",
+      "endDate": "21/02/2024 01:00:00",
+      "name": "Way of Lightning Hoonigan",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1105sC022ygaFYOtaeJ2gC/a6137afb60b78c67af877e08d78cd36a/WAY_OF_LIGHTNING_Horizontal.jpg",
+      "url": "way-of-lightning-hoonigan",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    }
+  ],
+  "2024-01": [
+    {
+      "startDate": "07/02/2024 01:00:00",
+      "endDate": "14/02/2024 01:00:00",
+      "name": "Year of the Dragon",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/20tFLoocVl5xHmN8IyAUoM/c848a9ec982ec3d9b99e0aded25e136d/YEAR_OF_THE_DRAGON_960x540.jpg",
+      "url": "year-of-the-dragon",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "31/01/2024 01:00:00",
+      "endDate": "07/02/2024 01:00:00",
+      "name": "Hoonigan Golden Oldies",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5LhcmsPnxRL6cWPZ79aQzE/921901cd118bc7eec4eaded45be907aa/TCM_GOLDEN_OLDIES_THUMBNAIL_960X540.png",
+      "url": "hoonigan-golden-oldies",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "24/01/2024 01:00:00",
+      "endDate": "31/01/2024 01:00:00",
+      "name": "Drift Performance",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3LeZ7qyXheQ2GKnozhadTB/085935b31aaed67b546d430fc4b34ab1/DRIFT_PERFORMANCE_THUMBNAIL_960X540.jpg",
+      "url": "drift-performance",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "17/01/2024 01:00:00",
+      "endDate": "24/01/2024 01:00:00",
+      "name": "Hoonigan This vs That Vol.2",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1fYWhFbm3jurUNXui69zRV/c3abe6d98090fa99cca33002681738f9/THIS_VS_THAT_2_Horizontal.jpg",
+      "url": "hoonigan-this-vs-that-vol-2",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "10/01/2024 01:00:00",
+      "endDate": "17/01/2024 01:00:00",
+      "name": "Epic Hoonigan Performance",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3VTwqzOe6Hi1oEODSokXP2/792f3c1b4252b589077dba8bc62e3f81/EPIC_PERFORMANCE_960x540.jpg",
+      "url": "epic-hoonigan-performance",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    }
+  ],
+  "2023-12": [
+    {
+      "startDate": "03/01/2024 01:00:00",
+      "endDate": "10/01/2024 01:00:00",
+      "name": "Hoonigan Under Pressure",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/66ONpubd9tnt75nkvZDDLW/00613d3bd2ce150f4196253e6febeb53/UNDER_PRESSURE_Horizontal_960x540.jpg",
+      "url": "hoonigan-under-pressure",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "27/12/2023 01:00:00",
+      "endDate": "03/01/2024 01:00:00",
+      "name": "Holiday Special",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/20TtaaWTubQR9Ur3WS00Cq/73a5b6eede2d4f7d71f11a8d064b43b2/HOLIDAY_SPECIAL_Horizontal_960x540.jpg",
+      "url": "holiday-special",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "20/12/2023 01:00:00",
+      "endDate": "27/12/2023 01:00:00",
+      "name": "Hoonigan This vs That Vol.1",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5jtlkdDNTtEAdOw4yN7Tva/ffece8ec44fb2e41204a4fb9a70a4400/THIS_OR_THAT_Horizontal_960x540.jpg",
+      "url": "hoonigan-this-vs-that-vol.1",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "13/12/2023 01:00:00",
+      "endDate": "20/12/2023 01:00:00",
+      "name": "Gymkhana Hoonigan",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3WB5JsgXc1uHDlSZN8ldei/3d31cddb5287e5e37659ca0d41ef1b1d/GYMKHANA_Horizontal.png",
+      "url": "gymkhana-hoonigan",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "06/12/2023 01:00:00",
+      "endDate": "13/12/2023 01:00:00",
+      "name": "Street Custom Hoonigan",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7jM79VMDLUarpRaUyMavpT/0bbca0055406126e2509c998e28fe1f8/STREET_CUSTOM_horizontal_960x540.jpg",
+      "url": "street-custom-hoonigan",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    }
+  ],
+  "2023-11": [
+    {
+      "startDate": "29/11/2023 01:00:00",
+      "endDate": "06/12/2023 01:00:00",
+      "name": "Final Battle",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4YqkWZazRsfdqmsymBoMWM/6da4f1064eb859c03612c65689921d5f/FINAL_BATTLE_960x540.jpg",
+      "url": "final-battle",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "22/11/2023 01:00:00",
+      "endDate": "29/11/2023 01:00:00",
+      "name": "European Luxury",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/218tOcjCuOWVzj9InYfrDo/2e839bbf6093bae290fb1e3b0a6ab1d4/EUROPEAN_LUXURY_960x540.jpg",
+      "url": "european-luxury",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "15/11/2023 01:00:00",
+      "endDate": "22/11/2023 01:00:00",
+      "name": "European Elegance",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/50iZZm0q8KVAYqm3SkEIg8/9b9c7715160bb6985eaa56a5b5fa1981/EUROPEAN_ELEGANCE_960x540.jpg",
+      "url": "european-elegance",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "08/11/2023 01:00:00",
+      "endDate": "15/11/2023 01:00:00",
+      "name": "European Velocita",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2LaZBIMQ98bdVU2y7UAg8A/ff912acc8beb319f7a9f5fcaa224bbdd/VELOCITA_960x540.png",
+      "url": "european-velocita",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "01/11/2023 01:00:00",
+      "endDate": "08/11/2023 01:00:00",
+      "name": "European Qualitat",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/arTwzyeqsiX9ETn0mb603/3c37bcdd06f4277ea2f66b853c6aa7b3/EUROPEAN_QUALITAT_960x540.jpg",
+      "url": "european-qualitat",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    }
+  ],
+  "2023-10": [
+    {
+      "startDate": "25/10/2023 01:00:00",
+      "endDate": "01/11/2023 01:00:00",
+      "name": "Japanese Original Rice Paddy",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/280G8HljIzp2K5bxftwt6z/eede66ea196a2b3a6a256c09339e8052/JAPANESE_ORIGINAL_RICE_PADDY_horizontal_960x540.jpg",
+      "url": "japanese-original-rice-paddy",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "18/10/2023 01:00:00",
+      "endDate": "25/10/2023 01:00:00",
+      "name": "Japanese Touge",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3PzRkSX70sRLblZWpWTruF/b730db4e59744805d2785409d399a480/960x540-JAPANESE-TOUGE-THUMBNAIL.jpg",
+      "url": "japanese-touge",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "11/10/2023 01:00:00",
+      "endDate": "18/10/2023 01:00:00",
+      "name": "Japanese Custom",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2xWVCogUpQWP3NN0ImGlyz/a104b9e3d708ea921b7a46089abbbbb4/JAPANESE_CUSTOM_THUMBNAIL_960x540.png",
+      "url": "japanese-custom",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "04/10/2023 01:00:00",
+      "endDate": "11/10/2023 01:00:00",
+      "name": "Japanese Big Four",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/38j4Pd6srwsa9EVec1gWr6/a6285181c162262d2c8f3750187e7734/JAPANESE_BIG_FOUR_SUMMIT_TICKET_960x540.jpg",
+      "url": "japanese-big-four",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    }
+  ],
+  "2023-09": [
+    {
+      "startDate": "27/09/2023 01:00:00",
+      "endDate": "04/10/2023 01:00:00",
+      "name": "American Racing",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5fpziWnxtj1joPIFfv7jrQ/26e9e605fcbee756f1478e81908157e1/American_Racing_960x540.jpg",
+      "url": "american-racing",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "20/09/2023 01:00:00",
+      "endDate": "27/09/2023 01:00:00",
+      "name": "American Dust",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2fYSLrtK0gDYYSBLD3IWcx/0bb29c206f1781d5f7fbca9c3aa804e8/American_Dust_960x540_with_TCM_LOGO.jpg",
+      "url": "american-dust",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "13/09/2023 01:00:00",
+      "endDate": "20/09/2023 01:00:00",
+      "name": "American Pop-Culture",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/american-pop-culture.webp",
+      "url": "american-pop-culture",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "06/09/2023 01:00:00",
+      "endDate": "13/09/2023 01:00:00",
+      "name": "American Muscle Power",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/american-muscle.webp",
+      "url": "american-muscle-power",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    }
   ]
 }
