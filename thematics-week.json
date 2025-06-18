@@ -159,5 +159,90 @@
       "modifiersSummit": "",
       "modifiersCustomShow": ""
     }
+  ],
+  "2025-02": [
+    {
+      "startDate": "26/02/2025 01:00:00",
+      "endDate": "05/03/2025 01:00:00",
+      "name": "Full Battery Showdown",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/yGv24azLp3ojgMNKou61H/6ac86bd31e0275d559d334b6678d3e9d/W17_FULL_BATTERY_SHOWDOWN_THUMBNAIL.jpg",
+      "url": "full-battery-showdown",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Electric Vehicles"
+    },
+    {
+      "startDate": "19/02/2025 01:00:00",
+      "endDate": "26/02/2025 01:00:00",
+      "name": "Forces of Natures",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/79Xn2v03pHfaNE8VZTYkwI/5c4926e57655281aec6726f488182a57/W16_FORCES_OF_NATURE_THUMBNAIL.jpg",
+      "url": "forces-of-natures",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Rally Vehicles"
+    },
+    {
+      "startDate": "12/02/2025 01:00:00",
+      "endDate": "19/02/2025 01:00:00",
+      "name": "Motorfest Selection",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7vjWtjXiduuIICzusaWRap/b59b3d8375e2d9fb44fc7f2ce2664be6/-TCM-_News_Article___TWTC_25-02-11_-_W15_FORD_MOTORFEST_THUMBNAIL.jpg",
+      "url": "motorfest-selection",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Ford Only"
+    },
+    {
+      "startDate": "05/02/2025 01:00:00",
+      "endDate": "12/02/2025 01:00:00",
+      "name": "Electric x Thermal",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/55RU93iqGbUeBdx7xnrm3F/076800017c95b9d9e2ab274519b97e2f/W14_ELECTRICxTHERMAL_THUMBNAIL.jpg",
+      "url": "electric-thermal",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "German Racing Cars"
+    }
+  ],
+  "2025-01": [
+    {
+      "startDate": "29/01/2025 01:00:00",
+      "endDate": "05/02/2025 01:00:00",
+      "name": "Full Battery Showdown",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/yGv24azLp3ojgMNKou61H/6ac86bd31e0275d559d334b6678d3e9d/W17_FULL_BATTERY_SHOWDOWN_THUMBNAIL.jpg",
+      "url": "full-battery-showdown",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Electric Vehicles"
+    },
+    {
+      "startDate": "21/01/2025 01:00:00",
+      "endDate": "29/01/2025 01:00:00",
+      "name": "Island Delights",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5Zgv9VkQtHVx9V7pG89lJ8/41c92d89269e197c2181e4e96b9e0068/-TCM-_News_Article___TWTC_25-01-21_-_thumbnail.jpg",
+      "url": "island-delights",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Hypercar"
+    },
+    {
+      "startDate": "15/01/2025 01:00:00",
+      "endDate": "21/01/2025 01:00:00",
+      "name": "McLaren Selection",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2hDOGA1FNev5tJEImZEkg8/63b5bf3a6b1a4e5ac5c08994517b8cf9/W11_MCLAREN_MOTORFEST_SELECTION_THUMBNAIL.jpg",
+      "url": "mclaren-selection",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "McLaren"
+    },
+    {
+      "startDate": "08/01/2025 01:00:00",
+      "endDate": "15/01/2025 01:00:00",
+      "name": "No Speed Limit",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3Yt3W5uO8sFHfOtPEri6Vb/b0fc075e72187a67cef6e7a566ae1e37/W10_NO_SPEED_LIMIT_THUMBNAIL.jpg",
+      "url": "no-speed-limit",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Alpha Grand Prix & Racing Bikes"
+    },
+    {
+      "startDate": "01/01/2025 01:00:00",
+      "endDate": "08/01/2025 01:00:00",
+      "name": "Chase Squad Engage!",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7IawBL0IMdghMmQJftjGxg/7d6104a538eafe8ed62d761b70a17655/W09_CHASESQUAD_ENGAGE_THUMBNAIL.jpg",
+      "url": "chase-squad-engage",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Chase Vehicles"
+    }
   ]
 }
