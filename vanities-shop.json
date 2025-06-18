@@ -5,49 +5,49 @@
       "vanities": [
         {
           "name": "Neon Green Tire",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/tires/neon-green.webp",
           "price": "40,000",
-          "rarety": ""
+          "rarety": "Epic"
         },
         {
           "name": "Aurora Borealis Smoke",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/smokes/aurora-borealis.webp",
           "price": "70,000",
-          "rarety": ""
+          "rarety": "Epic"
         },
         {
           "name": "White Underglow",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/underglows/white.webp",
           "price": "25,000",
-          "rarety": ""
+          "rarety": "Common"
         },
         {
           "name": "Low Poly Smoke",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/smokes/low-poly.webp",
           "price": "25,000",
-          "rarety": ""
+          "rarety": "Common"
         },
         {
           "name": "Yellow Segment Underglow",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/underglows/yellow-segment.webp",
           "price": "25,000",
-          "rarety": ""
+          "rarety": "Common"
         },
         {
           "name": "Yellow Prismatic Nitro",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/nitros/yellow-prismatic.webp",
           "price": "40,000",
-          "rarety": ""
+          "rarety": "Epic"
         },
         {
           "name": "Stuntman Smoke",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/smokes/stuntman.webp",
           "price": "70,000",
           "rarety": ""
         },
         {
           "name": "Stuntman Tire",
-          "image": "",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/tires/stuntman.webp",
           "price": "40,000",
           "rarety": ""
         }

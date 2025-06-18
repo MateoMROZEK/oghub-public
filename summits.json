@@ -174,17 +174,17 @@
       "rewards": [
         {
           "eventsNeed": 3,
-          "name": "",
+          "name": "100,000XP",
           "type": "completion"
         },
         {
           "eventsNeed": 6,
-          "name": "",
+          "name": "150 P Tickets",
           "type": "completion"
         },
         {
           "eventsNeed": 9,
-          "name": "",
+          "name": "100,000 Bucks",
           "type": "completion"
         },
         {
