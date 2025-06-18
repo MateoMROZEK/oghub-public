@@ -282,5 +282,43 @@
       "modifiersSummit": "",
       "modifiersCustomShow": "Gordon Murray Vehicles & Alfa Romeo Vehicles"
     }
+  ],
+"2024-11": [
+    {
+      "startDate": "27/11/2024 01:00:00",
+      "endDate": "04/12/2024 01:00:00",
+      "name": "Carpenter Brutal",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3omAmzKghZr1zeulQq7ztl/768df3ad8c816ded007d9eab0c8f29f1/-TCM-_News_Article___TWTC_24-11-26_-_thumbnail.jpg",
+      "url": "carpenter-brutal",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Dodge Vehicles"
+    },
+    {
+      "startDate": "20/11/2024 01:00:00",
+      "endDate": "27/11/2024 01:00:00",
+      "name": "KTM Selection",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1YZE6nCCqW9xtSJBcUOUjc/9f48efba2459aa77fabd9d67f6aa523e/W03_KTM_MOTORFEST_SELECTION_THUMBNAIL.jpg",
+      "url": "ktm-selection",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "KTM Vehicles"
+    },
+    {
+      "startDate": "13/11/2024 01:00:00",
+      "endDate": "20/11/2024 01:00:00",
+      "name": "Chase Squad Deploy",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2hBYC2x0YllHTUEJ9nsiIK/4632b121e751b96c56a13b6ad6e4a650/-TCM-_News_Article___TWTC_24-11-12_-_thumbnail.jpg",
+      "url": "chase-squad-deploy",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Chase Vehicles"
+    },
+    {
+      "startDate": "06/11/2024 01:00:00",
+      "endDate": "13/11/2024 01:00:00",
+      "name": "To the Streets",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/no-summit-bg.webp",
+      "url": "to-the-streets",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Japanese Street Cars"
+    }
   ]
 }
