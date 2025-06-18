@@ -1,5 +1,5 @@
 {
-"2025-06": [
+  "2025-06": [
     {
       "name": "Escape Main Stage",
       "rewardsLevels": [
@@ -45,7 +45,7 @@
             {
               "name": "Checkerboad Flag - Uncommon",
               "level": "1",
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/dashboards/checkerboard-flag.webp"
             },
             {
               "name": "+5%",
@@ -82,7 +82,7 @@
             {
               "name": "Casual shirt: Speed Clash",
               "level": "4",
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/speed-clash-tshirt.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/speed-clash2.webp"
             }
           ],
           "green": [
@@ -104,12 +104,12 @@
             {
               "name": "Offroad jacket: Wild Ride",
               "level": "4",
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/wild-ride-jacket.webp"
             },
             {
               "name": "Waterproof: Wild Ride",
               "level": "4",
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/wild-ride-waterproof.webp"
             }
           ]
         }
