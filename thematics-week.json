@@ -244,5 +244,43 @@
       "modifiersSummit": "",
       "modifiersCustomShow": "Chase Vehicles"
     }
+  ],
+"2024-12": [
+    {
+      "startDate": "25/12/2024 01:00:00",
+      "endDate": "01/01/2025 01:00:00",
+      "name": "Holidaze",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/40jfUOXW2o9uamNjrVH24i/c8c4c9a7ff9c9016e4b892329914532e/W08_HOLIDAZE_THUMBNAIL2.jpg",
+      "url": "holidaze",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Modern Street Tier 1 & Street Tier 2 & Hypercars"
+    },
+    {
+      "startDate": "18/12/2024 01:00:00",
+      "endDate": "25/12/2024 01:00:00",
+      "name": "Allstars Vol.2",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/62rNNvFrTeTX7GCcyLBT4V/6087dc10d9446541bb9ecc84afeaa0b6/-TCM-_News_Article___TWTC_24-12-17_-_thumbnail.jpg",
+      "url": "allstars-vol-2",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Weekly Vehicles & Custom Bundle"
+    },
+    {
+      "startDate": "11/12/2024 01:00:00",
+      "endDate": "18/12/2024 01:00:00",
+      "name": "Forsberg x Hoonigan",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2T6Pdt3YYgF3Mwmq1H6503/2c7a5df3a429d8fb52f2cd44d605019c/W06_FORSBERG_HOONIGAN_THUMBNAIL.jpg",
+      "url": "forsberg-x-hoonigan",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Forsberg Racing Vehicles & Hoonigan Vehicles"
+    },
+    {
+      "startDate": "03/12/2024 01:00:00",
+      "endDate": "11/12/2024 01:00:00",
+      "name": "Pitstop Pressure",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/57CdsoF38PopITsR0z8zsw/746c48cfd4b53d3ac304726ea8061cbb/thumbnail.jpg",
+      "url": "pitstop-pressure",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Gordon Murray Vehicles & Alfa Romeo Vehicles"
+    }
   ]
 }
