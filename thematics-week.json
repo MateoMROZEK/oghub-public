@@ -245,7 +245,7 @@
       "modifiersCustomShow": "Chase Vehicles"
     }
   ],
-"2024-12": [
+  "2024-12": [
     {
       "startDate": "25/12/2024 01:00:00",
       "endDate": "01/01/2025 01:00:00",
@@ -283,7 +283,7 @@
       "modifiersCustomShow": "Gordon Murray Vehicles & Alfa Romeo Vehicles"
     }
   ],
-"2024-11": [
+  "2024-11": [
     {
       "startDate": "27/11/2024 01:00:00",
       "endDate": "04/12/2024 01:00:00",
@@ -319,6 +319,129 @@
       "url": "to-the-streets",
       "modifiersSummit": "",
       "modifiersCustomShow": "Japanese Street Cars"
+    }
+  ],
+  "2024-10": [
+    {
+      "startDate": "30/10/2024 01:00:00",
+      "endDate": "06/11/2024 01:00:00",
+      "name": "Nissan Selection",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7GY1CHtYwmu130pNwsA24N/d81b145b255fff8d6fce6e50c43ef8c2/M04_W05_NISSAN_MOTORFEST_SELECTION_THUMBNAIL.jpg",
+      "url": "nissan-selection",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Nissan Cars"
+    },
+    {
+      "startDate": "23/10/2024 01:00:00",
+      "endDate": "30/10/2024 01:00:00",
+      "name": "Spook Tacular",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7BH3HUFwVHad2q7ZssE0ZY/03293d11c335d2902b80955543f11ae7/M04_W04_SPOOKTAKULAR_THUMBNAIL.jpg",
+      "url": "spook-tacular",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Main Stage Bundle & Custom Bundle"
+    },
+    {
+      "startDate": "16/10/2024 01:00:00",
+      "endDate": "23/10/2024 01:00:00",
+      "name": "Japanese Touge Vol.2",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5lwYzQilxW2AMqTcIYpKR8/a904efe4b2f43c3aa12ed9699fa82756/M04_W03_TOUGE_VOL2_THUMBNAIL.jpg",
+      "url": "japanese-touge-vol-2",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Drift Cars"
+    },
+    {
+      "startDate": "09/10/2024 01:00:00",
+      "endDate": "16/10/2024 01:00:00",
+      "name": "Japanese Custom vol.2",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4oCEuoxKa8hSRwi77KfgIW/1d757f348cac53885d023834bd3c5d8d/M04_W02_JAPANESE_CUSTOM_VOL2_THUMBNAIL.jpg",
+      "url": "japanese-custom-vol-2",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Japanese Street Cars ST1/ST2 & Japanese Racing Cars"
+    },
+    {
+      "startDate": "02/10/2024 01:00:00",
+      "endDate": "09/10/2024 01:00:00",
+      "name": "LBWK Reign",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/eahEfsLoT44jGZNUzUVNp/d3f46de0b85403847e6a44fe1bbe27ae/TCM_CUSTOM_SHOW_W14_LBWK_REIGN_.jpg",
+      "url": "lbwk-reign",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Toyota GR Supra LBWK Edition & Nissan GT-R Haru Edition & BMW M4 Liberty Walk Edition & Liberty Walk McLaren 720s Spider"
+    }
+  ],
+  "2024-09": [
+    {
+      "startDate": "25/09/2024 01:00:00",
+      "endDate": "02/10/2024 01:00:00",
+      "name": "Porsche Selection",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/IFkzCe6lV5QMFeU6gK3nT/d670d32e97e11e368f37fdd4dee305a1/THUMBNAIL_960x540.jpg",
+      "url": "porsche-selection",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Porsche Cars"
+    },
+    {
+      "startDate": "18/09/2024 01:00:00",
+      "endDate": "25/09/2024 01:00:00",
+      "name": "Creators Masterworks",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4kSTYTQo7pn0o6MBZouU9X/d25e3fda9365ba1b8f96cb986bd4c894/M03_W03_CREATORS_MASTERWORKS_THUMBNAIL.jpg",
+      "url": "creators-masterworks",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Creators Vehicles & Proto Vehicles"
+    },
+    {
+      "startDate": "11/09/2024 01:00:00",
+      "endDate": "18/09/2024 01:00:00",
+      "name": "Motorversary 1st Year",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/ahgVfC1zXQShT7bA7ppWI/8eb46505bf6b9fbec36714f7438568f3/M03_W02_MOTORVERSARY_THUMBNAIL.jpg",
+      "url": "motorversary-1st-year",
+      "modifiersSummit": "Nitro Instant Refill",
+      "modifiersCustomShow": "Hypercars & Street Tier 2 Cars"
+    },
+    {
+      "startDate": "04/09/2024 01:00:00",
+      "endDate": "11/09/2024 01:00:00",
+      "name": "Yiannimize",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/this-week-in-the-crew-sept-3-v0-ZUBKGXncZfOjB21PHTV-z6Fdn1KZL7DwdXOudbe5rgs.webp",
+      "url": "yiannimize",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Hypercars & Street Tier 2 Cars"
+    }
+  ],
+  "2024-08": [
+    {
+      "startDate": "28/08/2024 01:00:00",
+      "endDate": "04/09/2024 01:00:00",
+      "name": "BMW Selection",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/jCMdC1F6JPcGr2KYJS9PZ/ce2b8a009354b4eda619257ef931d9e6/M02_W04_BMW_MOTORFEST_SELECTION_THUMBNAIL.jpg",
+      "url": "bmw-selection",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "BMW Cars"
+    },
+    {
+      "startDate": "21/08/2024 01:00:00",
+      "endDate": "28/08/2024 01:00:00",
+      "name": "Ringbrothers Makeover",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3K56hreF5NF5BIWxEyZueL/3070f2eba372930c380d376512ef5d30/M02_W03_RINGBROTHERS_MAKEOVER_THUMBNAIL.jpg",
+      "url": "ringbrothers-makeover",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Classic Cars & Custom Bundle"
+    },
+    {
+      "startDate": "14/08/2024 01:00:00",
+      "endDate": "21/08/2024 01:00:00",
+      "name": "The Offroader",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5mHKGnXJmMXK8dZ6Tv7nz0/991346f740822486eae37986765d5eb0/M02_W02_OFFROADER_THUMBNAIL.jpg",
+      "url": "the-offroader",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Ground Offroad Vehicles (Monster; Motocross; Rally Raid; Demolition Derby)"
+    },
+    {
+      "startDate": "07/08/2024 01:00:00",
+      "endDate": "14/08/2024 01:00:00",
+      "name": "Lasting Legacy",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/638FkDgwm1D9jEJv2ivhC8/ecbd0e7616d598a5b9574b11d8b4126f/TCM_W06_LASTING_LEGACY_THUMBNAIL.jpg",
+      "url": "lasting-legacy",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "European Cars (Street Tier 1/2 & Hypercars)"
     }
   ]
 }
