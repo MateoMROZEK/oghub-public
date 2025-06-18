@@ -443,5 +443,204 @@
       "modifiersSummit": "",
       "modifiersCustomShow": "European Cars (Street Tier 1/2 & Hypercars)"
     }
+  ],
+  "2024-07": [
+    {
+      "startDate": "31/07/2024 01:00:00",
+      "endDate": "07/08/2024 01:00:00",
+      "name": "American Custom Showreel",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/OlcRhuDw8oDnvZ1JpTnwn/a1b4f577aa837c494a38ba3316c2c198/AMERICAN_CUSTOM_SHOWREEL_THUMBNAIL.jpg",
+      "url": "american-custom-showreel",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "American Cars"
+    },
+    {
+      "startDate": "24/07/2024 01:00:00",
+      "endDate": "31/07/2024 01:00:00",
+      "name": "Bikers Custom",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2lYdkK1o6WSsGwlbcX5suj/ab72ae13c10539ab5211427991c6279d/BIKERS_CUSTOM_THUMBNAIL_960X540.jpg",
+      "url": "bikers-custom",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "American Bikes"
+    },
+    {
+      "startDate": "17/07/2024 01:00:00",
+      "endDate": "24/07/2024 01:00:00",
+      "name": "Drag & Donk Custom",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6VekBTJlCs4odlK4bk9gcJ/9928c66cee4057cedcb2a5f33b8854ee/M01_W03_DRAGNDONK_THUMBNAIL.jpg",
+      "url": "drag-and-donk-custom",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "American Muscle Cars"
+    },
+    {
+      "startDate": "10/07/2024 01:00:00",
+      "endDate": "17/07/2024 01:00:00",
+      "name": "Show us Boating",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6hjL3l5TyHRJfSkojJlwxF/f43d23b428bea3f2447fee25cd8143e2/US_SHOWBOATING_THUMBNAIL.jpg",
+      "url": "show-us-boating",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "American Modern Hypercars & American Modern Supercars"
+    },
+    {
+      "startDate": "03/07/2024 01:00:00",
+      "endDate": "10/07/2024 01:00:00",
+      "name": "Lowrider Custom",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7ny6gu8QrZHk41bms306jT/7f10b0a81a8e7ec3b951dac500700b8e/LOWRIDER_CUSTOM_THUMBNAIL.jpg",
+      "url": "lowrider-custom",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "American Street Cars Street Cars 1/2"
+    }
+  ],
+  "2024-06": [
+    {
+      "startDate": "26/06/2024 01:00:00",
+      "endDate": "03/07/2024 01:00:00",
+      "name": "Shmee150 Experience",
+      "bannerUrl": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/summits/95afa5215d9c1c35234f99bae9621b3134a1da30_400x225.png",
+      "url": "shmee150-experience",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "European Hypercars"
+    },
+    {
+      "startDate": "19/06/2024 01:00:00",
+      "endDate": "26/06/2024 01:00:00",
+      "name": "Bugatti Selection",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7q3gOYsvBxSTW4eoRlocze/19022106b0fcd79ef47beb13ef3edd9b/TCM_THUMBNAIL_W15_THE_CREW_TRIBUTE_960X540.jpg",
+      "url": "bugatti-selection",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Car Street Tier 2 & Car Rally Raid & Hypercar"
+    },
+    {
+      "startDate": "12/06/2024 01:00:00",
+      "endDate": "19/06/2024 01:00:00",
+      "name": "TDIB Thatdudeinblue Experience",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/73I1PDB22NbmjotHFXXr1x/4ec3269c94e38abddc2f6ef1d1ccd21e/W14_THUMBNAIL_THATDUDEINBLUE_EXPERIENCE_960x540.jpg",
+      "url": "tdib-thatdudeinblue-experience",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Japanese and American Street Cars"
+    },
+    {
+      "startDate": "05/06/2024 01:00:00",
+      "endDate": "12/06/2024 01:00:00",
+      "name": "Shmee150 Tagteam Thatdudinblue",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7AAWlQxa8ZcMW4tI5gy1vG/7532db6611869b334e03845a510bc143/W13_THATDUDEINBLUE_x_SHMEE150_THUMBNAIL.jpg",
+      "url": "shmee150-tagteam-thatdudinblue",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Car Street Tier 2"
+    }
+  ],
+  "2024-05": [
+    {
+      "startDate": "29/05/2024 01:00:00",
+      "endDate": "05/06/2024 01:00:00",
+      "name": "Forsberg Dominion",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/RMZAdsshGg4vwZnood7x6/5b0baf3dbfc95d0a70257c30015047ea/FORSBERG_DOMINION_THUMBNAIL.jpg",
+      "url": "forsberg-dominion",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Rally Raid & Drift & Racing Car"
+    },
+    {
+      "startDate": "22/05/2024 01:00:00",
+      "endDate": "29/05/2024 01:00:00",
+      "name": "Allstars",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6ivgC0FUeI5yKCeWcWVanc/862ece5f8643f649c1e72fb6b19e18b5/W11_MOTORFEST_ALL_STARS_THUMBNAIL.jpg",
+      "url": "allstars",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Street Tier 2 & Hypercar"
+    },
+    {
+      "startDate": "15/05/2024 01:00:00",
+      "endDate": "22/05/2024 01:00:00",
+      "name": "Forsberg Racing Team Spirit",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2JBqSo1HggS4SxvMkIQu2s/0ce8d5b6d6e2ffa83a20e5f474b8dc54/TEAM_SPIRIT_THUMBNAIL.jpg",
+      "url": "forsberg-racing-team-spirit",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "08/05/2024 01:00:00",
+      "endDate": "15/05/2024 01:00:00",
+      "name": "Forsberg Racing Racecar Revival",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1DZN3WYqqrqgb1aHBsqR4C/4326d53ab62113ce594228f2a8b9c483/W09_RACECAR_REVIVAL_THUMBNAIL.jpg",
+      "url": "forsberg-racing-racecar-revival",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "01/05/2024 01:00:00",
+      "endDate": "08/05/2024 01:00:00",
+      "name": "Forsberg Racing Driftide",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7Kyd0z5Xdbu1J6BVxhQqx2/e85e4cf91ed441b5b92818d39262893e/W08_THUMBNAIL_FORSBERG_DRIFTIDE_960X540.jpg",
+      "url": "forsberg-racing-driftide",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    }
+  ],
+  "2024-04": [
+    {
+      "startDate": "24/04/2024 01:00:00",
+      "endDate": "01/05/2024 01:00:00",
+      "name": "Blackpanthaa Experience",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6xDZ5mbBTOPB0qMPdjuFqm/b8766ca3befb0490d75655ae175e89f7/W07_BLACKPANTHAA_EXPERIENCE_960x540.jpg",
+      "url": "blackpanthaa-experience",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "17/04/2024 01:00:00",
+      "endDate": "24/04/2024 01:00:00",
+      "name": "Stereonline Experience",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4vNXLOKPiYXe2K22orxn7S/91d06f547c4410bd6fbd607813cdb380/W06_STEREONLINE_EXPERIENCE_960x540.jpg",
+      "url": "stereonline-experience",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "10/04/2024 01:00:00",
+      "endDate": "17/04/2024 01:00:00",
+      "name": "Solar Eclipse",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7iLCDAprPTVoJX4B0AoJ6g/153dea02aaaaa82112dcfed5f5ea135a/W05_SOLAR_ECLIPSE_Horizontal.jpg",
+      "url": "solar-eclipse",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "03/04/2024 01:00:00",
+      "endDate": "10/04/2024 01:00:00",
+      "name": "Blackpanthaa Tagteam Stereonline",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4WuM7PdR8fMaxMFMnUNtam/6d63088376fcf4a04177f4519630d837/W04_TAGTEAM_STEREONLINE_x_BLACKPANTHAA_Horizontal.jpg",
+      "url": "blackpanthaa-tagteam-stereonline",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    }
+  ],
+  "2024-03": [
+    {
+      "startDate": "27/03/2024 01:00:00",
+      "endDate": "03/04/2024 01:00:00",
+      "name": "Showstopper Spy Thriller Classics",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4Tgc433ho5WQcz8FNCjtuk/7cbbb291295a7697ed613347009a02bf/W03_SPY_THRILLER_CLASSICS_Horizontal.jpg",
+      "url": "showstopper-spy-thriller-classics",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "20/03/2024 01:00:00",
+      "endDate": "27/03/2024 01:00:00",
+      "name": "Showstopper Video Games Classics",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5hYNRNtLjYpoAG9PxlhLcl/02a9f8a3cecd2ebdb8971bb8cccf5099/VIDEO_GAME_CLASSICS_THUMBNAIL.jpg",
+      "url": "showstopper-video-games-classics",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "13/03/2024 01:00:00",
+      "endDate": "20/03/2024 01:00:00",
+      "name": "Showstopper 80's Classics",
+      "bannerUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/hohQyX4UmrrqOLPDRCeTl/d1bf8a4d3c800c5ecdd64e48548c40c6/W01_80-S_CLASSICS_Horizontal.jpg",
+      "url": "showstopper-80s-classics",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    }
   ]
 }
