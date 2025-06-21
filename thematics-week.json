@@ -182,9 +182,9 @@
     {
       "startDate": "12/02/2025 01:00:00",
       "endDate": "19/02/2025 01:00:00",
-      "name": "Motorfest Selection",
+      "name": "Ford Selection",
       "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-02/motorfest-selection.jpg",
-      "url": "motorfest-selection",
+      "url": "ford-selection",
       "modifiersSummit": "",
       "modifiersCustomShow": "Ford Only"
     },
