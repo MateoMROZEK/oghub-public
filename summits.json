@@ -4,62 +4,62 @@
       "url": "fury-legacy",
       "events": [
         {
-          "name": "",
+          "name": "Seeing Red",
           "activitie": "",
-          "restriction": "",
+          "restriction": "Loan [Mazda RX7 Red Fury Edition]",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
+          "name": "Crossing The Red Line",
           "activitie": "",
-          "restriction": "",
+          "restriction": "Nissan Street Tier 2",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
+          "name": "Painting The Town Red",
           "activitie": "",
-          "restriction": "",
+          "restriction": "Honda S2000",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
+          "name": "In The Red Zone",
           "activitie": "",
-          "restriction": "",
+          "restriction": "Honda Civic Type R",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "activitie": "",
-          "restriction": "",
+          "name": "Caught Red-Handed",
+          "activitie": "Rivals Blue-Eyes",
+          "restriction": "Nissan GTR Nismo",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "activitie": "",
-          "restriction": "",
+          "name": "Red Sky At Night",
+          "activitie": "Bosozoku",
+          "restriction": "Honda Street Tier 2",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "restriction": "",
+          "name": "Slalom Asphalt",
+          "restriction": "Nissan GT-R Nismo",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "restriction": "",
+          "name": "Speedtrap Asphalt",
+          "restriction": "Street Tier 1",
           "recommendedCar": "",
           "metaURL": ""
         },
         {
-          "name": "",
-          "restriction": "",
+          "name": "Escape Asphalt",
+          "restriction": "Honda S2000",
           "recommendedCar": "",
           "metaURL": ""
         }

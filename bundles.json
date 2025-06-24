@@ -2,7 +2,44 @@
   "2025-06": [
     {
       "url": "fury-legacy",
-      "bundles": []
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6CNoY6XUUAh5dgHB8KnvNN/aa3f459e82cbd1665b2cab8efe5ec460/05_WEEK_17_FURY_LEGACY_MAIN_STAGE_BUNDLE.jpg",
+          "crewcredits": "192,960",
+          "bucks": "1,350,720",
+          "rewards": [
+            {
+              "name": "Nissan GT-R Nismo (2020) - Street Car"
+            },
+            {
+              "name": "Honda Civic Type R (2021) - Street Car"
+            },
+            {
+              "name": "Honda S2000 Motorfest Edition (2009) - Street Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4G4JICZ5DPW8iU5Agi9GUP/917faa907b4aec7b44dbbcde34cb42b2/06_CUSTOM_BUNDLE__3_.jpg",
+          "crewcredits": "175,000",
+          "rewards": [
+            {
+              "name": "Nissan Skyline GT-R R32 (1989) - Street Car"
+            },
+            {
+              "name": "Roffo Red Line Tire"
+            },
+            {
+              "name": "Prohibited Dream Smoke"
+            },
+            {
+              "name": "Petrol Nitro"
+            }
+          ]
+        }
+      ]
     },
     {
       "url": "risk-everything",

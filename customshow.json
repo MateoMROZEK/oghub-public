@@ -5,22 +5,22 @@
       "rewards": [
         {
           "rankName": "Bronze",
-          "name": "",
+          "name": "100,000 XP",
           "type": "rank"
         },
         {
           "rankName": "Silver",
-          "name": "",
+          "name": "50,000 Bucks",
           "type": "rank"
         },
         {
           "rankName": "Gold",
-          "name": "",
+          "name": "5 Legend Points",
           "type": "rank"
         },
         {
           "rankName": "Platinum",
-          "name": "",
+          "name": "Bright Future Aerotire - Uncommon",
           "type": "rank"
         }
       ]
