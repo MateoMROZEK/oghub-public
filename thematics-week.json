@@ -30,9 +30,9 @@
     {
       "startDate": "09/07/2025 05:00:00",
       "endDate": "16/07/2025 05:00:00",
-      "name": "Week 2",
+      "name": "F80",
       "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/default.webp",
-      "url": "#",
+      "url": "f80",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
     },
