@@ -1,4 +1,116 @@
 {
+  "2025-07": [
+    {
+      "url": "supercars",
+      "events": [
+        {
+          "name": "The Era Begins",
+          "activitie": "Generatione F",
+          "restriction": "Ferrari 288 GTO [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Racing To The Extreme",
+          "activitie": "Opera D'Arte",
+          "restriction": "Ferrari F40",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "No Compromise",
+          "activitie": "Velocita",
+          "restriction": "Ferrari F50 [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Humble Tribute",
+          "activitie": "Orizzonte Rosso",
+          "restriction": "Ferrari Enzo",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Born To Innovate",
+          "activitie": "Supercar",
+          "restriction": "Ferrari La Ferrari [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Timeless Icons",
+          "activitie": "La Ferrari",
+          "restriction": "Ferrari ST2",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Speedtrap Asphalt",
+          "restriction": "Ferrari Supercar",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "Free",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "Ferrari F40",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 40000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 20000,
+          "rankName": "Gold",
+          "name": "Ferrari 512 TR",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Supercar Kit - Rare",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    }
+  ],
   "2025-06": [
     {
       "url": "fury-legacy",

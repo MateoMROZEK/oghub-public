@@ -1,4 +1,57 @@
 {
+  "2025-07": [
+    {
+      "url": "supercars",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/36lKmTVSkPed5r4iLBoDax/6b59167fd25a09c00a459242a5ddfdfa/05_WEEK_01_SUPERCARS_MAIN_STAGE_BUNDLE.jpg",
+          "crewcredits": "250,480",
+          "bucks": "1,753,360",
+          "rewards": [
+            {
+              "name": "Ferrari F40 (1987) - Street Car"
+            },
+            {
+              "name": "Ferrari Enzo Ferrari (2002) - Hypercar"
+            }
+          ]
+        },
+        {
+          "name": "Welcome Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4swKBolYGAE5LW7esJq4wi/b7aa0d7dac708b19fb112138b11e86fc/02_TCM_KEY_ART_S07_.jpg",
+          "crewcredits": "35,420",
+          "rewards": [
+            {
+              "name": "Alfa Romeo Giulia Quadrifoglio (2017)-Street Car"
+            },
+            {
+              "name": "Green Roffo Tire"
+            },
+            {
+              "name": "Dark Green Nitro"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7JyLVi6xVM4NOlrMMyHgHY/eb866224138b62a0a75c5504e131359c/03_Keyart_playlist_Ferrari.jpg",
+          "crewcredits": "136,000",
+          "rewards": [
+            {
+              "name": "Ferrari F50 (1995) - Street Car"
+            },
+            {
+              "name": "Red Speed Vortex Smoke"
+            },
+            {
+              "name": "Red Nitro"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025-06": [
     {
       "url": "fury-legacy",

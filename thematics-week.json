@@ -40,10 +40,10 @@
       "startDate": "02/07/2025 05:00:00",
       "endDate": "09/07/2025 05:00:00",
       "name": "Supercars",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/default.webp",
-      "url": "race-anything",
+      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-07/S07_W01_SUPERCARS_MKT_THUMBNAIL__1_.avif",
+      "url": "supercars",
       "modifiersSummit": "",
-      "modifiersCustomShow": ""
+      "modifiersCustomShow": "Ferrari Supercar"
     }
   ],
   "2025-06": [
