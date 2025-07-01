@@ -4,7 +4,7 @@
       "startDate": "30/07/2025 05:00:00",
       "endDate": "06/08/2025 05:00:00",
       "name": "Ferrari",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/default.webp",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/default.webp",
       "url": "ferrari",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -13,7 +13,7 @@
       "startDate": "23/07/2025 05:00:00",
       "endDate": "30/07/2025 05:00:00",
       "name": "Crazy vacation",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/default.webp",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/default.webp",
       "url": "crazy-vacation",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -22,7 +22,7 @@
       "startDate": "16/07/2025 05:00:00",
       "endDate": "23/07/2025 05:00:00",
       "name": "Rosso Adrenalina",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/default.webp",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/default.webp",
       "url": "rosso-adrenalina",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -31,7 +31,7 @@
       "startDate": "09/07/2025 05:00:00",
       "endDate": "16/07/2025 05:00:00",
       "name": "F80",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/default.webp",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/default.webp",
       "url": "f80",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -40,7 +40,7 @@
       "startDate": "02/07/2025 05:00:00",
       "endDate": "09/07/2025 05:00:00",
       "name": "Supercars",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-07/S07_W01_SUPERCARS_MKT_THUMBNAIL__1_.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-07/S07_W01_SUPERCARS_MKT_THUMBNAIL__1_.avif",
       "url": "supercars",
       "modifiersSummit": "",
       "modifiersCustomShow": "Ferrari Supercar"
@@ -51,7 +51,7 @@
       "startDate": "25/06/2025 05:00:00",
       "endDate": "02/07/2025 05:00:00",
       "name": "Fury Legagy",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-06/S06_W17_FURY_MKT_THUMBNAIL.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-06/S06_W17_FURY_MKT_THUMBNAIL.avif",
       "url": "fury-legacy",
       "modifiersSummit": "",
       "modifiersCustomShow": "Japanese Street Car"
@@ -60,7 +60,7 @@
       "startDate": "18/06/2025 05:00:00",
       "endDate": "25/06/2025 05:00:00",
       "name": "Risk Everything",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-06/risk-everything.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-06/risk-everything.avif",
       "url": "risk-everything",
       "modifiersSummit": "",
       "modifiersCustomShow": "Modern Racing Supercars"
@@ -69,7 +69,7 @@
       "startDate": "11/06/2025 05:00:00",
       "endDate": "18/06/2025 05:00:00",
       "name": "Ride Anywhere",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-06/ride-anywhere.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-06/ride-anywhere.avif",
       "url": "ride-anywhere",
       "modifiersSummit": "Nitro Instant Refill & Gymkhana",
       "modifiersCustomShow": "Bikes, Custom Bundle"
@@ -78,7 +78,7 @@
       "startDate": "04/06/2025 05:00:00",
       "endDate": "11/06/2025 05:00:00",
       "name": "Race Anything",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-06/race-anything.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-06/race-anything.avif",
       "url": "race-anything",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -89,7 +89,7 @@
       "startDate": "28/05/2025 05:00:00",
       "endDate": "04/06/2025 05:00:00",
       "name": "Crater Chaos",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-05/crater-chaos.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-05/crater-chaos.jpg",
       "url": "crater-chaos",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -98,7 +98,7 @@
       "startDate": "21/05/2025 05:00:00",
       "endDate": "28/05/2025 05:00:00",
       "name": "Forest Quests",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-05/forest-quests.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-05/forest-quests.avif",
       "url": "forest-quests",
       "modifiersSummit": "",
       "modifiersCustomShow": "Weekly Vehicle Models"
@@ -107,7 +107,7 @@
       "startDate": "14/05/2025 05:00:00",
       "endDate": "21/05/2025 05:00:00",
       "name": "Coastal Adventures",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-05/coastal-adventures.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-05/coastal-adventures.avif",
       "url": "coastal-adventures",
       "modifiersSummit": "Fair",
       "modifiersCustomShow": "USA Modern Rally Raid"
@@ -116,7 +116,7 @@
       "startDate": "07/05/2025 05:00:00",
       "endDate": "14/05/2025 05:00:00",
       "name": "BULLS and TRAILS",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-05/bulls-and-trails.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-05/bulls-and-trails.avif",
       "url": "bulls-and-trails",
       "modifiersSummit": "No modifier",
       "modifiersCustomShow": "Main Stage Bundle & Custom Bundle Only"
@@ -127,7 +127,7 @@
       "startDate": "30/04/2025 05:00:00",
       "endDate": "07/05/2025 05:00:00",
       "name": "AERIAL CIRCUS",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-04/aerial-circus.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-04/aerial-circus.avif",
       "url": "aerial-circus",
       "modifiersSummit": "",
       "modifiersCustomShow": "Bugatti Bolide Only"
@@ -136,7 +136,7 @@
       "startDate": "23/04/2025 05:00:00",
       "endDate": "30/04/2025 05:00:00",
       "name": "KOENINGSEGG SELECTION",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-04/koeningsegg-selection.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-04/koeningsegg-selection.avif",
       "url": "koeningsegg-selection",
       "modifiersSummit": "",
       "modifiersCustomShow": "Koenigsegg Only"
@@ -145,7 +145,7 @@
       "startDate": "16/04/2025 05:00:00",
       "endDate": "23/04/2025 05:00:00",
       "name": "2 WHEELS VS 4 WHEELS",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-04/2-wheels-vs-4-wheels.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-04/2-wheels-vs-4-wheels.avif",
       "url": "2-wheels-vs-4-wheels",
       "modifiersSummit": "Italian Only",
       "modifiersCustomShow": "Italian Only"
@@ -154,7 +154,7 @@
       "startDate": "09/04/2025 05:00:00",
       "endDate": "16/04/2025 05:00:00",
       "name": "DRIFT IN HARMONY",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-04/drift-in-harmony.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-04/drift-in-harmony.avif",
       "url": "drift-in-harmony",
       "modifiersSummit": "NITRO INSTANT REFILL",
       "modifiersCustomShow": "Germany Drift Only"
@@ -163,7 +163,7 @@
       "startDate": "02/04/2025 05:00:00",
       "endDate": "09/04/2025 05:00:00",
       "name": "Apex Opening",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-04/apex-opening.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-04/apex-opening.avif",
       "url": "apex-opening",
       "modifiersSummit": "",
       "modifiersCustomShow": "Alpha GP"
@@ -174,7 +174,7 @@
       "startDate": "26/03/2025 05:00:00",
       "endDate": "05/04/2025 05:00:00",
       "name": "RALLY BEASTS",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-03/rally-beasts.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-03/rally-beasts.avif",
       "url": "rally-beasts",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -183,7 +183,7 @@
       "startDate": "19/03/2025 05:00:00",
       "endDate": "26/03/2025 05:00:00",
       "name": "STEEL STALLIONS",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-03/steel-stallions.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-03/steel-stallions.avif",
       "url": "steel-stallions",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -192,7 +192,7 @@
       "startDate": "12/03/2025 05:00:00",
       "endDate": "19/03/2025 05:00:00",
       "name": "ALPHA CITY",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-03/alpha-city.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-03/alpha-city.avif",
       "url": "alpha-city",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -201,7 +201,7 @@
       "startDate": "05/03/2025 05:00:00",
       "endDate": "12/03/2025 05:00:00",
       "name": "BULL RIDES",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-03/bull-rides.avif",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-03/bull-rides.avif",
       "url": "bull-rides",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -212,7 +212,7 @@
       "startDate": "26/02/2025 05:00:00",
       "endDate": "05/03/2025 05:00:00",
       "name": "Full Battery Showdown",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-02/full-battery-showdown.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-02/full-battery-showdown.jpg",
       "url": "full-battery-showdown",
       "modifiersSummit": "",
       "modifiersCustomShow": "Electric Vehicles"
@@ -221,7 +221,7 @@
       "startDate": "19/02/2025 05:00:00",
       "endDate": "26/02/2025 05:00:00",
       "name": "Forces of Natures",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-02/forces-of-natures.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-02/forces-of-natures.jpg",
       "url": "forces-of-natures",
       "modifiersSummit": "",
       "modifiersCustomShow": "Rally Vehicles"
@@ -230,7 +230,7 @@
       "startDate": "12/02/2025 05:00:00",
       "endDate": "19/02/2025 05:00:00",
       "name": "Ford Selection",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-02/motorfest-selection.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-02/motorfest-selection.jpg",
       "url": "ford-selection",
       "modifiersSummit": "",
       "modifiersCustomShow": "Ford Only"
@@ -239,7 +239,7 @@
       "startDate": "05/02/2025 05:00:00",
       "endDate": "12/02/2025 05:00:00",
       "name": "Electric x Thermal",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-02/electric-thermal.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-02/electric-thermal.jpg",
       "url": "electric-thermal",
       "modifiersSummit": "",
       "modifiersCustomShow": "German Racing Cars"
@@ -250,7 +250,7 @@
       "startDate": "29/01/2025 05:00:00",
       "endDate": "05/02/2025 05:00:00",
       "name": "Lunar Roads",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-01/lunar-roads.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-01/lunar-roads.jpg",
       "url": "lunar-roads",
       "modifiersSummit": "",
       "modifiersCustomShow": "Hypercar Koenigsegg & KTM Racing Cars"
@@ -259,7 +259,7 @@
       "startDate": "21/01/2025 05:00:00",
       "endDate": "29/01/2025 05:00:00",
       "name": "Island Delights",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-01/island-delights.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-01/island-delights.jpg",
       "url": "island-delights",
       "modifiersSummit": "",
       "modifiersCustomShow": "Hypercar"
@@ -268,7 +268,7 @@
       "startDate": "15/01/2025 05:00:00",
       "endDate": "21/01/2025 05:00:00",
       "name": "McLaren Selection",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-01/mclaren-selection.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-01/mclaren-selection.jpg",
       "url": "mclaren-selection",
       "modifiersSummit": "",
       "modifiersCustomShow": "McLaren"
@@ -277,7 +277,7 @@
       "startDate": "08/01/2025 05:00:00",
       "endDate": "15/01/2025 05:00:00",
       "name": "No Speed Limit",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-01/no-speed-limit.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-01/no-speed-limit.jpg",
       "url": "no-speed-limit",
       "modifiersSummit": "",
       "modifiersCustomShow": "Alpha Grand Prix & Racing Bikes"
@@ -286,7 +286,7 @@
       "startDate": "01/01/2025 05:00:00",
       "endDate": "08/01/2025 05:00:00",
       "name": "Chase Squad Engage!",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2025-01/chase-squad-engage.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-01/chase-squad-engage.jpg",
       "url": "chase-squad-engage",
       "modifiersSummit": "",
       "modifiersCustomShow": "Chase Vehicles"
@@ -297,7 +297,7 @@
       "startDate": "25/12/2024 05:00:00",
       "endDate": "01/01/2025 05:00:00",
       "name": "Holidaze",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-12/holidaze.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-12/holidaze.jpg",
       "url": "holidaze",
       "modifiersSummit": "",
       "modifiersCustomShow": "Modern Street Tier 1 & Street Tier 2 & Hypercars"
@@ -306,7 +306,7 @@
       "startDate": "18/12/2024 05:00:00",
       "endDate": "25/12/2024 05:00:00",
       "name": "Allstars Vol.2",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-12/allstars-vol-2.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-12/allstars-vol-2.jpg",
       "url": "allstars-vol-2",
       "modifiersSummit": "",
       "modifiersCustomShow": "Weekly Vehicles & Custom Bundle"
@@ -315,7 +315,7 @@
       "startDate": "11/12/2024 05:00:00",
       "endDate": "18/12/2024 05:00:00",
       "name": "Forsberg x Hoonigan",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-12/forsberg-x-hoonigan.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-12/forsberg-x-hoonigan.jpg",
       "url": "forsberg-x-hoonigan",
       "modifiersSummit": "",
       "modifiersCustomShow": "Forsberg Racing Vehicles & Hoonigan Vehicles"
@@ -324,7 +324,7 @@
       "startDate": "03/12/2024 05:00:00",
       "endDate": "11/12/2024 05:00:00",
       "name": "Pitstop Pressure",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-12/pitstop-pressure.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-12/pitstop-pressure.jpg",
       "url": "pitstop-pressure",
       "modifiersSummit": "",
       "modifiersCustomShow": "Gordon Murray Vehicles & Alfa Romeo Vehicles"
@@ -335,7 +335,7 @@
       "startDate": "27/11/2024 05:00:00",
       "endDate": "04/12/2024 05:00:00",
       "name": "Carpenter Brutal",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-11/carpenter-brutal.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-11/carpenter-brutal.jpg",
       "url": "carpenter-brutal",
       "modifiersSummit": "",
       "modifiersCustomShow": "Dodge Vehicles"
@@ -344,7 +344,7 @@
       "startDate": "20/11/2024 05:00:00",
       "endDate": "27/11/2024 05:00:00",
       "name": "KTM Selection",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-11/ktm-selection.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-11/ktm-selection.jpg",
       "url": "ktm-selection",
       "modifiersSummit": "",
       "modifiersCustomShow": "KTM Vehicles"
@@ -353,7 +353,7 @@
       "startDate": "13/11/2024 05:00:00",
       "endDate": "20/11/2024 05:00:00",
       "name": "Chase Squad Deploy",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-11/chase-squad-deploy.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-11/chase-squad-deploy.jpg",
       "url": "chase-squad-deploy",
       "modifiersSummit": "",
       "modifiersCustomShow": "Chase Vehicles"
@@ -362,7 +362,7 @@
       "startDate": "06/11/2024 05:00:00",
       "endDate": "13/11/2024 05:00:00",
       "name": "To the Streets",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-11/to-the-streets.png",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-11/to-the-streets.png",
       "url": "to-the-streets",
       "modifiersSummit": "",
       "modifiersCustomShow": "Japanese Street Cars"
@@ -373,7 +373,7 @@
       "startDate": "30/10/2024 05:00:00",
       "endDate": "06/11/2024 05:00:00",
       "name": "Nissan Selection",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-10/nissan-selection.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-10/nissan-selection.jpg",
       "url": "nissan-selection",
       "modifiersSummit": "",
       "modifiersCustomShow": "Nissan Cars"
@@ -382,7 +382,7 @@
       "startDate": "23/10/2024 05:00:00",
       "endDate": "30/10/2024 05:00:00",
       "name": "Spook Tacular",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-10/spook-tacular.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-10/spook-tacular.jpg",
       "url": "spook-tacular",
       "modifiersSummit": "",
       "modifiersCustomShow": "Main Stage Bundle & Custom Bundle"
@@ -391,7 +391,7 @@
       "startDate": "16/10/2024 05:00:00",
       "endDate": "23/10/2024 05:00:00",
       "name": "Japanese Touge Vol.2",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-10/japanese-touge-vol-2.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-10/japanese-touge-vol-2.jpg",
       "url": "japanese-touge-vol-2",
       "modifiersSummit": "",
       "modifiersCustomShow": "Drift Cars"
@@ -400,7 +400,7 @@
       "startDate": "09/10/2024 05:00:00",
       "endDate": "16/10/2024 05:00:00",
       "name": "Japanese Custom vol.2",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-10/japanese-custom-vol-2.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-10/japanese-custom-vol-2.jpg",
       "url": "japanese-custom-vol-2",
       "modifiersSummit": "",
       "modifiersCustomShow": "Japanese Street Cars ST1/ST2 & Japanese Racing Cars"
@@ -409,7 +409,7 @@
       "startDate": "02/10/2024 05:00:00",
       "endDate": "09/10/2024 05:00:00",
       "name": "LBWK Reign",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-10/lbwk-reign.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-10/lbwk-reign.jpg",
       "url": "lbwk-reign",
       "modifiersSummit": "",
       "modifiersCustomShow": "Toyota GR Supra LBWK Edition & Nissan GT-R Haru Edition & BMW M4 Liberty Walk Edition & Liberty Walk McLaren 720s Spider"
@@ -420,7 +420,7 @@
       "startDate": "25/09/2024 05:00:00",
       "endDate": "02/10/2024 05:00:00",
       "name": "Porsche Selection",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-09/porsche-selection.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-09/porsche-selection.jpg",
       "url": "porsche-selection",
       "modifiersSummit": "",
       "modifiersCustomShow": "Porsche Cars"
@@ -429,7 +429,7 @@
       "startDate": "18/09/2024 05:00:00",
       "endDate": "25/09/2024 05:00:00",
       "name": "Creators Masterworks",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-09/creators-masterworks.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-09/creators-masterworks.jpg",
       "url": "creators-masterworks",
       "modifiersSummit": "",
       "modifiersCustomShow": "Creators Vehicles & Proto Vehicles"
@@ -438,7 +438,7 @@
       "startDate": "11/09/2024 05:00:00",
       "endDate": "18/09/2024 05:00:00",
       "name": "Motorversary 1st Year",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-09/motorversary-1st-year.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-09/motorversary-1st-year.jpg",
       "url": "motorversary-1st-year",
       "modifiersSummit": "Nitro Instant Refill",
       "modifiersCustomShow": "Hypercars & Street Tier 2 Cars"
@@ -447,7 +447,7 @@
       "startDate": "04/09/2024 05:00:00",
       "endDate": "11/09/2024 05:00:00",
       "name": "Yiannimize",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-09/yiannimize.webp",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-09/yiannimize.webp",
       "url": "yiannimize",
       "modifiersSummit": "",
       "modifiersCustomShow": "Hypercars & Street Tier 2 Cars"
@@ -458,7 +458,7 @@
       "startDate": "28/08/2024 05:00:00",
       "endDate": "04/09/2024 05:00:00",
       "name": "BMW Selection",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-08/bmw-selection.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-08/bmw-selection.jpg",
       "url": "bmw-selection",
       "modifiersSummit": "",
       "modifiersCustomShow": "BMW Cars"
@@ -467,7 +467,7 @@
       "startDate": "21/08/2024 05:00:00",
       "endDate": "28/08/2024 05:00:00",
       "name": "Ringbrothers Makeover",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-08/ringbrothers-makeover.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-08/ringbrothers-makeover.jpg",
       "url": "ringbrothers-makeover",
       "modifiersSummit": "",
       "modifiersCustomShow": "Classic Cars & Custom Bundle"
@@ -476,7 +476,7 @@
       "startDate": "14/08/2024 05:00:00",
       "endDate": "21/08/2024 05:00:00",
       "name": "The Offroader",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-08/the-offroader.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-08/the-offroader.jpg",
       "url": "the-offroader",
       "modifiersSummit": "",
       "modifiersCustomShow": "Ground Offroad Vehicles (Monster; Motocross; Rally Raid; Demolition Derby)"
@@ -485,7 +485,7 @@
       "startDate": "07/08/2024 05:00:00",
       "endDate": "14/08/2024 05:00:00",
       "name": "Lasting Legacy",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-08/lasting-legacy.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-08/lasting-legacy.jpg",
       "url": "lasting-legacy",
       "modifiersSummit": "",
       "modifiersCustomShow": "European Cars (Street Tier 1/2 & Hypercars)"
@@ -496,7 +496,7 @@
       "startDate": "31/07/2024 05:00:00",
       "endDate": "07/08/2024 05:00:00",
       "name": "American Custom Showreel",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-07/american-custom-showreel.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-07/american-custom-showreel.jpg",
       "url": "american-custom-showreel",
       "modifiersSummit": "",
       "modifiersCustomShow": "American Cars"
@@ -505,7 +505,7 @@
       "startDate": "24/07/2024 05:00:00",
       "endDate": "31/07/2024 05:00:00",
       "name": "Bikers Custom",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-07/bikers-custom.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-07/bikers-custom.jpg",
       "url": "bikers-custom",
       "modifiersSummit": "",
       "modifiersCustomShow": "American Bikes"
@@ -514,7 +514,7 @@
       "startDate": "17/07/2024 05:00:00",
       "endDate": "24/07/2024 05:00:00",
       "name": "Drag & Donk Custom",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-07/drag-and-donk-custom.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-07/drag-and-donk-custom.jpg",
       "url": "drag-and-donk-custom",
       "modifiersSummit": "",
       "modifiersCustomShow": "American Muscle Cars"
@@ -523,7 +523,7 @@
       "startDate": "10/07/2024 05:00:00",
       "endDate": "17/07/2024 05:00:00",
       "name": "Show us Boating",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-07/show-us-boating.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-07/show-us-boating.jpg",
       "url": "show-us-boating",
       "modifiersSummit": "",
       "modifiersCustomShow": "American Modern Hypercars & American Modern Supercars"
@@ -532,7 +532,7 @@
       "startDate": "03/07/2024 05:00:00",
       "endDate": "10/07/2024 05:00:00",
       "name": "Lowrider Custom",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-07/lowrider-custom.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-07/lowrider-custom.jpg",
       "url": "lowrider-custom",
       "modifiersSummit": "",
       "modifiersCustomShow": "American Street Cars Street Cars 1/2"
@@ -543,7 +543,7 @@
       "startDate": "26/06/2024 05:00:00",
       "endDate": "03/07/2024 05:00:00",
       "name": "Shmee150 Experience",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-06/shmee150-experience.png",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-06/shmee150-experience.png",
       "url": "shmee150-experience",
       "modifiersSummit": "",
       "modifiersCustomShow": "European Hypercars"
@@ -552,7 +552,7 @@
       "startDate": "19/06/2024 05:00:00",
       "endDate": "26/06/2024 05:00:00",
       "name": "Bugatti Selection",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-06/bugatti-selection.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-06/bugatti-selection.jpg",
       "url": "bugatti-selection",
       "modifiersSummit": "",
       "modifiersCustomShow": "Car Street Tier 2 & Car Rally Raid & Hypercar"
@@ -561,7 +561,7 @@
       "startDate": "12/06/2024 05:00:00",
       "endDate": "19/06/2024 05:00:00",
       "name": "TDIB Thatdudeinblue Experience",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-06/tdib-thatdudeinblue-experience.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-06/tdib-thatdudeinblue-experience.jpg",
       "url": "tdib-thatdudeinblue-experience",
       "modifiersSummit": "",
       "modifiersCustomShow": "Japanese and American Street Cars"
@@ -570,7 +570,7 @@
       "startDate": "05/06/2024 05:00:00",
       "endDate": "12/06/2024 05:00:00",
       "name": "Shmee150 Tagteam Thatdudinblue",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-06/shmee150-tagteam-thatdudinblue.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-06/shmee150-tagteam-thatdudinblue.jpg",
       "url": "shmee150-tagteam-thatdudinblue",
       "modifiersSummit": "",
       "modifiersCustomShow": "Car Street Tier 2"
@@ -581,7 +581,7 @@
       "startDate": "29/05/2024 05:00:00",
       "endDate": "05/06/2024 05:00:00",
       "name": "Forsberg Dominion",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-05/forsberg-dominion.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-05/forsberg-dominion.jpg",
       "url": "forsberg-dominion",
       "modifiersSummit": "",
       "modifiersCustomShow": "Rally Raid & Drift & Racing Car"
@@ -590,7 +590,7 @@
       "startDate": "22/05/2024 05:00:00",
       "endDate": "29/05/2024 05:00:00",
       "name": "Allstars",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-05/allstars.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-05/allstars.jpg",
       "url": "allstars",
       "modifiersSummit": "",
       "modifiersCustomShow": "Street Tier 2 & Hypercar"
@@ -599,7 +599,7 @@
       "startDate": "15/05/2024 05:00:00",
       "endDate": "22/05/2024 05:00:00",
       "name": "Forsberg Racing Team Spirit",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-05/forsberg-racing-team-spirit.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-05/forsberg-racing-team-spirit.jpg",
       "url": "forsberg-racing-team-spirit",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -608,7 +608,7 @@
       "startDate": "08/05/2024 05:00:00",
       "endDate": "15/05/2024 05:00:00",
       "name": "Forsberg Racing Racecar Revival",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-05/forsberg-racing-racecar-revival.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-05/forsberg-racing-racecar-revival.jpg",
       "url": "forsberg-racing-racecar-revival",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -617,7 +617,7 @@
       "startDate": "01/05/2024 05:00:00",
       "endDate": "08/05/2024 05:00:00",
       "name": "Forsberg Racing Driftide",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-05/forsberg-racing-driftide.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-05/forsberg-racing-driftide.jpg",
       "url": "forsberg-racing-driftide",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -628,7 +628,7 @@
       "startDate": "24/04/2024 05:00:00",
       "endDate": "01/05/2024 05:00:00",
       "name": "Blackpanthaa Experience",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-04/blackpanthaa-experience.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-04/blackpanthaa-experience.jpg",
       "url": "blackpanthaa-experience",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -637,7 +637,7 @@
       "startDate": "17/04/2024 05:00:00",
       "endDate": "24/04/2024 05:00:00",
       "name": "Stereonline Experience",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-04/stereonline-experience.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-04/stereonline-experience.jpg",
       "url": "stereonline-experience",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -646,7 +646,7 @@
       "startDate": "10/04/2024 05:00:00",
       "endDate": "17/04/2024 05:00:00",
       "name": "Solar Eclipse",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-04/solar-eclipse.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-04/solar-eclipse.jpg",
       "url": "solar-eclipse",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -655,7 +655,7 @@
       "startDate": "03/04/2024 05:00:00",
       "endDate": "10/04/2024 05:00:00",
       "name": "Blackpanthaa Tagteam Stereonline",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-04/blackpanthaa-tagteam-stereonline.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-04/blackpanthaa-tagteam-stereonline.jpg",
       "url": "blackpanthaa-tagteam-stereonline",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -666,7 +666,7 @@
       "startDate": "27/03/2024 05:00:00",
       "endDate": "03/04/2024 05:00:00",
       "name": "Showstopper Spy Thriller Classics",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-03/showstopper-spy-thriller-classics.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-03/showstopper-spy-thriller-classics.jpg",
       "url": "showstopper-spy-thriller-classics",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -675,7 +675,7 @@
       "startDate": "20/03/2024 05:00:00",
       "endDate": "27/03/2024 05:00:00",
       "name": "Showstopper Video Games Classics",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-03/showstopper-video-games-classics.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-03/showstopper-video-games-classics.jpg",
       "url": "showstopper-video-games-classics",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -684,7 +684,7 @@
       "startDate": "13/03/2024 05:00:00",
       "endDate": "20/03/2024 05:00:00",
       "name": "Showstopper 80's Classics",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-03/showstopper-80s-classics.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-03/showstopper-80s-classics.jpg",
       "url": "showstopper-80s-classics",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -695,7 +695,7 @@
       "startDate": "05/03/2024 05:00:00",
       "endDate": "13/03/2024 05:00:00",
       "name": "Hoonigan Showreel",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-02/hoonigan-showreel.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-02/hoonigan-showreel.jpg",
       "url": "hoonigan-showreel",
       "modifiersSummit": "",
       "modifiersCustomShow": "Hoonigan Cars"
@@ -704,7 +704,7 @@
       "startDate": "28/02/2024 05:00:00",
       "endDate": "05/03/2024 05:00:00",
       "name": "Pitstop Pressure",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-02/pitstop-pressure.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-02/pitstop-pressure.jpg",
       "url": "pitstop-pressure",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -713,7 +713,7 @@
       "startDate": "21/02/2024 05:00:00",
       "endDate": "28/02/2024 05:00:00",
       "name": "Hoonigan This vs That Vol.3",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-02/hoonigan-this-vs-that-vol-3.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-02/hoonigan-this-vs-that-vol-3.jpg",
       "url": "hoonigan-this-vs-that-vol-3",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -722,7 +722,7 @@
       "startDate": "14/02/2024 05:00:00",
       "endDate": "21/02/2024 05:00:00",
       "name": "Way of Lightning Hoonigan",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-02/way-of-lightning-hoonigan.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-02/way-of-lightning-hoonigan.jpg",
       "url": "way-of-lightning-hoonigan",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -733,7 +733,7 @@
       "startDate": "07/02/2024 05:00:00",
       "endDate": "14/02/2024 05:00:00",
       "name": "Year of the Dragon",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-01/year-of-the-dragon.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-01/year-of-the-dragon.jpg",
       "url": "year-of-the-dragon",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -742,7 +742,7 @@
       "startDate": "31/01/2024 05:00:00",
       "endDate": "07/02/2024 05:00:00",
       "name": "Hoonigan Golden Oldies",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-01/hoonigan-golden-oldies.png",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-01/hoonigan-golden-oldies.png",
       "url": "hoonigan-golden-oldies",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -751,7 +751,7 @@
       "startDate": "24/01/2024 05:00:00",
       "endDate": "31/01/2024 05:00:00",
       "name": "Drift Performance",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-01/drift-performance.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-01/drift-performance.jpg",
       "url": "drift-performance",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -760,7 +760,7 @@
       "startDate": "17/01/2024 05:00:00",
       "endDate": "24/01/2024 05:00:00",
       "name": "Hoonigan This vs That Vol.2",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-01/hoonigan-this-vs-that-vol-2.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-01/hoonigan-this-vs-that-vol-2.jpg",
       "url": "hoonigan-this-vs-that-vol-2",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -769,7 +769,7 @@
       "startDate": "10/01/2024 05:00:00",
       "endDate": "17/01/2024 05:00:00",
       "name": "Epic Hoonigan Performance",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2024-01/epic-hoonigan-performance.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2024-01/epic-hoonigan-performance.jpg",
       "url": "epic-hoonigan-performance",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -780,7 +780,7 @@
       "startDate": "03/01/2024 05:00:00",
       "endDate": "10/01/2024 05:00:00",
       "name": "Hoonigan Under Pressure",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-12/hoonigan-under-pressure.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-12/hoonigan-under-pressure.jpg",
       "url": "hoonigan-under-pressure",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -789,7 +789,7 @@
       "startDate": "27/12/2023 05:00:00",
       "endDate": "03/01/2024 05:00:00",
       "name": "Holiday Special",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-12/holiday-special.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-12/holiday-special.jpg",
       "url": "holiday-special",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -798,7 +798,7 @@
       "startDate": "20/12/2023 05:00:00",
       "endDate": "27/12/2023 05:00:00",
       "name": "Hoonigan This vs That Vol.1",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-12/hoonigan-this-vs-that-vol.1.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-12/hoonigan-this-vs-that-vol.1.jpg",
       "url": "hoonigan-this-vs-that-vol.1",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -807,7 +807,7 @@
       "startDate": "13/12/2023 05:00:00",
       "endDate": "20/12/2023 05:00:00",
       "name": "Gymkhana Hoonigan",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-12/gymkhana-hoonigan.png",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-12/gymkhana-hoonigan.png",
       "url": "gymkhana-hoonigan",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -816,7 +816,7 @@
       "startDate": "06/12/2023 05:00:00",
       "endDate": "13/12/2023 05:00:00",
       "name": "Street Custom Hoonigan",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-12/street-custom-hoonigan.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-12/street-custom-hoonigan.jpg",
       "url": "street-custom-hoonigan",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -827,7 +827,7 @@
       "startDate": "29/11/2023 05:00:00",
       "endDate": "06/12/2023 05:00:00",
       "name": "Final Battle",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-11/final-battle.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-11/final-battle.jpg",
       "url": "final-battle",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -836,7 +836,7 @@
       "startDate": "22/11/2023 05:00:00",
       "endDate": "29/11/2023 05:00:00",
       "name": "European Luxury",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-11/european-luxury.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-11/european-luxury.jpg",
       "url": "european-luxury",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -845,7 +845,7 @@
       "startDate": "15/11/2023 05:00:00",
       "endDate": "22/11/2023 05:00:00",
       "name": "European Elegance",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-11/european-elegance.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-11/european-elegance.jpg",
       "url": "european-elegance",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -854,7 +854,7 @@
       "startDate": "08/11/2023 05:00:00",
       "endDate": "15/11/2023 05:00:00",
       "name": "European Velocita",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-11/european-velocita.png",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-11/european-velocita.png",
       "url": "european-velocita",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -863,7 +863,7 @@
       "startDate": "01/11/2023 05:00:00",
       "endDate": "08/11/2023 05:00:00",
       "name": "European Qualitat",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-11/european-qualitat.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-11/european-qualitat.jpg",
       "url": "european-qualitat",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -874,7 +874,7 @@
       "startDate": "25/10/2023 05:00:00",
       "endDate": "01/11/2023 05:00:00",
       "name": "Japanese Original Rice Paddy",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-10/japanese-original-rice-paddy.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-10/japanese-original-rice-paddy.jpg",
       "url": "japanese-original-rice-paddy",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -883,7 +883,7 @@
       "startDate": "18/10/2023 05:00:00",
       "endDate": "25/10/2023 05:00:00",
       "name": "Japanese Touge",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-10/japanese-touge.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-10/japanese-touge.jpg",
       "url": "japanese-touge",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -892,7 +892,7 @@
       "startDate": "11/10/2023 05:00:00",
       "endDate": "18/10/2023 05:00:00",
       "name": "Japanese Custom",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-10/japanese-custom.png",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-10/japanese-custom.png",
       "url": "japanese-custom",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -901,7 +901,7 @@
       "startDate": "04/10/2023 05:00:00",
       "endDate": "11/10/2023 05:00:00",
       "name": "Japanese Big Four",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-10/japanese-big-four.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-10/japanese-big-four.jpg",
       "url": "japanese-big-four",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -912,7 +912,7 @@
       "startDate": "27/09/2023 05:00:00",
       "endDate": "04/10/2023 05:00:00",
       "name": "American Racing",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-09/american-racing.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-09/american-racing.jpg",
       "url": "american-racing",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -921,7 +921,7 @@
       "startDate": "20/09/2023 05:00:00",
       "endDate": "27/09/2023 05:00:00",
       "name": "American Dust",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-09/american-dust.jpg",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-09/american-dust.jpg",
       "url": "american-dust",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -930,7 +930,7 @@
       "startDate": "13/09/2023 05:00:00",
       "endDate": "20/09/2023 05:00:00",
       "name": "American Pop-Culture",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-09/american-pop-culture.webp",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-09/american-pop-culture.webp",
       "url": "american-pop-culture",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
@@ -939,7 +939,7 @@
       "startDate": "06/09/2023 05:00:00",
       "endDate": "13/09/2023 05:00:00",
       "name": "American Muscle Power",
-      "bannerUrl": "https://api.oghub.fr/thecrew/motorfest/summits/2023-09/american-muscle-power.webp",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2023-09/american-muscle-power.webp",
       "url": "american-muscle-power",
       "modifiersSummit": "Pre-launch",
       "modifiersCustomShow": ""
