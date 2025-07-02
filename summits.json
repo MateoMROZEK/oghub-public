@@ -90,13 +90,13 @@
           "type": "rank"
         },
         {
-          "eventsNeed": 40000,
+          "eventsNeed": 60000,
           "rankName": "Silver",
           "name": "100,00 Bucks",
           "type": "rank"
         },
         {
-          "eventsNeed": 20000,
+          "eventsNeed": 30000,
           "rankName": "Gold",
           "name": "Ferrari 512 TR",
           "type": "rank"
