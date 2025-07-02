@@ -2,7 +2,7 @@
   "ROTATION_START": 1741258200,
   "EVENT_DURATION": 600,
   "ROTATION": [
-    ["Kahakuloa", "ST1 > Rally > ST2", "", "OLD"],
+    ["Pearl Harbor", "Racing > ST2 > Racxing", "", "NEW"],
     ["Kalaeloa", "AGP > Hyper > ST1", "", "OLD"],
     ["Mauna Pele", "Racing > AGP > ST2", "", "OLD"],
     ["Wahiawa Fields", "AGP > Racing > Rally", "No Collision", "OLD"],
@@ -23,9 +23,9 @@
     ["Kalaeloa", "Hyper > AGP > Racing", "", "CHANGE"],
     ["Lahaina", "Monster > ST2 > Hyper", "", "CHANGE"],
     ["Peacock Flats", "ST1 > Hyper > Racing", "Special car", "NEW"],
+    ["Haleakala", "AGP > Hyper > Rally", "", "NEW"],
     ["The Barrens", "ST2 > Drift > AGP", "", "NEW"],
-    ["Kula", "Racing > AGP > ST2", "", "OLD"],
-    ["Lahaina", "Hyper > ST2 > Racing", "No Collision", "OLD"]
+    ["Hana", "RR > Hyper > Rally", "", "NEW"]
   ],
   "SATURDAY__ROTATION": [
     ["Kahakuloa", "ST1 > Rally > ST2", "No Collision", "OLD"],

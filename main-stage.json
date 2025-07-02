@@ -1,4 +1,116 @@
 {
+  "2025è07": [
+    {
+      "name": "New Main Stage",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "15 Legend Points",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Emerald Tire - Rare",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/proto/concept-spear-racing.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "4",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "Alfa Romeo AC Serpente Edizione",
+          "level": "10",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+        },
+        {
+          "name": "300,000 Bucks",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        }
+      ],
+      "technologies": [
+        {
+          "blue": [
+            {
+              "name": "+5%",
+              "level": "1",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "5 Legends Point",
+              "level": "2",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "300 P Tickets",
+              "level": "3",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
+            },
+            {
+              "name": "Glasses - Red Beam",
+              "level": "4",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/glasses-red-beam.webp"
+            }
+          ],
+          "orange": [
+            {
+              "name": "+5%",
+              "level": "1",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "5 Legends Point",
+              "level": "2",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "150,000 Bucks",
+              "level": "3",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+            },
+            {
+              "name": "Ruby Glasses - Uncommon",
+              "level": "4",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/ruby-glasses.webp"
+            }
+          ],
+          "green": [
+            {
+              "name": "+5%",
+              "level": "1",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "5 Legends Point",
+              "level": "2",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "30,000 Details",
+              "level": "3",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "Ferrari 458 Speciale Drift Ed.",
+              "level": "4",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/ferrari/458-speciale-drift.webp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025-06": [
     {
       "name": "Escape Main Stage",
