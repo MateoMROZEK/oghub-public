@@ -24,7 +24,7 @@
     ["Peacock Flats", "ST1 > Hyper > Racing", "Special Selection", "NEW"],
     ["Haleakala", "AGP > Hyper > Rally", "", "NEW"],
     ["The Barrens", "ST2 > Drift > AGP", "", "NEW"],
-    ["Hana", "RR > Hyper > Rally", "", "NEW"]
+    ["Hana", "RR > Hyper > Rally", "No collision", "NEW"]
   ],
   "SATURDAY__ROTATION": [
     ["Kahakuloa", "ST1 > Rally > ST2", "No Collision", "OLD"],
