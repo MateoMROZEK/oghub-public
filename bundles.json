@@ -1,6 +1,38 @@
 {
   "2025-07": [
     {
+      "url": "f80",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3pyagctbVF76zsOmRBd8Ux/5d7f541ae8ea7452d40eacda6f7dde67/05_MAIN_STAGE_BUNDLE.jpg",
+          "crewcredits": "286,000",
+          "bucks": "2,002,000",
+          "rewards": [
+            {
+              "name": "Ferrari F80 (2025) - Hypercar"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7JyLVi6xVM4NOlrMMyHgHY/eb866224138b62a0a75c5504e131359c/03_Keyart_playlist_Ferrari.jpg",
+          "crewcredits": "346,375",
+          "rewards": [
+            {
+              "name": "Ferrari F80 (2025) - Hypercar"
+            },
+            {
+              "name": "A Billionaires Work Smoke"
+            },
+            {
+              "name": "Neon Blade Nitro"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "supercars",
       "bundles": [
         {

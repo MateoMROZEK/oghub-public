@@ -1,6 +1,116 @@
 {
   "2025-07": [
     {
+      "url": "f80",
+      "events": [
+        {
+          "name": "Defying the GTO",
+          "activitie": "Dynamic Race",
+          "restriction": "F80 [Loan]",
+          "recommendedCar": "F80 [Loan]",
+          "metaURL": ""
+        },
+        {
+          "name": "Confronting the F40",
+          "activitie": "Dynamic Race",
+          "restriction": "F80 [Loan]",
+          "recommendedCar": "F80 [Loan]",
+          "metaURL": ""
+        },
+        {
+          "name": "Duelling the F50",
+          "activitie": "Dynamic Race",
+          "restriction": "F80 [Loan]",
+          "recommendedCar": "F80 [Loan]",
+          "metaURL": ""
+        },
+        {
+          "name": "Rivalling the Enzo",
+          "activitie": "Dynamic Race",
+          "restriction": "F80",
+          "recommendedCar": "F80",
+          "metaURL": ""
+        },
+        {
+          "name": "Contending with LaFerarri",
+          "activitie": "Dynamic Race",
+          "restriction": "F80",
+          "recommendedCar": "F80",
+          "metaURL": ""
+        },
+        {
+          "name": "Challenging Itself",
+          "activitie": "Dynamic Race",
+          "restriction": "F80",
+          "recommendedCar": "F80",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Speedtrap Asphalt",
+          "restriction": "Ferrari F80",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "F80",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "F80",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Ferrari FXX K",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Squadra Italia Tire - Epic",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "supercars",
       "events": [
         {
