@@ -1,12 +1,12 @@
 {
   "playlist": {
-    "name": "Motorfest Remixes Main Stage Legacy",
-    "slug": "motorfest-remixes-main-stage",
-    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/main-stage-motorfest-remixes.jpg",
+    "name": "Enter the Bull Main Stage Legacy",
+    "slug": "enter-the-bull-main-stage",
     "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
+    "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/enter-the-bull-main-stage.jpg",
     "themes": [10],
     "isLegagy": true,
-    "release": "09/04/2025",
+    "release": "09/07/2025",
     "policeFont": ""
   },
   "challenges": [
