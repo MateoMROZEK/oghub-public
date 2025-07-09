@@ -1,0 +1,30 @@
+{
+  "playlist": {
+    "name": "Enter the Bull Main Stage Legacy",
+    "slug": "enter-the-bull-main-stage",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
+    "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/enter-the-bull-main-stage.jpg",
+    "themes": [10],
+    "isLegagy": true,
+    "release": "09/07/2025",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete 4 events for get Foam V sign",
+      "rewards": {
+        "car": "Foam V sign (Dashboard Car Item)"
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "KTM 1190 RC8 R Power Track Ed. - Racing Motorbike"
+      },
+      "requirement": {}
+    }
+  ]
+}
