@@ -1,6 +1,45 @@
 {
   "2025-07": [
     {
+      "url": "rosso-adrenalina",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1dGZ2N5sPRyzcsmrZFE2dJ/d345a65c1df588d921faecbfa418c103/05_WEEK_03_ROSSO_ADRENALINA_MAIN_STAGE.jpg",
+          "crewcredits": "151,680",
+          "bucks": "1,061,760",
+          "rewards": [
+            {
+              "name": "Ferrari F40 LM (1989) - Racing car"
+            },
+
+            {
+              "name": "Ferrari 599XX Evo (2011) - Racing car"
+            },
+            {
+              "name": "Ferrari 488 GT3 (2016) - Racing Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7JyLVi6xVM4NOlrMMyHgHY/eb866224138b62a0a75c5504e131359c/03_Keyart_playlist_Ferrari.jpg",
+          "crewcredits": "149,800",
+          "rewards": [
+            {
+              "name": "Lamborghini Essenza SCV12 (2020) - Racing Car"
+            },
+            {
+              "name": "Orange Spangled Nitro"
+            },
+            {
+              "name": "Orange Lightning Smoke"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "f80",
       "bundles": [
         {

@@ -1,6 +1,116 @@
 {
   "2025-07": [
     {
+      "url": "rosso-adrenalina",
+      "events": [
+        {
+          "name": "L'Evoluzione",
+          "activitie": "Scuderia",
+          "restriction": "Ferrari 365 GTB4 Competizione [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "La Prova A Tempo",
+          "activitie": "The High Clash",
+          "restriction": "Ferrari Racing",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Il Diluvio",
+          "activitie": "Owning The Racetrack",
+          "restriction": "Ferrari F40 LM",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "L'Autostrada",
+          "activitie": "911 Freeway",
+          "restriction": "Ferrari Racing",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "La Nebbia Muttatina",
+          "activitie": "Reno Roar",
+          "restriction": "Ferrari 599XX Evo",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Il Passo Di Makawao",
+          "activitie": "Touge Style",
+          "restriction": "Ferrari 488 GT3",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "Ferrari Racing",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "Ferrari 599XX Evo",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Ferrari 458 Italia GT2",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "The Ultimate Nitro - Rare",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "f80",
       "events": [
         {
