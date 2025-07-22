@@ -1,6 +1,45 @@
 {
   "2025-07": [
     {
+      "url": "crazy-vacation",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3x7VV6laeLtWz4PepdR3rN/62b8c332bce4864dbdde745a325aae7d/05_WEEK_04_CRAZY_VACATION_MAIN_STAGE.jpg",
+          "crewcredits": "151,680",
+          "bucks": "1,061,760",
+          "rewards": [
+            {
+              "name": "MV Augusta Brutale Dragster 800 RR (2016) - Racing Bike"
+            },
+
+            {
+              "name": "Ariel Nomad (2015) - Rally Raid Car"
+            },
+            {
+              "name": "Vector Powerboats V40R (2018) - Powerboat"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7IWWjGr5CBz0akSrUDrEVv/c808e944a143481b8f1c477a9c439c18/06_W04_CUSTOM_BUNDLE_CRAZY_VACATION.jpg",
+          "crewcredits": "203,800",
+          "rewards": [
+            {
+              "name": "Pagani Utopia (2023) - Hypercar"
+            },
+            {
+              "name": "Pacific Flower Smoke"
+            },
+            {
+              "name": "Red Petals Nitro"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "rosso-adrenalina",
       "bundles": [
         {

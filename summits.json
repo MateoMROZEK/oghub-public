@@ -1,6 +1,116 @@
 {
   "2025-07": [
     {
+      "url": "crazy-vacation",
+      "events": [
+        {
+          "name": "Skill",
+          "activitie": "Slalom Water",
+          "restriction": "KTM 450 EXC Robbie Maddison Edition [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Long Jump",
+          "restriction": "Ariel Nomad",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Escape Asphalt",
+          "restriction": "Alpha Jet [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Bullseye",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Jetset Fight",
+          "activitie": "Maui Big Tour",
+          "restriction": "Alpha Jet [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Bullseye",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Buoy Smashing",
+          "restriction": "Vector V40R",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Low Altitude",
+          "restriction": "Alpha Jet [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Long Jump",
+          "restriction": "MV Agusta Brutal Dragster 800 RR",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "100,000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Chevrolet Silverado 1500 Intrepid Outdoor Rally Raid Ed.",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "50's Holiday Rooftop - Rare",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "rosso-adrenalina",
       "events": [
         {

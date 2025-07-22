@@ -1,6 +1,59 @@
 {
   "2025-07": [
     {
+      "url": "crazy-vacation",
+      "vanities": [
+        {
+          "name": "OCean Spirit Smoke",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Shark Fin Rooftop",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Multi-Color Smoke",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Freeride Underglow",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Low Poly Pink Smoke",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Sunset Retro Vibe Tint",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Old Vibe Tire",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Sakura Nitro",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Epic"
+        }
+      ]
+    },
+    {
       "url": "rosso-adrenalina",
       "vanities": [
         {

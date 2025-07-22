@@ -1,6 +1,31 @@
 {
   "2025-07": [
     {
+      "url": "crazy-vacation",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "100,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "100 P Tickets",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "Rusty Tire - Rare",
+          "type": "rank"
+        }
+      ]
+    },
+    {
       "url": "rosso-adrenalina",
       "rewards": [
         {
