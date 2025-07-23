@@ -1,6 +1,116 @@
 {
   "2025-07": [
     {
+      "url": "ferrari",
+      "events": [
+        {
+          "name": "Beyond Imagination",
+          "activitie": "",
+          "restriction": "Hypercar [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Nuova Dolce Vita",
+          "activitie": "",
+          "restriction": "Street Tier 2 [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Beauty In Performance",
+          "activitie": "",
+          "restriction": "Racing [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "The Leap Forward",
+          "activitie": "",
+          "restriction": "Ferrari - F50",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "The Most Powerful V8",
+          "activitie": "",
+          "restriction": "Hypercar [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Pure Ferrari DNA",
+          "activitie": "",
+          "restriction": "Ferrari - F12berlinetta",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Wild At Heart",
+          "activitie": "",
+          "restriction": "Hypercar [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "A Dream Come True",
+          "activitie": "",
+          "restriction": "Street Tier 1 [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Agile & Powerful",
+          "activitie": "",
+          "restriction": "Hypercar [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10,000 Details",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "Hypercar Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Dominion Playground Tire - Epic",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Ferrari SF90 Stradale Assetto Fiorano",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "crazy-vacation",
       "events": [
         {
@@ -70,12 +180,12 @@
       "rewards": [
         {
           "eventsNeed": 3,
-          "name": "100,000 XP",
+          "name": "10,000 Details",
           "type": "completion"
         },
         {
           "eventsNeed": 6,
-          "name": "",
+          "name": "Rally Raid Legendary random parts 2 pieces",
           "type": "completion"
         },
         {
