@@ -482,5 +482,23 @@
     [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
     [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
     [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
   ]
 }
