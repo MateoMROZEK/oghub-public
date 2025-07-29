@@ -345,5 +345,142 @@
         "item": 9
       }
     }
+  ],
+  "races": [
+    {
+      "name": "911 Arrival",
+      "type": "Race",
+      "defaultCar": "911",
+      "category": "Street Tier 1",
+      "xp": 9000,
+      "bucks": 16875
+    },
+    {
+      "name": "911 Rally",
+      "type": "Race",
+      "defaultCar": "959 RAID",
+      "category": "Rally Raid",
+      "xp": 7000,
+      "bucks": 13125
+    },
+    {
+      "name": "911 Legends",
+      "type": "Race",
+      "defaultCar": "911 Turbo 3.6",
+      "category": "Street Tier 2",
+      "xp": 9000,
+      "bucks": 16875
+    },
+    {
+      "name": "911 Freeway",
+      "type": "Race",
+      "defaultCar": "911 GT1 Strabenvision (993)",
+      "category": "Hypercar",
+      "xp": 9000,
+      "bucks": 16875
+    },
+    {
+      "name": "911 Grand Prix",
+      "type": "Race",
+      "defaultCar": "911 GT3 Cup",
+      "category": "Racing",
+      "xp": 7000,
+      "bucks": 13125
+    },
+    {
+      "name": "911 Challenge",
+      "type": "Race",
+      "defaultCar": "911 Carrera 4S (992)",
+      "category": "Street Tier 2",
+      "xp": 9000,
+      "bucks": 16875
+    }
+  ],
+  "rewardRaces": "Porsche 911 Carrera 4S Timeless",
+  "activities": [
+    {
+      "name": "911 Feats - EWA",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 1100m"
+    },
+    {
+      "name": "911 Views - Volcano",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of the Porsche 959 Raid with the Mauna Pele Nunui Crater in the background"
+    },
+    {
+      "name": "911 Feats - Waianae",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 1380m"
+    },
+    {
+      "name": "911 Views - Rainbow Silo",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of a Stret Tier 2 vehicle in front of the rainbow smiley silo located near the lighthouse in Kalaeloa Barbers Point Harbor"
+    },
+    {
+      "name": "911 Feats - Waikiki",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 170.0km/h"
+    },
+    {
+      "name": "911 Views - Waikiki Shell",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of the Porsche 911 Turbo 3.6 with the Waikiki Shell in Honolulu"
+    },
+    {
+      "name": "911 Feats - Kapolei",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 170.0km/h"
+    },
+    {
+      "name": "911 Views - Close Shot",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of any Porsche vehicle performing a Near Miss in freedrive"
+    },
+    {
+      "name": "911 Views - Carrera 4S",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of the Porsche 911 Carrera 4S Timeless Edition in front of the Porsche container in Ford Island"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Racing",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
   ]
 }
