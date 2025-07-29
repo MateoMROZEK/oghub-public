@@ -1,6 +1,59 @@
 {
   "2025-07": [
     {
+      "url": "ferrari",
+      "vanities": [
+        {
+          "name": "Thinline Trail Smoke",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Japanese Nitro",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Red Bushimura Tire",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Laser Blast Underglow",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Light Yellow Electric Nitro",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "The Chase Tire",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Yellow Speed Vortex Smoke",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Blinking Yellow Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        }
+      ]
+    },
+    {
       "url": "crazy-vacation",
       "vanities": [
         {

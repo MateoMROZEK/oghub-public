@@ -1,6 +1,42 @@
 {
   "2025-07": [
     {
+      "url": "ferrari",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4kjLFbwbt3SyTV7SJHiQ20/f8e456b3c4b2257ee0199ba6356b1935/05_WEEK_05_FERRARI_MAIN_STAGE_BUNDLE.jpg",
+          "crewcredits": "145,390",
+          "bucks": "1,017,730",
+          "rewards": [
+            {
+              "name": "Ferrari F50 (1995) - Street Car"
+            },
+
+            {
+              "name": "Ferrari F12berlinetta (2013) - Street Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2iE8PHgFIcVv6b5VJMm1tV/0cdac070933d020c6cacfb69c928f289/06_W05_CUSTOM_BUNDLE_FERRARI.jpg",
+          "crewcredits": "90,720",
+          "rewards": [
+            {
+              "name": "Ferrari Roma (2020) - Street Car"
+            },
+            {
+              "name": "Yellow Smoke"
+            },
+            {
+              "name": "Yellow Nitro"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "crazy-vacation",
       "bundles": [
         {

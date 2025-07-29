@@ -1,12 +1,50 @@
 {
+  "2025-08": [
+    {
+      "startDate": "27/08/2025 05:00:00",
+      "endDate": "03/09/2025 05:00:00",
+      "name": "Bugatti Selection Vol. 2",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/default.webp",
+      "url": "bugatti-selection-vol2",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "20/08/2025 05:00:00",
+      "endDate": "27/08/2025 05:00:00",
+      "name": "Made in Ivory-Tower",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/default.webp",
+      "url": "made-in-ivory-tower",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "13/08/2025 05:00:00",
+      "endDate": "20/08/2025 05:00:00",
+      "name": "French Rally",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/default.webp",
+      "url": "french-rally",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "06/08/2025 05:00:00",
+      "endDate": "13/08/2025 05:00:00",
+      "name": "L'élégance",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/default.webp",
+      "url": "lelegance",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    }
+  ],
   "2025-07": [
     {
       "startDate": "30/07/2025 05:00:00",
       "endDate": "06/08/2025 05:00:00",
       "name": "Ferrari",
-      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/default.webp",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-07/FERRARI_THUMBNAIL.jpg",
       "url": "ferrari",
-      "modifiersSummit": "Fair",
+      "modifiersSummit": "Clean Driving",
       "modifiersCustomShow": "Ferrari Cars"
     },
     {
