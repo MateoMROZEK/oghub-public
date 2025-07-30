@@ -311,5 +311,204 @@
         "model": "WRANGLER 392 Adventure Edition"
       }
     }
+  ],
+  "races": [
+    {
+      "name": "Life of pierce",
+      "type": "Race",
+      "defaultCar": "IVT Falcon S-1000 Adventure Ed.",
+      "category": "Rally Raid",
+      "xp": 6000,
+      "bucks": 11250
+    },
+    {
+      "name": "Jungle Bruise",
+      "type": "Race",
+      "defaultCar": "Defender Works V8 Pierce Ed.",
+      "category": "Rally Raid",
+      "xp": 7000,
+      "bucks": 13125
+    },
+    {
+      "name": "Blue Rush",
+      "type": "Time attack",
+      "defaultCar": "3008 DKR Maxi",
+      "category": "Rally Raid",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Wetter World",
+      "type": "Race",
+      "defaultCar": "Wrangler Unlimited Rubicon 392",
+      "category": "Rally Raid",
+      "xp": 7000,
+      "bucks": 13125
+    },
+    {
+      "name": "Boyz N The Mud",
+      "type": "Race",
+      "defaultCar": "450 EXC Nighthawk Ed.",
+      "category": "Motocross",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "the Goats And The Darkness",
+      "type": "Race",
+      "defaultCar": "Gladiator",
+      "category": "Rally Raid",
+      "xp": 10000,
+      "bucks": 18750
+    },
+    {
+      "name": "The KTM Strikes Back... Again",
+      "type": "Time attack",
+      "defaultCar": "450 EXC",
+      "category": "Motocross",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Big Trouble In Little Mauna",
+      "type": "Race",
+      "defaultCar": "HX Concept",
+      "category": "Rally Raid",
+      "xp": 6000,
+      "bucks": 11250
+    },
+    {
+      "name": "Green Planet",
+      "type": "Time attack",
+      "defaultCar": "S1 EKS RX quattro",
+      "category": "Rally Raid",
+      "xp": 8000,
+      "bucks": 15000
+    }
+  ],
+  "rewardRaces": ["JEEP Wrangler 392 Adventure Edition"],
+  "activities": [
+    {
+      "name": "Wilder Feats - Mililani Waipio",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 140.0km/h"
+    },
+    {
+      "name": "Wilder Views - Kuapa River",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture the Jeep Wrangler 392 Unlimited Edition in Kuapa River Gorge while performing a drift at sunset"
+    },
+    {
+      "name": "Wilder Feats - Waimanalo Road",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 4850 PTS"
+    },
+    {
+      "name": "Wilder Views - Makaleha River Gorge",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Rally Raid vehicle in Makaleha River Gorge at dusk"
+    },
+    {
+      "name": "Wilder Feats - Kuaokala Meadows",
+      "type": "Slalom",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Get 4960 PTS"
+    },
+    {
+      "name": "Wilder Views - Peacock River Gorge",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Rally vehicle in Peacock River Gorge while performing a burnout in the morning"
+    },
+    {
+      "name": "Wilder Feats - Waimea",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 390m"
+    },
+    {
+      "name": "Wilder Views - Makakilo River Gorge",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Motocross bike in Makakilo River Gorge while performing a wheelie"
+    },
+    {
+      "name": "Wilder Feats - Hindu Monastery",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 150.0km/h"
+    },
+    {
+      "name": "Wilder Views - Nanakuli River Gorge",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Motocross bike in Nanakuli River Gorge while performing a burnout"
+    },
+    {
+      "name": "Wilder Feats - Wahiawa Edge",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 520m"
+    },
+    {
+      "name": "Wilder Views - Manoa Canyon",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Rally Raid vehicle in Manoa Canyon at midday"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [0, 0, 1, 1, 1, 1, 1],
+    [0, 0, 0, 1, 0, 0, 1],
+    [0, 0, 1, 1, 0, 0, 1],
+    [0, 0, 0, 1, 1, 0, 1],
+    [1, 1, 1, 1, 1, 1, 1],
+    [0, 0, 1, 1, 1, 0, 1],
+    [0, 0, 1, 1, 1, 1, 1],
+    [0, 0, 0, 1, 0, 0, 1],
+    [1, 1, 1, 1, 1, 1, 1]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
   ]
 }
