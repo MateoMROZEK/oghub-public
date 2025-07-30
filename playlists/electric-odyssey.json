@@ -306,5 +306,176 @@
         "item": 8
       }
     }
+  ],
+  "races": [
+    {
+      "name": "Porsche E-XPRESS",
+      "type": "Delivery",
+      "defaultCar": "Taycan Turbo S",
+      "category": "Street Tier 2",
+      "xp": 10000,
+      "bucks": 18750
+    },
+    {
+      "name": "Piece Of E-Story",
+      "type": "Race",
+      "defaultCar": "Taycan Turbo S",
+      "category": "Street Tier 2",
+      "xp": 9000,
+      "bucks": 16875
+    },
+    {
+      "name": "Lotus E-XPRESS",
+      "type": "Delivery",
+      "defaultCar": "EVIJA",
+      "category": "Hypercar",
+      "xp": 4000,
+      "bucks": 7500
+    },
+    {
+      "name": "Hyper E-VOLUTION",
+      "type": "Race",
+      "defaultCar": "EVIJA",
+      "category": "Hypercar",
+      "xp": 6000,
+      "bucks": 11250
+    },
+    {
+      "name": "Hummer E-PRESS",
+      "type": "Delivery",
+      "defaultCar": "Hummer EV",
+      "category": "Rally RAID",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "E-XPLORERS",
+      "type": "Race",
+      "defaultCar": "Hummer EV",
+      "category": "Rally RAID",
+      "xp": 7000,
+      "bucks": 13125
+    },
+    {
+      "name": "Final E-VENT",
+      "type": "Race",
+      "defaultCar": "Multi vehicle",
+      "category": "Rally RAID",
+      "xp": 12000,
+      "bucks": 22500
+    }
+  ],
+  "rewardRaces": "Lotus Evija Pure Ed.",
+  "activities": [
+    {
+      "name": "E-Feats - Haleiwa Fields",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 8940 PTS"
+    },
+    {
+      "name": "E-Views - Wind Turbines",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of the Porsche Taycan Turbo S in front of the water tank graffiti located near the wind turbines at Waipio Fields"
+    },
+    {
+      "name": "E-Feats - Kunia Farm",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 6480 PTS"
+    },
+    {
+      "name": "E-Views - Water tanks",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of the GMC Hummer EV in front of the water tank graffiti located southwest of the Japanese Jodo"
+    },
+    {
+      "name": "E-Feats - Wahiawa",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 190.0 km/h"
+    },
+    {
+      "name": "E-Views - Observatory",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of the Porsche Taycan Turbo S next to the Mauna Pele observatory"
+    },
+    {
+      "name": "E-Feats - Nanakuli Rivers",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 2100m"
+    },
+    {
+      "name": "E-Views - Sulphur chimneys",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of the GMC Hummer EV in front of the casternmost Sulphur chmney in the Mauna Pele Sulphur Banks"
+    },
+    {
+      "name": "E-Feats - Waipio Fields",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 1340m"
+    },
+    {
+      "name": "E-Feats - Mauna Pele Red Hil",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 760m"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Racing",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
   ]
 }
