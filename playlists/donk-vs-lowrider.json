@@ -296,5 +296,239 @@
         "item": 7
       }
     }
+  ],
+  "races": [
+    {
+      "name": "What Donk Bizness is",
+      "type": "Time Attack",
+      "defaultCar": "Caprice",
+      "category": "Street Tier 1",
+      "xp": 10000,
+      "bucks": 18750
+    },
+    {
+      "name": "The Way You Drive",
+      "type": "Street Versus",
+      "defaultCar": "Caprice Weasel D. Customs Donk Ed.",
+      "category": "Street Tier 1",
+      "xp": 4000,
+      "bucks": 7500
+    },
+    {
+      "name": "Get it or donk come back",
+      "type": "Street Versus",
+      "defaultCar": "Caprice Weasel D. Customs Donk Ed.",
+      "category": "Street Tier 1",
+      "xp": 4000,
+      "bucks": 7500
+    },
+    {
+      "name": "Ride Wit' Us",
+      "type": "Race",
+      "defaultCar": "Caprice Weasel D. Customs Donk Ed.",
+      "category": "Street Tier 1",
+      "xp": 10000,
+      "bucks": 18750
+    },
+    {
+      "name": "Low Don't Dance No Mo'",
+      "type": "Race",
+      "defaultCar": "Caprice Weasel D. Customs Donk Ed.",
+      "category": "Street Tier 1",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "The Return of \"D\"",
+      "type": "Race",
+      "defaultCar": "Caprice Weasel D. Customs Donk Ed.",
+      "category": "Street Tier 1",
+      "xp": 9000,
+      "bucks": 16875
+    },
+    {
+      "name": "Ridin' In My Buick",
+      "type": "Navigation",
+      "defaultCar": "GNX",
+      "category": "Street Tier 1",
+      "xp": 18000,
+      "bucks": 33750
+    },
+    {
+      "name": "Hop' Till Infinity",
+      "type": "Car Dance",
+      "defaultCar": "GNX El Sereno Lowrider Edicion",
+      "category": "Street Tier 1",
+      "xp": 7000,
+      "bucks": 13125
+    },
+    {
+      "name": "R U Still Low?",
+      "type": "Race",
+      "defaultCar": "GNX El Sereno Lowrider Edicion",
+      "category": "Street Tier 1",
+      "xp": 12000,
+      "bucks": 22500
+    },
+    {
+      "name": "Some Car 2 Dance With",
+      "type": "Car Dance",
+      "defaultCar": "GNX El Sereno Lowrider Edicion",
+      "category": "Street Tier 1",
+      "xp": 7000,
+      "bucks": 13125
+    },
+    {
+      "name": "Still GNX",
+      "type": "Race",
+      "defaultCar": "GNX El Sereno Lowrider Edicion",
+      "category": "Street Tier 1",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "TDonks Don't Kill My Vibe",
+      "type": "Race",
+      "defaultCar": "GNX El Sereno Lowrider Edicion",
+      "category": "Street Tier 1",
+      "xp": 9000,
+      "bucks": 16875
+    }
+  ],
+  "rewardRaces": [
+    "Buick GNX West Side Lowrider Edicion",
+    "Hoonigan Chevrolet Caprice Donk"
+  ],
+  "activities": [
+    {
+      "name": "West Side Feats - Laie Village",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 190.0km/h"
+    },
+    {
+      "name": "West Side Views - Haleiwa Docks",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a GNX El Serano Lowrider Edicion parked on the Kaleiwa docks at SUNRISE"
+    },
+    {
+      "name": "West Side Feats - Kaukonahua River",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 270.0km/h"
+    },
+    {
+      "name": "West Side Views - Big tree",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a GNX El Serano Lowrider Edicion under the big tree of the Haleiwa park at midday"
+    },
+    {
+      "name": "West Side Feats - Kalihi Laces",
+      "type": "Speedtrap",
+      "xp": 4000,
+      "bucks": 7500,
+      "text": "Get 6520 PTS"
+    },
+    {
+      "name": "West Side Views - Lowrider HQ",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a GNX El Serano Lowrider Edicion in the Lowrider HQ of Haleiwa at sunset"
+    },
+    {
+      "name": "West Side Feats - Haleiwa Coast",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 3390 PTS"
+    },
+    {
+      "name": "Dirty South Views - Donk HQ",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a HOONIGAN Chevrolet Caprice Donk in the Donk HQ of Wahiawa at night"
+    },
+    {
+      "name": "Dirty South Feats - Wahiawa Streets",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 5100 PTS"
+    },
+    {
+      "name": "West Side Views - Wahiawa Bridge",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a CHEVROLET Caprice Weasel D. Customs Donk Edition using nitro on the western bridge of Wahiawa at midday"
+    },
+    {
+      "name": "West Side Feats - Kahaluu Tunnel",
+      "type": "Slalom",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Get 5220 PTS"
+    },
+    {
+      "name": "West Side Views - Luxurious villas",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a CHEVROLET Caprice Weasel D. Customs Donk Edition near the luxurious villas east of Wahiawa at dusk"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Racing",
+    "Dragster",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0],
+    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0],
+    [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0],
+    [1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
   ]
 }
