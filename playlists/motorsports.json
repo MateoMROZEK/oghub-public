@@ -294,5 +294,186 @@
         "item": 5
       }
     }
+  ],
+  "races": [
+    {
+      "name": "Opening Act: Alpha Debut",
+      "type": "Time Attack",
+      "defaultCar": "IVT AGP R-07",
+      "category": "Alpha GP",
+      "xp": 6000,
+      "bucks": 11250
+    },
+    {
+      "name": "Act 2: Alpha Grand Prix",
+      "type": "Race",
+      "defaultCar": "IVT AGP R-07",
+      "category": "Alpha GP",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Act 3: Grand Touring",
+      "type": "Race",
+      "defaultCar": "Senna GTR",
+      "category": "Racing",
+      "xp": 18000,
+      "bucks": 33750
+    },
+    {
+      "name": "Act 4: Alpha Gamble",
+      "type": "Race",
+      "defaultCar": "Alpha Mark II",
+      "category": "Alpha GP",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Act 5: Acura Derby",
+      "type": "Race",
+      "defaultCar": "NSX GT3 Racing",
+      "category": "Racing",
+      "xp": 20000,
+      "bucks": 37500
+    },
+    {
+      "name": "Art 6: Alpha Rising",
+      "type": "Race",
+      "defaultCar": "Alpha Mark X",
+      "category": "Alpha GP",
+      "xp": 10000,
+      "bucks": 18750
+    },
+    {
+      "name": "Art 7: 24H of Hanauma",
+      "type": "Race",
+      "defaultCar": "Bolide",
+      "category": "Racing",
+      "xp": 20000,
+      "bucks": 37500
+    },
+    {
+      "name": "Alpha Grand Finale",
+      "type": "Race",
+      "defaultCar": "RB18",
+      "category": "Alpha GP",
+      "xp": 15000,
+      "bucks": 28125
+    }
+  ],
+  "rewardRaces": "Red Bull RB18",
+  "activities": [
+    {
+      "name": "Alpha Feats - Peak Chicane",
+      "type": "Slalom",
+      "xp": 3200,
+      "bucks": 6000,
+      "text": "Get 9240 PTS"
+    },
+    {
+      "name": "Alpha Views - Pit Stop",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of the Ivory Tower IVT AGP R-07 in the pitlane located north-east of Hanauma Racetrack"
+    },
+    {
+      "name": "Alpha Feats - Water Bridge",
+      "type": "Bullseye",
+      "xp": 4000,
+      "bucks": 7500,
+      "text": "Get 7120 PTS"
+    },
+    {
+      "name": "Alpha Views - Starting grid",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of the Ivory Tower IVT AGP R-07 on the starting grid located near the marina of Hanauma Racetrack"
+    },
+    {
+      "name": "Alpha Feats - Marina Straight",
+      "type": "Slalom",
+      "xp": 3200,
+      "bucks": 6000,
+      "text": "Get 6790 PTS"
+    },
+    {
+      "name": "Alpha Views - High Speed",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of a Racing vehicle at high speed"
+    },
+    {
+      "name": "Alpha Feats - Paddocks",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 170.0 km/h"
+    },
+    {
+      "name": "Alpha Views - Water bridge",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Racing vehicle on the water bridge of Hanauma Racetrack at night"
+    },
+    {
+      "name": "Alpha Feats - Forest Straight",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 250.0 km/h"
+    },
+    {
+      "name": "Alpha Views - Podium",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of the Red Bull RB18 next to the haunauma Racetrack podium located at the marina"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Racing",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
   ]
 }

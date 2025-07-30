@@ -288,5 +288,185 @@
         "item": 27
       }
     }
+  ],
+  "races": [
+    {
+      "name": "Back in Time",
+      "type": "Navigation",
+      "defaultCar": "Eldoraro Brougham",
+      "category": "Street Tier 1",
+      "xp": 12000,
+      "bucks": 22500
+    },
+    {
+      "name": "Stock Around the clock",
+      "type": "Race",
+      "defaultCar": "Eldoraro Brougham",
+      "category": "Street Tier 1",
+      "xp": 6000,
+      "bucks": 11250
+    },
+    {
+      "name": "Kiss me Kombi",
+      "type": "Race",
+      "defaultCar": "KOMBI 21 Window Bus",
+      "category": "Street Tier 1",
+      "xp": 9000,
+      "bucks": 16875
+    },
+    {
+      "name": "Mustang Sally",
+      "type": "Navigation",
+      "defaultCar": "Mustang Boss 429",
+      "category": "Street Tier 1",
+      "xp": 10000,
+      "bucks": 18750
+    },
+    {
+      "name": "Get Dirt on It",
+      "type": "Time attack",
+      "defaultCar": "Fairlady Z432 (PS30)",
+      "category": "Rally",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Stayin' Ahead",
+      "type": "Race",
+      "defaultCar": "365 GTB4 Competizione",
+      "category": "Racing",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Drive the way",
+      "type": "Navigation",
+      "defaultCar": "Firebird",
+      "category": "Street Tier 1",
+      "xp": 10000,
+      "bucks": 18750
+    },
+    {
+      "name": "Vintage Showdown",
+      "type": "Race",
+      "defaultCar": "F40",
+      "category": "Street Tier 2",
+      "xp": 7000,
+      "bucks": 13125
+    }
+  ],
+  "rewardRaces": "Shelby Cobra 427",
+  "activities": [
+    {
+      "name": "Retro Feats - Kualoa Beach",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 5760 PTS"
+    },
+    {
+      "name": "Retro Views - Wrecked Plane",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture a classic car drifting on the Kualoa Racetrack near Hau'ula Forest"
+    },
+    {
+      "name": "Retro Feats - Makakilo",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 4420 PTS"
+    },
+    {
+      "name": "Retro Views - Gas Station",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of a classic car in front of the Laie Gas Station"
+    },
+    {
+      "name": "Retro Feats - Schofield Barracks",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 6430 PTS"
+    },
+    {
+      "name": "Retro Views - Resort",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a classic car in front of the Turtle Bay Resort"
+    },
+    {
+      "name": "Retro Feats - Kahuku Black Beach",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 210.0 km/h"
+    },
+    {
+      "name": "Retro Views - Theater",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a classic car in front the Wahiawa Theater at night"
+    },
+    {
+      "name": "Retro Views - Kaena Point",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Volkswagen Kombi 21 Window Bus at Kaena Point at sunset"
+    },
+    {
+      "name": "Retro Views - Motel",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a classic car in front of the motel sign located between the Mokuleia Park Airport and Haleiwa at night"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Racing",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
   ]
 }

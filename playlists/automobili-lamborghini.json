@@ -303,5 +303,215 @@
         "item": 7
       }
     }
+  ],
+  "races": [
+    {
+      "name": "Creating a Legend",
+      "type": "Race",
+      "defaultCar": "Miura SV",
+      "category": "Street Tier 2",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Designing History",
+      "type": "Outrun",
+      "defaultCar": "Countach LP 5000 Quattrovalvole",
+      "category": "Street Tier 2",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Chasing The Future",
+      "type": "Race",
+      "defaultCar": "Diablo GT",
+      "category": "Street Tier 2",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Trailblazing Forever",
+      "type": "Outrun",
+      "defaultCar": "Huacan LP610-4",
+      "category": "Street Tier 2",
+      "xp": 7000,
+      "bucks": 13125
+    },
+    {
+      "name": "Powering Through",
+      "type": "Race",
+      "defaultCar": "URUS",
+      "category": "Street Tier 2",
+      "xp": 9000,
+      "bucks": 16875
+    },
+    {
+      "name": "Achieving Immortality",
+      "type": "Race",
+      "defaultCar": "Countach LPI 800-4",
+      "category": "Hypercar",
+      "xp": 6000,
+      "bucks": 11250
+    },
+    {
+      "name": "Owning The Racetracks",
+      "type": "Race",
+      "defaultCar": "Essenza SCV12",
+      "category": "Racing",
+      "xp": 7000,
+      "bucks": 13125
+    },
+    {
+      "name": "Defining Perfection",
+      "type": "Race",
+      "defaultCar": "Sian Roadster",
+      "category": "Hypercar",
+      "xp": 7000,
+      "bucks": 13125
+    },
+    {
+      "name": "Going for More",
+      "type": "Race",
+      "defaultCar": "Revuelto",
+      "category": "Hypercar",
+      "xp": 7000,
+      "bucks": 13125
+    }
+  ],
+  "rewardRaces": "Lamborghini Diablo GT Pura Potenza Eizione",
+  "activities": [
+    {
+      "name": "A.L. Feats - Kahaluu",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 710m"
+    },
+    {
+      "name": "A.L. Views - Street Art",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of the Lamborghini Miura SV in front the graffiti in Haleiwa using NITRO"
+    },
+    {
+      "name": "A.L. Feats - ALA WAI",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 450m"
+    },
+    {
+      "name": "A.L. Views - Rainbow Containers",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of a Lamborghini Street Tier 2 near the rainbow containers in Kalaeloa"
+    },
+    {
+      "name": "A.L. Feats - Convention Center",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 150.0 km/h"
+    },
+    {
+      "name": "A.L. Views - Artsy racetrack",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Lamborghini Essenza SCV12 performing a drift next to the manta rays fresca located in the Hanauma racetrack"
+    },
+    {
+      "name": "A.L. Feats - Kaimuki",
+      "type": "Slalom",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Get 5120 PTS"
+    },
+    {
+      "name": "A.L. Views - Urban Marvels",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Lamborghini with the Huli mural located on a building between the state Capitol and the National Cemetery in the background"
+    },
+    {
+      "name": "A.L. Feats - Nanakuli",
+      "type": "Bullseye",
+      "xp": 3200,
+      "bucks": 6000,
+      "text": "Get 5440 PTS"
+    },
+    {
+      "name": "A.L. Views - Waikiki Wing Hotel",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Lamborghini car in front of the Waikiki Wing Hoteel in Honolulu at dusk"
+    },
+    {
+      "name": "A.L. Feats - Mokuleia Beach",
+      "type": "Slalom",
+      "xp": 3200,
+      "bucks": 6000,
+      "text": "Get 5100 PTS"
+    },
+    {
+      "name": "A.L. Views - Swimming Pool",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Lamborghini Diablo GT Pura Potenza Edizione next to the pool of the Haleiwa Island Resort"
+    },
+    {
+      "name": "A.L. Views - Hole Rock",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Lamborghini in Laie Point with the Hole Rock in the background at sunrise"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Racing",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
   ]
 }
