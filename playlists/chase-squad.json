@@ -297,5 +297,366 @@
         "item": 4
       }
     }
+  ],
+  "races": [
+    {
+      "name": "Day One",
+      "type": "Target Smash",
+      "defaultCar": "RS 6 Avant Chase Squad Ed.",
+      "category": "Street Tier 2",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Training Beasts",
+      "type": "Target Smash",
+      "defaultCar": "RS 6 Avant Chase Squad Ed.",
+      "category": "Street Tier 2",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Dog Eat Dog",
+      "type": "Poursuit",
+      "defaultCar": "Mustang Dark Horse Chase Squad Ed.",
+      "category": "Street Tier 2",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "First Night Out",
+      "type": "Navigation",
+      "defaultCar": "OGMIOS Chase Squad Ed.",
+      "category": "Street Tier 2",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Encounter",
+      "type": "Time Attack",
+      "defaultCar": "OGMIOS Chase Squad Ed.",
+      "category": "Street Tier 2",
+      "xp": 9000,
+      "bucks": 16875
+    },
+    {
+      "name": "Chase Squad Assemble",
+      "type": "Poursuit",
+      "defaultCar": "AEZUS Chase Squad Ed.",
+      "category": "Hypercar",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Night Off?",
+      "type": "Time Attack / Poursuit",
+      "defaultCar": "Multi Vehicle",
+      "category": "Rally Raid",
+      "xp": 15000,
+      "bucks": 28125
+    },
+    {
+      "name": "Dogged Mindset",
+      "type": "Poursuit",
+      "defaultCar": "911 GT3 RS Chase Squad Ed.",
+      "category": "Hypercar",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Dogs V Cats",
+      "type": "Time Attack / Poursuit",
+      "defaultCar": "Multi Vehicle",
+      "category": "Helicopter",
+      "xp": 24000,
+      "bucks": 45000
+    }
+  ],
+  "rewardRaces": "IVORY-TOWER AEZUS Chase Squad Ed.",
+  "activities": [
+    {
+      "name": "Supercar Feats - Museum",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 190.0 km/h"
+    },
+    {
+      "name": "Supercar Views - Hanauma Racetrack",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of the Ferrari F50 on the Hanauma Racetrack"
+    },
+    {
+      "name": "Supercar Feats - West Highway",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 180.0 km/h"
+    },
+    {
+      "name": "Supercar Views - Speedway",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22000,
+      "text": "Take a picture of a Ferrari Hypercar at high speed on the Speedway connecting Maui to Oahu"
+    },
+    {
+      "name": "Supercar Feats - Kaiwi",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 4760 PTS"
+    },
+    {
+      "name": "Supercar Views - Lavender Fields",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of the Ferrari GTO in front of a Lavender field in Kealaloloa Fields"
+    },
+    {
+      "name": "Supercar Feats - Lighthouse",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 4830 PTS"
+    },
+    {
+      "name": "Supercar Views - Wailea Resort",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Ferrari in the Wailea Resort in Kihei, near the stairs located by the fountain"
+    },
+    {
+      "name": "Supercar Views - Museum",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of a Ferrari F50 in the Museo Enzo Ferrari Area"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Racing",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
+  ],
+  "rivals": [
+    {
+      "name": "Clawblades",
+      "position": "left",
+      "races": [
+        {
+          "name": "Hunter-Killer",
+          "rivalName": "Ivy Flame",
+          "defaultCar": "Any Chase Squad Hypercar",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "Killjoy",
+          "rivalName": "Nina Watson",
+          "defaultCar": "Any Chase Squad Street Tier 2",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "Leapfrog",
+          "rivalName": "Tyler Rullo",
+          "defaultCar": "Any Chase Squad Hypercar",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "Flash",
+          "rivalName": "Rick \"Ricky\" Demarco",
+          "defaultCar": "Any Chase Squad Street Tier 2",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "The Lion",
+          "rivalName": "Leo Haines",
+          "defaultCar": "Any Chase Squad Street Tier 2",
+          "xp": 15000,
+          "bucks": 28125
+        }
+      ]
+    },
+    {
+      "name": "Diamond Fangs",
+      "position": "left",
+      "races": [
+        {
+          "name": "Blaze",
+          "rivalName": "Dario Haffman",
+          "defaultCar": "Any Chase Squad Street Tier 2",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "Catseye",
+          "rivalName": "Ilse Reinarts",
+          "defaultCar": "Any Chase Squad Hypercar",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "Stalker",
+          "rivalName": "Stevan \"Steve\" Dobric",
+          "defaultCar": "Any Chase Squad Street Tier 2",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "Daydream",
+          "rivalName": "Johannes \"John\" Fritz",
+          "defaultCar": "Any Chase Squad Hypercar",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "The Thank",
+          "rivalName": "Jakob \"Jag\" Panzer",
+          "defaultCar": "Any Chase Squad Street Tier 2",
+          "xp": 15000,
+          "bucks": 28125
+        }
+      ]
+    },
+    {
+      "name": "Nightstalkers",
+      "position": "right",
+      "races": [
+        {
+          "name": "Pretty-Boi",
+          "rivalName": "Sebastian Bonnet",
+          "defaultCar": "Any Chase Squad Street Tier 2",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "Blue-eyes",
+          "rivalName": "Sienna Argesta",
+          "defaultCar": "Any Chase Squad Street Tier 2",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "Devilcat",
+          "rivalName": "Gabriella Damiani",
+          "defaultCar": "Any Chase Squad Street Tier 2",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "Furrball",
+          "rivalName": "Marco Calandra",
+          "defaultCar": "Any Chase Squad Street Tier 2",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "Shade",
+          "rivalName": "Cristina Panatta",
+          "defaultCar": "Any Chase Squad Hypercar",
+          "xp": 15000,
+          "bucks": 28125
+        }
+      ]
+    },
+    {
+      "name": "Quickwhiskers",
+      "position": "right",
+      "races": [
+        {
+          "name": "Cinnamon",
+          "rivalName": "Keysha Benett",
+          "defaultCar": "Any Chase Squad Hypercar",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "Silver",
+          "rivalName": "Breanna Bailey",
+          "defaultCar": "Any Chase Squad Hypercar",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "Paws",
+          "rivalName": "Mike Ortiz",
+          "defaultCar": "Any Chase Squad Street Tier 2",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "Catnip",
+          "rivalName": "Aaron Griffin",
+          "defaultCar": "Any Chase Squad Street Tier 2",
+          "xp": 9000,
+          "bucks": 16875
+        },
+        {
+          "name": "Speedbolt",
+          "rivalName": "Ahmya Floss",
+          "defaultCar": "Any Chase Squad Street Tier 2",
+          "xp": 15000,
+          "bucks": 28125
+        }
+      ]
+    },
+    {
+      "name": "The Chase Squad",
+      "position": "center",
+      "races": [
+        {
+          "name": "Sam",
+          "rivalName": "Samantha Spartan",
+          "defaultCar": "Any Chase Squad Hypercar",
+          "xp": 18000,
+          "bucks": 33750
+        }
+      ]
+    }
   ]
 }
