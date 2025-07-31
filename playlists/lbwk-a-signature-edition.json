@@ -297,5 +297,231 @@
         "item": 5
       }
     }
+  ],
+  "races": [
+    {
+      "name": "Ground Works",
+      "type": "Race",
+      "defaultCar": "M4 Competition Coupé",
+      "category": "Street Tier 2",
+      "xp": 12000,
+      "bucks": 22500
+    },
+    {
+      "name": "Art Works",
+      "type": "Race",
+      "defaultCar": "M4 Liberty Walk Ed.",
+      "category": "Street Tier 2",
+      "xp": 12000,
+      "bucks": 22500
+    },
+    {
+      "name": "Master Works",
+      "type": "Race",
+      "defaultCar": "GT-R",
+      "category": "Street Tier 2",
+      "xp": 12000,
+      "bucks": 22500
+    },
+    {
+      "name": "Custom Nation",
+      "type": "Race",
+      "defaultCar": "300 SRT8",
+      "category": "Street Tier 2",
+      "xp": 7000,
+      "bucks": 13125
+    },
+    {
+      "name": "Global Nation",
+      "type": "Race",
+      "defaultCar": "Cooper S",
+      "category": "Street Tier 1",
+      "xp": 12000,
+      "bucks": 22500
+    },
+    {
+      "name": "Elite Nation",
+      "type": "Race",
+      "defaultCar": "C 63 S Coupé",
+      "category": "Street Tier 2",
+      "xp": 15000,
+      "bucks": 28125
+    },
+    {
+      "name": "Peak Performance",
+      "type": "Race",
+      "defaultCar": "NSX",
+      "category": "Street Tier 2",
+      "xp": 9000,
+      "bucks": 16875
+    },
+    {
+      "name": "Punk Performance",
+      "type": "Race",
+      "defaultCar": "Aventador LP 700-4",
+      "category": "Hypercar",
+      "xp": 12000,
+      "bucks": 22500
+    },
+    {
+      "name": "Pure Performance",
+      "type": "Race",
+      "defaultCar": "Huracan Performante",
+      "category": "Hypercar",
+      "xp": 12000,
+      "bucks": 22500
+    },
+    {
+      "name": "Liberty Territory",
+      "type": "Race",
+      "defaultCar": "Multi Vehicle",
+      "category": "Street Tier 1",
+      "xp": 33400,
+      "bucks": 62625
+    }
+  ],
+  "rewardRaces": ["BMW M4 LIBERTY WALK Ed."],
+  "activities": [
+    {
+      "name": "Liberty Feats - Kamo'oali'i",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 250.0km/h"
+    },
+    {
+      "name": "Liberty Views - Industrial Park",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Nissan Drift with the containers of the Kunia Fields's industrial park"
+    },
+    {
+      "name": "Liberty Feats - Haleiwa",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 6000 PTS"
+    },
+    {
+      "name": "Liberty Views -Docks",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of a Mazda with the containers inside the container terminal of Barbers Point Harbor"
+    },
+    {
+      "name": "Liberty Feats - Koolauloa",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 790m"
+    },
+    {
+      "name": "Liberty Views - Island",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a a Ford with the island to the southeast in the background from the belvedere of Mokapu"
+    },
+    {
+      "name": "Liberty Feats - Waikiki Shell",
+      "type": "Slalom",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Get 4290 PTS"
+    },
+    {
+      "name": "Liberty Views - Antenna",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a BMW car in front of the Kaena Point deep space antenna"
+    },
+    {
+      "name": "Liberty Feats - Mililani Mauka",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 920m"
+    },
+    {
+      "name": "Liberty Views - Gorilla head",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Lamborghini in front of the gorilla head north of the Japanese Temple in Kaneohe"
+    },
+    {
+      "name": "Liberty Views - Maze",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Porsche in the Pineapple Garden"
+    },
+    {
+      "name": "Liberty Views - The Golf Course",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Lamborghini hypercar next to the golf flag and pond located at the Ewa golf course"
+    },
+    {
+      "name": "Liberty Views - Tunnel",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a hypercar using nitro in the Hanauma Racetrack underground tunnel"
+    },
+    {
+      "name": "Liberty Views - Airport",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a hypercar in front of the Oahu Airline plane located on the runway at Oahu Airport"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Racing",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
   ]
 }

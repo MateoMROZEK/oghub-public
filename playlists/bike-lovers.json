@@ -294,5 +294,192 @@
         "item": 8
       }
     }
+  ],
+  "races": [
+    {
+      "name": "GP Glory",
+      "type": "Race",
+      "defaultCar": "RC16 Red Bull Team",
+      "category": "Racing",
+      "xp": 18000,
+      "bucks": 33750
+    },
+    {
+      "name": "Riveround Rumble",
+      "type": "Race",
+      "defaultCar": "Hypermotard",
+      "category": "Rally Raid",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Heleiwa Heyday",
+      "type": "Race",
+      "defaultCar": "CB1000R Neo Sport Café",
+      "category": "Street Tier 2",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Beach Bonanza",
+      "type": "Race",
+      "defaultCar": "450 EXC Red Bull Ed.",
+      "category": "Motocross",
+      "xp": 7000,
+      "bucks": 13125
+    },
+    {
+      "name": "Roadie Rumble",
+      "type": "Race",
+      "defaultCar": "Iron 883",
+      "category": "Street Tier 1",
+      "xp": 15000,
+      "bucks": 28125
+    },
+    {
+      "name": "Hectic Hanauma",
+      "type": "Race",
+      "defaultCar": "GSX-RR",
+      "category": "Racing",
+      "xp": 15000,
+      "bucks": 28125
+    },
+    {
+      "name": "Midnight Magic",
+      "type": "Race",
+      "defaultCar": "Panigale R",
+      "category": "Street Tier 2",
+      "xp": 9000,
+      "bucks": 16875
+    },
+    {
+      "name": "Airtime Advantage",
+      "type": "Race",
+      "defaultCar": "RM-Z450",
+      "category": "Motocross",
+      "xp": 10000,
+      "bucks": 18750
+    }
+  ],
+  "rewardRaces": ["Honda CB1000R Neo Sports Café"],
+  "activities": [
+    {
+      "name": "Rider Feats - Hau'ula Forest",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 5250 PTS"
+    },
+    {
+      "name": "Rider Views - Urbex Ride",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a bike performing a jump on the ruins of the Coconut Resort"
+    },
+    {
+      "name": "Rider Feats - Wahiawa Field",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 210.0km/h"
+    },
+    {
+      "name": "Rider Views - Giant Tiki",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of a motocross bike next to the giant tiki located at Ma'akua Black Beach"
+    },
+    {
+      "name": "Rider Feats - Waimanalo",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 4010 PTS"
+    },
+    {
+      "name": "Rider Views - Control Tower",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a bike performing a wheelie with the Oahu Airport control tower in the background"
+    },
+    {
+      "name": "Rider Feats - Hale'au'au",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 690m"
+    },
+    {
+      "name": "Rider Views - Gas Station",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of the KTM RC16 Red Bull Team performing a burn in front of the gas station located at Wahiawa"
+    },
+    {
+      "name": "Rider Feats - Peacock Road",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 4320 PTS"
+    },
+    {
+      "name": "Rider Views - Loops",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a bike at the top of the double loop located at the Motorfest Grounds"
+    },
+    {
+      "name": "Rider Feats - Wahiawa Forest",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 160.0km/h"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Racing",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
   ]
 }

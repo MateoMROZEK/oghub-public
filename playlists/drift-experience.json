@@ -306,5 +306,227 @@
         "item": 13
       }
     }
+  ],
+  "races": [
+    {
+      "name": "Initial Drill",
+      "type": "Drift Trial",
+      "defaultCar": "370Z Nismo",
+      "category": "Drift",
+      "xp": 6000,
+      "bucks": 11250
+    },
+    {
+      "name": "Wind Slider",
+      "type": "Drift Trial",
+      "defaultCar": "M5",
+      "category": "Drift",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Dream Spiral",
+      "type": "Drift Trial",
+      "defaultCar": "DeLorean DMC-12 Outadrift",
+      "category": "Drift",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Silver Shadow",
+      "type": "Drift Race",
+      "defaultCar": "GT 500",
+      "category": "Drift",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Hawai'i Red Sun",
+      "type": "Drift Race",
+      "defaultCar": "GR Supra",
+      "category": "Drift",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Diffracted Blue",
+      "type": "Race",
+      "defaultCar": "Aventador LP 700-4",
+      "category": "Drift",
+      "xp": 9000,
+      "bucks": 16875
+    },
+    {
+      "name": "PSkyline Juku",
+      "type": "Race",
+      "defaultCar": "Skyline GT-R 34",
+      "category": "Drift",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Drift Emperor",
+      "type": "Race",
+      "defaultCar": "RX7",
+      "category": "Drift",
+      "xp": 8000,
+      "bucks": 15000
+    }
+  ],
+  "rewardRaces": ["Toyota GR Supra."],
+  "activities": [
+    {
+      "name": "Burning Feats - Kaimuki",
+      "type": "Slalom",
+      "xp": 3200,
+      "bucks": 6000,
+      "text": "Get 7710 PTS"
+    },
+    {
+      "name": "Burning Views - HNL Mountain Roads",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of the Nissan 370Z Nismo Drift on the Manoa mountain roads north of Honolulu"
+    },
+    {
+      "name": "Burning Feats - Kalaeloa Fields",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 8250 PTS"
+    },
+    {
+      "name": "Burning Views - Ewa Shopping Mall",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of the Mitsubishi Lancer Evolution X Drift in the Ewa Mall parking lot at night"
+    },
+    {
+      "name": "Burning Feats - Mauna Pele North Road",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 6490 PTS"
+    },
+    {
+      "name": "Burning Views - Central Industrial Zone",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of the Mitsubishi Lancer Evolution X Drift in the Central Industrial Zone in the Militant Waipio area, west of Honouliuuli Gulch"
+    },
+    {
+      "name": "Burning Feats - Nuuanu Punchbowl",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 600m"
+    },
+    {
+      "name": "Burning Views - Southern Volcano Roads",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a a drift car on the winding road south of the Mauna Pele volcano"
+    },
+    {
+      "name": "Burning Feats - Mililani Heritage",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 720m"
+    },
+    {
+      "name": "Burning Views - Northern Volcano Roads",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of the Nissan 370Z Nismo Drift on the winding roads north of the Mauna Pele volcano"
+    },
+    {
+      "name": "Burning Feats - Kaimu Black Beach",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 550m"
+    },
+    {
+      "name": "Burning Views - Wahiawa Shopping Mall",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a drift car in the Wahiawa Mall Parking lot at night"
+    },
+    {
+      "name": "Burning Feats - Koolauloa",
+      "type": "Bullseye",
+      "xp": 3200,
+      "bucks": 6000,
+      "text": "Get 7740 PTS"
+    },
+    {
+      "name": "Burning Views - Honouliuli 7 Days Market",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of the Mitsubishi Lancer Evolution X Drift in the Honouliuli 7 Days Market parking lot at night"
+    },
+    {
+      "name": "Burning Feats - Kuaokala",
+      "type": "Bullseye",
+      "xp": 3200,
+      "bucks": 6000,
+      "text": "Get 6850 PTS"
+    },
+    {
+      "name": "Burning Feats - Kaimu Waters",
+      "type": "Buoy Smashing",
+      "xp": 4800,
+      "bucks": 9000,
+      "text": "Get 19820 PTS"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Racing",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+    [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
   ]
 }
