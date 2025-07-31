@@ -1,0 +1,110 @@
+{
+  "playlist": {
+    "name": "Ocean'n Sky",
+    "slug": "oceann-sky",
+    "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/oceann-sky.jpg",
+    "icon": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/icons/oceann-sky.jpg",
+    "themes": [8],
+    "isLegagy": false,
+    "release": "11/09/2023",
+    "policeFont": ""
+  },
+  "challenges": [],
+  "races": [
+    {
+      "name": "Rocket Start",
+      "type": "Race",
+      "defaultCar": "WR1",
+      "category": "Powerboat",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Staggering Blue",
+      "type": "Time Attack",
+      "defaultCar": "MODEL 17 Staggerwing",
+      "category": "Plane",
+      "xp": 15000,
+      "bucks": 28125
+    },
+    {
+      "name": "Hanauma Waters",
+      "type": "Race",
+      "defaultCar": "Bladerunner 35",
+      "category": "Powerboat",
+      "xp": 12000,
+      "bucks": 22500
+    },
+    {
+      "name": "Airwalker",
+      "type": "Time Attack",
+      "defaultCar": "EDGE 540 V3",
+      "category": "Plane",
+      "xp": 18000,
+      "bucks": 33750
+    },
+    {
+      "name": "Yatch Surfin'",
+      "type": "Race",
+      "defaultCar": "Technomar for Lamborghini 63",
+      "category": "Powerboat",
+      "xp": 12000,
+      "bucks": 22500
+    },
+    {
+      "name": "Red Winds",
+      "type": "Time Attack",
+      "defaultCar": "F8F Bearcat",
+      "category": "Plane",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Deep Sport",
+      "type": "Race",
+      "defaultCar": "M31 Widebody",
+      "category": "Powerboat",
+      "xp": 10000,
+      "bucks": 18750
+    },
+    {
+      "name": "Skyline Ride",
+      "type": "Time Attack",
+      "defaultCar": "GEE BEE R-1",
+      "category": "Plane",
+      "xp": 8000,
+      "bucks": 15000
+    }
+  ],
+  "rewardRaces": ["GRUMMAN F8F Beartcat"],
+  "activities": [],
+  "customModeTypes": ["Powerboat", "Motocross", "Plane", "Helicopter", "Jet"],
+  "customModeMatrix": [
+    [1, 1, 0, 0, 0],
+    [0, 0, 1, 1, 1],
+    [1, 1, 0, 0, 0],
+    [0, 0, 1, 1, 1],
+    [1, 1, 0, 0, 0],
+    [0, 0, 1, 1, 1],
+    [1, 1, 0, 0, 0],
+    [0, 0, 1, 1, 1]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
+  ]
+}
