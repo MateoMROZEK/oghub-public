@@ -309,5 +309,179 @@
         "model": "DB5"
       }
     }
+  ],
+  "races": [
+    {
+      "name": "Scene 1: The Driver",
+      "type": "Video Lane",
+      "defaultCar": "Cooper S",
+      "category": "stret Tier 1",
+      "xp": 6000,
+      "bucks": 11250
+    },
+    {
+      "name": "Scene 2: The Test",
+      "type": "Race",
+      "defaultCar": "Challenger R/T",
+      "category": "stret Tier 1",
+      "xp": 9000,
+      "bucks": 16875
+    },
+    {
+      "name": "Scene 3: The First Job",
+      "type": "Video Lane",
+      "defaultCar": "Multi vehicle",
+      "category": "Motocross",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Scene 4: The Ascent",
+      "type": "Navigation",
+      "defaultCar": "308 GTS",
+      "category": "stret Tier 1",
+      "xp": 15000,
+      "bucks": 28125
+    },
+    {
+      "name": "Scene 5: The Race",
+      "type": "Race",
+      "defaultCar": "Nomad",
+      "category": "Rally Raid",
+      "xp": 8000,
+      "bucks": 15000
+    },
+    {
+      "name": "Scene 7: The Love Story",
+      "type": "Navigation",
+      "defaultCar": "550 Spyder",
+      "category": "stret Tier 1",
+      "xp": 12000,
+      "bucks": 22500
+    },
+    {
+      "name": "Scene 8: The Getaway",
+      "type": "Time Attack",
+      "defaultCar": "Multi vehicle",
+      "category": "stret Tier 2",
+      "xp": 12000,
+      "bucks": 22500
+    },
+    {
+      "name": "The Premiere",
+      "type": "Time Attack",
+      "defaultCar": "AEZUS",
+      "category": "Hypercar",
+      "xp": 8000,
+      "bucks": 15000
+    }
+  ],
+  "rewardRaces": ["Aston Martin DB5"],
+  "activities": [
+    {
+      "name": "Movie Award Feats - Mokapu",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 4970 PTS"
+    },
+    {
+      "name": "Movie Award Views - Rooftop",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of a Mini Cooper S 1969 - Street Racing on the edge of the Kakaako Center Rooftop"
+    },
+    {
+      "name": "Movie Award Feats - Kaka'ako",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 200.0 km/h"
+    },
+    {
+      "name": "Movie Award Views - Canals",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of a MX Bike in the Kaneohe Canals"
+    },
+    {
+      "name": "Movie Award Feats - Makiki",
+      "type": "Escape",
+      "xp": 1200,
+      "bucks": 2250,
+      "text": "Drive a distance of 1270 m"
+    },
+    {
+      "name": "Movie Award Views - High Point",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Chevrolet Impala 1967 jumping from the highest cliff near makakilo river in the afternoon"
+    },
+    {
+      "name": "Movie Award Feats - Kaneohe",
+      "type": "Bullseye",
+      "xp": 4000,
+      "bucks": 7500,
+      "text": "Get 6320 PTS"
+    },
+    {
+      "name": "Movie Award Views - Koko Crater",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Street Tier 1 vehicle in front of the house located at the entrance of Koko Crater at dusk"
+    },
+    {
+      "name": "Movie Award Views - Waikiki Shell",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of an Aston Martin DB5 in front of the movie poster located on the parking lot side of the Waikiki Shell"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Racing",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1],
+    [1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
   ]
 }
