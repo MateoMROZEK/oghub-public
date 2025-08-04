@@ -194,27 +194,27 @@
       "vanities": [
         {
           "name": "MECHA SUIT UNDERGLOW",
-          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/no-prestige-shop-bg.webp",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/underglow/mecha-suit.webp",
           "price": "1605"
         },
         {
           "name": "MECHA HEAD UNDERGLOW",
-          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/no-prestige-shop-bg.webp",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/underglow/mecha-head.webp",
           "price": "1750"
         },
         {
           "name": "DESIGN CELEBRATION TIRE",
-          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/no-prestige-shop-bg.webp",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/tires/design-celebration.webp",
           "price": "1750"
         },
         {
           "name": "EL SERENO HORN",
-          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/no-prestige-shop-bg.webp",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/klaxon.webp",
           "price": "1750"
         },
         {
           "name": "MOTORFEST NITRO",
-          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/no-prestige-shop-bg.webp",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/prestige-shop/nitro/motorfest.webp",
           "price": ""
         },
         {
