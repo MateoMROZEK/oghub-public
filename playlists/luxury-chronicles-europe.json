@@ -402,5 +402,125 @@
       },
       "requirement": {}
     }
-  ]
+  ],
+  "races": [
+    {
+      "name": "Echappé Forestière",
+      "type": "Race",
+      "defaultCar": "Genty Automobile Akylone",
+      "category": "Hypercar",
+      "xp": 0,
+      "bucks": 0,
+      "release": "06/08/2025"
+    },
+    {
+      "name": "",
+      "type": "",
+      "defaultCar": "",
+      "category": "Hypercar",
+      "xp": 0,
+      "bucks": 0,
+      "release": "13/08/2025"
+    },
+    {
+      "name": "France: Bugatti Part. 1",
+      "type": "Time Attack",
+      "defaultCar": "",
+      "category": "Hypercar",
+      "xp": 0,
+      "bucks": 0,
+      "release": "20/08/2025"
+    },
+    {
+      "name": "",
+      "type": "",
+      "defaultCar": "",
+      "category": "Hypercar",
+      "xp": 0,
+      "bucks": 0,
+      "release": "27/08/2025"
+    },
+    {
+      "name": "",
+      "type": "",
+      "defaultCar": "",
+      "category": "Hypercar",
+      "xp": 0,
+      "bucks": 0,
+      "release": "03/09/2025"
+    },
+    {
+      "name": "",
+      "type": "",
+      "defaultCar": "",
+      "category": "Hypercar",
+      "xp": 0,
+      "bucks": 0,
+      "release": "10/09/2025"
+    },
+    {
+      "name": "",
+      "type": "",
+      "defaultCar": "",
+      "category": "Hypercar",
+      "xp": 0,
+      "bucks": 0,
+      "release": "17/09/2025"
+    },
+    {
+      "name": "",
+      "type": "",
+      "defaultCar": "",
+      "category": "Hypercar",
+      "xp": 0,
+      "bucks": 0,
+      "release": "24/09/2025"
+    },
+    {
+      "name": "",
+      "type": "",
+      "defaultCar": "",
+      "category": "Hypercar",
+      "xp": 0,
+      "bucks": 0,
+      "release": "01/10/2025"
+    },
+    {
+      "name": "",
+      "type": "",
+      "defaultCar": "",
+      "category": "Hypercar",
+      "xp": 0,
+      "bucks": 0,
+      "release": "08/10/2025"
+    },
+    {
+      "name": "",
+      "type": "",
+      "defaultCar": "",
+      "category": "Hypercar",
+      "xp": 0,
+      "bucks": 0,
+      "release": "15/10/2025"
+    },
+    {
+      "name": "",
+      "type": "",
+      "defaultCar": "",
+      "category": "Hypercar",
+      "xp": 0,
+      "bucks": 0,
+      "release": "22/10/2025"
+    },
+    {
+      "name": "",
+      "type": "",
+      "defaultCar": "",
+      "category": "Hypercar",
+      "xp": 0,
+      "bucks": 0,
+      "release": "29/10/2025"
+    }
+  ],
+  "rewardRaces": ["1,000,000 Bucks"]
 }

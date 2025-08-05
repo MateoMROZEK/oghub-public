@@ -350,7 +350,7 @@
       "bucks": 16875
     }
   ],
-  "rewardRaces": "LIBERTY WALK Honda NSX",
+  "rewardRaces": ["LIBERTY WALK Honda NSX"],
   "activities": [
     {
       "name": "Sekai No Feats - IAO",
