@@ -405,8 +405,8 @@
   ],
   "races": [
     {
-      "name": "Echappé Forestière",
-      "type": "Race",
+      "name": "Frane: Genty Automobile",
+      "type": "Time Attack",
       "defaultCar": "Genty Automobile Akylone",
       "category": "Hypercar",
       "xp": 0,
