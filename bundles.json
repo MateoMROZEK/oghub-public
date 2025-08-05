@@ -1,4 +1,42 @@
 {
+  "2025-08": [
+    {
+      "url": "lelegance",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3SCtdwMaWq5exRmJW7C3aJ/487704e92231914d66aad96e1e2a67e5/WEEK_06_L-ELEGANCE_THUMBNAIL.jpg",
+          "crewcredits": "360,400",
+          "bucks": "2,522,800",
+          "rewards": [
+            {
+              "name": "Renault TreZor (2017) - Hypercar"
+            },
+
+            {
+              "name": "PROTO Lucky-One (2022) - Hypercar"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6i7jzPiDENToWPWvxyHBBS/4eabfca9d541e5a2f507be7b36004e04/06_W06_CUSTOM_BUNDLE_L-ELEGANCE.jpg",
+          "crewcredits": "315,910",
+          "rewards": [
+            {
+              "name": "Bugatti Divo (2019) - Hypercar"
+            },
+            {
+              "name": "Dark Blue Nitro"
+            },
+            {
+              "name": "Prismatic Blue Smoke"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025-07": [
     {
       "url": "ferrari",

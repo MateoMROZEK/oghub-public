@@ -1,4 +1,116 @@
 {
+  "2025-08": [
+    {
+      "url": "lelegance",
+      "events": [
+        {
+          "name": "Echappé Forestière",
+          "activitie": "Luxury Event 1",
+          "restriction": "Genty Automobile Akylone [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Interlude Au Crépuscule",
+          "activitie": "Rival",
+          "restriction": "Bugatti Barchetta [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Rivages Pluvieux",
+          "activitie": "Rival",
+          "restriction": "Renault Trezor Concept",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Au delà du cratère",
+          "activitie": "Rival",
+          "restriction": "Citroen GT [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Un Rêve de Campagne",
+          "activitie": "Rival",
+          "restriction": "French Hypercar",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Balade Au Clair De Lune",
+          "activitie": "Rival",
+          "restriction": "Proto Lucky One",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Speedtrap Asphalt",
+          "restriction": "Genty Automobile Akylone [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "French Hypercar",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "Renault Trezor Concept",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Bugatti Type 57 SC Atlantic",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Luxury Tire",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    }
+  ],
   "2025-07": [
     {
       "url": "ferrari",
