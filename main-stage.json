@@ -1,4 +1,116 @@
 {
+  "2025-08": [
+    {
+      "name": "Asso del volante",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "15 Legend Points",
+          "level": "2",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
+        },
+        {
+          "name": "Gold Lines Glow - Rare",
+          "level": "3",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/underglows/gold-line-glow.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "4",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "Proto Lucky-One Marble Edition",
+          "level": "10",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/proto/lucky-one-marble-ed.webp"
+        },
+        {
+          "name": "300,000 Bucks",
+          "level": "20",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        }
+      ],
+      "technologies": [
+        {
+          "blue": [
+            {
+              "name": "+5%",
+              "level": "1",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "5 Legends Point",
+              "level": "2",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "30,000 Details",
+              "level": "3",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "Renault R.S.01",
+              "level": "4",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/renault/rs-01.webp"
+            }
+          ],
+          "orange": [
+            {
+              "name": "+5%",
+              "level": "1",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "5 Legends Point",
+              "level": "2",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "300 P Tickets",
+              "level": "3",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
+            },
+            {
+              "name": "Glasses - Blue Glass",
+              "level": "4",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/glasses-blue-glass.webp"
+            }
+          ],
+          "green": [
+            {
+              "name": "+5%",
+              "level": "1",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "5 Legends Point",
+              "level": "2",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "150,000 Bucks",
+              "level": "3",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+            },
+            {
+              "name": "Sapphire Glasses - Uncommon",
+              "level": "4",
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/sapphire-glasses.webp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025-07": [
     {
       "name": "New Main Stage",
