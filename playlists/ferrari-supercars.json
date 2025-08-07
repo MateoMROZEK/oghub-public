@@ -313,7 +313,8 @@
       "defaultCar": "GTO",
       "category": "Street Tier 2",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": 173
     },
     {
       "name": "Generazione F",
@@ -321,7 +322,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Street Tier 2",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": 126
     },
     {
       "name": "Timeless Red",
@@ -329,7 +331,8 @@
       "defaultCar": "512 TR",
       "category": "Street Tier 2",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": 132
     },
     {
       "name": "Racing DNA",
@@ -337,7 +340,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Racing",
       "xp": 15000,
-      "bucks": 28125
+      "bucks": 28125,
+      "duration": 184
     },
     {
       "name": "Celebrating Enzo",
@@ -345,7 +349,8 @@
       "defaultCar": "Enzo Ferrari",
       "category": "Hypercar",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": 154
     },
     {
       "name": "LA Ferrari",
@@ -353,7 +358,8 @@
       "defaultCar": "LaFerrari",
       "category": "Hypercar",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": 143
     },
     {
       "name": "The Prancing Horse",
@@ -361,7 +367,8 @@
       "defaultCar": "F80",
       "category": "Hypercar",
       "xp": 15000,
-      "bucks": 28125
+      "bucks": 28125,
+      "duration": 232
     }
   ],
   "rewardRaces": "Ferrari GTO",
