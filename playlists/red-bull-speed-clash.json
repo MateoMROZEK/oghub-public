@@ -310,7 +310,8 @@
       "defaultCar": "Puma Hybrid Rally1",
       "category": "Rally",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": 163
     },
     {
       "name": "The Dirt Clash",
@@ -318,7 +319,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Multi category",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": 159
     },
     {
       "name": "Moto Rush",
@@ -326,7 +328,8 @@
       "defaultCar": "RC16 Red Bull Team",
       "category": "Racing",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": 149
     },
     {
       "name": "The Asphalt Clash",
@@ -334,7 +337,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Racing",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": 111
     },
     {
       "name": "Alpha Nitro",
@@ -342,7 +346,8 @@
       "defaultCar": "RB20",
       "category": "Alpha GP",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": 177
     },
     {
       "name": "The High Clash",
@@ -350,7 +355,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Multi category",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": 181
     },
     {
       "name": "Speed War",
@@ -358,7 +364,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Multi category",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": 182
     }
   ],
   "rewardRaces": "Ferrari 488 GT3 AF Corse",

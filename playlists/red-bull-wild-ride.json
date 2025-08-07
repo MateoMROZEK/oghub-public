@@ -311,7 +311,8 @@
       "defaultCar": "RS Q e-tron",
       "category": "Rally Raid",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": 130
     },
     {
       "name": "The Queen",
@@ -319,7 +320,8 @@
       "defaultCar": "Fiesta Red Bull Ed.",
       "category": "Rally",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": 72
     },
     {
       "name": "Straight Rush",
@@ -327,7 +329,8 @@
       "defaultCar": "WR1",
       "category": "Powerboat",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": 167
     },
     {
       "name": "The Joker",
@@ -335,7 +338,8 @@
       "defaultCar": "450 Robbie Maddison Ed.",
       "category": "Motocross",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": 77
     },
     {
       "name": "M4 Of A King",
@@ -343,7 +347,8 @@
       "defaultCar": "M4 RED Bull DriftBrothers",
       "category": "Drift",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": 133
     },
     {
       "name": "The Ace",
@@ -351,7 +356,8 @@
       "defaultCar": "RB18",
       "category": "Alpha GP",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": 39
     },
     {
       "name": "Full House",
@@ -359,7 +365,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Motocross",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": 275
     }
   ],
   "rewardRaces": "KTM 450 EXC Robbie Maddison Ed.",
