@@ -314,7 +314,8 @@
       "defaultCar": "Taycan Turbo S",
       "category": "Street Tier 2",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "112"
     },
     {
       "name": "Piece Of E-Story",
@@ -322,7 +323,8 @@
       "defaultCar": "Taycan Turbo S",
       "category": "Street Tier 2",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "161"
     },
     {
       "name": "Lotus E-XPRESS",
@@ -330,7 +332,8 @@
       "defaultCar": "EVIJA",
       "category": "Hypercar",
       "xp": 4000,
-      "bucks": 7500
+      "bucks": 7500,
+      "duration": "63"
     },
     {
       "name": "Hyper E-VOLUTION",
@@ -338,15 +341,17 @@
       "defaultCar": "EVIJA",
       "category": "Hypercar",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "duration": "99"
     },
     {
-      "name": "Hummer E-PRESS",
+      "name": "Hummer E-XPRESS",
       "type": "Delivery",
       "defaultCar": "Hummer EV",
       "category": "Rally RAID",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "90"
     },
     {
       "name": "E-XPLORERS",
@@ -354,7 +359,8 @@
       "defaultCar": "Hummer EV",
       "category": "Rally RAID",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "136"
     },
     {
       "name": "Final E-VENT",
@@ -362,7 +368,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Rally RAID",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": "192"
     }
   ],
   "rewardRaces": "Lotus Evija Pure Ed.",
