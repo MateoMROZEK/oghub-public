@@ -305,7 +305,8 @@
       "defaultCar": "NSX",
       "category": "Street Tier 2",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": 106
     },
     {
       "name": "Wangan Spirit",
@@ -313,7 +314,8 @@
       "defaultCar": "Skyline GT-R 34",
       "category": "Street Tier 2",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": 126
     },
     {
       "name": "Touge Spirit",
@@ -321,7 +323,8 @@
       "defaultCar": "RX7",
       "category": "Street Tier 2",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": 124
     },
     {
       "name": "Ebisu Style",
@@ -329,7 +332,8 @@
       "defaultCar": "RX7",
       "category": "Drift",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "points": 891261
     },
     {
       "name": "Zeroyon Style",
@@ -337,7 +341,8 @@
       "defaultCar": "Skyline GT-R 34",
       "category": "Dragster",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "duration": 7
     },
     {
       "name": "Kanjo Style",
@@ -345,7 +350,8 @@
       "defaultCar": "Lancer Evolution X Black Knight Ed.",
       "category": "Street Tier 2",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": 131
     },
     {
       "name": "Shinjuku Style",
@@ -353,10 +359,11 @@
       "defaultCar": "SUPRA Ryujin Ed.",
       "category": "Street Tier 2",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": 183
     }
   ],
-  "rewardRaces": "Toyota SUPRA Ryujin Ed.",
+  "rewardRaces": ["Toyota SUPRA Ryujin Ed."],
   "activities": [
     {
       "name": "Nihon No Feats - Oahu Airport",

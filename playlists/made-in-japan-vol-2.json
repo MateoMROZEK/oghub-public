@@ -299,7 +299,8 @@
       "defaultCar": "Supra Ryujin Edition",
       "category": "Street Tier 2",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "142"
     },
     {
       "name": "K-Car Style",
@@ -307,7 +308,8 @@
       "defaultCar": "RX-7 Turbo 10th anniversary",
       "category": "Street Tier 1",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "142"
     },
     {
       "name": "Kashiriya Style",
@@ -315,7 +317,8 @@
       "defaultCar": "GR86",
       "category": "Street Tier 1",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "126"
     },
     {
       "name": "Tsuchiya Style",
@@ -323,7 +326,8 @@
       "defaultCar": "Lancer Evolution VI GSR",
       "category": "Drift",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "points": "897278"
     },
     {
       "name": "Bosozoku Style",
@@ -331,7 +335,8 @@
       "defaultCar": "3000GT VR4",
       "category": "Street Tier 2",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "162"
     },
     {
       "name": "Touge Style",
@@ -339,7 +344,8 @@
       "defaultCar": "Skyline GT-R 32",
       "category": "Street Tier 2",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "140"
     },
     {
       "name": "Wangan Soul",
@@ -347,7 +353,8 @@
       "defaultCar": "Honda NSX",
       "category": "Street Tier 2",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "143"
     }
   ],
   "rewardRaces": ["LIBERTY WALK Honda NSX"],

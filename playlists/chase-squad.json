@@ -305,7 +305,8 @@
       "defaultCar": "RS 6 Avant Chase Squad Ed.",
       "category": "Street Tier 2",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": 293958
     },
     {
       "name": "Training Beasts",
@@ -313,7 +314,8 @@
       "defaultCar": "RS 6 Avant Chase Squad Ed.",
       "category": "Street Tier 2",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": 363699
     },
     {
       "name": "Dog Eat Dog",
@@ -321,7 +323,8 @@
       "defaultCar": "Mustang Dark Horse Chase Squad Ed.",
       "category": "Street Tier 2",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": 5879137
     },
     {
       "name": "First Night Out",
@@ -329,7 +332,8 @@
       "defaultCar": "OGMIOS Chase Squad Ed.",
       "category": "Street Tier 2",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": 119
     },
     {
       "name": "Encounter",
@@ -337,7 +341,8 @@
       "defaultCar": "OGMIOS Chase Squad Ed.",
       "category": "Street Tier 2",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": 122
     },
     {
       "name": "Chase Squad Assemble",
@@ -345,7 +350,8 @@
       "defaultCar": "AEZUS Chase Squad Ed.",
       "category": "Hypercar",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": 5702352
     },
     {
       "name": "Night Off?",
@@ -353,7 +359,8 @@
       "defaultCar": "Multi Vehicle",
       "category": "Rally Raid",
       "xp": 15000,
-      "bucks": 28125
+      "bucks": 28125,
+      "points": 2649301
     },
     {
       "name": "Dogged Mindset",
@@ -361,7 +368,8 @@
       "defaultCar": "911 GT3 RS Chase Squad Ed.",
       "category": "Hypercar",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": 5786576
     },
     {
       "name": "Dogs V Cats",
@@ -369,7 +377,8 @@
       "defaultCar": "Multi Vehicle",
       "category": "Helicopter",
       "xp": 24000,
-      "bucks": 45000
+      "bucks": 45000,
+      "points": 9719781
     }
   ],
   "rewardRaces": "IVORY-TOWER AEZUS Chase Squad Ed.",
