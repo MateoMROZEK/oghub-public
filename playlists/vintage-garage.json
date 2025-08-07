@@ -296,7 +296,8 @@
       "defaultCar": "Eldoraro Brougham",
       "category": "Street Tier 1",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": "128"
     },
     {
       "name": "Stock Around the clock",
@@ -304,7 +305,8 @@
       "defaultCar": "Eldoraro Brougham",
       "category": "Street Tier 1",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "duration": "88"
     },
     {
       "name": "Kiss me Kombi",
@@ -312,7 +314,8 @@
       "defaultCar": "KOMBI 21 Window Bus",
       "category": "Street Tier 1",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "82"
     },
     {
       "name": "Mustang Sally",
@@ -320,7 +323,8 @@
       "defaultCar": "Mustang Boss 429",
       "category": "Street Tier 1",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "103"
     },
     {
       "name": "Get Dirt on It",
@@ -328,7 +332,8 @@
       "defaultCar": "Fairlady Z432 (PS30)",
       "category": "Rally",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "143"
     },
     {
       "name": "Stayin' Ahead",
@@ -336,7 +341,8 @@
       "defaultCar": "365 GTB4 Competizione",
       "category": "Racing",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "134"
     },
     {
       "name": "Drive the way",
@@ -344,7 +350,8 @@
       "defaultCar": "Firebird",
       "category": "Street Tier 1",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "136"
     },
     {
       "name": "Vintage Showdown",
@@ -352,7 +359,8 @@
       "defaultCar": "F40",
       "category": "Street Tier 2",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "124"
     }
   ],
   "rewardRaces": "Shelby Cobra 427",

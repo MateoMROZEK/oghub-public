@@ -315,7 +315,7 @@
       "category": "Street Tier 2",
       "xp": 10000,
       "bucks": 18750,
-      "duration": "112"
+      "duration": "97"
     },
     {
       "name": "Piece Of E-Story",
@@ -324,7 +324,7 @@
       "category": "Street Tier 2",
       "xp": 9000,
       "bucks": 16875,
-      "duration": "161"
+      "duration": "148"
     },
     {
       "name": "Lotus E-XPRESS",
@@ -333,7 +333,7 @@
       "category": "Hypercar",
       "xp": 4000,
       "bucks": 7500,
-      "duration": "63"
+      "duration": "61"
     },
     {
       "name": "Hyper E-VOLUTION",
@@ -342,7 +342,7 @@
       "category": "Hypercar",
       "xp": 6000,
       "bucks": 11250,
-      "duration": "99"
+      "duration": "97"
     },
     {
       "name": "Hummer E-XPRESS",
@@ -360,7 +360,7 @@
       "category": "Rally RAID",
       "xp": 7000,
       "bucks": 13125,
-      "duration": "136"
+      "duration": "128"
     },
     {
       "name": "Final E-VENT",
@@ -369,10 +369,10 @@
       "category": "Rally RAID",
       "xp": 12000,
       "bucks": 22500,
-      "duration": "192"
+      "duration": "165"
     }
   ],
-  "rewardRaces": "Lotus Evija Pure Ed.",
+  "rewardRaces": ["Lotus Evija Pure Ed."],
   "activities": [
     {
       "name": "E-Feats - Haleiwa Fields",
