@@ -347,7 +347,8 @@
       "defaultCar": "525 XC ( Race Spec)",
       "category": "Rally Raid",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "127"
     },
     {
       "name": "Off-road Island",
@@ -355,15 +356,17 @@
       "defaultCar": "Tacoma",
       "category": "Rally Raid",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "duration": "101"
     },
     {
-      "name": "Driday Night Rides",
+      "name": "Friday Night Rides",
       "type": "Race",
       "defaultCar": "R1200GS Adventure",
       "category": "Rally Raid",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "duration": "84"
     },
     {
       "name": "Red-Hot West",
@@ -371,7 +374,8 @@
       "defaultCar": "IVT Falcon S-1000",
       "category": "Rally Raid",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "128"
     },
     {
       "name": "The Descent",
@@ -379,7 +383,8 @@
       "defaultCar": "Defender Works V8 Intrepid Outdoors",
       "category": "Rally Raid",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "132"
     },
     {
       "name": "Gear Valley",
@@ -387,7 +392,8 @@
       "defaultCar": "BEETLE Hoodlum Racing Crew Ed.",
       "category": "Rally Raid",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "151"
     },
     {
       "name": "Car VS Wild",
@@ -395,7 +401,8 @@
       "defaultCar": "WRANGLER Unlimited Rubicon 392",
       "category": "Rally Raid",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "184"
     },
     {
       "name": "Waimea Sky",
@@ -403,7 +410,8 @@
       "defaultCar": "KX450F",
       "category": "Motocross",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "132"
     }
   ],
   "rewardRaces": "Ivory-Tower IVT FALCON S-1000 Adventure Ed.",

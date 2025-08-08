@@ -302,7 +302,8 @@
       "defaultCar": "GT",
       "category": "Hypercar",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "182"
     },
     {
       "name": "Wonders of Ko'olau Poko",
@@ -310,7 +311,8 @@
       "defaultCar": "Kombi Dak1ne Ed.",
       "category": "Street Tier 1",
       "xp": 18000,
-      "bucks": 33750
+      "bucks": 33750,
+      "duration": "237"
     },
     {
       "name": "Bounty of 'EWA",
@@ -318,7 +320,8 @@
       "defaultCar": "Z4 M40i",
       "category": "Street Tier 2",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "152"
     },
     {
       "name": "Dukes of Wai'anae",
@@ -326,7 +329,8 @@
       "defaultCar": "Bronco Hawaii Scenic Tour Ed.",
       "category": "Rally Raid",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "131"
     },
     {
       "name": "Giant of Ma'ili's",
@@ -334,7 +338,8 @@
       "defaultCar": "Camaro Z28",
       "category": "Street Tier 1",
       "xp": 15000,
-      "bucks": 28125
+      "bucks": 28125,
+      "duration": "216"
     },
     {
       "name": "Wild Heart of Ko'Olau Loa",
@@ -342,7 +347,8 @@
       "defaultCar": "Challenger SRT-8 392",
       "category": "Rally",
       "xp": 18000,
-      "bucks": 33750
+      "bucks": 33750,
+      "duration": "304"
     },
     {
       "name": "Explorers of Moana",
@@ -350,7 +356,8 @@
       "defaultCar": "OFFShore MK2",
       "category": "Powerboat",
       "xp": 15000,
-      "bucks": 28125
+      "bucks": 28125,
+      "duration": "208"
     },
     {
       "name": "Kingdom Of Lani",
@@ -358,7 +365,8 @@
       "defaultCar": "F4U CORSAIR",
       "category": "Plane",
       "xp": 20000,
-      "bucks": 37500
+      "bucks": 37500,
+      "duration": "126"
     },
     {
       "name": "Art of Honolulu",
@@ -366,10 +374,11 @@
       "defaultCar": "Civic Type R Fitted Ed.",
       "category": "Street Tier 1",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "148"
     }
   ],
-  "rewardRaces": "Ford Bronco Hawaii Scenic Tour Ed.",
+  "rewardRaces": ["Ford Bronco Hawaii Scenic Tour Ed."],
   "activities": [
     {
       "name": "Rainbow Feats - Kalaeloa",

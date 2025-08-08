@@ -305,7 +305,8 @@
       "defaultCar": "Mustang GT Fastback",
       "category": "Street Tier 2",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "92"
     },
     {
       "name": "Vegas Strip",
@@ -313,7 +314,8 @@
       "defaultCar": "Mustang GT",
       "category": "Dragster",
       "xp": 4000,
-      "bucks": 7500
+      "bucks": 7500,
+      "duration": "6"
     },
     {
       "name": "Denver RWD",
@@ -321,7 +323,8 @@
       "defaultCar": "Mustang GT Fastback Stunt Edition",
       "category": "Street Tier 2",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "124"
     },
     {
       "name": "Orlando Smackdown",
@@ -329,7 +332,8 @@
       "defaultCar": "Mustang GT",
       "category": "Monster",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "179"
     },
     {
       "name": "Tallahassee Melee",
@@ -337,7 +341,8 @@
       "defaultCar": "Mustang GT",
       "category": "Rally Raid",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "163"
     },
     {
       "name": "Palm Springs Riot",
@@ -345,7 +350,8 @@
       "defaultCar": "Mustang Shelby GT500",
       "category": "Street Tier 2",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "151"
     },
     {
       "name": "Phoenix Rumble",
@@ -353,7 +359,8 @@
       "defaultCar": "Mustang GT",
       "category": "Rally Raid",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": "187"
     },
     {
       "name": "Reno Roar",
@@ -361,7 +368,8 @@
       "defaultCar": "Mustang Shelby GT500 Tribute Edition",
       "category": "Street Tier 2",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "137"
     },
     {
       "name": "Detroit Finisher",
@@ -369,10 +377,11 @@
       "defaultCar": "Mustang Boss 429",
       "category": "Street Tier 1",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": "160"
     }
   ],
-  "rewardRaces": "Ford Mustang Shelby GT500 Tribute Edition",
+  "rewardRaces": ["Ford Mustang Shelby GT500 Tribute Edition"],
   "activities": [
     {
       "name": "American Feats - Cultural Center",

@@ -353,7 +353,8 @@
       "defaultCar": "911",
       "category": "Street Tier 1",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "122"
     },
     {
       "name": "911 Rally",
@@ -361,7 +362,8 @@
       "defaultCar": "959 RAID",
       "category": "Rally Raid",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "134"
     },
     {
       "name": "911 Legends",
@@ -369,7 +371,8 @@
       "defaultCar": "911 Turbo 3.6",
       "category": "Street Tier 2",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "138"
     },
     {
       "name": "911 Freeway",
@@ -377,7 +380,8 @@
       "defaultCar": "911 GT1 Strabenvision (993)",
       "category": "Hypercar",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "117"
     },
     {
       "name": "911 Grand Prix",
@@ -385,7 +389,8 @@
       "defaultCar": "911 GT3 Cup",
       "category": "Racing",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "166"
     },
     {
       "name": "911 Challenge",
@@ -393,10 +398,11 @@
       "defaultCar": "911 Carrera 4S (992)",
       "category": "Street Tier 2",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "138"
     }
   ],
-  "rewardRaces": "Porsche 911 Carrera 4S Timeless",
+  "rewardRaces": ["Porsche 911 Carrera 4S Timeless"],
   "activities": [
     {
       "name": "911 Feats - EWA",
