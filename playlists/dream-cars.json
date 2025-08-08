@@ -287,7 +287,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Hypercar",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "124"
     },
     {
       "name": "Dream Duel: Egoista vs Terzo Millennio",
@@ -295,7 +296,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Hypercar",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "123"
     },
     {
       "name": "Dream Bugattis",
@@ -303,7 +305,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Hypercar",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "130"
     },
     {
       "name": "Dream Duel: Veyron VS Noire",
@@ -311,7 +314,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Hypercar",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "152"
     },
     {
       "name": "French Dreams",
@@ -319,7 +323,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Hypercar",
       "xp": 4000,
-      "bucks": 7500
+      "bucks": 7500,
+      "duration": "64"
     },
     {
       "name": "Dream Duel: Trezor vs Citroën GT",
@@ -327,7 +332,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Hypercar",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "127"
     },
     {
       "name": "Supercar Festival",
@@ -335,10 +341,11 @@
       "defaultCar": "Vision EQ Silver Arrow",
       "category": "Hypercar",
       "xp": 15000,
-      "bucks": 28125
+      "bucks": 28125,
+      "duration": "238"
     }
   ],
-  "rewardRaces": "Mercedes-Benz Vision GT Silver Arrow",
+  "rewardRaces": ["Mercedes-Benz Vision GT Silver Arrow"],
   "activities": [
     {
       "name": "Super-Feats - East Haleiwa",

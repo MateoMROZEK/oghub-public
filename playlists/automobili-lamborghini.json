@@ -311,7 +311,8 @@
       "defaultCar": "Miura SV",
       "category": "Street Tier 2",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "113"
     },
     {
       "name": "Designing History",
@@ -319,7 +320,8 @@
       "defaultCar": "Countach LP 5000 Quattrovalvole",
       "category": "Street Tier 2",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "123"
     },
     {
       "name": "Chasing The Future",
@@ -327,7 +329,8 @@
       "defaultCar": "Diablo GT",
       "category": "Street Tier 2",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "121"
     },
     {
       "name": "Trailblazing Forever",
@@ -335,7 +338,8 @@
       "defaultCar": "Huacan LP610-4",
       "category": "Street Tier 2",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "114"
     },
     {
       "name": "Powering Through",
@@ -343,7 +347,8 @@
       "defaultCar": "URUS",
       "category": "Street Tier 2",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "146"
     },
     {
       "name": "Achieving Immortality",
@@ -351,7 +356,8 @@
       "defaultCar": "Countach LPI 800-4",
       "category": "Hypercar",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "duration": "71"
     },
     {
       "name": "Owning The Racetracks",
@@ -359,7 +365,8 @@
       "defaultCar": "Essenza SCV12",
       "category": "Racing",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "130"
     },
     {
       "name": "Defining Perfection",
@@ -367,7 +374,8 @@
       "defaultCar": "Sian Roadster",
       "category": "Hypercar",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "119"
     },
     {
       "name": "Going for More",
@@ -375,7 +383,8 @@
       "defaultCar": "Revuelto",
       "category": "Hypercar",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "114"
     }
   ],
   "rewardRaces": "Lamborghini Diablo GT Pura Potenza Eizione",

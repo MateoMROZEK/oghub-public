@@ -302,7 +302,8 @@
       "defaultCar": "IVT AGP R-07",
       "category": "Alpha GP",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "duration": "117"
     },
     {
       "name": "Act 2: Alpha Grand Prix",
@@ -310,7 +311,8 @@
       "defaultCar": "IVT AGP R-07",
       "category": "Alpha GP",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "214"
     },
     {
       "name": "Act 3: Grand Touring",
@@ -318,7 +320,8 @@
       "defaultCar": "Senna GTR",
       "category": "Racing",
       "xp": 18000,
-      "bucks": 33750
+      "bucks": 33750,
+      "duration": "331"
     },
     {
       "name": "Act 4: Alpha Gamble",
@@ -326,7 +329,8 @@
       "defaultCar": "Alpha Mark II",
       "category": "Alpha GP",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "164"
     },
     {
       "name": "Act 5: Acura Derby",
@@ -334,7 +338,8 @@
       "defaultCar": "NSX GT3 Racing",
       "category": "Racing",
       "xp": 20000,
-      "bucks": 37500
+      "bucks": 37500,
+      "duration": "328"
     },
     {
       "name": "Art 6: Alpha Rising",
@@ -342,7 +347,8 @@
       "defaultCar": "Alpha Mark X",
       "category": "Alpha GP",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "177"
     },
     {
       "name": "Art 7: 24H of Hanauma",
@@ -350,7 +356,8 @@
       "defaultCar": "Bolide",
       "category": "Racing",
       "xp": 20000,
-      "bucks": 37500
+      "bucks": 37500,
+      "duration": "357"
     },
     {
       "name": "Alpha Grand Finale",
@@ -358,10 +365,11 @@
       "defaultCar": "RB18",
       "category": "Alpha GP",
       "xp": 15000,
-      "bucks": 28125
+      "bucks": 28125,
+      "duration": "262"
     }
   ],
-  "rewardRaces": "Red Bull RB18",
+  "rewardRaces": ["Red Bull RB18"],
   "activities": [
     {
       "name": "Alpha Feats - Peak Chicane",
