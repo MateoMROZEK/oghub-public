@@ -305,7 +305,8 @@
       "defaultCar": "M4 Competition Coupé",
       "category": "Street Tier 2",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": "155"
     },
     {
       "name": "Art Works",
@@ -313,7 +314,8 @@
       "defaultCar": "M4 Liberty Walk Ed.",
       "category": "Street Tier 2",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": "170"
     },
     {
       "name": "Master Works",
@@ -321,7 +323,8 @@
       "defaultCar": "GT-R",
       "category": "Street Tier 2",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": "162"
     },
     {
       "name": "Custom Nation",
@@ -329,7 +332,8 @@
       "defaultCar": "300 SRT8",
       "category": "Street Tier 2",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "90"
     },
     {
       "name": "Global Nation",
@@ -337,7 +341,8 @@
       "defaultCar": "Cooper S",
       "category": "Street Tier 1",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": "166"
     },
     {
       "name": "Elite Nation",
@@ -345,7 +350,8 @@
       "defaultCar": "C 63 S Coupé",
       "category": "Street Tier 2",
       "xp": 15000,
-      "bucks": 28125
+      "bucks": 28125,
+      "duration": "204"
     },
     {
       "name": "Peak Performance",
@@ -353,7 +359,8 @@
       "defaultCar": "NSX",
       "category": "Street Tier 2",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "142"
     },
     {
       "name": "Punk Performance",
@@ -361,7 +368,8 @@
       "defaultCar": "Aventador LP 700-4",
       "category": "Hypercar",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": "188"
     },
     {
       "name": "Pure Performance",
@@ -369,7 +377,8 @@
       "defaultCar": "Huracan Performante",
       "category": "Hypercar",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": "208"
     },
     {
       "name": "Liberty Territory",
@@ -377,7 +386,8 @@
       "defaultCar": "Multi Vehicle",
       "category": "Street Tier 1",
       "xp": 33400,
-      "bucks": 62625
+      "bucks": 62625,
+      "duration": "577"
     }
   ],
   "rewardRaces": ["BMW M4 LIBERTY WALK Ed."],

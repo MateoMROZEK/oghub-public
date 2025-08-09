@@ -287,7 +287,8 @@
       "defaultCar": "Ford Hoonicorn Mustang",
       "category": "Drift",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": "21030"
     },
     {
       "name": "Rocket Science",
@@ -295,7 +296,8 @@
       "defaultCar": "Ford Hoonicorn Mustang",
       "category": "Drift",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": "23818"
     },
     {
       "name": "Scotto vs Scotto",
@@ -303,7 +305,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Street Tier 2",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "112"
     },
     {
       "name": "Volkhana",
@@ -311,7 +314,8 @@
       "defaultCar": "Chevrolet Big Block 632 Camaro",
       "category": "Street Tier 2",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": "175"
     },
     {
       "name": "Carbon project",
@@ -319,7 +323,8 @@
       "defaultCar": "Lancer Evolution IX",
       "category": "Street Tier 2",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "102"
     },
     {
       "name": "Rocket Up",
@@ -327,7 +332,8 @@
       "defaultCar": "Audi S1 e-tron quattro Hoonitron",
       "category": "Drift",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": "25373"
     },
     {
       "name": "This VS That",
@@ -335,7 +341,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Street Tier 2",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "157"
     },
     {
       "name": "Racehana",
@@ -343,7 +350,8 @@
       "defaultCar": "Audi S1 e-tron quattro Hoonitron",
       "category": "Drift",
       "xp": 15000,
-      "bucks": 28125
+      "bucks": 28125,
+      "duration": "205"
     },
     {
       "name": "Hoonigan Burnyard",
@@ -351,7 +359,8 @@
       "defaultCar": "Ford Hoonicorn Mustang",
       "category": "Drift",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "points": "29837"
     },
     {
       "name": "Gymkhana Motorfest",
@@ -359,7 +368,8 @@
       "defaultCar": "Lancer Evolution IX",
       "category": "Drift",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "131"
     }
   ],
   "rewardRaces": ["Hoonigan Mitsubishi Lancer Evolution IX"],

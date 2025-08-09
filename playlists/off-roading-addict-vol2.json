@@ -319,7 +319,8 @@
       "defaultCar": "IVT Falcon S-1000 Adventure Ed.",
       "category": "Rally Raid",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "duration": "104"
     },
     {
       "name": "Jungle Bruise",
@@ -327,7 +328,8 @@
       "defaultCar": "Defender Works V8 Pierce Ed.",
       "category": "Rally Raid",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "108"
     },
     {
       "name": "Blue Rush",
@@ -335,7 +337,8 @@
       "defaultCar": "3008 DKR Maxi",
       "category": "Rally Raid",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "126"
     },
     {
       "name": "Wetter World",
@@ -343,7 +346,8 @@
       "defaultCar": "Wrangler Unlimited Rubicon 392",
       "category": "Rally Raid",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "117"
     },
     {
       "name": "Boyz N The Mud",
@@ -351,7 +355,8 @@
       "defaultCar": "450 EXC Nighthawk Ed.",
       "category": "Motocross",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "122"
     },
     {
       "name": "the Goats And The Darkness",
@@ -359,7 +364,8 @@
       "defaultCar": "Gladiator",
       "category": "Rally Raid",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "157"
     },
     {
       "name": "The KTM Strikes Back... Again",
@@ -367,7 +373,8 @@
       "defaultCar": "450 EXC",
       "category": "Motocross",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "119"
     },
     {
       "name": "Big Trouble In Little Mauna",
@@ -375,7 +382,8 @@
       "defaultCar": "HX Concept",
       "category": "Rally Raid",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "duration": "110"
     },
     {
       "name": "Green Planet",
@@ -383,7 +391,8 @@
       "defaultCar": "S1 EKS RX quattro",
       "category": "Rally Raid",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "129"
     }
   ],
   "rewardRaces": ["JEEP Wrangler 392 Adventure Edition"],

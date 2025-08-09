@@ -298,7 +298,8 @@
       "defaultCar": "GR Supra",
       "category": "Drift",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "points": "1321606"
     },
     {
       "name": "Arch-Drifter",
@@ -306,7 +307,8 @@
       "defaultCar": "Skyline GT-R 34",
       "category": "Drift",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "points": "911424"
     },
     {
       "name": "Nature VS Nurture",
@@ -314,7 +316,8 @@
       "defaultCar": "Z4 sDrive35is",
       "category": "Drift",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": "1503812"
     },
     {
       "name": "Night Glider",
@@ -322,7 +325,8 @@
       "defaultCar": "Murciélago LP640",
       "category": "Drift",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": "1354301"
     },
     {
       "name": "The Hard Yards",
@@ -330,7 +334,8 @@
       "defaultCar": "12C",
       "category": "Drift",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": "1343699"
     },
     {
       "name": "No Rest For The Drifter",
@@ -338,7 +343,8 @@
       "defaultCar": "Camaro SS",
       "category": "Drift",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "points": "1370433"
     },
     {
       "name": "Smoke in the Eye",
@@ -346,7 +352,8 @@
       "defaultCar": "MX-5",
       "category": "Drift",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "points": "1948076"
     }
   ],
   "rewardRaces": ["Mazda MX-5"],

@@ -314,7 +314,8 @@
       "defaultCar": "370Z Nismo",
       "category": "Drift",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "points": "1328470"
     },
     {
       "name": "Wind Slider",
@@ -322,7 +323,8 @@
       "defaultCar": "M5",
       "category": "Drift",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": "1955382"
     },
     {
       "name": "Dream Spiral",
@@ -330,7 +332,8 @@
       "defaultCar": "DeLorean DMC-12 Outadrift",
       "category": "Drift",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": "1865292"
     },
     {
       "name": "Silver Shadow",
@@ -338,7 +341,8 @@
       "defaultCar": "GT 500",
       "category": "Drift",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": "1171756"
     },
     {
       "name": "Hawai'i Red Sun",
@@ -346,7 +350,8 @@
       "defaultCar": "GR Supra",
       "category": "Drift",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "points": "1048064"
     },
     {
       "name": "Diffracted Blue",
@@ -354,7 +359,8 @@
       "defaultCar": "Aventador LP 700-4",
       "category": "Drift",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "148"
     },
     {
       "name": "PSkyline Juku",
@@ -362,7 +368,8 @@
       "defaultCar": "Skyline GT-R 34",
       "category": "Drift",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "126"
     },
     {
       "name": "Drift Emperor",
@@ -370,7 +377,8 @@
       "defaultCar": "RX7",
       "category": "Drift",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "115"
     }
   ],
   "rewardRaces": ["Toyota GR Supra."],

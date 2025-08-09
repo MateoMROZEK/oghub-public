@@ -302,7 +302,8 @@
       "defaultCar": "RC16 Red Bull Team",
       "category": "Racing",
       "xp": 18000,
-      "bucks": 33750
+      "bucks": 33750,
+      "duration": "285"
     },
     {
       "name": "Riveround Rumble",
@@ -310,7 +311,8 @@
       "defaultCar": "Hypermotard",
       "category": "Rally Raid",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "155"
     },
     {
       "name": "Heleiwa Heyday",
@@ -318,7 +320,8 @@
       "defaultCar": "CB1000R Neo Sport Café",
       "category": "Street Tier 2",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "137"
     },
     {
       "name": "Beach Bonanza",
@@ -326,7 +329,8 @@
       "defaultCar": "450 EXC Red Bull Ed.",
       "category": "Motocross",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "duration": "128"
     },
     {
       "name": "Roadie Rumble",
@@ -334,7 +338,8 @@
       "defaultCar": "Iron 883",
       "category": "Street Tier 1",
       "xp": 15000,
-      "bucks": 28125
+      "bucks": 28125,
+      "duration": "225"
     },
     {
       "name": "Hectic Hanauma",
@@ -342,7 +347,8 @@
       "defaultCar": "GSX-RR",
       "category": "Racing",
       "xp": 15000,
-      "bucks": 28125
+      "bucks": 28125,
+      "duration": "258"
     },
     {
       "name": "Midnight Magic",
@@ -350,7 +356,8 @@
       "defaultCar": "Panigale R",
       "category": "Street Tier 2",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "162"
     },
     {
       "name": "Airtime Advantage",
@@ -358,7 +365,8 @@
       "defaultCar": "RM-Z450",
       "category": "Motocross",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "149"
     }
   ],
   "rewardRaces": ["Honda CB1000R Neo Sports Café"],

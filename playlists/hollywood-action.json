@@ -317,7 +317,8 @@
       "defaultCar": "Cooper S",
       "category": "stret Tier 1",
       "xp": 6000,
-      "bucks": 11250
+      "bucks": 11250,
+      "duration": "98"
     },
     {
       "name": "Scene 2: The Test",
@@ -325,7 +326,8 @@
       "defaultCar": "Challenger R/T",
       "category": "stret Tier 1",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "152"
     },
     {
       "name": "Scene 3: The First Job",
@@ -333,7 +335,8 @@
       "defaultCar": "Multi vehicle",
       "category": "Motocross",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "143"
     },
     {
       "name": "Scene 4: The Ascent",
@@ -341,7 +344,8 @@
       "defaultCar": "308 GTS",
       "category": "stret Tier 1",
       "xp": 15000,
-      "bucks": 28125
+      "bucks": 28125,
+      "duration": "164"
     },
     {
       "name": "Scene 5: The Race",
@@ -349,7 +353,17 @@
       "defaultCar": "Nomad",
       "category": "Rally Raid",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "152"
+    },
+    {
+      "name": "Scene 6: The Heist",
+      "type": "Video Lane",
+      "defaultCar": "GT 500",
+      "category": "stret Tier 1",
+      "xp": 10000,
+      "bucks": 18750,
+      "duration": "117"
     },
     {
       "name": "Scene 7: The Love Story",
@@ -357,7 +371,8 @@
       "defaultCar": "550 Spyder",
       "category": "stret Tier 1",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": "124"
     },
     {
       "name": "Scene 8: The Getaway",
@@ -365,7 +380,8 @@
       "defaultCar": "Multi vehicle",
       "category": "stret Tier 2",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": "175"
     },
     {
       "name": "The Premiere",
@@ -373,7 +389,8 @@
       "defaultCar": "AEZUS",
       "category": "Hypercar",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "133"
     }
   ],
   "rewardRaces": ["Aston Martin DB5"],

@@ -304,7 +304,8 @@
       "defaultCar": "Caprice",
       "category": "Street Tier 1",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "142"
     },
     {
       "name": "The Way You Drive",
@@ -312,7 +313,8 @@
       "defaultCar": "Caprice Weasel D. Customs Donk Ed.",
       "category": "Street Tier 1",
       "xp": 4000,
-      "bucks": 7500
+      "bucks": 7500,
+      "duration": "42"
     },
     {
       "name": "Get it or donk come back",
@@ -320,7 +322,8 @@
       "defaultCar": "Caprice Weasel D. Customs Donk Ed.",
       "category": "Street Tier 1",
       "xp": 4000,
-      "bucks": 7500
+      "bucks": 7500,
+      "duration": "26"
     },
     {
       "name": "Ride Wit' Us",
@@ -328,7 +331,8 @@
       "defaultCar": "Caprice Weasel D. Customs Donk Ed.",
       "category": "Street Tier 1",
       "xp": 10000,
-      "bucks": 18750
+      "bucks": 18750,
+      "duration": "135"
     },
     {
       "name": "Low Don't Dance No Mo'",
@@ -336,7 +340,8 @@
       "defaultCar": "Caprice Weasel D. Customs Donk Ed.",
       "category": "Street Tier 1",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "100"
     },
     {
       "name": "The Return of \"D\"",
@@ -344,7 +349,8 @@
       "defaultCar": "Caprice Weasel D. Customs Donk Ed.",
       "category": "Street Tier 1",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "103"
     },
     {
       "name": "Ridin' In My Buick",
@@ -352,7 +358,8 @@
       "defaultCar": "GNX",
       "category": "Street Tier 1",
       "xp": 18000,
-      "bucks": 33750
+      "bucks": 33750,
+      "duration": "161"
     },
     {
       "name": "Hop' Till Infinity",
@@ -360,7 +367,8 @@
       "defaultCar": "GNX El Sereno Lowrider Edicion",
       "category": "Street Tier 1",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "points": "111470"
     },
     {
       "name": "R U Still Low?",
@@ -368,7 +376,8 @@
       "defaultCar": "GNX El Sereno Lowrider Edicion",
       "category": "Street Tier 1",
       "xp": 12000,
-      "bucks": 22500
+      "bucks": 22500,
+      "duration": "133"
     },
     {
       "name": "Some Car 2 Dance With",
@@ -376,7 +385,8 @@
       "defaultCar": "GNX El Sereno Lowrider Edicion",
       "category": "Street Tier 1",
       "xp": 7000,
-      "bucks": 13125
+      "bucks": 13125,
+      "points": "209820"
     },
     {
       "name": "Still GNX",
@@ -384,7 +394,8 @@
       "defaultCar": "GNX El Sereno Lowrider Edicion",
       "category": "Street Tier 1",
       "xp": 8000,
-      "bucks": 15000
+      "bucks": 15000,
+      "duration": "102"
     },
     {
       "name": "TDonks Don't Kill My Vibe",
@@ -392,7 +403,8 @@
       "defaultCar": "GNX El Sereno Lowrider Edicion",
       "category": "Street Tier 1",
       "xp": 9000,
-      "bucks": 16875
+      "bucks": 16875,
+      "duration": "101"
     }
   ],
   "rewardRaces": [
