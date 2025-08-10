@@ -351,7 +351,9 @@
       "category": "Rally RAID",
       "xp": 8000,
       "bucks": 15000,
-      "duration": "82"
+      "duration": "82",
+      "bestIn": "Alpha GP",
+      "increasedDisciplinePercent": "72"
     },
     {
       "name": "E-XPLORERS",
