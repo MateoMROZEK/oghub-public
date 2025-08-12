@@ -1,6 +1,116 @@
 {
   "2025-08": [
     {
+      "url": "french-rally",
+      "events": [
+        {
+          "name": "Gear Shifting Training",
+          "activitie": "Stock Around The Clock",
+          "restriction": "Ivory Tower Ogmios Rally [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Rallye Du Var",
+          "activitie": "Life of Pierce",
+          "restriction": "Citroen C3 Racing [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Loheac Tribute",
+          "activitie": "Rally Blast",
+          "restriction": "Renault Maxi 5 Turbo [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Winning Like It's 1985",
+          "activitie": "Legendary X Rivalry",
+          "restriction": "Peugeot 205 T16 Evo2",
+          "recommendedCar": "Peugeot 205 T16 Evo2",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/rally/Peugeot/926"
+        },
+        {
+          "name": "Rally D'Alsace",
+          "activitie": "Scene 2: The Test",
+          "restriction": "Renault Maxi 5 Turbo",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Rally Of 10,000 Corners",
+          "activitie": "Waimea Sky",
+          "restriction": "Citroen C3 Racing",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Bullseye",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Long Jump",
+          "restriction": "French Rally",
+          "recommendedCar": "Peugeot 205 T16 Evo2",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/rally/Peugeot/926"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "Peugeot 205 T16 Evo2",
+          "recommendedCar": "Peugeot 205 T16 Evo2",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/rally/Peugeot/926"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Peugeot 3008 DKR Maxi",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Blaze of Glory Nitro",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "lelegance",
       "events": [
         {

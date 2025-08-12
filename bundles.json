@@ -5,6 +5,47 @@
       "bundles": [
         {
           "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/Lqsxm2YuzUHvSD9JpoiBY/9f44e0052760117d2ac19e1b1b7b5ae7/05_WEEK_07_FRENCH_RALLY_MAIN_STAGE_BUNDLE.jpg",
+          "crewcredits": "118,160",
+          "bucks": "827,120",
+          "rewards": [
+            {
+              "name": "Peugeot 205 T16 EVO 2 (1984) - Rally"
+            },
+            {
+              "name": "Citroen C3 Racing (2017) - Rally"
+            },
+            {
+              "name": "Renault R5 Maxi Turbo (1985) - Rally"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/33QU5wwDYnmxh5djww6h0e/e5f1f0b9bdda58206d644841d8a7bee0/06_W07_CUSTOM_BUNDLE_FRENCH_RALLY.jpg",
+          "crewcredits": "213,500",
+          "rewards": [
+            {
+              "name": "Ivory Tower Aezus (2024) - Hypercar"
+            },
+            {
+              "name": "Nebula Underglow"
+            },
+            {
+              "name": "Iridescent Purple Tint"
+            },
+            {
+              "name": "Nebula Smoke"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "lelegance",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
           "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3SCtdwMaWq5exRmJW7C3aJ/487704e92231914d66aad96e1e2a67e5/WEEK_06_L-ELEGANCE_THUMBNAIL.jpg",
           "crewcredits": "360,400",
           "bucks": "2,522,800",
