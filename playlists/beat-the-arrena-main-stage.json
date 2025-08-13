@@ -1,0 +1,124 @@
+{
+  "playlist": {
+    "name": "Beat the Arena Main Stage Legacy",
+    "slug": "beat-the-arrena-main-stage",
+    "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/beat-the-arena.webp",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
+    "themes": [10],
+    "isLegagy": true,
+    "release": "13/08/2025",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete 4 events for get Speed Clash (Dashboard Car Item)",
+      "rewards": {
+        "car": "Speed Clash (Dashboard Car Item)"
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "PORSCHE 935 2.0 Coupé \"Baby\" Old-Timer Ed."
+      },
+      "requirement": {}
+    }
+  ],
+  "races": [
+    {
+      "name": "Free Practice",
+      "type": "Time Attack",
+      "defaultCar": "RB13",
+      "category": "Alpha GP",
+      "xp": 10000,
+      "bucks": 15750,
+      "duration": "140"
+    },
+    {
+      "name": "Sprint Shootout",
+      "type": "Race",
+      "defaultCar": "RB14 Disruption Ed.",
+      "category": "Alpha GP",
+      "xp": 8000,
+      "bucks": 15000,
+      "duration": "222"
+    },
+    {
+      "name": "Ultimate Racetrack",
+      "type": "Drift Trial",
+      "defaultCar": "M4 Red Bull Driftbrothers",
+      "category": "Drift",
+      "xp": 8000,
+      "bucks": 15000,
+      "duration": "1",
+      "points": "593370"
+    },
+    {
+      "name": "Airport Terminal D",
+      "type": "Drift Trial",
+      "defaultCar": "Drift car",
+      "category": "Drift",
+      "xp": 6000,
+      "bucks": 11250,
+      "duration": "1",
+      "points": "811220"
+    },
+    {
+      "name": "Ferrari VS Ducati",
+      "type": "Race",
+      "defaultCar": "FXX K",
+      "category": "Racing",
+      "xp": 9000,
+      "bucks": 16875,
+      "duration": "180"
+    },
+    {
+      "name": "Ducati VS Ferrari",
+      "type": "Race",
+      "defaultCar": "Panigale R",
+      "category": "Racing",
+      "xp": 9000,
+      "bucks": 16875,
+      "duration": "120"
+    },
+    {
+      "name": "Swedish Performance",
+      "type": "Race",
+      "defaultCar": "Jesko",
+      "category": "Hypercar",
+      "xp": 7000,
+      "bucks": 13125,
+      "duration": "101"
+    },
+    {
+      "name": "Taking Action",
+      "type": "Race",
+      "defaultCar": "Agera R",
+      "category": "Hypercar",
+      "xp": 6000,
+      "bucks": 11250,
+      "duration": "106"
+    },
+    {
+      "name": "Helicopt'air Race",
+      "type": "Time Attack",
+      "defaultCar": "A500",
+      "category": "Helicopter",
+      "xp": 8000,
+      "bucks": 15000,
+      "duration": "154"
+    },
+    {
+      "name": "Flying Bull",
+      "type": "Time Attack",
+      "defaultCar": "EXTRA 330 SC Red Bull Ed.",
+      "category": "Plane",
+      "xp": 8000,
+      "bucks": 15000,
+      "duration": "112"
+    }
+  ]
+}
