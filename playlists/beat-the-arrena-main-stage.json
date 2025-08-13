@@ -53,7 +53,7 @@
       "category": "Drift",
       "xp": 8000,
       "bucks": 15000,
-      "duration": "1",
+      "duration": "180",
       "points": "593370"
     },
     {
@@ -63,7 +63,7 @@
       "category": "Drift",
       "xp": 6000,
       "bucks": 11250,
-      "duration": "1",
+      "duration": "120",
       "points": "811220"
     },
     {
@@ -73,7 +73,7 @@
       "category": "Racing",
       "xp": 9000,
       "bucks": 16875,
-      "duration": "180"
+      "duration": "1000"
     },
     {
       "name": "Ducati VS Ferrari",
@@ -82,7 +82,7 @@
       "category": "Racing",
       "xp": 9000,
       "bucks": 16875,
-      "duration": "120"
+      "duration": "1000"
     },
     {
       "name": "Swedish Performance",
