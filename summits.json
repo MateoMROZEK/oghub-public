@@ -1,6 +1,116 @@
 {
   "2025-08": [
     {
+      "url": "made-by-ivory-tower",
+      "events": [
+        {
+          "name": "The Langage of Dirt",
+          "activitie": "",
+          "restriction": "Ivory Tower Ogmios Rally [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Divine Transformation",
+          "activitie": "",
+          "restriction": "Multi vehicles [Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Herackes if the Street",
+          "activitie": "",
+          "restriction": "[Loan]",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Leaving The Nest",
+          "activitie": "",
+          "restriction": "Ivory-Tower - IVT Falcon S-1000",
+          "recommendedCar": "Ivory-Tower - IVT Falcon S-1000",
+          "metaURL": "https://www.oghub.fr/fr/pro-settings/rallyraid/ivory-tower/88"
+        },
+        {
+          "name": "Demonstration of Velocity",
+          "activitie": "",
+          "restriction": "Ivory-Tower - IVT AGP R-07",
+          "recommendedCar": "Ivory-Tower - IVT AGP R-07",
+          "metaURL": "https://www.oghub.fr/fr/pro-settings/alphagp/ivory-tower/104"
+        },
+        {
+          "name": "Destined to Win",
+          "activitie": "",
+          "restriction": "Ivory-Tower - AEZUS GT",
+          "recommendedCar": "Ivory-Tower - AEZUS GT",
+          "metaURL": "https://www.oghub.fr/fr/pro-settings/racing/Ivory-Tower/1195"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom",
+          "restriction": "Ivory-Tower - IVT Falcon S-1000",
+          "recommendedCar": "Ivory-Tower - IVT Falcon S-1000",
+          "metaURL": "https://www.oghub.fr/fr/pro-settings/rallyraid/ivory-tower/88"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Speedtrap",
+          "restriction": "Ivory-Tower",
+          "recommendedCar": "",
+          "metaURL": "https://www.oghub.fr/en/pro-settings"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Long Jump",
+          "restriction": "Ivory-Tower - AEZUS GT",
+          "recommendedCar": "Ivory-Tower - AEZUS GT",
+          "metaURL": "https://www.oghub.fr/fr/pro-settings/racing/Ivory-Tower/1195"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Wire Mesh Window Tint - Rare",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "IVORY-TOWER OGMIOS Rally Spec",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "french-rally",
       "events": [
         {
