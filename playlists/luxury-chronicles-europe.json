@@ -415,12 +415,12 @@
       "duration": "171"
     },
     {
-      "name": "",
-      "type": "",
-      "defaultCar": "",
+      "name": "France: Citroën",
+      "type": "Race",
+      "defaultCar": "Citroën GT",
       "category": "Hypercar",
-      "xp": 0,
-      "bucks": 0,
+      "xp": 9000,
+      "bucks": 16875,
       "release": "13/08/2025"
     },
     {
@@ -523,5 +523,133 @@
       "release": "29/10/2025"
     }
   ],
-  "rewardRaces": ["1,000,000 Bucks"]
+  "rewardRaces": ["1,000,000 Bucks"],
+  "activities": [
+    {
+      "name": "Luxury Feats - Manawainui",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 200.0km/h"
+    },
+    {
+      "name": "Luxury Views - French Jewel",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of a French car under a clear sky"
+    },
+    {
+      "name": "Luxury Feats - Napili",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 5900 PTS"
+    },
+    {
+      "name": "Luxury Views - Kihei Golf Club",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture of a French car near the Kihei Golf Club"
+    },
+    {
+      "name": "Luxury Feats - Pipiwai Bayan",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1800,
+      "text": "Reach 190.0km/h"
+    },
+    {
+      "name": "Luxury Views - SOON",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture ..."
+    },
+    {
+      "name": "Luxury Feats - College Stadium",
+      "type": "Long Jump",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Jump a distance of 230m"
+    },
+    {
+      "name": "Luxury Views - SOON",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture ..."
+    },
+    {
+      "name": "Luxury Feats - Makaleha River",
+      "type": "Long Jump",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Jump a distance of 180m"
+    },
+    {
+      "name": "Luxury Views - SOON",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture ..."
+    },
+    {
+      "name": "Luxury Feats - Lyon's Hill",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1800,
+      "text": "Reach 210.0km/h"
+    },
+    {
+      "name": "Luxury Views - SOON",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture ..."
+    },
+    {
+      "name": "Luxury Feats - Central",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 1360 m"
+    },
+    {
+      "name": "Luxury Views - SOON",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture ..."
+    },
+    {
+      "name": "Luxury Feats - SOON",
+      "type": "SOON",
+      "xp": 0,
+      "bucks": 0,
+      "text": "SOON"
+    },
+    {
+      "name": "Luxury Views - SOON",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture ..."
+    },
+    {
+      "name": "Luxury Feats - SOON",
+      "type": "SOON",
+      "xp": 0,
+      "bucks": 0,
+      "text": "SOON"
+    },
+    {
+      "name": "Luxury Views - SOON",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture ..."
+    }
+  ]
 }
