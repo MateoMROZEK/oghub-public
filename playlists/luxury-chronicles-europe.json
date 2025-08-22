@@ -427,11 +427,12 @@
     {
       "name": "France: Bugatti Part. 1",
       "type": "Time Attack",
-      "defaultCar": "",
+      "defaultCar": "Multi vehicles",
       "category": "Hypercar",
-      "xp": 0,
-      "bucks": 0,
-      "release": "20/08/2025"
+      "xp": 12000,
+      "bucks": 22500,
+      "release": "20/08/2025",
+      "duration": "178"
     },
     {
       "name": "",

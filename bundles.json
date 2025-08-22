@@ -1,6 +1,44 @@
 {
   "2025-08": [
     {
+      "url": "made-by-ivory-tower",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/YZ8ILKG1f8vnJ4WWp1m0O/5718e5843ea878a3960a8d2e5d2d8c2e/05_WEEK_08_MADE_BY_IVT_MAIN_STAGE_BUNDLE.jpg",
+          "crewcredits": "253,200",
+          "bucks": "1,772,320",
+          "rewards": [
+            {
+              "name": "Ivory Tower Aezus GT (2024) - Racing Car"
+            },
+            {
+              "name": "Ivory Tower IVT AGP R-07 (2023) - Alpha GP"
+            },
+            {
+              "name": "Ivory Tower Falcon IVT-R1000 (2023) - Rally Raid Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4668FxhXCfjSvmzvU2XbyF/a7b213c3f2a86563026c5adcc8d07056/06_W08_CUSTOM_BUNDLE_MADE_BY_IVT.jpg",
+          "crewcredits": "96,810",
+          "rewards": [
+            {
+              "name": "Ivory Tower Ogmios (2024) - Street Car"
+            },
+            {
+              "name": "Yellow Underglow"
+            },
+            {
+              "name": "Zeus Nitro"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "french-rally",
       "bundles": [
         {

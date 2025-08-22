@@ -1,6 +1,59 @@
 {
   "2025-08": [
     {
+      "url": "made-by-ivory-tower",
+      "vanities": [
+        {
+          "name": "Front Aero Rooftop",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "White Tundra Tire",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Red Confettis Smoke",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Scanner Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Yellow Line Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Yellow Stars Nitro",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Cyan Edge Tire",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Chase Blue Lights",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Uncommon"
+        }
+      ]
+    },
+    {
       "url": "french-rally",
       "vanities": [
         {
