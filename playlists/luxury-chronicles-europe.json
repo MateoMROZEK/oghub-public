@@ -101,7 +101,7 @@
     },
     {
       "name": "Luxury Performance",
-      "description": "Win: FRANCE BUGATTI PART 1 in less than 3min",
+      "description": "Win: FRENCH DREAMS (Dream Cars) in less than 1min 30sec",
       "rewards": {
         "xp": 24000,
         "bucks": 18000
@@ -563,11 +563,11 @@
       "text": "Reach 190.0km/h"
     },
     {
-      "name": "Luxury Views - SOON",
+      "name": "Luxury Views - Pu'unianiau Crater",
       "type": "Photo Ops",
       "xp": 16000,
       "bucks": 30000,
-      "text": "Take a picture ..."
+      "text": "Take a picture of a French car in the middle of Pu'unianiau Crater"
     },
     {
       "name": "Luxury Feats - College Stadium",
