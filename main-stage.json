@@ -6,36 +6,43 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "15 Legend Points",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Gold Lines Glow - Rare",
           "level": "3",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/underglows/gold-line-glow.webp"
         },
         {
           "name": "RARE Title",
           "level": "4",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "Proto Lucky-One Marble Edition",
           "level": "10",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/proto/lucky-one-marble-ed.webp"
         },
         {
           "name": "300,000 Bucks",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         }
       ],
@@ -45,21 +52,25 @@
             {
               "name": "+5%",
               "level": "1",
+              "xpNeed": 36000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
               "name": "5 Legends Point",
               "level": "2",
+              "xpNeed": 50400,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
               "name": "30,000 Details",
               "level": "3",
+              "xpNeed": 151200,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
             },
             {
               "name": "Renault R.S.01",
               "level": "4",
+              "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/renault/rs-01.webp"
             }
           ],
@@ -67,21 +78,25 @@
             {
               "name": "+5%",
               "level": "1",
+              "xpNeed": 36000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
               "name": "5 Legends Point",
               "level": "2",
+              "xpNeed": 50400,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
               "name": "300 P Tickets",
               "level": "3",
+              "xpNeed": 151200,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
             },
             {
               "name": "Glasses - Blue Glass",
               "level": "4",
+              "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/glasses-blue-glass.webp"
             }
           ],
@@ -89,21 +104,25 @@
             {
               "name": "+5%",
               "level": "1",
+              "xpNeed": 36000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
               "name": "5 Legends Point",
               "level": "2",
+              "xpNeed": 50400,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
               "name": "150,000 Bucks",
               "level": "3",
+              "xpNeed": 151200,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
             },
             {
               "name": "Sapphire Glasses - Uncommon",
               "level": "4",
+              "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/sapphire-glasses.webp"
             }
           ]
@@ -118,36 +137,43 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "15 Legend Points",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Emerald Tire - Rare",
           "level": "3",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/tires/emerald.webp"
         },
         {
           "name": "RARE Title",
           "level": "4",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "Alfa Romeo AC Serpente Edizione",
           "level": "10",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/alfa-romeo/4c-serpente.webp"
         },
         {
           "name": "300,000 Bucks",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         }
       ],
@@ -157,21 +183,25 @@
             {
               "name": "+5%",
               "level": "1",
+              "xpNeed": 36000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
               "name": "5 Legends Point",
               "level": "2",
+              "xpNeed": 50400,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
               "name": "300 P Tickets",
               "level": "3",
+              "xpNeed": 151200,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
             },
             {
               "name": "Glasses - Red Beam",
               "level": "4",
+              "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/glasses-red-beam.webp"
             }
           ],
@@ -179,21 +209,25 @@
             {
               "name": "+5%",
               "level": "1",
+              "xpNeed": 36000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
               "name": "5 Legends Point",
               "level": "2",
+              "xpNeed": 50400,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
               "name": "150,000 Bucks",
               "level": "3",
+              "xpNeed": 151200,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
             },
             {
               "name": "Ruby Glasses - Uncommon",
               "level": "4",
+              "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/ruby-glasses.webp"
             }
           ],
@@ -201,21 +235,25 @@
             {
               "name": "+5%",
               "level": "1",
+              "xpNeed": 36000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
               "name": "5 Legends Point",
               "level": "2",
+              "xpNeed": 50400,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
               "name": "30,000 Details",
               "level": "3",
+              "xpNeed": 151200,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
             },
             {
               "name": "Ferrari 458 Speciale Drift Ed.",
               "level": "4",
+              "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/ferrari/458-speciale-drift.webp"
             }
           ]
@@ -230,36 +268,43 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "PROTO Concept Spear Racing",
           "level": "3",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/proto/concept-spear-racing.webp"
         },
         {
           "name": "RARE Title",
           "level": "4",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "Psychedelic Underglow - Rare",
           "level": "10",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/underglows/psychedelic.webp"
         },
         {
           "name": "EPIC Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ],
@@ -269,21 +314,25 @@
             {
               "name": "Checkerboad Flag - Uncommon",
               "level": "1",
+              "xpNeed": 36000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/dashboards/checkerboard-flag.webp"
             },
             {
               "name": "+5%",
               "level": "2",
+              "xpNeed": 50400,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
               "name": "5 Legends Point",
               "level": "3",
+              "xpNeed": 151200,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
               "name": "300 P Tickets",
               "level": "4",
+              "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
             }
           ],
@@ -291,21 +340,25 @@
             {
               "name": "5 Legends Point",
               "level": "1",
+              "xpNeed": 36000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
               "name": "100,000 Bucks",
               "level": "2",
+              "xpNeed": 50400,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
             },
             {
               "name": "+5%",
               "level": "3",
+              "xpNeed": 151200,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
               "name": "Casual shirt: Speed Clash",
               "level": "4",
+              "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/speed-clash2.webp"
             }
           ],
@@ -313,26 +366,31 @@
             {
               "name": "+5%",
               "level": "1",
+              "xpNeed": 36000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
               "name": "5 Legends Point",
               "level": "2",
+              "xpNeed": 50400,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
               "name": "EXTRA AEROBATIC PLANES - Extra 300 SC",
               "level": "3",
+              "xpNeed": 151200,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/extra-aerobatic-planes/330-sc.webp"
             },
             {
               "name": "Offroad jacket: Wild Ride",
               "level": "4",
+              "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/wild-ride-jacket.webp"
             },
             {
               "name": "Waterproof: Wild Ride",
               "level": "4",
+              "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/wild-ride-waterproof.webp"
             }
           ]
@@ -347,36 +405,43 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "HUMMER HX CONCEPT ENFORCER UNIT",
           "level": "3",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/hummer/mx-concept-enforcer-unit.webp"
         },
         {
           "name": "RARE Title",
           "level": "4",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "ROUGH Tire - Uncommon",
           "level": "10",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "EPIC Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ],
@@ -386,21 +451,25 @@
             {
               "name": "+5%",
               "level": "1",
+              "xpNeed": 36000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
               "name": "5 Legends Point",
               "level": "2",
+              "xpNeed": 50400,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
               "name": "KTM 1190 RC8 R Power Track Ed. - Racing - Motorbike",
               "level": "3",
+              "xpNeed": 151200,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
             },
             {
               "name": "300 P Tickets",
               "level": "4",
+              "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
             }
           ],
@@ -408,21 +477,25 @@
             {
               "name": "50000 Bucks",
               "level": "1",
+              "xpNeed": 36000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
             },
             {
               "name": "+5%",
               "level": "2",
+              "xpNeed": 50400,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
               "name": "5 Legends Point",
               "level": "3",
+              "xpNeed": 151200,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
               "name": "T-shirt: Speed Clash",
               "level": "4",
+              "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/speed-clash-tshirt.webp"
             }
           ],
@@ -430,21 +503,25 @@
             {
               "name": "5 Legends Point",
               "level": "1",
+              "xpNeed": 36000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
               "name": "Motorfest X - Epic",
               "level": "2",
+              "xpNeed": 50400,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
             },
             {
               "name": "+5%",
               "level": "3",
+              "xpNeed": 151200,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
               "name": "Old school helmet: Motorfest playground",
               "level": "4",
+              "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/helmet-motorfest-playground.webp"
             }
           ]
@@ -459,36 +536,43 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "PROSCHE 935 2.0 COUPE \"Baby\" Old-Timer Ed.",
           "level": "3",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "4",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "KIT RACING APEX",
           "level": "10",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/kit-engine.webp"
         },
         {
           "name": "EPIC Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -501,36 +585,43 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "KTM 1190 RC8 R TRACK",
           "level": "3",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "4",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "APEX UNDERGLOW - UNCOMMON",
           "level": "10",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "EPIC Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -543,31 +634,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -580,31 +677,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -617,31 +720,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -654,31 +763,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "51000",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -691,31 +806,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -728,31 +849,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -765,31 +892,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -802,31 +935,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -839,31 +978,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -876,31 +1021,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -913,31 +1064,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -950,31 +1107,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -987,31 +1150,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -1024,31 +1193,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -1061,31 +1236,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -1098,31 +1279,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -1135,31 +1322,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
@@ -1172,31 +1365,37 @@
         {
           "name": "+10% XP",
           "level": "1",
+          "xpNeed": 201600,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
         },
         {
           "name": "UNCOMMON TITLE",
           "level": "2",
+          "xpNeed": 302400,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/uncommon-title.webp"
         },
         {
           "name": "Vehicle Name",
           "level": "3",
+          "xpNeed": 151200,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
         },
         {
           "name": "RARE Title",
           "level": "20",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
         },
         {
           "name": "EPIC Title",
           "level": "50",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
         },
         {
           "name": "LEGENDARY Title",
           "level": "100",
+          "xpNeed": 100800,
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
         }
       ]
