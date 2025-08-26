@@ -1,13 +1,51 @@
 {
+  "2025-09": [
+    {
+      "startDate": "24/09/2025 05:00:00",
+      "endDate": "01/10/2025 05:00:00",
+      "name": "Autogeist",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/default.webp",
+      "url": "autogeist",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "17/09/2025 05:00:00",
+      "endDate": "24/09/2025 05:00:00",
+      "name": "Audi Selection",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/default.webp",
+      "url": "audi-selection",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "10/09/2025 05:00:00",
+      "endDate": "17/09/2025 05:00:00",
+      "name": "Motorfest 2nd Year",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/default.webp",
+      "url": "motorfest-2nd-year",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "03/09/2025 05:00:00",
+      "endDate": "10/09/2025 05:00:00",
+      "name": "Porsche AHEAD",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/default.webp",
+      "url": "porsche-ahead",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    }
+  ],
   "2025-08": [
     {
       "startDate": "27/08/2025 05:00:00",
       "endDate": "03/09/2025 05:00:00",
       "name": "Bugatti Selection Vol. 2",
-      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/default.webp",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-08/S07_W09_BUGATTI_MOTORFEST_SELECTION_MKT_.avif",
       "url": "bugatti-selection-vol2",
       "modifiersSummit": "",
-      "modifiersCustomShow": ""
+      "modifiersCustomShow": "Bugatti"
     },
     {
       "startDate": "20/08/2025 05:00:00",

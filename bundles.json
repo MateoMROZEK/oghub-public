@@ -1,6 +1,57 @@
 {
   "2025-08": [
     {
+      "url": "bugatti-selection-vol2",
+      "bundles": [
+        {
+          "name": "Elite Bundle 6",
+          "banner": "https://i.oghub.fr/thecrew/motorfest/summits/2025-08/elite-bundle6.webp",
+          "bucks": "+3M",
+          "rewards": [
+            {
+              "name": "Bugatti Vision GT (2015) - Racing"
+            },
+            {
+              "name": "Apollo Project EVO (2021) - Racing"
+            }
+          ]
+        },
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7q5G9pexJ6NllLn87DGn8Z/b219a59f1ac19b351133578df004e8ec/05_WEEK_09_BUGATTI_MOTORFEST_SELECTION_.jpg",
+          "crewcredits": "495.440",
+          "bucks": "3,468,080",
+          "rewards": [
+            {
+              "name": "Bugatti Centodieci (2019) - Hypercar"
+            },
+            {
+              "name": "Bugatti Veyron 16.4 Grand Sport Vitesse (2016) - Hypercar"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5AyL6AX2NlZNF70szNjTLQ/2e04d7a6e04ddfed00647bd65d39c49f/06_W09_CUSTOM_BUNDLE_BUGATTI_MOTORFEST_SELECTION.jpg",
+          "crewcredits": "280,000",
+          "rewards": [
+            {
+              "name": "Bugatti Chiron (2017) - Hypercar"
+            },
+            {
+              "name": "Dark Red Nitro"
+            },
+            {
+              "name": "Red Smoke"
+            },
+            {
+              "name": "Roffo Red Line Tire"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "made-by-ivory-tower",
       "bundles": [
         {
