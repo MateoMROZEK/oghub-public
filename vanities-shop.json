@@ -1,6 +1,59 @@
 {
   "2025-08": [
     {
+      "url": "bugatti-selection-vol2",
+      "vanities": [
+        {
+          "name": "Blue Speed Vortex Smoke",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "French Touch Tire",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Red Spangled Nitro",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Blinking Red Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Stuntman Tire",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Retro Vibe Tint",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Deep Blue Sideblade Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Purple Confettis Smoke",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        }
+      ]
+    },
+    {
       "url": "made-by-ivory-tower",
       "vanities": [
         {
