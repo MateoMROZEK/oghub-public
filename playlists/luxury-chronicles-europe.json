@@ -436,12 +436,13 @@
     },
     {
       "name": "France: Bugatti Part. 2",
-      "type": "",
+      "type": "Race",
       "defaultCar": "Bugatti Vision GT",
       "category": "Racing",
-      "xp": 0,
-      "bucks": 0,
-      "release": "27/08/2025"
+      "xp": 10000,
+      "bucks": 18750,
+      "release": "27/08/2025",
+      "duration": "205"
     },
     {
       "name": "",
@@ -577,11 +578,11 @@
       "text": "Jump a distance of 230m"
     },
     {
-      "name": "Luxury Views - SOON",
+      "name": "Luxury Views - Kalohi Islets Resort Island",
       "type": "Photo Ops",
       "xp": 16000,
       "bucks": 30000,
-      "text": "Take a picture ..."
+      "text": "Take a picture of a French car in Kalohi Islets Resort Island"
     },
     {
       "name": "Luxury Feats - Makaleha River",
