@@ -13,13 +13,13 @@
           "name": "French Touch Tire",
           "image": "",
           "price": "25,000",
-          "rarety": "Epic"
+          "rarety": "Rare"
         },
         {
           "name": "Red Spangled Nitro",
           "image": "",
           "price": "25,000",
-          "rarety": "Epic"
+          "rarety": "Rare"
         },
         {
           "name": "Blinking Red Underglow",
@@ -31,7 +31,7 @@
           "name": "Stuntman Tire",
           "image": "",
           "price": "40,000",
-          "rarety": "Rare"
+          "rarety": "Epic"
         },
         {
           "name": "Retro Vibe Tint",
@@ -66,13 +66,13 @@
           "name": "White Tundra Tire",
           "image": "",
           "price": "10,000",
-          "rarety": "Epic"
+          "rarety": "Uncommon"
         },
         {
           "name": "Red Confettis Smoke",
           "image": "",
           "price": "25,000",
-          "rarety": "Epic"
+          "rarety": "Uncommon"
         },
         {
           "name": "Scanner Underglow",
@@ -84,13 +84,13 @@
           "name": "Yellow Line Underglow",
           "image": "",
           "price": "25,000",
-          "rarety": "Rare"
+          "rarety": "Uncommon"
         },
         {
           "name": "Yellow Stars Nitro",
           "image": "",
           "price": "10,000",
-          "rarety": "Rare"
+          "rarety": "Uncommon"
         },
         {
           "name": "Cyan Edge Tire",
@@ -102,7 +102,7 @@
           "name": "Chase Blue Lights",
           "image": "",
           "price": "70,000",
-          "rarety": "Uncommon"
+          "rarety": "Epic"
         }
       ]
     },
@@ -196,7 +196,7 @@
           "name": "Neon Rally Tire",
           "image": "",
           "price": "40,000",
-          "rarety": "Rare"
+          "rarety": "Epic"
         },
         {
           "name": "Blue Underglow",
@@ -221,13 +221,13 @@
           "name": "Thinline Trail Smoke",
           "image": "",
           "price": "40,000",
-          "rarety": "Epic"
+          "rarety": "Rare"
         },
         {
           "name": "Japanese Nitro",
           "image": "",
           "price": "25,000",
-          "rarety": "Epic"
+          "rarety": "Rare"
         },
         {
           "name": "Red Bushimura Tire",
@@ -245,7 +245,7 @@
           "name": "Light Yellow Electric Nitro",
           "image": "",
           "price": "25,000",
-          "rarety": "Epic"
+          "rarety": "Rare"
         },
         {
           "name": "The Chase Tire",
@@ -257,13 +257,13 @@
           "name": "Yellow Speed Vortex Smoke",
           "image": "",
           "price": "40,000",
-          "rarety": "Epic"
+          "rarety": "Rare"
         },
         {
           "name": "Blinking Yellow Underglow",
           "image": "",
           "price": "25,000",
-          "rarety": "Rare"
+          "rarety": "Uncommon"
         }
       ]
     },
