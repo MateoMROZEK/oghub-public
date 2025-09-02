@@ -1,4 +1,44 @@
 {
+  "2025-09": [
+    {
+      "url": "porsche-ahead",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/wAPjBeabakHmMzV4Exl5t/980fc58e5a3679e2acb064d7dab860d4/03_WEEK_10_PORSCHE_AHEAD_.jpg",
+          "crewcredits": "194,000",
+          "bucks": "1,358,000",
+          "rewards": [
+            {
+              "name": "Porsche Carrera GT Ahead Edition (2003) - Hypercar"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/wAPjBeabakHmMzV4Exl5t/980fc58e5a3679e2acb064d7dab860d4/03_WEEK_10_PORSCHE_AHEAD_.jpg",
+          "crewcredits": "200,550",
+          "rewards": [
+            {
+              "name": "Porsche Carrera GT Ahead Edition (2003) - Hypercar"
+            },
+            {
+              "name": "Paint Ahead Smoke"
+            },
+            {
+              "name": "Paint Ahead T Shirt"
+            },
+            {
+              "name": "Paint Ahead Baggy"
+            },
+            {
+              "name": "Paint Ahead Cap"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025-08": [
     {
       "url": "bugatti-selection-vol2",
