@@ -62,16 +62,16 @@
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
-              "name": "N/A",
+              "name": "150,000 Bucks",
               "level": "3",
               "xpNeed": 151200,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
             },
             {
-              "name": "N/A",
+              "name": "Quartz Glasses - Uncommon",
               "level": "4",
               "xpNeed": 252000,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/quartz-glasses.webp"
             }
           ],
           "orange": [
@@ -88,16 +88,16 @@
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
-              "name": "N/A",
+              "name": "30,000 Details",
               "level": "3",
               "xpNeed": 151200,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
             },
             {
-              "name": "N/A",
+              "name": "Mercedes-AMG C 63 Touring Car",
               "level": "4",
               "xpNeed": 252000,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/mercedes-amg/amg-c63tourringcar.webp"
             }
           ],
           "green": [
@@ -114,16 +114,16 @@
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
-              "name": "N/A",
+              "name": "300 P Tickets",
               "level": "3",
               "xpNeed": 151200,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
             },
             {
-              "name": "N/A",
+              "name": "Glasses : Silver Tongue",
               "level": "4",
               "xpNeed": 252000,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/glasses-silver-tongue.webp"
             }
           ]
         }
