@@ -74,6 +74,11 @@
           "type": "completion"
         },
         {
+          "eventsNeed": 4,
+          "name": "Sweater : Porsche AHEAD",
+          "type": "completion"
+        },
+        {
           "eventsNeed": 6,
           "name": "Legendary random parts 2 pieces",
           "type": "completion"
@@ -98,13 +103,13 @@
         {
           "eventsNeed": 30000,
           "rankName": "Gold",
-          "name": "",
+          "name": "Porsche 911 Carrera RS 2.7",
           "type": "rank"
         },
         {
           "eventsNeed": 15000,
           "rankName": "Platinum",
-          "name": "",
+          "name": "Paint Ahead Nitro - Rare",
           "type": "rank"
         }
       ],

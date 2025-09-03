@@ -442,16 +442,17 @@
       "xp": 10000,
       "bucks": 18750,
       "release": "27/08/2025",
-      "duration": "205"
+      "duration": "195"
     },
     {
-      "name": "",
-      "type": "",
-      "defaultCar": "",
+      "name": "Germany: Porsche",
+      "type": "Race",
+      "defaultCar": "Carrera GT",
       "category": "Hypercar",
-      "xp": 0,
-      "bucks": 0,
-      "release": "03/09/2025"
+      "xp": 8000,
+      "bucks": 15000,
+      "release": "03/09/2025",
+      "duration": "154"
     },
     {
       "name": "",
