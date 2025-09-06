@@ -1,0 +1,87 @@
+{
+  "motorfest": [
+    {
+      "id": 7,
+      "name": "Ferrari",
+      "banner": "",
+      "startDate": "2025-07",
+      "endDate": "2025-10",
+      "playlists": ["ferrari-supercars", "luxury-chronicles-europe"],
+      "summits": ["2025-07", "2025-08", "2025-09", "2025-10"],
+      "patchNotes": [""],
+      "cars": [
+        1208, 1209, 1210, 1211, 1212, 1213, 1214, 1215, 1216, 1217, 1218, 1219,
+        1220, 1223, 1224, 1225, 1226
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Red Bull",
+      "banner": "",
+      "startDate": "2025-03",
+      "endDate": "2025-06",
+      "playlists": ["red-bull-speed-clash", "red-bull-wild-ride"],
+      "summits": ["2025-03", "2025-04", "2025-05", "2025-06"],
+      "patchNotes": [""],
+      "cars": [
+        1207, 1206, 1205, 1204, 1203, 1202, 1201, 1200, 1199, 1198, 1197, 1196,
+        1195, 1194, 1193, 1192, 1191
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Maui Island",
+      "banner": "",
+      "startDate": "2024-11",
+      "endDate": "2025-02",
+      "playlists": ["made-in-japan-vol-2", "chase-squad", "maui-expeditions"],
+      "summits": ["2024-11", "2024-12", "2025-01", "2025-02"],
+      "patchNotes": [""],
+      "cars": []
+    },
+    {
+      "id": 4,
+      "name": "Donk vs Lowrider",
+      "banner": "",
+      "startDate": "2024-07",
+      "endDate": "2024-10",
+      "playlists": ["donk-vs-lowrider", "off-roading-addict-vol2"],
+      "summits": ["2024-07", "2024-08", "2024-09", "2024-10"],
+      "patchNotes": [""],
+      "cars": []
+    },
+    {
+      "id": 3,
+      "name": "Hollywood Action!",
+      "banner": "",
+      "startDate": "2024-03",
+      "endDate": "2024-06",
+      "playlists": ["hollywood-action"],
+      "summits": ["2024-03", "2024-04", "2024-05", "2024-06"],
+      "patchNotes": [""],
+      "cars": []
+    },
+    {
+      "id": 2,
+      "name": "Hoonigan",
+      "banner": "",
+      "startDate": "2023-12",
+      "endDate": "2024-02",
+      "playlists": ["gymkhana-grid-masters", "drift-experience-vol2"],
+      "summits": ["2023-12", "2024-01", "2024-02"],
+      "patchNotes": [""],
+      "cars": []
+    },
+    {
+      "id": 1,
+      "name": "American",
+      "banner": "",
+      "startDate": "2023-09",
+      "endDate": "2023-11",
+      "playlists": ["american-muscle"],
+      "summits": ["2023-09", "2023-10", "2023-11"],
+      "patchNotes": [""],
+      "cars": []
+    }
+  ]
+}
