@@ -1,0 +1,21 @@
+{
+  "motorfest": [
+    {
+      "season": 7,
+      "date": "2025-07-01",
+      "addElements": [
+        "2 Playlists",
+        "Enzo Ferrari Museum",
+        "New fast Fav icons",
+        "New immersive mode",
+        "Prestige Shop (Season 4)",
+        "New modifier in Grand Race (Alpha Jet & Pro Racing)",
+        "Bew split time",
+        "Grand Race Spectator",
+        "Grand Race special day flow",
+        "Speed reduce to 0km/h after using Back of Track"
+      ],
+      "changesElements": ["Car update"]
+    }
+  ]
+}
