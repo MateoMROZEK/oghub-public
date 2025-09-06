@@ -3,7 +3,7 @@
     {
       "id": 7,
       "name": "Ferrari",
-      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/7.avif",
+      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/7.webp",
       "startDate": "2025-07",
       "endDate": "2025-10",
       "playlists": ["ferrari-supercars", "luxury-chronicles-europe"],
@@ -17,7 +17,7 @@
     {
       "id": 6,
       "name": "Red Bull",
-      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/6.avif",
+      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/6.webp",
       "startDate": "2025-03",
       "endDate": "2025-06",
       "playlists": ["red-bull-speed-clash", "red-bull-wild-ride"],
@@ -31,7 +31,7 @@
     {
       "id": 5,
       "name": "Maui Island",
-      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/5.avif",
+      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/5.webp",
       "startDate": "2024-11",
       "endDate": "2025-02",
       "playlists": ["made-in-japan-vol-2", "chase-squad", "maui-expeditions"],
@@ -42,7 +42,7 @@
     {
       "id": 4,
       "name": "Donk vs Lowrider",
-      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/4.avif",
+      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/4.webp",
       "startDate": "2024-07",
       "endDate": "2024-10",
       "playlists": ["donk-vs-lowrider", "off-roading-addict-vol2"],
@@ -53,7 +53,7 @@
     {
       "id": 3,
       "name": "Hollywood Action!",
-      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/3.avif",
+      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/3.webp",
       "startDate": "2024-03",
       "endDate": "2024-06",
       "playlists": ["hollywood-action"],
@@ -64,7 +64,7 @@
     {
       "id": 2,
       "name": "Hoonigan",
-      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/2.avif",
+      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/2.webp",
       "startDate": "2023-12",
       "endDate": "2024-02",
       "playlists": ["gymkhana-grid-masters", "drift-experience-vol2"],
@@ -75,7 +75,7 @@
     {
       "id": 1,
       "name": "American",
-      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/1.avif",
+      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/1.webp",
       "startDate": "2023-09",
       "endDate": "2023-11",
       "playlists": ["american-muscle"],
