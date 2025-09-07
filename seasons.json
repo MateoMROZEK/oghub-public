@@ -1,32 +1,6 @@
 {
   "motorfest": [
     {
-      "id": 9,
-      "name": "Nascar",
-      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/9.webp?version=preRelease",
-      "startDate": "2026-03",
-      "endDate": "2026-06",
-      "playlists": [],
-      "summits": ["2026-03", "2026-04", "2026-05", "2026-06"],
-      "patchNotes": [""],
-      "cars": [],
-      "warningText": "Prediction of the future season based on game elements",
-      "isReleased": false
-    },
-    {
-      "id": 8,
-      "name": "BMW",
-      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/8.webp?version=preRelease",
-      "startDate": "2025-11",
-      "endDate": "2026-02",
-      "playlists": [],
-      "summits": ["2025-11", "2025-12", "2026-01", "2026-02"],
-      "patchNotes": [""],
-      "cars": [],
-      "warningText": "Prediction of the future season based on game elements",
-      "isReleased": false
-    },
-    {
       "id": 7,
       "name": "Ferrari",
       "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/7.webp",
