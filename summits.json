@@ -1,6 +1,121 @@
 {
   "2025-09": [
     {
+      "url": "motorfest-2nd-year",
+      "events": [
+        {
+          "name": "Your Birthday Present",
+          "activitie": "The Maui Big Tour",
+          "restriction": "Bugatti Veyron Edition One [Loan]",
+          "recommendedCar": "Bugatti Veyron Edition One",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/hypercar/bugatti/1226"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "Bugatti Veyron Edition One",
+          "recommendedCar": "Bugatti Veyron Edition One",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/hypercar/bugatti/1226"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Speedtrap",
+          "restriction": "Bugatti Veyron Edition One",
+          "recommendedCar": "Bugatti Veyron Edition One",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/hypercar/bugatti/1226"
+        },
+        {
+          "name": "Luxury Crews",
+          "activitie": "Germany: Apollo Automobile",
+          "restriction": "Genty Automobile Akylone [Loan]",
+          "recommendedCar": "Genty Automobile Akylone",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/hypercar/Genty"
+        },
+        {
+          "name": "Crew Leader",
+          "activitie": "Wangan Style",
+          "restriction": "Liberty Walk Honda NSX [Loan]",
+          "recommendedCar": "Liberty Walk Honda NSX",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Chasing Malu",
+          "activitie": "Rival",
+          "restriction": "Ivory-Tower Aezus Chase Squad Edition [Loan]",
+          "recommendedCar": "Ivory-Tower Aezus Chase Squad Edition",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/hypercar/ivory-tower"
+        },
+        {
+          "name": "Ferrari X Red Bull",
+          "activitie": "The Asphalt",
+          "restriction": "Ferrari 488 GT3 AF Corse",
+          "recommendedCar": "Ferrari 488 GT3 AF Corse",
+          "metaURL": "https://www.oghub.fr/en/pro-settings"
+        },
+        {
+          "name": "Robbie Joined The Crew",
+          "activitie": "The Joker",
+          "restriction": "KTM 450 EXC Robbie Maddison Edition",
+          "recommendedCar": "KTM 450 EXC Robbie Maddison Edition",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "The Star Of The Show",
+          "activitie": "Opera D'Arte",
+          "restriction": "Ferrari F80 [Loan]",
+          "recommendedCar": "Ferrari F80",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/hypercar/ferrari"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 4,
+          "name": "Sweater : Porsche AHEAD",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "porsche-ahead",
       "events": [
         {

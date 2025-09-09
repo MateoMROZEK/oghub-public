@@ -1,6 +1,41 @@
 {
   "2025-09": [
     {
+      "url": "motorfest-2nd-year",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3ws9DKozEqC8NMh9qi9tvs/5da8a2fec4b8ba500fe921111a9a9256/03_TCM_S07_2ND_ANNIVERSARY_FREE_VEHICLE.jpg",
+          "crewcredits": "0",
+          "bucks": "FREE",
+          "rewards": [
+            {
+              "name": "Bugatti Veyron 16.4 Grand Sport Vitesse - Edition One (2016) - Hypercar"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2NrvM75EE721EFXf9bX1W/5cf30099fbd82607f218755482411f88/04_W11_CUSTOM_BUNDLE_THE_MOTORVERSARY_2.jpg",
+          "crewcredits": "119,000",
+          "rewards": [
+            {
+              "name": "Audi R8 LMS GT2 (2020) - Racing Car"
+            },
+            {
+              "name": "Gold Rush Nitro"
+            },
+            {
+              "name": "Golden Striped Tire"
+            },
+            {
+              "name": "Black Window Tint"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "porsche-ahead",
       "bundles": [
         {

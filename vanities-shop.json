@@ -1,6 +1,59 @@
 {
   "2025-09": [
     {
+      "url": "motorfest-2nd-year",
+      "vanities": [
+        {
+          "name": "The Crew Y2 Tint",
+          "image": "",
+          "price": "1",
+          "rarety": "Unique"
+        },
+        {
+          "name": "Orange Wings Underglow",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Turn It Up Tire",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Yellow Duck Rooftop",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Fireworks Smoke",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Pink Stardust Nitro",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Sakura Tire",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Sakura Underglow",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        }
+      ]
+    },
+    {
       "url": "porsche-ahead",
       "vanities": [
         {
