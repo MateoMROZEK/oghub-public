@@ -2,6 +2,20 @@
   "motorfest": [
     {
       "season": 7,
+      "date": "2025-08-27",
+      "changesElements": [
+        "Grand Races crash on PS5 fix"
+      ]
+    },
+    {
+      "season": 7,
+      "date": "2025-08-06",
+      "addElements": [
+        "New Playlist: Luxury Chronicles: Europe"
+      ]
+    },
+    {
+      "season": 7,
       "date": "2025-07-01",
       "addElements": [
         "2 Playlists",
@@ -15,7 +29,16 @@
         "Grand Race special day flow",
         "Speed reduce to 0km/h after using Back of Track"
       ],
-      "changesElements": ["Car update"]
+      "changesElements": [
+        "Car update",
+        "Visuals & Customization for dashboard & speedometer fixes (e.g., BMW M3 Sport Evo, Lancer Evo X)",
+        "Paint, suspension, 3D models, window, and VFX tweaks.",
+        "Paint application confirmation added.",
+        "Audio & Music",
+        "Improved off-road rolling sounds.",
+        "Red Bull Radio podcast fixed.",
+        "Large new tracklist (Thylacine, Vivaldi, and more)."
+      ]
     }
   ]
 }
