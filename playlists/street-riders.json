@@ -172,7 +172,8 @@
       "rewards": {
         "xp": 48000,
         "bucks": 36000
-      }
+      },
+      "requirement": {}
     },
     {
       "name": "Monkeys' Airlines",
@@ -240,7 +241,8 @@
       "rewards": {
         "xp": 48000,
         "bucks": 36000
-      }
+      },
+      "requirement": {}
     },
     {
       "name": "Monkeys' Racer",
@@ -248,7 +250,8 @@
       "rewards": {
         "xp": 80000,
         "bucks": 60000
-      }
+      },
+      "requirement": {}
     },
     {
       "name": "Monkeys' Jewel",
@@ -256,7 +259,8 @@
       "rewards": {
         "xp": 48000,
         "bucks": 36000
-      }
+      },
+      "requirement": {}
     },
     {
       "name": "Monkeys' Custom",

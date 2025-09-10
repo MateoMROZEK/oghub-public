@@ -16,7 +16,8 @@
       "rewards": {
         "xp": 12000,
         "bucks": 9000
-      }
+      },
+      "requirement": {}
     },
     {
       "name": "Bavarian Cruise",
@@ -252,7 +253,8 @@
       "rewards": {
         "xp": 48000,
         "bucks": 36000
-      }
+      },
+      "requirement": {}
     },
     {
       "name": "Bavarian Stance",
@@ -260,7 +262,8 @@
       "rewards": {
         "xp": 12000,
         "bucks": 9000
-      }
+      },
+      "requirement": {}
     },
     {
       "name": "Bavarian Treasure",
@@ -279,7 +282,8 @@
       "rewards": {
         "xp": 12000,
         "bucks": 9000
-      }
+      },
+      "requirement": {}
     },
     {
       "name": "Bavarian Evolution",
