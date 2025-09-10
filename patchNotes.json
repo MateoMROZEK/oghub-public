@@ -1,18 +1,71 @@
 {
   "motorfest": [
     {
-      "season": 7,
-      "date": "2025-08-27",
+      "season": 8,
+      "date": "2025-11-01",
+      "addElements": [
+        "2 Playlists",
+        "HQ for the Street Riders playlist",
+        "15 new murals can now be discovered on Maui",
+        "Branded Rims & Stance",
+        "Looking for Crew",
+        "PVP Ranking System in Grand race (Bronze, Silver...)",
+        "Grand Race rotation new system",
+        "Prestige Ticket Shop",
+        "Theme-based Main Stage Challenges"
+      ],
       "changesElements": [
-        "Grand Races crash on PS5 fix"
+        "ALFA ROMEO Street T2",
+        "ALFA ROMEO 4C",
+        "ALFA ROMEO 4C Serpente Edizione",
+        "ALFA ROMEO 8c Competizione",
+        "ALFA ROMEO Giulia GTAm",
+        "ALFA ROMEO Giulia GTAm - Rival Edition",
+        "ALFA ROMEO Giulia Quadrifoglio",
+        "ALFA ROMEO Giulia Quadrifoglio Outclassed Edition",
+
+        "MITSUBISHI Street T1",
+        "MITSUBISHI FTO GP Version R",
+        "MITSUBISHI FTO Version R Nebula Edition",
+
+        "BMW Street T1",
+        "BMW M2 (F87) Beehive Edition",
+        "BMW Street T2",
+        "BMW I8 Roadster (I15)",
+        "BMW I8 Roadster (I15) Stellar Edition",
+        "BMW M4 (F82)",
+        "BMW M4 Competition Coupe (G82)",
+        "BMW M4 Competition Coupe (G82) Liberty Walk Edition",
+        "BMW M5 (F10)",
+        "BMW M8 (F92) No Rules Edition",
+        "BMW M8 (F92) Performance Edition",
+        "BMW M8 Competition Coupe (F92)",
+        "BMW M8 Competition Coupe (F92) - Interception Unit",
+        "BMW Z4 M40 i (G29)",
+        "BMW Z4 M40 i (G29) - Agent Edition",
+        "BMW Z4 M40 i (G29) - Motorfest Edition",
+
+        "BMW M Performance M4 Racing",
+        "BMW M6 GT3 (F13)",
+        "BMW Z4 GT3 (E89)",
+
+        "RENAULT Street T1",
+        "RENAULT Megane RS",
+
+        "VOLKSWAGEN Street T1",
+        "VOLKSWAGEN Golf GTI (A7) 2014",
+        "VOLKSWAGEN Golf GTI (A7) Dash Edition"
       ]
     },
     {
       "season": 7,
+      "date": "2025-08-27",
+      "changesElements": ["Grand Races crash on PS5 fix"]
+    },
+    {
+      "season": 7,
       "date": "2025-08-06",
-      "addElements": [
-        "New Playlist: Luxury Chronicles: Europe"
-      ]
+      "addElements": ["New Playlist: Luxury Chronicles: Europe"]
     },
     {
       "season": 7,
