@@ -443,6 +443,22 @@
       "themes": [1, 6],
       "isLegagy": false,
       "release": "06/08/2025"
+    },
+    {
+      "name": "BMW",
+      "slug": "bmw",
+      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/bmw.webp",
+      "themes": [1],
+      "isLegagy": false,
+      "release": "01/01/2026"
+    },
+    {
+      "name": "Street Riders",
+      "slug": "street-riders",
+      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/street-riders.webp",
+      "themes": [5],
+      "isLegagy": false,
+      "release": "01/11/2025"
     }
   ]
 }
