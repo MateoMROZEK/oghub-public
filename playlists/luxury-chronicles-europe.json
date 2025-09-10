@@ -2,9 +2,9 @@
   "playlist": {
     "name": "Luxury Chronicles, Europe",
     "slug": "luxury-chronicles-europe",
-    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/luxury-chronicles-europe.jpg",
+    "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/luxury-chronicles-europe.jpg",
     "themes": [1, 6],
-    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/no-item.jpg",
+    "icon": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/icons/no-item.jpg",
     "isLegagy": false,
     "release": "06/08/2025",
     "policeFont": ""

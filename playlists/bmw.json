@@ -1,0 +1,168 @@
+{
+  "playlist": {
+    "name": "BMW",
+    "slug": "bmw",
+    "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/bmw.webp",
+    "themes": [1, 6],
+    "icon": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/icons/no-item.jpg",
+    "isLegagy": false,
+    "release": "01/01/2026",
+    "policeFont": ""
+  },
+  "challenges": [],
+  "races": [
+    {
+      "name": "Racing through Time",
+      "type": "Race",
+      "defaultCar": "Multi vehicle",
+      "category": "Racing",
+      "xp": 15000,
+      "bucks": 28125,
+      "duration": "0"
+    },
+    {
+      "name": "E30: The First M3",
+      "type": "Race",
+      "defaultCar": "M3 Sport Evolution",
+      "category": "Street Tier 1",
+      "xp": 9000,
+      "bucks": 16875,
+      "duration": "0"
+    },
+    {
+      "name": "Z4: Expression of Freedom",
+      "type": "Race",
+      "defaultCar": "Z4 sDrive35is",
+      "category": "Street Tier 1",
+      "xp": 7000,
+      "bucks": 13125,
+      "duration": "0"
+    },
+    {
+      "name": "GS: Made for Adventure",
+      "type": "Free Race",
+      "defaultCar": "R1200GS Adventure",
+      "category": "Rally Raid",
+      "xp": 8000,
+      "bucks": 15000,
+      "duration": "0"
+    },
+    {
+      "name": "M: United by performance",
+      "type": "Race",
+      "defaultCar": "M4 CSL",
+      "category": "Street Tier 2",
+      "xp": 9000,
+      "bucks": 16875,
+      "duration": "0"
+    },
+    {
+      "name": "i8: Instant Classic",
+      "type": "Race",
+      "defaultCar": "Multi vehicle",
+      "category": "Street Tier 2",
+      "xp": 33400,
+      "bucks": 62625,
+      "duration": "0"
+    }
+  ],
+  "rewardRaces": ["BMW M2"],
+  "activities": [
+    {
+      "name": "Bavarian Feats - Kahikinui Turbines",
+      "type": "Long Jump",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Jump a distance of 250 m"
+    },
+    {
+      "name": "Bavarian Views - Volcano Drone Show",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a BMW Street Tier 2 in front of the volcano drone show located on the middle of a roundabout near Kaiwi Islets"
+    },
+    {
+      "name": "Bavarian Feats - Pu'unianiau",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 7280 PTS"
+    },
+    {
+      "name": "Bavarian Views - Puu Lio Falls",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of the BMW 3.0 CSL in front of the Puu Lio Falls near the Iao Lake at dusk"
+    },
+    {
+      "name": "Bavarian Feats - Hana",
+      "type": "Speedstrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 230.0 km/h"
+    },
+    {
+      "name": "Bavarian Feats - Honokahua",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 1010m"
+    },
+    {
+      "name": "Bavarian Feats - Waikiki Canal",
+      "type": "Long Jump",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Jump a distance of 200 m"
+    },
+    {
+      "name": "Bavarian Feats - Wahiawa Mountain",
+      "type": "Long Jump",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Jump a distance of 300 m"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Racing",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
+  ]
+}

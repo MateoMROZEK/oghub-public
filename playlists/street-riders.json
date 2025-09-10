@@ -1,0 +1,462 @@
+{
+  "playlist": {
+    "name": "Street Riders",
+    "slug": "street-riders",
+    "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/street-riders.webp",
+    "themes": [1, 6],
+    "icon": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/icons/no-item.jpg",
+    "isLegagy": false,
+    "release": "01/11/2025",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Monkeys' Cruising",
+      "description": "Drive 10km in Freedrive",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M2 (2023)"
+      }
+    },
+    {
+      "name": "Monkeys' Sprint",
+      "description": "Drive from KIHEI (Maui) to KAHULUI (Maui) to HONOLULU (Oahu) in less than 10mins",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M3 (2000)"
+      }
+    },
+    {
+      "name": "Monkeys' Mastery",
+      "description": "Drive from KIHEI (Maui) to KAHULUI without collisions in freedrive",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M3 (2000)"
+      }
+    },
+    {
+      "name": "Monkeys' Stroll",
+      "description": "Drive from KIHEI (Maui) to HONOLULU (Oahu) without using nitro in freedrive",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M3 (2000)"
+      }
+    },
+    {
+      "name": "Monkeys' Streets",
+      "description": "Score 1500 XP PTS by performing TRICKS in KIHEI, KAHULUI (Maui) or HONOLULU (Oahu) in FREEDRIVE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M2 Beehive Ed. (2017)"
+      }
+    },
+    {
+      "name": "Monkeys' Speed",
+      "description": "Drive above 150 km/h for 30sec STRAIGHT in KIHEI, KAHULUI (Maui) or HONOLULU (Oahu)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M2 Beehive Ed. (2017)"
+      }
+    },
+    {
+      "name": "Monkeys' Feats",
+      "description": "Complete 10 differents feats",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M2 (2023)"
+      }
+    },
+    {
+      "name": "Monkeys' Kitchen",
+      "description": "Perform 3 donut in The Monkeys' kitchen (Maui) in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M3 (2000)"
+      }
+    },
+    {
+      "name": "Monkeys' Nitro",
+      "description": "Empty your ENTIRE NITRO GAUGE 10 TIMES in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M3 (2000)"
+      }
+    },
+    {
+      "name": "Monkeys' Rival",
+      "description": "Reach 350 km/h during a RACE AGAINST A RIVAL",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M2 (2023)"
+      }
+    },
+    {
+      "name": "Monkeys' Strategy",
+      "description": "Spend 30sec in SLIPSTREAM in the event SUBURBS INVASION",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M2 Beehive Ed. (2017)"
+      }
+    },
+    {
+      "name": "Monkeys' Cheat Skill",
+      "description": "Empty your entire nitro gauge 5 times in the event FREE KIHEI",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M2 (2023)"
+      }
+    },
+    {
+      "name": "Monkeys' Attitude",
+      "description": "Win the event FREE KAHULUI with the dirty driving modifier active",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M2 (2023)"
+      }
+    },
+    {
+      "name": "Monkeys' Legacy",
+      "description": "Finish 8 Mainstage Legacy events",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      }
+    },
+    {
+      "name": "Monkeys' Airlines",
+      "description": "Perform 3 jump and win the event FREE HONOLULU",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M2 (2023)"
+      }
+    },
+    {
+      "name": "Monkeys' Swimming",
+      "description": "Perform 10 NEAR MISS in the event STREET CONNECTION",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M3 (2000)"
+      }
+    },
+    {
+      "name": "Monkeys' Liberty",
+      "description": "Drive for 1min in 1st position in the event PEAK Performance (Liberty Walk)",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M2 Beehive Ed. (2017)"
+      }
+    },
+    {
+      "name": "Monkeys' Muscle",
+      "description": "Win the event DETROIT FINISHER (American Muscle)",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M2 (2023)"
+      }
+    },
+    {
+      "name": "Monkeys' Scenic Tour",
+      "description": "Accumulate 30sec drifting in the event ART OF HONOLULU (Hawaii Scenic Tour)",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M2 Beehive Ed. (2017)"
+      }
+    },
+    {
+      "name": "Monkeys' Summit",
+      "description": "Finish 9 summit activity",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      }
+    },
+    {
+      "name": "Monkeys' Racer",
+      "description": "Reach SILVER RANK during the current GRAND RACE SEASON",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      }
+    },
+    {
+      "name": "Monkeys' Jewel",
+      "description": "Register a STREET TIER 2 VEHICLE to the CUSTOM SHOW with a LIVERY",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      }
+    },
+    {
+      "name": "Monkeys' Custom",
+      "description": "Modify the STANCE of the VEHICLE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M2 (2023)"
+      }
+    },
+    {
+      "name": "Monkeys' Style",
+      "description": "Equip 4 DIFFERENT VANITIES",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "BMW",
+        "model": "M2 (2023)"
+      }
+    },
+    {
+      "name": "Monkeys' Art",
+      "description": "Find all MONKEYS KITCHEN GRAFFITIS",
+      "rewards": {
+        "xp": 20000,
+        "bucks": 20000
+      },
+      "requirement": {
+        "item": 1
+      }
+    }
+  ],
+  "races": [
+    {
+      "name": "Street Food",
+      "type": "Race",
+      "defaultCar": "M3",
+      "category": "Street Tier 1",
+      "xp": 12000,
+      "bucks": 22500,
+      "duration": "0"
+    },
+    {
+      "name": "Downtown Disorder",
+      "type": "Race",
+      "defaultCar": "M3",
+      "category": "Street Tier 1",
+      "xp": 9000,
+      "bucks": 16875,
+      "duration": "0"
+    },
+    {
+      "name": "Suburbs Invasion",
+      "type": "Race",
+      "defaultCar": "M3",
+      "category": "Street Tier 1",
+      "xp": 9000,
+      "bucks": 16875,
+      "duration": "0"
+    },
+    {
+      "name": "Free Kihei",
+      "type": "Free Race",
+      "defaultCar": "M3",
+      "category": "Street Tier 1",
+      "xp": 9000,
+      "bucks": 16875,
+      "duration": "0"
+    },
+    {
+      "name": "Street Connection",
+      "type": "Street Versus",
+      "defaultCar": "M3",
+      "category": "Street Tier 1",
+      "xp": 8000,
+      "bucks": 15000,
+      "duration": "0"
+    },
+    {
+      "name": "Pineapple Pandemonium",
+      "type": "Race",
+      "defaultCar": "M3",
+      "category": "Street Tier 1",
+      "xp": 10000,
+      "bucks": 18750,
+      "duration": "0"
+    },
+    {
+      "name": "Free Honolulu",
+      "type": "Free Race",
+      "defaultCar": "M3",
+      "category": "Street Tier 1",
+      "xp": 9000,
+      "bucks": 16875,
+      "duration": "0"
+    }
+  ],
+  "rewardRaces": ["BMW M2"],
+  "activities": [
+    {
+      "name": "Monkeys' Feats - Pukalani",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 180.0km/h"
+    },
+    {
+      "name": "Monkeys' Views - Kahului Mural",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Street Tier 2 car in front of the yellow Dogs and Cats mural in Kahului in the Afternoon"
+    },
+    {
+      "name": "Monkeys' Feats - Pu'unianiau",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 7280 PTS"
+    },
+    {
+      "name": "Monkeys' Views - Monkeys' Kitchen",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of your own BMW M3 E46 on the lifting platform next to one or more of the vehicles being repaired in the Monkeys' Kitchen workshop"
+    },
+    {
+      "name": "Monkeys' Feats - Kalului Canal",
+      "type": "Long Jump",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Jump a distance of 200 m"
+    },
+    {
+      "name": "Monkeys' Feats - Auwahi",
+      "type": "Long Jump",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Jump a distance of 210 m"
+    },
+    {
+      "name": "Monkeys' Feats - Mauna Pele",
+      "type": "Long Jump",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Jump a distance of 210 m"
+    },
+    {
+      "name": "Monkeys' Feats - East Haleiwa",
+      "type": "Long Jump",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Jump a distance of 250 m"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Racing",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
+  ]
+}
