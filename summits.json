@@ -1,6 +1,121 @@
 {
   "2025-09": [
     {
+      "url": "audi-selection",
+      "events": [
+        {
+          "name": "Four Rings of Speed",
+          "activitie": "Germany: Audi",
+          "restriction": "Audi R 8 LMS GT2 [Loan]",
+          "recommendedCar": "Audi R 8 LMS GT2",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Reshaping Mobility",
+          "activitie": "Jackson V8",
+          "restriction": "Audi Street T1",
+          "recommendedCar": "Audi Street T1",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Escape Everyday Life",
+          "activitie": "911 Challenge",
+          "restriction": "Audi RS 7 Sportback",
+          "recommendedCar": "Audi RS 7 Sportback",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Progress Through Tech",
+          "activitie": "M4 of a Kind",
+          "restriction": "Audi Street T2",
+          "recommendedCar": "Audi Street T2",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Build to Lead",
+          "activitie": "Dynamic Race",
+          "restriction": "Audi RS 5 Coupé",
+          "recommendedCar": "Audi RS 5 Coupé",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Designed for Performance",
+          "activitie": "Moto Rush",
+          "restriction": "Audi RS 3 Sportback",
+          "recommendedCar": "Audi RS 3 Sportback",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Aerobatics",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        },
+        {
+          "name": "Skill",
+          "activitie": "Long Jump",
+          "restriction": "Audi RS7 Sportback",
+          "recommendedCar": "Audi RS7 Sportback",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Bullseye",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 4,
+          "name": "Sweater : Porsche AHEAD",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "motorfest-2nd-year",
       "events": [
         {

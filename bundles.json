@@ -5,6 +5,47 @@
       "bundles": [
         {
           "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3JWpXRq1Pl9S8YD8wWEgmr/24e004d483307f83783b1d017f907aa3/03_WEEK_12_AUDI_MOTORFEST_SELECTION_16x9.jpg",
+          "crewcredits": "137,920",
+          "bucks": "965,440",
+          "rewards": [
+            {
+              "name": "Audi RS 7 Sportback (2022) - Street Car"
+            },
+            {
+              "name": "Audi RS 5 Coupé (2018) - Street Car"
+            },
+            {
+              "name": "Audi RS 3 Sportback (2022) - Street Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4Zuc5on7KHPC882z3Wad3T/c89c77e041b7f33c95cbd42a46e5073c/04_W12_CUSTOM_BUNDLE_AUDI_MOTORFEST_SELECTION.jpg",
+          "crewcredits": "70,000",
+          "rewards": [
+            {
+              "name": "Audi RS 6 Avant (2021) - Street Car"
+            },
+            {
+              "name": "Purple Smoke"
+            },
+            {
+              "name": "Purple Web Tire"
+            },
+            {
+              "name": "Dark Violet Nitro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "motorfest-2nd-year",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
           "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3ws9DKozEqC8NMh9qi9tvs/5da8a2fec4b8ba500fe921111a9a9256/03_TCM_S07_2ND_ANNIVERSARY_FREE_VEHICLE.jpg",
           "crewcredits": "0",
           "bucks": "FREE",
