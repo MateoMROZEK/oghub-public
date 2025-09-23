@@ -1,7 +1,42 @@
 {
   "2025-09": [
     {
-      "url": "motorfest-2nd-year",
+      "url": "autogeist",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1ICTec8tIuR0nZMGJA93dj/f97c30662291e859803b10cbb4af3e92/03_WEEK_13_AUTOGEIST_MAIN_STAGE_BUNDLE.jpg",
+          "crewcredits": "320,400",
+          "bucks": "2,242,800",
+          "rewards": [
+            {
+              "name": "Mercedes-AMG One (2022) - Hypercar"
+            },
+            {
+              "name": "Porsche 919 Street (2017) - Hypercar"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6q81kZ1N6D5RAsR6WDq7sQ/8cb2a9d8a94eecfd6c9ea779fe100eb0/04_W13_CUSTOM_BUNDLE_AUTOGEIST.jpg",
+          "crewcredits": "273,000",
+          "rewards": [
+            {
+              "name": "Apollo Project EVO (2021) - Hypercar"
+            },
+            {
+              "name": "Red Lightning Smoke"
+            },
+            {
+              "name": "Earthbreaker Nitro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "audi-selection",
       "bundles": [
         {
           "name": "Main Stage Bundle",
