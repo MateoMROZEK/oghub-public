@@ -481,7 +481,8 @@
       "category": "Hypercar",
       "xp": 9000,
       "bucks": 16875,
-      "release": "24/09/2025"
+      "release": "24/09/2025",
+      "duration": "152.407"
     },
     {
       "name": "Great Britain: Triumph",
@@ -630,10 +631,24 @@
       "text": "Take a picture of a German car in front of Kahoma Falls"
     },
     {
-      "name": "Luxury Feats - SOON",
-      "type": "SOON",
-      "xp": 0,
-      "bucks": 0,
+      "name": "Luxury Views - Honokahua",
+      "type": "Photo Ops",
+      "xp": 1600,
+      "bucks": 30000,
+      "text": "Take a picture of a German car on the suspension bridge in Honikahua"
+    },
+    {
+      "name": "Luxury Views - SOON",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture ..."
+    },
+    {
+      "name": "Luxury Views - SOON",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
       "text": "SOON"
     },
     {
@@ -644,10 +659,10 @@
       "text": "Take a picture ..."
     },
     {
-      "name": "Luxury Feats - SOON",
-      "type": "SOON",
-      "xp": 0,
-      "bucks": 0,
+      "name": "Luxury Views - SOON",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
       "text": "SOON"
     },
     {
