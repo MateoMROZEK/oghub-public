@@ -1,4 +1,135 @@
 {
+  "2025-10": [
+    {
+      "name": "October Program",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "xpNeed": 201600,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "15 Legends Points",
+          "level": "2",
+          "xpNeed": 302400,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+        },
+        {
+          "name": "N/A",
+          "level": "3",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/underglows/yellow-stripes.webp"
+        },
+        {
+          "name": "RARE Title",
+          "level": "4",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/rare-title.webp"
+        },
+        {
+          "name": "TVR Griffith Peppermint Ed. (2017)",
+          "level": "10",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/tvr/griffith-peppermint-ed.webp"
+        },
+        {
+          "name": "300,000 Bucks",
+          "level": "20",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+        },
+        {
+          "name": "EPIC Title",
+          "level": "50",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/epic-title.webp"
+        }
+      ],
+      "technologies": [
+        {
+          "blue": [
+            {
+              "name": "N/A",
+              "level": "1",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "N/A",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "N/A",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "N/A",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            }
+          ],
+          "orange": [
+            {
+              "name": "N/A",
+              "level": "1",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "N/A",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "N/A",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "N/A",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            }
+          ],
+          "green": [
+            {
+              "name": "N/A",
+              "level": "1",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "N/A",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "N/A",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "N/A",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025-09": [
     {
       "name": "September Program",
@@ -132,7 +263,7 @@
   ],
   "2025-08": [
     {
-      "name": "Asso del volante",
+      "name": "August Program",
       "rewardsLevels": [
         {
           "name": "+10% XP",
