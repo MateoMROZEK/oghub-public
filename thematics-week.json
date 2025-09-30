@@ -3,36 +3,36 @@
     {
       "startDate": "29/09/2025 05:00:00",
       "endDate": "05/11/2025 05:00:00",
-      "name": "Autogeist",
-      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-09/autogeist.webp",
-      "url": "autogeist",
+      "name": "Haunting Fest",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-10/hauting-fest.webp",
+      "url": "haunting-fest",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
     },
     {
       "startDate": "22/09/2025 05:00:00",
       "endDate": "29/10/2025 05:00:00",
-      "name": "Autogeist",
-      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-09/autogeist.webp",
-      "url": "autogeist",
+      "name": "Crown Jewels",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-10/crown-jewels.webp",
+      "url": "crown-jewels",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
     },
     {
       "startDate": "15/10/2025 05:00:00",
       "endDate": "22/10/2025 05:00:00",
-      "name": "Audi Selection",
-      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-09/audi_selection.webp",
-      "url": "audi-selection",
+      "name": "Lotus Selection",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-10/lotus_selection.webp",
+      "url": "lotus-selection",
       "modifiersSummit": "",
-      "modifiersCustomShow": "Audi"
+      "modifiersCustomShow": ""
     },
     {
       "startDate": "08/09/2025 05:00:00",
       "endDate": "15/10/2025 05:00:00",
-      "name": "Motorfest 2nd Year",
-      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-09/2nd_year_update.webp",
-      "url": "motorfest-2nd-year",
+      "name": "Spy Thriller - On mùotorfest's Secret Service",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-10/spy-thriller.webp",
+      "url": "spy-thriller-on-motofests-secret-service",
       "modifiersSummit": "",
       "modifiersCustomShow": ""
     },
@@ -40,7 +40,7 @@
       "startDate": "01/10/2025 05:00:00",
       "endDate": "08/10/2025 05:00:00",
       "name": "Pole Position - Powored by GP Explorer",
-      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-09/pole-position.webp",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-10/pole-position.webp",
       "url": "pole-position-powored-by-gp-explorer",
       "modifiersSummit": "",
       "modifiersCustomShow": "AGP"
