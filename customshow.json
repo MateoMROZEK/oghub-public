@@ -1,5 +1,5 @@
 {
-  "2025-09": [
+  "2025-10": [
     {
       "url": "pole-position-powored-by-gp-explorer",
       "rewards": [
@@ -24,7 +24,9 @@
           "type": "rank"
         }
       ]
-    },
+    }
+  ],
+  "2025-09": [
     {
       "url": "autogeist",
       "rewards": [
@@ -45,7 +47,7 @@
         },
         {
           "rankName": "Platinum",
-          "name": "",
+          "name": "Neo Tokyo Smoke - Rare",
           "type": "rank"
         }
       ]
@@ -70,7 +72,7 @@
         },
         {
           "rankName": "Platinum",
-          "name": "",
+          "name": "Green Jet Nitro - Rare",
           "type": "rank"
         }
       ]
@@ -95,7 +97,7 @@
         },
         {
           "rankName": "Platinum",
-          "name": "",
+          "name": "Firework Nitro - Rare",
           "type": "rank"
         }
       ]
