@@ -1,4 +1,38 @@
 {
+  "2025-10": [
+    {
+      "url": "pole-position-powored-by-gp-explorer",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/e93Nj3f7OQuYixycM7DCh/d4b560887a5d661b924eb5b1ae2da63d/Ivory-Tower_AGP_R-07_GP_Explorer_Edition_950x540.jpg",
+          "crewcredits": "0",
+          "bucks": "0",
+          "rewards": [
+            {
+              "name": "Ivory Tower IVT AGP R-07 GP Explorer Ed. (2023) - Alpha GP"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6sXh52z69OaSjzr1g2bqEw/39a1f93b4ec971c4de7777a8e4f3cc9c/03_W14_CUSTOM_BUNDLE_GPE.jpg",
+          "crewcredits": "66,500",
+          "rewards": [
+            {
+              "name": "Mini John Cooper Works GP (2020) - Street Car"
+            },
+            {
+              "name": "Raging Blast Nitro"
+            },
+            {
+              "name": "Red Underglow"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025-09": [
     {
       "url": "autogeist",

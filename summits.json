@@ -1,4 +1,116 @@
 {
+  "2025-10": [
+    {
+      "url": "pole-position-powored-by-gp-explorer",
+      "events": [
+        {
+          "name": "Becoming an Explorer",
+          "activitie": "Speed War",
+          "restriction": "IVT AGP R-07 GP Explorer Edition [Loan]",
+          "recommendedCar": "IVT AGP R-07 GP Explorer Edition",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "A Dream Worth Exploring",
+          "activitie": "Alpha Grand Prix Finale",
+          "restriction": "IVT AGP R-07 GP Explorer Edition [Loan]",
+          "recommendedCar": "IVT AGP R-07 GP Explorer Edition",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Exploring Your Vocation",
+          "activitie": "Ho'Lau'Lea",
+          "restriction": "IVT AGP R-07 GP Explorer Edition [Loan]",
+          "recommendedCar": "IVT AGP R-07 GP Explorer Edition",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Exploring Victory",
+          "activitie": "Act 6: Alpha Rising",
+          "restriction": "IVT AGP R-07 GP Explorer Edition [Loan]",
+          "recommendedCar": "IVT AGP R-07 GP Explorer Edition",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "A City to Explore",
+          "activitie": "911 GP",
+          "restriction": "IVT AGP R-07 GP Explorer Edition [Loan]",
+          "recommendedCar": "IVT AGP R-07 GP Explorer Edition",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Explore the Champion Within",
+          "activitie": "Act 5: Acura Derby",
+          "restriction": "IVT AGP R-07 GP Explorer Edition [Loan]",
+          "recommendedCar": "IVT AGP R-07 GP Explorer Edition",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "AGP",
+          "recommendedCar": "AGP",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "AGP",
+          "recommendedCar": "AGP",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "AGP",
+          "recommendedCar": "AGP",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    }
+  ],
   "2025-09": [
     {
       "url": "autogeist",
@@ -71,11 +183,6 @@
         {
           "eventsNeed": 3,
           "name": "10,000 Consumables",
-          "type": "completion"
-        },
-        {
-          "eventsNeed": 4,
-          "name": "Sweater : Porsche AHEAD",
           "type": "completion"
         },
         {
@@ -189,11 +296,6 @@
           "type": "completion"
         },
         {
-          "eventsNeed": 4,
-          "name": "Sweater : Porsche AHEAD",
-          "type": "completion"
-        },
-        {
           "eventsNeed": 6,
           "name": "Legendary random parts 2 pieces",
           "type": "completion"
@@ -301,11 +403,6 @@
         {
           "eventsNeed": 3,
           "name": "10,000 Consumables",
-          "type": "completion"
-        },
-        {
-          "eventsNeed": 4,
-          "name": "Sweater : Porsche AHEAD",
           "type": "completion"
         },
         {

@@ -1,4 +1,59 @@
 {
+  "2025-10": [
+    {
+      "url": "pole-position-powored-by-gp-explorer",
+      "vanities": [
+        {
+          "name": "Retro Starting Grid Horn",
+          "image": "",
+          "price": "5,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Lightspeed Smoke",
+          "image": "",
+          "price": "90,000",
+          "rarety": "Legendary"
+        },
+        {
+          "name": "Outer Red Tire",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Spear Racing Nitro",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Gold Line Smoke",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Turn It Up Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Spruemeister",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Checkered Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        }
+      ]
+    }
+  ],
   "2025-09": [
     {
       "url": "autogeist",
