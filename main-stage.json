@@ -16,10 +16,10 @@
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
         },
         {
-          "name": "N/A",
+          "name": "Green Mist Glow - Rare",
           "level": "3",
           "xpNeed": 100800,
-          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/underglows/yellow-stripes.webp"
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/underglows/green-mist.webp"
         },
         {
           "name": "RARE Title",
@@ -50,25 +50,25 @@
         {
           "blue": [
             {
-              "name": "N/A",
+              "name": "+5%",
               "level": "1",
               "xpNeed": 36000,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
-              "name": "N/A",
+              "name": "5 Legends Point",
               "level": "2",
               "xpNeed": 50400,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
-              "name": "N/A",
+              "name": "300 P Tickets",
               "level": "3",
               "xpNeed": 151200,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
             },
             {
-              "name": "N/A",
+              "name": "Glasses - Gold Standard",
               "level": "4",
               "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
@@ -76,25 +76,25 @@
           ],
           "orange": [
             {
-              "name": "N/A",
+              "name": "+5%",
               "level": "1",
               "xpNeed": 36000,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
-              "name": "N/A",
+              "name": "5 Legends Point",
               "level": "2",
               "xpNeed": 50400,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
-              "name": "N/A",
+              "name": "150,000 Bucks",
               "level": "3",
               "xpNeed": 151200,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
             },
             {
-              "name": "N/A",
+              "name": "Emerald Glasses - Uncommon",
               "level": "4",
               "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
@@ -102,25 +102,25 @@
           ],
           "green": [
             {
-              "name": "N/A",
+              "name": "+5%",
               "level": "1",
               "xpNeed": 36000,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
-              "name": "N/A",
+              "name": "5 Legends Point",
               "level": "2",
               "xpNeed": 50400,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
-              "name": "N/A",
+              "name": "30,000 Details",
               "level": "3",
               "xpNeed": 151200,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
             },
             {
-              "name": "N/A",
+              "name": "Jaguar F-Type SVR Coupe Professional Ed.",
               "level": "4",
               "xpNeed": 252000,
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
