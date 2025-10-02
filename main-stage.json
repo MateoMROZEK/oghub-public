@@ -19,7 +19,7 @@
           "name": "Green Mist Glow - Rare",
           "level": "3",
           "xpNeed": 100800,
-          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/underglows/green-mist.webp"
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/nitros/green-mist.webp"
         },
         {
           "name": "RARE Title",
@@ -71,7 +71,7 @@
               "name": "Glasses - Gold Standard",
               "level": "4",
               "xpNeed": 252000,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/gold-standard-glasses.webp"
             }
           ],
           "orange": [
@@ -97,7 +97,7 @@
               "name": "Emerald Glasses - Uncommon",
               "level": "4",
               "xpNeed": 252000,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/emerald-glasses.webp"
             }
           ],
           "green": [
@@ -123,7 +123,7 @@
               "name": "Jaguar F-Type SVR Coupe Professional Ed.",
               "level": "4",
               "xpNeed": 252000,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/jaguar/f-type-svr-coupe-professional-ed.webp"
             }
           ]
         }
