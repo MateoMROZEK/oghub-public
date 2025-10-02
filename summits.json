@@ -402,7 +402,7 @@
       "rewards": [
         {
           "eventsNeed": 3,
-          "name": "10,000 Consumables",
+          "name": "IVT AGP R-07 GP Explorer Ed.",
           "type": "completion"
         },
         {
@@ -424,19 +424,19 @@
         {
           "eventsNeed": 60000,
           "rankName": "Silver",
-          "name": "100,00 Bucks",
+          "name": "100,000 Bucks",
           "type": "rank"
         },
         {
           "eventsNeed": 30000,
           "rankName": "Gold",
-          "name": "",
+          "name": "50,000 Consumables",
           "type": "rank"
         },
         {
           "eventsNeed": 15000,
           "rankName": "Platinum",
-          "name": "",
+          "name": "Evolution Tire - Rare",
           "type": "rank"
         }
       ],
