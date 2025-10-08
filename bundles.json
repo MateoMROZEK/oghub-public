@@ -1,6 +1,47 @@
 {
   "2025-10": [
     {
+      "url": "spy-thriller-on-motofests-secret-service",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3S7SWN2I0LqiRXW1C9ZqcK/230f008df5d1d23b8f8f50def0e2896c/03_WEEK_15_SPY_THRILLER_.jpg",
+          "crewcredits": "98,160",
+          "bucks": "687,120",
+          "rewards": [
+            {
+              "name": "Triumph Rocket 3 R (2021) - Street Bike"
+            },
+            {
+              "name": "Aston Martin DBS (2022) - Street Car"
+            },
+            {
+              "name": "Land Rover Defender 110 V8 (2022) - Street Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2yMksYcOw6VZzLMSTta9Up/71d6fe13ddfaa3482fdafc446e3efcb9/04_W15_CUSTOM_BUNDLE_SPY_THRILLER.jpg",
+          "crewcredits": "265,300",
+          "rewards": [
+            {
+              "name": "McLaren Senna (2018) - Hypercar"
+            },
+            {
+              "name": "Blue Electricity Nitro"
+            },
+            {
+              "name": "Electric Impact Smoke"
+            },
+            {
+              "name": "Neon Lavender Tire"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "pole-position-powored-by-gp-explorer",
       "bundles": [
         {

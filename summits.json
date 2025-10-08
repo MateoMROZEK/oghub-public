@@ -1,6 +1,116 @@
 {
   "2025-10": [
     {
+      "url": "spy-thriller-on-motofests-secret-service",
+      "events": [
+        {
+          "name": "Tomorrow Never Drives",
+          "activitie": "Scene 8: The Gateway",
+          "restriction": "Triumph Rocket 3 R / Fruascher 1414 Demon / Dassault Aviation Alpha Jet",
+          "recommendedCar": "Triumph Rocket 3 R / Fruascher 1414 Demon / Dassault Aviation Alpha Jet [Loan]",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "The GPS is Dead",
+          "activitie": "Great Britain: Triumph",
+          "restriction": "Aston Martin DBS",
+          "recommendedCar": "Aston Martin DBS",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "No Time to Drive",
+          "activitie": "The Heist",
+          "restriction": "Triumph Rocket 3 R",
+          "recommendedCar": "Triumph Rocket 3 R",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "For Hawaii?",
+          "activitie": "Rivals Chase Cinnamon",
+          "restriction": "Ivory Tower Aezus Stealth Edition [Loan]",
+          "recommendedCar": "Ivory Tower Aezus Stealth Edition",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "I Expect You to Drive",
+          "activitie": "Scene 3: The First Job",
+          "restriction": "Aston Martin DB5 / Triumph [Loan]",
+          "recommendedCar": "Aston Martin DB5 / Triumph",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Drive Another Day",
+          "activitie": "Airtime Advantage",
+          "restriction": "Land Rover Defender 110 V8",
+          "recommendedCar": "Land Rover Defender 110 V8",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Bullseye",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Long Jump",
+          "restriction": "Triumph Rocket 3 R [Loan]",
+          "recommendedCar": "Triumph Rocket 3 R",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Bullseye",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Jaguar D-TYPE",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Silver Blade Tire - Uncommon",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "pole-position-powored-by-gp-explorer",
       "events": [
         {
@@ -70,7 +180,7 @@
       "rewards": [
         {
           "eventsNeed": 3,
-          "name": "10,000 Consumables",
+          "name": "IVT AGP R-07 GP Explorer Ed.",
           "type": "completion"
         },
         {
@@ -98,13 +208,13 @@
         {
           "eventsNeed": 30000,
           "rankName": "Gold",
-          "name": "",
+          "name": "50,000 Consumables",
           "type": "rank"
         },
         {
           "eventsNeed": 15000,
           "rankName": "Platinum",
-          "name": "",
+          "name": "Evolution Tire - Rare",
           "type": "rank"
         }
       ],
