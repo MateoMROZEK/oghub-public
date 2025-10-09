@@ -491,7 +491,8 @@
       "category": "Hypercar",
       "xp": 8000,
       "bucks": 15000,
-      "release": "01/10/2025"
+      "release": "01/10/2025",
+      "duration": "132.125"
     },
     {
       "name": "Great Britain: McLAREN",
@@ -500,7 +501,8 @@
       "category": "Hypercar",
       "xp": 10000,
       "bucks": 18750,
-      "release": "08/10/2025"
+      "release": "08/10/2025",
+      "duration": "179.913"
     },
     {
       "name": "Great Britain: Jaguar",
