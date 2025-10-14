@@ -1,6 +1,41 @@
 {
   "2025-10": [
     {
+      "url": "lotus-selection",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1WetTJCXs066jvDqlxANL8/78902ce7b36321da414f9fcd0143e122/03_WEEK_16_LOTUS_MOTORFEST_SELECTION_960x540.jpgg",
+          "crewcredits": "75,840",
+          "bucks": "530880",
+          "rewards": [
+            {
+              "name": "Lotus Exige S (2013) - Street Car"
+            },
+            {
+              "name": "Lotus Evora GTE (2012) - Street Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2C2n3SBF7vDUWblBRAqbcB/442159175608160f6f69e2d88d33ac6f/04_W16_CUSTOM_BUNDLE_LOTUS_MOTORFEST_SELECTION.jpg",
+          "crewcredits": "284,620",
+          "rewards": [
+            {
+              "name": "Lotus Evija (2022) - Hypercar"
+            },
+            {
+              "name": "Prismatic Gold Underglow"
+            },
+            {
+              "name": "Pure Gold Tire"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "spy-thriller-on-motofests-secret-service",
       "bundles": [
         {
