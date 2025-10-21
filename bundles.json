@@ -1,13 +1,45 @@
 {
   "2025-10": [
     {
+      "url": "crown-jewels",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/W02kXoRoX1YnxFb0nsvx0/71c69d1081b2f776a1f27125bfe381eb/03_MAIN_STAGE_WEEK_17_CROWN_JEWELS_16x9.jpg",
+          "crewcredits": "75,000",
+          "bucks": "525,000",
+          "rewards": [
+            {
+              "name": "Aston Martin Vantage (2024) - Street Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1X1sbeAKcF70u5MV5uOosm/8154cdf0ceae869df64ce559d30a2a07/04_W17_CUSTOM_BUNDLE_CROWN_JEWELS.jpg",
+          "crewcredits": "114,500",
+          "rewards": [
+            {
+              "name": "Aston Martin Vantage (2024) - Street Car"
+            },
+            {
+              "name": "Aurora Borealis Smoke"
+            },
+            {
+              "name": "Green Petals Nitro"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "lotus-selection",
       "bundles": [
         {
           "name": "Main Stage Bundle",
-          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1WetTJCXs066jvDqlxANL8/78902ce7b36321da414f9fcd0143e122/03_WEEK_16_LOTUS_MOTORFEST_SELECTION_960x540.jpgg",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1WetTJCXs066jvDqlxANL8/78902ce7b36321da414f9fcd0143e122/03_WEEK_16_LOTUS_MOTORFEST_SELECTION_960x540.jpg",
           "crewcredits": "75,840",
-          "bucks": "530880",
+          "bucks": "530,880",
           "rewards": [
             {
               "name": "Lotus Exige S (2013) - Street Car"

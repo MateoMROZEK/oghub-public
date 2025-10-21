@@ -1,6 +1,56 @@
 {
   "2025-10": [
     {
+      "url": "haunting-fest",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "100,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "100 P Tickets",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "Halloween Pumpkin Rooftop - Epic",
+          "type": "rank"
+        }
+      ]
+    },
+    {
+      "url": "crown-jewels",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "100,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "100 P Tickets",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "The Engineer Tire - Epic",
+          "type": "rank"
+        }
+      ]
+    },
+    {
       "url": "lotus-selection",
       "rewards": [
         {

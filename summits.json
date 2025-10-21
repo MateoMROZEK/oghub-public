@@ -1,6 +1,226 @@
 {
   "2025-10": [
     {
+      "url": "haunting-fest",
+      "events": [
+        {
+          "name": "St Edward's Car",
+          "activitie": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "The Golden Orb",
+          "activitie": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Cullinan Automobile",
+          "activitie": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "National Gemstones",
+          "activitie": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Imperial State Car",
+          "activitie": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Sovereign's Vantage Point",
+          "activitie": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "",
+          "restriction": "",
+          "recommendedCar": "",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "PROTO HuP ONE Burning Wheels Ed. Dragster Ed.",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Halloween Mood Kit - Uncommon",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
+      "url": "crown-jewels",
+      "events": [
+        {
+          "name": "St Edward's Car",
+          "activitie": "Great Britain: Bentley",
+          "restriction": "Aston Martin Vantage [Loan]",
+          "recommendedCar": "Aston Martin Vantage [Loan]",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "The Golden Orb",
+          "activitie": "Velocita",
+          "restriction": "Bentley Mulliner Bacalar [Loan]",
+          "recommendedCar": "Bentley Mulliner Bacalar [Loan]",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Cullinan Automobile",
+          "activitie": "The Premiere",
+          "restriction": "Jaguar F-Type [Loan]",
+          "recommendedCar": "Jaguar F-Type [Loan]",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "National Gemstones",
+          "activitie": "Designing History",
+          "restriction": "Aston Martin / Bentley / Jaguar ST2",
+          "recommendedCar": "Aston Martin / Bentley / Jaguar ST2",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Imperial State Car",
+          "activitie": "911 Arrival",
+          "restriction": "Aston Martin Vantage",
+          "recommendedCar": "Aston Martin Vantage",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Sovereign's Vantage Point",
+          "activitie": "American Asphalt",
+          "restriction": "Aston Martin Vantage",
+          "recommendedCar": "Aston Martin Vantage",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Escape Asphalt",
+          "restriction": "Aston Martin Vantage [Loan]",
+          "recommendedCar": "Aston Martin Vantage [Loan]",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Slalom Asphalt",
+          "restriction": "Aston Martin Vantage",
+          "recommendedCar": "Aston Martin Vantage",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "Speedtrap",
+          "restriction": "Aston Martin / Bentley / Jaguar ST2",
+          "recommendedCar": "Aston Martin / Bentley / Jaguar ST2",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Noble M500",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "The Engineer Smoke",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "lotus-selection",
       "events": [
         {
