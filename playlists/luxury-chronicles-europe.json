@@ -511,7 +511,8 @@
       "category": "Hypercar",
       "xp": 10000,
       "bucks": 18750,
-      "release": "15/10/2025"
+      "release": "15/10/2025",
+      "duration": "155.340"
     },
     {
       "name": "Great Britain: Bentley",
@@ -520,7 +521,8 @@
       "category": "Hypercar",
       "xp": 9000,
       "bucks": 16875,
-      "release": "22/10/2025"
+      "release": "22/10/2025",
+      "duration": "154.776"
     },
     {
       "name": "Great Britain: Aston Martin",
