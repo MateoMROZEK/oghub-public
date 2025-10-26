@@ -1,0 +1,77 @@
+{
+  "motorfest": {
+    "seasons": [
+      {
+        "id": 8,
+        "startDate": 1762333200,
+        "endDate": 1772701200,
+        "ranks": [
+          {
+            "name": "Bronze",
+            "color": "#94653e",
+            "majorReward": [],
+            "levels": [
+              { "id": 4, "reward": [""], "requiredRP": 100 },
+              { "id": 3, "reward": ["50,000 XP"], "requiredRP": 100 },
+              { "id": 2, "reward": ["100,000 Bucks"], "requiredRP": 100 },
+              { "id": 1, "reward": ["10 Legends Points"], "requiredRP": 100 }
+            ]
+          },
+          {
+            "name": "Silver",
+            "color": "#a5a5a5",
+            "majorReward": ["Exclusive Outfit Street Heritage"],
+            "levels": [
+              {
+                "id": 4,
+                "reward": ["250 Prestige Tickets"],
+                "requiredRP": 100
+              },
+              { "id": 3, "reward": ["110,000 XP"], "requiredRP": 100 },
+              { "id": 2, "reward": ["200,000 Bucks"], "requiredRP": 100 },
+              { "id": 1, "reward": ["20 Legends Points"], "requiredRP": 100 }
+            ]
+          },
+          {
+            "name": "Gold",
+            "color": "#ae7d3f",
+            "majorReward": ["Monoflow X-AERO Carbon Ed."],
+            "levels": [
+              {
+                "id": 4,
+                "reward": ["250 Prestige Tickets"],
+                "requiredRP": 100
+              },
+              { "id": 3, "reward": ["160,000 XP"], "requiredRP": 100 },
+              { "id": 2, "reward": ["300,000 Bucks"], "requiredRP": 100 },
+              { "id": 1, "reward": ["30 Legends Points"], "requiredRP": 100 }
+            ]
+          },
+          {
+            "name": "Platinum",
+            "color": "#004182",
+            "majorReward": ["Exclusive Outfit Prestige"],
+            "levels": [
+              {
+                "id": 4,
+                "reward": ["250 Prestige Tickets"],
+                "requiredRP": 100
+              },
+              { "id": 3, "reward": ["210,000 XP"], "requiredRP": 100 },
+              { "id": 2, "reward": ["400,000 Bucks"], "requiredRP": 100 },
+              { "id": 1, "reward": ["40 Legends Points"], "requiredRP": 100 }
+            ]
+          },
+          {
+            "name": "Legend",
+            "color": "#e0cb21",
+            "majorReward": ["Urban Legend Title"],
+            "levels": [
+              { "id": 1, "reward": ["250 Prestige Tickets"], "requiredRP": 100 }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
