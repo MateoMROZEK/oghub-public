@@ -1,0 +1,104 @@
+{
+  "playlist": {
+    "name": "Reshape The Rules Main Stage Legacy",
+    "slug": "reshape-the-rules",
+    "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/reshape-the-rules.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
+    "themes": [10],
+    "isLegagy": true,
+    "release": "08/10/2025",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete 4 events for get Racing Flags - (Dashboard Car Item)",
+      "rewards": {
+        "car": "Racing Flags (Dashboard Car Item)"
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "Proto Concept Spear Racing"
+      },
+      "requirement": {}
+    }
+  ],
+  "races": [
+    {
+      "name": "Ultimate Race",
+      "type": "Street Versus",
+      "defaultCar": "CHEVROLET - CORVETTE C8.R",
+      "category": "Racing",
+      "xp": 9000,
+      "bucks": 16875,
+      "duration": "190.671"
+    },
+    {
+      "name": "RAID vs CROSS",
+      "type": "Street Versus",
+      "defaultCar": "PROTO - BUGGY",
+      "category": "Rally Raid",
+      "xp": 4000,
+      "bucks": 7500,
+      "duration": "47.280"
+    },
+    {
+      "name": "BRIDGES OF ROBBIE COUNTY",
+      "type": "Outrun",
+      "defaultCar": "450 EXC Robbie Maddison Ed.",
+      "category": "Motocross",
+      "xp": 10000,
+      "bucks": 18750,
+      "duration": "165.117"
+    },
+    {
+      "name": "Riding The Waves",
+      "type": "Race",
+      "defaultCar": "450 EXC Robbie Maddison Ed.",
+      "category": "Motocross",
+      "xp": 12000,
+      "bucks": 22500,
+      "duration": "171.937"
+    },
+    {
+      "name": "Fight Or Flight",
+      "type": "Race",
+      "defaultCar": "Alpha Jet - Red Bull Ed.",
+      "category": "JET",
+      "xp": 8400,
+      "bucks": 15750,
+      "duration": "101.254"
+    },
+    {
+      "name": "On Dangerous Ground",
+      "type": "Race",
+      "defaultCar": "RB18",
+      "category": "Alpha GP",
+      "xp": 7000,
+      "bucks": 13125,
+      "duration": "120.703"
+    },
+    {
+      "name": "Red Sky At Night",
+      "type": "Race",
+      "defaultCar": "Honda",
+      "category": "Street Tier 2",
+      "xp": 10000,
+      "bucks": 18750,
+      "duration": "191.520"
+    },
+    {
+      "name": "Seeing Red",
+      "type": "Race",
+      "defaultCar": "RX7 Red Fury Ed.",
+      "category": "Street Tier 2",
+      "xp": 9000,
+      "bucks": 16875,
+      "duration": "168.091"
+    }
+  ]
+}

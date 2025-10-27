@@ -1,0 +1,105 @@
+{
+  "playlist": {
+    "name": "Break Out Stage Legacy",
+    "slug": "break-out-main-stage",
+    "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/break-out-main-stage.jpg",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
+    "themes": [10],
+    "isLegagy": true,
+    "release": "10/09/2025",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete 4 events for get Motorfest X - (Dashboard Car Item)",
+      "rewards": {
+        "car": "Motorfest X (Dashboard Car Item)"
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "Hummer HX Concept Enforcer Unit"
+      },
+      "requirement": {}
+    }
+  ],
+  "races": [
+    {
+      "name": "Electricx",
+      "type": "Action List",
+      "defaultCar": "RS Q e-tron",
+      "category": "Rally Raid",
+      "xp": 7000,
+      "bucks": 13125,
+      "duration": "87.426"
+    },
+    {
+      "name": "Tricks or Retreat",
+      "type": "Action List",
+      "defaultCar": "FORD - F-150 SVT RAPTOR EVO 2",
+      "category": "Rally Raid",
+      "xp": 8000,
+      "bucks": 15000,
+      "duration": "55.785"
+    },
+    {
+      "name": "A Coastline Expedition",
+      "type": "Outrun",
+      "defaultCar": "WR1",
+      "category": "Powerboat",
+      "xp": 10000,
+      "bucks": 18750,
+      "duration": "174.468"
+    },
+    {
+      "name": "A West Coast Road Trip",
+      "type": "Race",
+      "defaultCar": "JEEP - MOAB Quicksand Concept",
+      "category": "Rally Raid",
+      "xp": 9000,
+      "bucks": 16875,
+      "duration": "172.273"
+    },
+    {
+      "name": "Head For Tall Timber",
+      "type": "Race",
+      "defaultCar": "Peugeot 3008 DKR Maxi",
+      "category": "Rally Raid",
+      "xp": 10000,
+      "bucks": 18750,
+      "duration": "170.160"
+    },
+    {
+      "name": "Get Out Of The Woods",
+      "type": "Navigation",
+      "defaultCar": "Peugeot 205 T16 Evo2",
+      "category": "Rally",
+      "xp": 18000,
+      "bucks": 33750,
+      "duration": "187.686"
+    },
+    {
+      "name": "Duel at The Top",
+      "type": "Chase",
+      "defaultCar": "HuP ONE",
+      "category": "Monster",
+      "xp": 8400,
+      "bucks": 15750,
+      "duration": "999",
+      "points": "2162060"
+    },
+    {
+      "name": "Crater Arena",
+      "type": "Choose Your Ride",
+      "defaultCar": "FORD - F-150 RAPTOR RACE TRUCK RED BULL Ed.",
+      "category": "Monster",
+      "xp": 8000,
+      "bucks": 15000,
+      "duration": "123.647"
+    }
+  ]
+}

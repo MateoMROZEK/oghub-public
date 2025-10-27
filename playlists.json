@@ -406,24 +406,24 @@
     },
     {
       "name": "Beat the Arena Main Stage Legacy",
-      "slug": "beat-the-arrena-main-stage",
+      "slug": "beat-the-arena-main-stage",
       "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/beat-the-arena.webp",
       "themes": [10],
       "isLegagy": true,
       "release": "13/08/2025"
     },
     {
-      "name": "Escape Main Stage Legacy",
-      "slug": "#",
-      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/escape-main-stage.jpg",
+      "name": "Break Out Stage Legacy",
+      "slug": "break-out-main-stage",
+      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/break-out-main-stage.jpg",
       "themes": [10],
       "isLegagy": true,
       "release": "10/09/2025"
     },
     {
-      "name": "Jack of all Trades Main Stage Legacy",
-      "slug": "#",
-      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/jack-of-all-trades.jpg",
+      "name": "Reshape The Rules Main Stage Legacy",
+      "slug": "reshape-the-rules",
+      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/reshape-the-rules.jpg",
       "themes": [10],
       "isLegagy": true,
       "release": "08/10/2025"
