@@ -1,6 +1,59 @@
 {
   "2025-10": [
     {
+      "url": "haunting-fest",
+      "vanities": [
+        {
+          "name": "Yellow Spotlight Rooftop",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Jack-o-lantern Smoke",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Green Segment Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Green Band Tire",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Devil Horns Rooftop",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Red Blizzard Smoke",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Pink Nitro",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Aesthetic Underglow",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Epic"
+        }
+      ]
+    },
+    {
       "url": "crown-jewels",
       "vanities": [
         {
