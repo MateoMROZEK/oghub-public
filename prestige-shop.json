@@ -244,5 +244,154 @@
         }
       ]
     }
+  ],
+  "season05": [
+    {
+      "cars": [
+        {
+          "brand": "BUGATTI",
+          "model": "Barchetta",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "6630"
+        },
+        {
+          "brand": "...",
+          "model": "...",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "6120"
+        },
+        {
+          "brand": "LOTUS",
+          "model": "...",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "5610"
+        },
+        {
+          "brand": "CREATORS",
+          "model": "...",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "5100"
+        }
+      ],
+      "vanities": [
+        {
+          "name": "Fire VS Lightning Underglow",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1605"
+        },
+        {
+          "name": "Swift Curve Nitro",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1750"
+        },
+        {
+          "name": "Ocean Smoke",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1750"
+        },
+        {
+          "name": "Pitstop Pressure Tire",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1605"
+        },
+        {
+          "name": "Blue Glow Tint",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1750"
+        },
+        {
+          "name": "Red Glow Tint",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1750"
+        },
+        {
+          "name": "Snowman Rooftop",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1750"
+        },
+        {
+          "name": "Red Snake Rooftop",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1605"
+        },
+        {
+          "name": "Brut Engineering",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1895"
+        }
+      ]
+    }
+  ],
+  "season06": [
+    {
+      "cars": [
+        {
+          "brand": "Mazda",
+          "model": "RX-7",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "4375"
+        },
+        {
+          "brand": "FORD",
+          "model": "Puma Red Bull Ed.",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "3500"
+        },
+        {
+          "brand": "...",
+          "model": "Red Bull Ed.",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "2625"
+        },
+        {
+          "brand": "Ford",
+          "model": "F-150 Red Bull Ed.",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "2405"
+        }
+      ],
+      "vanities": [
+        {
+          "name": "Motorfest X Underglow",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1460"
+        },
+        {
+          "name": "Color Rage Nitro",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1605"
+        },
+        {
+          "name": "Red Fury Nitro",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1605"
+        },
+        {
+          "name": "Laurel Tire",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1605"
+        },
+        {
+          "name": "Flashing Yohmhoy Tire",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1605"
+        },
+        {
+          "name": "Bold Rooftop",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1750"
+        },
+        {
+          "name": "IL4 TURBO BULL ENGINE",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1895"
+        },
+        {
+          "name": "Monster Rock Kit",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1895"
+        }
+      ]
+    }
   ]
 }
