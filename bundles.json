@@ -5,7 +5,7 @@
       "bundles": [
         {
           "name": "Main Stage Bundle",
-          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2htSiPyinMLW9hlOBSvBxe/dc24fdd0866f525c68dfaf677d313b3d/02_TCM_CUSTOM_SHOW_W01_MONKEYS_KITCHEN_.jpg",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6HsHX6Q5m15WToqG2GDA1f/067ec18cfae6e975efe452aa1af17891/03_CUSTOM_BUNDLE_W1_MONKEYS-KITCHEN_TAKEOVER.jpg",
           "crewcredits": "139,760",
           "rewards": [
             {
@@ -38,6 +38,9 @@
             },
             {
               "name": "Blinking White Underglow"
+            },
+            {
+              "name": "Official : Style 2 (Rims)"
             }
           ]
         }

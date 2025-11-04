@@ -1,4 +1,135 @@
 {
+  "2025-11": [
+    {
+      "name": "November Program",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "xpNeed": 201600,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "20 Legends Points",
+          "level": "2",
+          "xpNeed": 302400,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+        },
+        {
+          "name": "MK Heat Nitro - Epic",
+          "level": "3",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/vanities/nitros/mk-heat.webp"
+        },
+        {
+          "name": "300,000 Bucks",
+          "level": "4",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+        },
+        {
+          "name": "MAZDA RX-7 Turbo Outline Ed.",
+          "level": "10",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/mazda/rx-7-turbo-outline-ed.webp"
+        },
+        {
+          "name": "300 P Tickets",
+          "level": "20",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "50",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ],
+      "technologies": [
+        {
+          "blue": [
+            {
+              "name": "+5%",
+              "level": "1",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "10 Legends Point",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "300 P Tickets",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
+            },
+            {
+              "name": "Hoodie: Monkey's Kitchen Dusk Edition",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/hoodie-monkeys-kitchen-dusk-ed.webp"
+            }
+          ],
+          "orange": [
+            {
+              "name": "50,000 Bucks",
+              "level": "3",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+            },
+            {
+              "name": "+10%",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "15 Legends Point",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "Ivory-Tower : Velocium Y-5H Carbon Ed.",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/other/ivory-tower-velocium-y-5h-carbon-ed.webp"
+            }
+          ],
+          "green": [
+            {
+              "name": "5 Legends Point",
+              "level": "1",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "20,000 Consumables",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "+15%",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "Nissan 300ZX (Z32) Malu Ed.",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/brands/nissan/300zx-z32-malu-edition.webp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025-10": [
     {
       "name": "October Program",
