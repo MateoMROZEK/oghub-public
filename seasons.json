@@ -16,7 +16,7 @@
     {
       "id": 8,
       "name": "BMW",
-      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/8.webp?version=preRelease",
+      "banner": "https://i.oghub.fr/thecrew/motorfest/seasons/8.webp",
       "startDate": "2025-11",
       "endDate": "2026-02",
       "playlists": ["street-riders", "bmw"],
