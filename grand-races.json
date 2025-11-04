@@ -17,10 +17,12 @@
     ["Wahiawa Fields", "Hypercar > ST2 > Racing", "Main Stage", "OLD"],
     ["Kula", "ST1 > Rally > Racing", "", "OLD"],
     ["Coming Soon", "", "", ""],
-    ["Coming Soon", "", "", ""],
-    ["Coming Soon", "", "", ""],
-    ["Coming Soon", "", "", ""],
-    ["Coming Soon", "", "", ""]
+    ["Kula", "ST2 > Racing > Hypercar", "", "OLD"],
+    ["Diamond Head", "Hypercar > Rally > Racing", "", "OLD"],
+    ["Mauna Pele", "ST2 > Racing > Hypercar", "Main Stage", "OLD"],
+    ["Kaena Point", "AGP > Rally > RR", "", "OLD"],
+    ["Hana", "Racing > ST2 > Hypercar", "", "OLD"],
+    ["Mauna Pele", "Monster > Racing > AGP", "No Collision", "OLD"]
   ],
   "SATURDAY__ROTATION": [
     ["Pearl Harbor", "Racing > ST2 > Racxing", "Ferrari & No Collision", "NEW"],
