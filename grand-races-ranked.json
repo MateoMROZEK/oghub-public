@@ -11,7 +11,7 @@
             "color": "#94653e",
             "majorReward": [],
             "levels": [
-              { "id": 4, "reward": [""], "requiredRP": 100 },
+              { "id": 4, "reward": [""], "requiredRP": 50 },
               { "id": 3, "reward": ["50,000 XP"], "requiredRP": 100 },
               { "id": 2, "reward": ["100,000 Bucks"], "requiredRP": 100 },
               { "id": 1, "reward": ["10 Legends Points"], "requiredRP": 100 }
