@@ -1,4 +1,116 @@
 {
+  "2025-11": [
+    {
+      "url": "monkeys-kitchen-takeover",
+      "events": [
+        {
+          "name": "Welcome to Monkeyfest",
+          "activitie": "Race - No Modifier",
+          "restriction": "BMW M3 E46 [Loan]",
+          "recommendedCar": "BMW M3 E46 [Loan]",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Free Lunch",
+          "activitie": "Beam Race - No Modifier",
+          "restriction": "BMW M2 Beehive Edition [Loan]",
+          "recommendedCar": "BMW M2 Beehive Edition [Loan]",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Street Stew",
+          "activitie": "Race - No Modifier",
+          "restriction": "BMW Street Tier 1 Car [Loan]",
+          "recommendedCar": "BMW Street Tier 1 Car [Loan]",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Racing For Freedom",
+          "activitie": "Beam Race - No Modifier",
+          "restriction": "BMW Street Tier 2 Car",
+          "recommendedCar": "BMW Street Tier 2 Car",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Too Many Cooks",
+          "activitie": "Race - No Modifier",
+          "restriction": "BMW M3 E46",
+          "recommendedCar": "BMW M3 E46",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Free As A Monkey",
+          "activitie": "Beam Race - No Modifier",
+          "restriction": "BMW M2 Beehive Edition",
+          "recommendedCar": "BMW M2 Beehive Edition",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "",
+          "restriction": "BMW M3 E46",
+          "recommendedCar": "BMW M3 E46",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "",
+          "restriction": "BMW Street Tier 1 Car",
+          "recommendedCar": "BMW Street Tier 1 Car",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Skill",
+          "activitie": "",
+          "restriction": "BMW M2 Beehive Edition",
+          "recommendedCar": "BMW M2 Beehive Edition",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "N/A",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "N/A",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    }
+  ],
   "2025-10": [
     {
       "url": "haunting-fest",

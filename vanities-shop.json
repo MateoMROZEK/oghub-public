@@ -1,4 +1,59 @@
 {
+  "2025-11": [
+    {
+      "url": "monkeys-kitchen-takeover",
+      "vanities": [
+        {
+          "name": "No Rules Lightbar Rooftop",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Pink Edge Tire",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Magenta Lightning Smoke",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Halloween Blast Nitro",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Deep Blue Sideblade Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Blue Smoke",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Blue Chemical Nitro",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Blinking Orange Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        }
+      ]
+    }
+  ],
   "2025-10": [
     {
       "url": "haunting-fest",

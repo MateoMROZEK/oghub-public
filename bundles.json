@@ -1,4 +1,49 @@
 {
+  "2025-11": [
+    {
+      "url": "monkeys-kitchen-takeover",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2htSiPyinMLW9hlOBSvBxe/dc24fdd0866f525c68dfaf677d313b3d/02_TCM_CUSTOM_SHOW_W01_MONKEYS_KITCHEN_.jpg",
+          "crewcredits": "139,760",
+          "rewards": [
+            {
+              "name": "Porsche 718 Spyder (2021) - Street Car"
+            },
+            {
+              "name": "Gold Rush Nitro"
+            },
+            {
+              "name": "Gold Rush Smoke"
+            },
+            {
+              "name": "Golden Stripes Tire"
+            },
+            {
+              "name": "Branded Rims - BBS"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6HsHX6Q5m15WToqG2GDA1f/067ec18cfae6e975efe452aa1af17891/03_CUSTOM_BUNDLE_W1_MONKEYS-KITCHEN_TAKEOVER.jpg",
+          "crewcredits": "53,000",
+          "rewards": [
+            {
+              "name": "Nissan 350Z Roadster (2004) - Street Car"
+            },
+            {
+              "name": "Low Poly Grey Smoke"
+            },
+            {
+              "name": "Blinking White Underglow"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025-10": [
     {
       "url": "haunting-fest",
