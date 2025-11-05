@@ -24,7 +24,7 @@
     ["Waikiki", "ST1 > Hypercar > RR", "No Collision", "OLD"],
     ["Kula", "ST2 > Racing > Hypercar", "", "OLD"],
     ["Diamond Head", "Hypercar > Rally > Racing", "", "OLD"],
-    ["Mauna Pele", "ST2 > Racing > Hypercar", "Main Stage", "OLD"]
+    ["Kealaloloa", "ST1 > Rally > ST2", "Main Stage", "OLD"]
   ],
   "SATURDAY__ROTATION": [
     ["Kaena Point", "AGP > Rally > RR", "No Collision", "OLD"],
@@ -49,6 +49,6 @@
     ["Waikiki", "ST1 > Hypercar > RR", "No Collision", "OLD"],
     ["Kula", "ST2 > Racing > Hypercar", "No Collision", "OLD"],
     ["Diamond Head", "Hypercar > Rally > Racing", "No Collision", "OLD"],
-    ["Mauna Pele", "ST2 > Racing > Hypercar", "No Collision", "OLD"]
+    ["Kealaloloa", "ST1 > Rally > ST2", "No Collision", "OLD"]
   ]
 }
