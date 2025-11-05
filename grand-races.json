@@ -12,7 +12,7 @@
     ["Kalaeloa", "Rally > RR > Motocross", "No Collision", "OLD"],
     ["Kahakuloa", "Racing > AGP > Hypercar", "", "OLD"],
     ["Kaneohe", "Rally > ST2 > Racing", "", "OLD"],
-    ["Lahaina", "ST1 > Racing > Hypercar", "Special Weather", "OLD"],
+    ["Lahaina", "ST2 > ST1 > ST2", "Main Stage", "OLD"],
     ["Peacock Flats", "AGP > Rally Raid > ST2", "", "OLD"],
     ["Kealaloloa", "Racing > Hypercar > AGP", "", "OLD"],
     ["Wahiawa Fields", "Hypercar > ST2 > Racing", "Main Stage", "OLD"],
