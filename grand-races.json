@@ -18,10 +18,10 @@
     ["Kalaeloa", "Rally > RR > Drift", "No collision", "OLD"],
     ["Kula", "ST1 > Rally > Racing", "", "OLD"],
     ["Nuuanu - Punchbowl", "Monster > RR > Motocross", "", "OLD"],
-    ["Paia", "ST1 > ST2 > ST1", "Special Weather", "NEW"],
+    ["Paia", "ST1 > ST2 > ST1", "Main Stage", "NEW"],
     ["Wahiawa Fields", "AGP > Racing > Rally", "", "OLD"],
     ["Diamond Head", "Hypercar > ST2 > AGP", "", "OLD"],
-    ["Coming Soon", "", "", ""],
+    ["Waikiki", "ST1 > Hypercar > RR", "No Collision", "OLD"],
     ["Kula", "ST2 > Racing > Hypercar", "", "OLD"],
     ["Diamond Head", "Hypercar > Rally > Racing", "", "OLD"],
     ["Mauna Pele", "ST2 > Racing > Hypercar", "Main Stage", "OLD"]
