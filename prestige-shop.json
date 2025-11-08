@@ -250,25 +250,25 @@
       "cars": [
         {
           "brand": "BUGATTI",
-          "model": "Barchetta",
+          "model": "Veyron Barchetta Velvet Ed.",
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
           "price": "6630"
         },
         {
-          "brand": "...",
-          "model": "...",
+          "brand": "Noble",
+          "model": "M600 Lunar Edition",
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
           "price": "6120"
         },
         {
-          "brand": "LOTUS",
-          "model": "...",
+          "brand": "Rimac",
+          "model": "NEVERA Time Attack Ed.",
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
           "price": "5610"
         },
         {
           "brand": "CREATORS",
-          "model": "...",
+          "model": "K.S. Death Racer Edition",
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
           "price": "5100"
         }
@@ -327,7 +327,7 @@
       "cars": [
         {
           "brand": "Mazda",
-          "model": "RX-7",
+          "model": "RX7 Red Fury Ed.",
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
           "price": "4375"
         },
@@ -338,8 +338,8 @@
           "price": "3500"
         },
         {
-          "brand": "...",
-          "model": "Red Bull Ed.",
+          "brand": "Extra Aerobatic Planes Extra",
+          "model": "330 SC Red Bull Ed.",
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
           "price": "2625"
         },
