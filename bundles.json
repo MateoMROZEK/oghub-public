@@ -5,6 +5,40 @@
       "bundles": [
         {
           "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5h9rJVFKQ1Mkk7WsH3eUy6/137d77ba6fdd84cc8cb1081e403a75fe/03_WEEK_02_MERCEDES_MOTORFEST_SELECTION.jpg",
+          "crewcredits": "92,225",
+          "rewards": [
+            {
+              "name": "Mercedes-AMG GT 63 Coupe [Loan] (2023) - Street Car"
+            },
+            {
+              "name": "Mercedes SL63AMG (2021) - Street Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/15i6dGITDMD6Bm5yLZ51eC/980cec9e2cb92bacc2fbdbd3976088d7/04_M1_W2_MERCEDES_MOTORFEST_SELECTION.jpg",
+          "crewcredits": "231,000",
+          "rewards": [
+            {
+              "name": "Mercedes-AMG One (2022) - Hypercar"
+            },
+            {
+              "name": "Dark Red Nitro"
+            },
+            {
+              "name": "Prismatic Red Smoke"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "monkeys-kitchen-takeover",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
           "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6HsHX6Q5m15WToqG2GDA1f/067ec18cfae6e975efe452aa1af17891/03_CUSTOM_BUNDLE_W1_MONKEYS-KITCHEN_TAKEOVER.jpg",
           "crewcredits": "139,760",
           "rewards": [

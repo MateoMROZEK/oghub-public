@@ -1,6 +1,59 @@
 {
   "2025-11": [
     {
+      "url": "mercedes-selection",
+      "vanities": [
+        {
+          "name": "Golden Smoke",
+          "image": "",
+          "price": 70000,
+          "rarety": "Epic"
+        },
+        {
+          "name": "Striped Squadx Tire",
+          "image": "",
+          "price": 10000,
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Japanese Nitro",
+          "image": "",
+          "price": 25000,
+          "rarety": "Rare"
+        },
+        {
+          "name": "Red Roffo Tire",
+          "image": "",
+          "price": 10000,
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Synthwave Red Underglow",
+          "image": "",
+          "price": 40000,
+          "rarety": "Epic"
+        },
+        {
+          "name": "Prismatic Green Underglow",
+          "image": "",
+          "price": 70000,
+          "rarety": "Epic"
+        },
+        {
+          "name": "Green Smoke",
+          "image": "",
+          "price": 25000,
+          "rarety": "Rare"
+        },
+        {
+          "name": "Neon Green Tire",
+          "image": "",
+          "price": 40000,
+          "rarety": "Epic"
+        }
+      ]
+    },
+    {
       "url": "monkeys-kitchen-takeover",
       "vanities": [
         {

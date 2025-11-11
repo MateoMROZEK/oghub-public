@@ -1,6 +1,116 @@
 {
   "2025-11": [
     {
+      "url": "mercedes-selection",
+      "events": [
+        {
+          "name": "The Rising Star",
+          "activitie": "Chasing the Future",
+          "restriction": "Mercedes-AMG GT 63 Coupe [Loan]",
+          "recommendedCar": "Mercedes-AMG GT 63 Coupe [Loan]",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "A Star is Reborn",
+          "activitie": "Stayin'Ahead",
+          "restriction": "Mercedes SL63AMG 2022 [Loan]",
+          "recommendedCar": "Mercedes SL63AMG 2022 [Loan]",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Written in the Stars",
+          "activitie": "Powering Through",
+          "restriction": "Mercedes-AMG Street T2",
+          "recommendedCar": "Mercedes-AMG Street T2",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Under a Lucky Star",
+          "activitie": "Shinjuku Style",
+          "restriction": "Mercedes-AMG GT 63 Coupe",
+          "recommendedCar": "Mercedes-AMG GT 63 Coupe",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "When the Stars Align",
+          "activitie": "Skyline Juku",
+          "restriction": "Mercedes SL63AMG_2022",
+          "recommendedCar": "Mercedes SL63AMG_2022",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Aim for the Star",
+          "activitie": "Scotto Vs Scotto",
+          "restriction": "Mercedes-AMG Street T2",
+          "recommendedCar": "Mercedes-AMG Street T2",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Slalom",
+          "activitie": "",
+          "restriction": "Mercedes-AMG GT 63_Coupe",
+          "recommendedCar": "Mercedes-AMG GT 63_Coupe",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Speedtrap",
+          "activitie": "",
+          "restriction": "Mercedes-AMG Street T2",
+          "recommendedCar": "Mercedes-AMG Street T2",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        },
+        {
+          "name": "Long Jump",
+          "activitie": "",
+          "restriction": "Mercedes SL63AMG 2022",
+          "recommendedCar": "Mercedes SL63AMG 2022",
+          "metaURL": "https://www.oghub.fr/en/pro-settings/"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,00 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "N/A",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "N/A",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "monkeys-kitchen-takeover",
       "events": [
         {
