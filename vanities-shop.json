@@ -31,7 +31,7 @@
           "name": "Synthwave Red Underglow",
           "image": "",
           "price": 40000,
-          "rarety": "Epic"
+          "rarety": "Rare"
         },
         {
           "name": "Prismatic Green Underglow",
@@ -43,7 +43,7 @@
           "name": "Green Smoke",
           "image": "",
           "price": 25000,
-          "rarety": "Rare"
+          "rarety": "Uncommon"
         },
         {
           "name": "Neon Green Tire",
@@ -84,13 +84,13 @@
           "name": "Deep Blue Sideblade Underglow",
           "image": "",
           "price": "25,000",
-          "rarety": "Rare"
+          "rarety": "Uncommon"
         },
         {
           "name": "Blue Smoke",
           "image": "",
           "price": "25,000",
-          "rarety": "Rare"
+          "rarety": "Uncommon"
         },
         {
           "name": "Blue Chemical Nitro",
@@ -102,7 +102,7 @@
           "name": "Blinking Orange Underglow",
           "image": "",
           "price": "25,000",
-          "rarety": "Rare"
+          "rarety": "Uncommon"
         }
       ]
     }

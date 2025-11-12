@@ -70,12 +70,12 @@
       "rewards": [
         {
           "eventsNeed": 3,
-          "name": "10,000 Consumables",
+          "name": "10 Legendary Points",
           "type": "completion"
         },
         {
           "eventsNeed": 6,
-          "name": "Legendary random parts 2 pieces",
+          "name": "10,000 Consumables",
           "type": "completion"
         },
         {
@@ -86,25 +86,25 @@
         {
           "eventsNeed": 999999,
           "rankName": "Bronze",
-          "name": "100,000 XP",
+          "name": "50 P Tickets",
           "type": "rank"
         },
         {
           "eventsNeed": 60000,
           "rankName": "Silver",
-          "name": "100,00 Bucks",
+          "name": "100,000 Bucks",
           "type": "rank"
         },
         {
           "eventsNeed": 30000,
           "rankName": "Gold",
-          "name": "N/A",
+          "name": "Mercedes-AMG C63 S Coupé",
           "type": "rank"
         },
         {
           "eventsNeed": 15000,
           "rankName": "Platinum",
-          "name": "N/A",
+          "name": "Silver Star Tire - Rare",
           "type": "rank"
         }
       ],
@@ -180,12 +180,12 @@
       "rewards": [
         {
           "eventsNeed": 3,
-          "name": "10,000 Consumables",
+          "name": "10 Legendary Points",
           "type": "completion"
         },
         {
           "eventsNeed": 6,
-          "name": "Legendary random parts 2 pieces",
+          "name": "10,000 Consumables",
           "type": "completion"
         },
         {
@@ -202,19 +202,19 @@
         {
           "eventsNeed": 60000,
           "rankName": "Silver",
-          "name": "100,00 Bucks",
+          "name": "100 P Tickets",
           "type": "rank"
         },
         {
           "eventsNeed": 30000,
           "rankName": "Gold",
-          "name": "N/A",
+          "name": "BMW Z4 M40i",
           "type": "rank"
         },
         {
           "eventsNeed": 15000,
           "rankName": "Platinum",
-          "name": "N/A",
+          "name": "MK Tire - Epic",
           "type": "rank"
         }
       ],

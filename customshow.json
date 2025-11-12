@@ -1,5 +1,56 @@
 {
-  "2025-11": [],
+  "2025-11": [
+    {
+      "url": "monkeys-kitchen-takeover",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "100,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "100 P Tickets",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "Pulse Performance Nitro - Rare",
+          "type": "rank"
+        }
+      ]
+    },
+    {
+      "url": "monkeys-kitchen-takeover",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "100,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "100 P Tickets",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "MK Artsy Smoke",
+          "type": "rank"
+        }
+      ]
+    }
+  ],
   "2025-10": [
     {
       "url": "haunting-fest",
