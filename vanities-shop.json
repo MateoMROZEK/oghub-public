@@ -6,49 +6,49 @@
         {
           "name": "Golden Smoke",
           "image": "",
-          "price": 70000,
+          "price": "70000",
           "rarety": "Epic"
         },
         {
           "name": "Striped Squadx Tire",
           "image": "",
-          "price": 10000,
+          "price": "10000",
           "rarety": "Uncommon"
         },
         {
           "name": "Japanese Nitro",
           "image": "",
-          "price": 25000,
+          "price": "25000",
           "rarety": "Rare"
         },
         {
           "name": "Red Roffo Tire",
           "image": "",
-          "price": 10000,
+          "price": "10000",
           "rarety": "Uncommon"
         },
         {
           "name": "Synthwave Red Underglow",
           "image": "",
-          "price": 40000,
+          "price": "40000",
           "rarety": "Rare"
         },
         {
           "name": "Prismatic Green Underglow",
           "image": "",
-          "price": 70000,
+          "price": "70000",
           "rarety": "Epic"
         },
         {
           "name": "Green Smoke",
           "image": "",
-          "price": 25000,
+          "price": "25000",
           "rarety": "Uncommon"
         },
         {
           "name": "Neon Green Tire",
           "image": "",
-          "price": 40000,
+          "price": "40000",
           "rarety": "Epic"
         }
       ]
