@@ -2,7 +2,25 @@
   "motorfest": [
     {
       "season": 8,
-      "date": "2025-11-01",
+      "date": "2025-11-13",
+      "addElements": [],
+      "changesElements": ["Fix Ranked Crashs & more"]
+    },
+    {
+      "season": 8,
+      "date": "2025-11-08",
+      "addElements": [],
+      "changesElements": ["Fix freeze PS4/PS5"]
+    },
+    {
+      "season": 8,
+      "date": "2025-11-07",
+      "addElements": [],
+      "changesElements": ["Reset Ranked level"]
+    },
+    {
+      "season": 8,
+      "date": "2025-11-05",
       "addElements": [
         "2 Playlists",
         "HQ for the Street Riders playlist",
