@@ -1,6 +1,40 @@
 {
   "2025-11": [
     {
+      "url": "stand-out",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7tI2dTTZYbzAUFheuU6qTX/a02bf9a49cc657a9b615f2ffd120091f/04_CUSTOM_BUNDLE_W3_STAND_OUT-2.jpg",
+          "crewcredits": "60,000",
+          "rewards": [
+            {
+              "name": "1 Vehicle to unlock all Summit activities"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7tI2dTTZYbzAUFheuU6qTX/a02bf9a49cc657a9b615f2ffd120091f/04_CUSTOM_BUNDLE_W3_STAND_OUT-2.jpg",
+          "crewcredits": "165,750",
+          "rewards": [
+            {
+              "name": "BMW M3 CS (2023) - Street Car"
+            },
+            {
+              "name": "Yellow Inferno Nitro"
+            },
+            {
+              "name": "Yellow Lightning Smoke"
+            },
+            {
+              "name": "Yellow Underglow"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "mercedes-selection",
       "bundles": [
         {

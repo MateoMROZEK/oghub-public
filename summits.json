@@ -1,6 +1,98 @@
 {
   "2025-11": [
     {
+      "url": "stand-out",
+      "events": [
+        {
+          "name": "Street Artists Versus",
+          "activitie": "Street Connection",
+          "restriction": "BMW M3 CS [Loan]"
+        },
+        {
+          "name": "The Noble Custom Art",
+          "activitie": "Kanjo Style",
+          "restriction": "BMW M3 CS [Loan]"
+        },
+        {
+          "name": "Riders of the Lost Art",
+          "activitie": "Ride Wit' Us",
+          "restriction": "BMW M3 CS [Loan]"
+        },
+        {
+          "name": "This Car is your Canvas",
+          "activitie": "R U Still Low?",
+          "restriction": "BMW M3 CS"
+        },
+        {
+          "name": "Express Yourself",
+          "activitie": "Donks, Don't Kill my Vibe",
+          "restriction": "BMW M3 CS"
+        },
+        {
+          "name": "Find your Art",
+          "activitie": "Street Code",
+          "restriction": "BMW M3 CS"
+        },
+        {
+          "name": "Slalom",
+          "activitie": "",
+          "restriction": "BMW Cars"
+        },
+        {
+          "name": "Slalom",
+          "activitie": "",
+          "restriction": "BMW Street T2"
+        },
+        {
+          "name": "Slalom",
+          "activitie": "",
+          "restriction": "BMW M3 CS"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10 Legendary Points",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "50,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "20,000 Details",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "BMW M3 Erlkönig Ed.",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Yellow Veins Tire - Rare",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "mercedes-selection",
       "events": [
         {

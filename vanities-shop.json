@@ -1,6 +1,59 @@
 {
   "2025-11": [
     {
+      "url": "stand-out",
+      "vanities": [
+        {
+          "name": "Paint Splash Underglow",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Paint Splash Tire",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Paint Splash Smoke",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epîc"
+        },
+        {
+          "name": "Hyper Chase Nitro",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Pink Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Green Edge Tire",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Multi-Color Smoke",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Neon Blue Tire",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Epic"
+        }
+      ]
+    },
+    {
       "url": "mercedes-selection",
       "vanities": [
         {
