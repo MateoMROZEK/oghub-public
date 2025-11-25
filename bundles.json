@@ -1,6 +1,50 @@
 {
   "2025-11": [
     {
+      "url": "no-guts-no-glory",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6PWAVq6bdcp5kAniAr0zk0/3890fa29977d0f6e5cf89b394d1e3135/05_WEEK_04_NGNG.jpg",
+          "crewcredits": "318,320",
+          "bucks": "2,228,240",
+          "rewards": [
+            {
+              "name": "Liberty-Walk McLaren 720S Spider (2019) - Hypercar"
+            },
+            {
+              "name": "BMW M5 CS (2022) - Street Car"
+            },
+            {
+              "name": "Porsche 911 GT (993) (1996) - Street Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6tEZYchYylOwmUJjok6Gfn/d177ff00b07b2e87baccbce569afb3b5/06_CUSTOM_BUNDLE_W4_NO_GUTS_NO_GLORY.jpg",
+          "crewcredits": "234,360",
+          "rewards": [
+            {
+              "name": "McLaren 765LT (2020) - Hypercar"
+            },
+            {
+              "name": "Magenta Lightning Smoke"
+            },
+            {
+              "name": "Dark Violet Nitro"
+            },
+            {
+              "name": "Purple Segment Underglow"
+            },
+            {
+              "name": "Black Window Tint"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "stand-out",
       "bundles": [
         {

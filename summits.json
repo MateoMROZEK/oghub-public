@@ -1,6 +1,98 @@
 {
   "2025-11": [
     {
+      "url": "no-guts-no-glory",
+      "events": [
+        {
+          "name": "Beat us without Guidance!",
+          "activitie": "Going for more",
+          "restriction": "Liberty-Walk McLaren 720S Spider [Loan]"
+        },
+        {
+          "name": "Beat us without Nitro!",
+          "activitie": "Airtime Advantage",
+          "restriction": "BMW M5 CS [Loan]"
+        },
+        {
+          "name": "Beat us without Map!",
+          "activitie": "Low' don't Dance no mo'",
+          "restriction": "Porsche 911 GT (993) [Loan]"
+        },
+        {
+          "name": "Beat us in Cockpit View!",
+          "activitie": "Act 7: 24H of Hanauma",
+          "restriction": "Liberty-Walk McLaren 720S Spider"
+        },
+        {
+          "name": "Beat us without ESP!",
+          "activitie": "Kyusha Spirit",
+          "restriction": "BMW M5 CS"
+        },
+        {
+          "name": "Beat us in Sequential!",
+          "activitie": "Achieving Immortality",
+          "restriction": "Porsche 911 GT (993)"
+        },
+        {
+          "name": "Escape",
+          "activitie": "",
+          "restriction": "McLaren Hypercar"
+        },
+        {
+          "name": "Slalom",
+          "activitie": "",
+          "restriction": "BMW M5 CS"
+        },
+        {
+          "name": "Speedtrap",
+          "activitie": "",
+          "restriction": "Porsche ST 2"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10 Legendary Points",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "5x Legendary Perf Part Street",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Light Blue Window Tint - Uncommon",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "BMW M4 CSL",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "stand-out",
       "events": [
         {

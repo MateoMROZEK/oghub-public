@@ -1,6 +1,59 @@
 {
   "2025-11": [
     {
+      "url": "no-guts-no-glory",
+      "vanities": [
+        {
+          "name": "Space Kid Underglow",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Solar Flare Nitro",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Orange Lightning Smoke",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Red Prismatic Tire",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Sport Evolution Tire",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Patriotic Lines Underglow",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Modern Light Bar Rooftop",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "French Touch Smoke",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        }
+      ]
+    },
+    {
       "url": "stand-out",
       "vanities": [
         {
