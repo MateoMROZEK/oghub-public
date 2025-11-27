@@ -13,7 +13,7 @@
           "name": "Solar Flare Nitro",
           "image": "",
           "price": "40,000",
-          "rarety": "Rare"
+          "rarety": "Epic"
         },
         {
           "name": "Orange Lightning Smoke",
@@ -25,13 +25,13 @@
           "name": "Red Prismatic Tire",
           "image": "",
           "price": "40,000",
-          "rarety": "Rare"
+          "rarety": "Epic"
         },
         {
           "name": "Sport Evolution Tire",
           "image": "",
           "price": "25,000",
-          "rarety": "Uncommon"
+          "rarety": "Rare"
         },
         {
           "name": "Patriotic Lines Underglow",
