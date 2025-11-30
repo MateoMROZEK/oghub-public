@@ -79,7 +79,7 @@
     {
       "name_en": "Air Outtake",
       "name_fr": "Air Outtake",
-      "max": 0,
+      "max": 21,
       "unit": "%",
       "about_en": ""
     },
@@ -88,7 +88,8 @@
       "name_fr": "Frénétique",
       "max": 0,
       "unit": "%",
-      "about_en": ""
+      "about_en": "Nitro power increases as it is used.",
+      "about_fr": "La puissance nitro augmente a mesure qu'elle est utilisée"
     },
     {
       "name_en": "Goldfinger",
