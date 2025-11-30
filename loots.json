@@ -42,46 +42,51 @@
     },
     {
       "name_en": "Trailer",
-      "name_fr": "Trailer",
-      "max": 0,
+      "name_fr": "Remorque",
+      "max": 70.0,
       "unit": "%",
-      "about_en": ""
+      "about_en": "increases speed when you are in front of another vehicle",
+      "about_fr": "Augmente la vitesse lorsque vous etes devant un autre véhicule"
     },
     {
       "name_en": "Legend",
       "name_fr": "Legend",
-      "max": 0,
+      "max": 28.0,
       "unit": "%",
       "about_en": "Augmente votre gain d’XP",
       "about_fr": "Increases your XP gain"
     },
     {
       "name_en": "Drifty",
-      "name_fr": "Drifty",
-      "max": 0,
+      "name_fr": "Drift+",
+      "max": 14.0,
       "unit": "%",
-      "about_en": ""
+      "about_en": "The Nitro recharges during drifts.",
+      "about_fr": "La nitro se recharge pendant les drifts"
     },
     {
       "name_en": "Collector",
       "name_fr": "Collectionneur",
-      "max": 0,
+      "max": 56.0,
       "unit": "%",
-      "about_en": ""
+      "about_en": "increases the frequency of treasure appearances",
+      "about_fr": "Augmente la fréquence d'apparition des tresors"
     },
     {
       "name_en": "Clean Driver",
-      "name_fr": "Conduite irréprochable",
-      "max": 0,
+      "name_fr": "Pilote irréprochable",
+      "max": 21.0,
       "unit": "%",
-      "about_en": ""
+      "about_en": "Reduces the loss of BUCKS from the flawless driving modifier",
+      "about_fr": "Réduit la perte de BUCKS du modificateur de conduite irréprochable"
     },
     {
       "name_en": "Air Outtake",
-      "name_fr": "Air Outtake",
-      "max": 21,
+      "name_fr": "Aspirateur",
+      "max": 42.0,
       "unit": "%",
-      "about_en": ""
+      "about_en": "Increases the suction distance",
+      "about_fr": "Augmente la distance de l'aspiration"
     },
     {
       "name_en": "Frenetic",
@@ -93,38 +98,43 @@
     },
     {
       "name_en": "Goldfinger",
-      "name_fr": "Chanceux",
-      "max": 0,
+      "name_fr": "Goldfinger",
+      "max": 42.0,
       "unit": "%",
-      "about_en": ""
+      "about_en": "Increases the rate at which loot appears",
+      "about_fr": "Augmente le taux d'apparition du loot"
     },
     {
       "name_en": "Resourceful",
-      "name_fr": "Resourceful",
-      "max": 0,
+      "name_fr": "Débrouillard",
+      "max": 14.0,
       "unit": "%",
-      "about_en": ""
+      "about_en": "Nitro recharges during braking",
+      "about_fr": "La nitro se recharge pendant le freinage"
     },
     {
       "name_en": "Treasure Hunt",
-      "name_fr": "Treasure Hunt",
-      "max": 0,
+      "name_fr": "Chasse au trésor",
+      "max": 70.0,
       "unit": "%",
-      "about_en": ""
+      "about_en": "Increases the range of the radar, allowing treasures to be detected",
+      "about_fr": "Augmente la portée du radar permettant de détecter les trésors"
     },
     {
       "name_en": "Ventilated",
-      "name_fr": "Ventilated",
-      "max": 0,
+      "name_fr": "Hyperventilation",
+      "max": 14.0,
       "unit": "%",
-      "about_en": ""
+      "about_en": "Nitro recharges during a jump",
+      "about_fr": "La nitro se recharge pendant un saut"
     },
     {
       "name_en": "Shifty",
-      "name_fr": "Shifty",
-      "max": 0,
+      "name_fr": "Habile",
+      "max": 70,
       "unit": "%",
-      "about_en": ""
+      "about_en": "increases suction power",
+      "about_fr": "Augmente la puissance de l'aspiration"
     },
     {
       "name_en": "Air Intake",
@@ -135,22 +145,24 @@
     },
     {
       "name_en": "Bended",
-      "name_fr": "Bended",
-      "max": 0,
+      "name_fr": "Penché",
+      "max": 56.0,
       "unit": "%",
-      "about_en": ""
+      "about_en": "Increase the player's lean bonus",
+      "about_fr": "Augmenter le bonus d'inclinaison du joueur"
     },
     {
       "name_en": "Rocket",
       "name_fr": "Rocket",
-      "max": 0,
+      "max": 14.0,
       "unit": "%",
-      "about_en": ""
+      "about_en": "Increases the power of AIR nitro",
+      "about_fr": "Augmente la puissance de la nitro AERIENNE"
     },
     {
       "name_en": "Lucky",
       "name_fr": "Chanceux",
-      "max": 0,
+      "max": 178.5,
       "unit": "%",
       "about_en": "Increases the quality of LOOT",
       "about_fr": "Augmente la qualité du LOOT"
@@ -158,22 +170,23 @@
     {
       "name_en": "Rich",
       "name_fr": "Riche",
-      "max": 0,
+      "max": 21.0,
       "unit": "%",
       "about_en": "Increase your BUCKS earnings",
       "about_fr": "Augmente votre gain de BUCKS"
     },
     {
       "name_en": "Trawler",
-      "name_fr": "Trawler",
-      "max": 0,
+      "name_fr": "Chalutier",
+      "max": 14.0,
       "unit": "%",
-      "about_en": ""
+      "about_en": "Increases speed in WATER for land vehicles",
+      "about_fr": "Augmente la vitesse dans l'EAU pour les véhicules terrestres"
     },
     {
       "name_en": "Extra Impact",
       "name_fr": "Extra Impact",
-      "max": 0,
+      "max": 28.0,
       "unit": "%",
       "about_en": "Increases TRACKING Points",
       "about_fr": "Augmente les POINTS de TRAQUE"
@@ -181,9 +194,18 @@
     {
       "name_en": "Iron Grip",
       "name_fr": "Iron Grip",
-      "max": 0,
+      "max": 42,
       "unit": "%",
-      "about_en": ""
+      "about_en": "Reduces the loss of adhesion of the adhesion loss modifier",
+      "about_fr": "Réduit la perte d'adhérence du modificateur de perte d'adhérence"
+    },
+    {
+      "name_en": "Bulldozer",
+      "name_fr": "Bulldozer",
+      "max": 84.0,
+      "unit": "%",
+      "about_en": "increases the impact force during collisions",
+      "about_fr": "Augmente la force d'impact lors des collisions"
     }
   ],
   "set": [
@@ -191,7 +213,7 @@
       "name_en": "Bucks Magnet",
       "name_fr": "Aimant à Bucks",
       "semi": 7.0,
-      "max": 14.0,
+      "max": 15.0,
       "unit": "%",
       "about_en": ""
     },
@@ -234,6 +256,15 @@
       "max": 100.0,
       "unit": "%",
       "about_en": ""
+    },
+    {
+      "name_en": "Treasure Sniffer",
+      "name_fr": "Chasseur de loot",
+      "semi": 50.0,
+      "max": 100.0,
+      "unit": "%",
+      "about_en": "increases the LOOT earned",
+      "about_fr": "augmente le LOOT gagné"
     }
   ]
 }
