@@ -1,0 +1,238 @@
+{
+  "loots": [
+    {
+      "name_en": "Hothead",
+      "name_fr": "Véloce",
+      "max": 56.0,
+      "unit": "%",
+      "about_en": "Increases the speed multiplier during DRIFT events",
+      "about_fr": "Augmente le multiplicateur de vitesse pendant les epreuves de DRIFT"
+    },
+    {
+      "name_en": "Slippery",
+      "name_fr": "Glissant",
+      "max": 98,
+      "unit": "",
+      "about_en": "Increases the maximum multiplier during DRIFT events",
+      "about_fr": "Augmente le multiplicateur maximum pendant les épreuves de DRIFT"
+    },
+    {
+      "name_en": "Extra Pump",
+      "name_fr": "Ultragonflé",
+      "max": 35,
+      "unit": "%",
+      "about_en": "Increases the regeneration speed of NITRO",
+      "about_fr": "Augmente la vitesse de régénération de la NITRO"
+    },
+    {
+      "name_en": "Pure",
+      "name_fr": "Pur",
+      "max": 35,
+      "unit": "%",
+      "about_en": "Increases the power of NITRO",
+      "about_fr": "Augmente la puissance de la NITRO"
+    },
+    {
+      "name_en": "Skilled",
+      "name_fr": "Surdoué",
+      "max": 70,
+      "unit": "%",
+      "about_en": "Increases the score in all point-based CHALLENGES",
+      "about_fr": "Augmente le score dans tous les DEFIS basés sur des points"
+    },
+    {
+      "name_en": "Trailer",
+      "name_fr": "Trailer",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Legend",
+      "name_fr": "Legend",
+      "max": 0,
+      "unit": "%",
+      "about_en": "Augmente votre gain d’XP",
+      "about_fr": "Increases your XP gain"
+    },
+    {
+      "name_en": "Drifty",
+      "name_fr": "Drifty",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Collector",
+      "name_fr": "Collectionneur",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Clean Driver",
+      "name_fr": "Conduite irréprochable",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Air Outtake",
+      "name_fr": "Air Outtake",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Frenetic",
+      "name_fr": "Frénétique",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Goldfinger",
+      "name_fr": "Chanceux",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Resourceful",
+      "name_fr": "Resourceful",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Treasure Hunt",
+      "name_fr": "Treasure Hunt",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Ventilated",
+      "name_fr": "Ventilated",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Shifty",
+      "name_fr": "Shifty",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Air Intake",
+      "name_fr": "Air Intake",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Bended",
+      "name_fr": "Bended",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Rocket",
+      "name_fr": "Rocket",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Lucky",
+      "name_fr": "Chanceux",
+      "max": 0,
+      "unit": "%",
+      "about_en": "Increases the quality of LOOT",
+      "about_fr": "Augmente la qualité du LOOT"
+    },
+    {
+      "name_en": "Rich",
+      "name_fr": "Riche",
+      "max": 0,
+      "unit": "%",
+      "about_en": "Increase your BUCKS earnings",
+      "about_fr": "Augmente votre gain de BUCKS"
+    },
+    {
+      "name_en": "Trawler",
+      "name_fr": "Trawler",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Extra Impact",
+      "name_fr": "Extra Impact",
+      "max": 0,
+      "unit": "%",
+      "about_en": "Increases TRACKING Points",
+      "about_fr": "Augmente les POINTS de TRAQUE"
+    },
+    {
+      "name_en": "Iron Grip",
+      "name_fr": "Iron Grip",
+      "max": 0,
+      "unit": "%",
+      "about_en": ""
+    }
+  ],
+  "set": [
+    {
+      "name_en": "Bucks Magnet",
+      "name_fr": "Aimant à Bucks",
+      "semi": 7.0,
+      "max": 14.0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Score Breaker",
+      "name_fr": "Pulvérisateur de score",
+      "semi": 50.0,
+      "max": 100.0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "XP Magnet",
+      "name_fr": "Aimant à XP",
+      "semi": 12.0,
+      "max": 25.0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Nitro Chemist",
+      "name_fr": "Chimiste Nitro",
+      "semi": 25.0,
+      "max": 50.0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Loot Digger",
+      "name_fr": "Chasseur de loot",
+      "semi": 50.0,
+      "max": 100.0,
+      "unit": "%",
+      "about_en": ""
+    },
+    {
+      "name_en": "Treasure Sniffer",
+      "name_fr": "Chasseur de trésors",
+      "semi": 50.0,
+      "max": 100.0,
+      "unit": "%",
+      "about_en": ""
+    }
+  ]
+}
