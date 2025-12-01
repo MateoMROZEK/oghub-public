@@ -1,270 +1,328 @@
 {
   "loots": [
     {
-      "name_en": "Hothead",
-      "name_fr": "Véloce",
+      "name": { "en": "Hothead", "fr": "Véloce" },
+      "about": {
+        "en": "Increases the speed multiplier during DRIFT events",
+        "fr": "Augmente le multiplicateur de vitesse pendant les épreuves de DRIFT"
+      },
       "max": 56.0,
       "unit": "%",
-      "about_en": "Increases the speed multiplier during DRIFT events",
-      "about_fr": "Augmente le multiplicateur de vitesse pendant les epreuves de DRIFT"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/hothead.webp"
     },
     {
-      "name_en": "Slippery",
-      "name_fr": "Glissant",
+      "name": { "en": "Slippery", "fr": "Glissant" },
+      "about": {
+        "en": "Increases the maximum multiplier during DRIFT events",
+        "fr": "Augmente le multiplicateur maximum pendant les épreuves de DRIFT"
+      },
       "max": 98,
       "unit": "",
-      "about_en": "Increases the maximum multiplier during DRIFT events",
-      "about_fr": "Augmente le multiplicateur maximum pendant les épreuves de DRIFT"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/slippery.webp"
     },
     {
-      "name_en": "Extra Pump",
-      "name_fr": "Ultragonflé",
+      "name": { "en": "Extra Pump", "fr": "Ultragonflé" },
+      "about": {
+        "en": "Increases the regeneration speed of NITRO",
+        "fr": "Augmente la vitesse de régénération de la NITRO"
+      },
       "max": 35,
       "unit": "%",
-      "about_en": "Increases the regeneration speed of NITRO",
-      "about_fr": "Augmente la vitesse de régénération de la NITRO"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/extra_pump.webp"
     },
     {
-      "name_en": "Pure",
-      "name_fr": "Pur",
+      "name": { "en": "Pure", "fr": "Pur" },
+      "about": {
+        "en": "Increases the power of NITRO",
+        "fr": "Augmente la puissance de la NITRO"
+      },
       "max": 35,
       "unit": "%",
-      "about_en": "Increases the power of NITRO",
-      "about_fr": "Augmente la puissance de la NITRO"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/pure.webp"
     },
     {
-      "name_en": "Skilled",
-      "name_fr": "Surdoué",
+      "name": { "en": "Skilled", "fr": "Surdoué" },
+      "about": {
+        "en": "Increases the score in all point-based CHALLENGES",
+        "fr": "Augmente le score dans tous les défis basés sur des points"
+      },
       "max": 70,
       "unit": "%",
-      "about_en": "Increases the score in all point-based CHALLENGES",
-      "about_fr": "Augmente le score dans tous les DEFIS basés sur des points"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/skilled.webp"
     },
     {
-      "name_en": "Trailer",
-      "name_fr": "Remorque",
+      "name": { "en": "Trailer", "fr": "Remorque" },
+      "about": {
+        "en": "Increases speed when you are in front of another vehicle",
+        "fr": "Augmente la vitesse lorsque vous êtes devant un autre véhicule"
+      },
       "max": 70.0,
       "unit": "%",
-      "about_en": "increases speed when you are in front of another vehicle",
-      "about_fr": "Augmente la vitesse lorsque vous etes devant un autre véhicule"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/trailer.webp"
     },
     {
-      "name_en": "Legend",
-      "name_fr": "Legend",
+      "name": { "en": "Legend", "fr": "Légende" },
+      "about": {
+        "en": "Increases your XP gain",
+        "fr": "Augmente votre gain d’XP"
+      },
       "max": 28.0,
       "unit": "%",
-      "about_en": "Augmente votre gain d’XP",
-      "about_fr": "Increases your XP gain"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/legend.webp"
     },
     {
-      "name_en": "Drifty",
-      "name_fr": "Drift+",
+      "name": { "en": "Drifty", "fr": "Drift+" },
+      "about": {
+        "en": "Nitro recharges during drifts.",
+        "fr": "La nitro se recharge pendant les drifts."
+      },
       "max": 14.0,
       "unit": "%",
-      "about_en": "The Nitro recharges during drifts.",
-      "about_fr": "La nitro se recharge pendant les drifts"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/drifty.webp"
     },
     {
-      "name_en": "Collector",
-      "name_fr": "Collectionneur",
+      "name": { "en": "Collector", "fr": "Collectionneur" },
+      "about": {
+        "en": "Increases the frequency of treasure appearances",
+        "fr": "Augmente la fréquence d'apparition des trésors"
+      },
       "max": 56.0,
       "unit": "%",
-      "about_en": "increases the frequency of treasure appearances",
-      "about_fr": "Augmente la fréquence d'apparition des tresors"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/collector.webp"
     },
     {
-      "name_en": "Clean Driver",
-      "name_fr": "Pilote irréprochable",
+      "name": { "en": "Clean Driver", "fr": "Pilote irréprochable" },
+      "about": {
+        "en": "Reduces the loss of BUCKS from the flawless driving modifier",
+        "fr": "Réduit la perte de BUCKS du modificateur de conduite irréprochable"
+      },
       "max": 21.0,
       "unit": "%",
-      "about_en": "Reduces the loss of BUCKS from the flawless driving modifier",
-      "about_fr": "Réduit la perte de BUCKS du modificateur de conduite irréprochable"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/clean_driver.webp"
     },
     {
-      "name_en": "Air Outtake",
-      "name_fr": "Aspirateur",
+      "name": { "en": "Air Outtake", "fr": "Aspirateur" },
+      "about": {
+        "en": "Increases the suction distance",
+        "fr": "Augmente la distance de l'aspiration"
+      },
       "max": 42.0,
       "unit": "%",
-      "about_en": "Increases the suction distance",
-      "about_fr": "Augmente la distance de l'aspiration"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/air_outtake.webp"
     },
     {
-      "name_en": "Frenetic",
-      "name_fr": "Frénétique",
+      "name": { "en": "Frenetic", "fr": "Frénétique" },
+      "about": {
+        "en": "Nitro power increases as it is used",
+        "fr": "La puissance nitro augmente à mesure qu'elle est utilisée"
+      },
       "max": 0,
       "unit": "%",
-      "about_en": "Nitro power increases as it is used.",
-      "about_fr": "La puissance nitro augmente a mesure qu'elle est utilisée"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/frenetic.webp"
     },
     {
-      "name_en": "Goldfinger",
-      "name_fr": "Goldfinger",
+      "name": { "en": "Goldfinger", "fr": "Goldfinger" },
+      "about": {
+        "en": "Increases the rate at which loot appears",
+        "fr": "Augmente le taux d'apparition du loot"
+      },
       "max": 42.0,
       "unit": "%",
-      "about_en": "Increases the rate at which loot appears",
-      "about_fr": "Augmente le taux d'apparition du loot"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/goldfinger.webp"
     },
     {
-      "name_en": "Resourceful",
-      "name_fr": "Débrouillard",
+      "name": { "en": "Resourceful", "fr": "Débrouillard" },
+      "about": {
+        "en": "Nitro recharges during braking",
+        "fr": "La nitro se recharge pendant le freinage"
+      },
       "max": 14.0,
       "unit": "%",
-      "about_en": "Nitro recharges during braking",
-      "about_fr": "La nitro se recharge pendant le freinage"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/resourceful.webp"
     },
     {
-      "name_en": "Treasure Hunt",
-      "name_fr": "Chasse au trésor",
+      "name": { "en": "Treasure Hunt", "fr": "Chasse au trésor" },
+      "about": {
+        "en": "Increases the range of the radar, allowing treasures to be detected",
+        "fr": "Augmente la portée du radar permettant de détecter les trésors"
+      },
       "max": 70.0,
       "unit": "%",
-      "about_en": "Increases the range of the radar, allowing treasures to be detected",
-      "about_fr": "Augmente la portée du radar permettant de détecter les trésors"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/treasure_hunt.webp"
     },
     {
-      "name_en": "Ventilated",
-      "name_fr": "Hyperventilation",
+      "name": { "en": "Ventilated", "fr": "Hyperventilation" },
+      "about": {
+        "en": "Nitro recharges during a jump",
+        "fr": "La nitro se recharge pendant un saut"
+      },
       "max": 14.0,
       "unit": "%",
-      "about_en": "Nitro recharges during a jump",
-      "about_fr": "La nitro se recharge pendant un saut"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/ventilated.webp"
     },
     {
-      "name_en": "Shifty",
-      "name_fr": "Habile",
+      "name": { "en": "Shifty", "fr": "Habile" },
+      "about": {
+        "en": "Increases suction power",
+        "fr": "Augmente la puissance de l'aspiration"
+      },
       "max": 70,
       "unit": "%",
-      "about_en": "increases suction power",
-      "about_fr": "Augmente la puissance de l'aspiration"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/shifty.webp"
     },
     {
-      "name_en": "Air Intake",
-      "name_fr": "Air Intake",
+      "name": { "en": "Air Intake", "fr": "Expirateur" },
+      "about": {
+        "en": "Increases air flow for better engine performance",
+        "fr": "Augmente le flux d'air pour de meilleures performances moteur"
+      },
       "max": 0,
       "unit": "%",
-      "about_en": ""
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/air_intake.webp"
     },
     {
-      "name_en": "Bended",
-      "name_fr": "Penché",
+      "name": { "en": "Bended", "fr": "Penché" },
+      "about": {
+        "en": "Increase the player's lean bonus",
+        "fr": "Augmente le bonus d'inclinaison du joueur"
+      },
       "max": 56.0,
       "unit": "%",
-      "about_en": "Increase the player's lean bonus",
-      "about_fr": "Augmenter le bonus d'inclinaison du joueur"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/bended.webp"
     },
     {
-      "name_en": "Rocket",
-      "name_fr": "Rocket",
+      "name": { "en": "Rocket", "fr": "Rocket" },
+      "about": {
+        "en": "Increases the power of AIR nitro",
+        "fr": "Augmente la puissance de la nitro aérienne"
+      },
       "max": 14.0,
       "unit": "%",
-      "about_en": "Increases the power of AIR nitro",
-      "about_fr": "Augmente la puissance de la nitro AERIENNE"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/rocket.webp"
     },
     {
-      "name_en": "Lucky",
-      "name_fr": "Chanceux",
+      "name": { "en": "Lucky", "fr": "Chanceux" },
+      "about": {
+        "en": "Increases the quality of LOOT",
+        "fr": "Augmente la qualité du LOOT"
+      },
       "max": 178.5,
       "unit": "%",
-      "about_en": "Increases the quality of LOOT",
-      "about_fr": "Augmente la qualité du LOOT"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/lucky.webp"
     },
     {
-      "name_en": "Rich",
-      "name_fr": "Riche",
+      "name": { "en": "Rich", "fr": "Riche" },
+      "about": {
+        "en": "Increase your BUCKS earnings",
+        "fr": "Augmente votre gain de BUCKS"
+      },
       "max": 21.0,
       "unit": "%",
-      "about_en": "Increase your BUCKS earnings",
-      "about_fr": "Augmente votre gain de BUCKS"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/rich.webp"
     },
     {
-      "name_en": "Trawler",
-      "name_fr": "Chalutier",
+      "name": { "en": "Trawler", "fr": "Chalutier" },
+      "about": {
+        "en": "Increases speed in WATER for land vehicles",
+        "fr": "Augmente la vitesse dans l'eau pour les véhicules terrestres"
+      },
       "max": 14.0,
       "unit": "%",
-      "about_en": "Increases speed in WATER for land vehicles",
-      "about_fr": "Augmente la vitesse dans l'EAU pour les véhicules terrestres"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/trawler.webp"
     },
     {
-      "name_en": "Extra Impact",
-      "name_fr": "Extra Impact",
+      "name": { "en": "Extra Impact", "fr": "Extra Impact" },
+      "about": {
+        "en": "Increases TRACKING Points",
+        "fr": "Augmente les points de traque"
+      },
       "max": 28.0,
       "unit": "%",
-      "about_en": "Increases TRACKING Points",
-      "about_fr": "Augmente les POINTS de TRAQUE"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/extra_impact.webp"
     },
     {
-      "name_en": "Iron Grip",
-      "name_fr": "Iron Grip",
+      "name": { "en": "Iron Grip", "fr": "Main de fer" },
+      "about": {
+        "en": "Reduces the loss of adhesion of the adhesion loss modifier",
+        "fr": "Réduit la perte d'adhérence du modificateur de perte d'adhérence"
+      },
       "max": 42,
       "unit": "%",
-      "about_en": "Reduces the loss of adhesion of the adhesion loss modifier",
-      "about_fr": "Réduit la perte d'adhérence du modificateur de perte d'adhérence"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/iron_grip.webp"
     },
     {
-      "name_en": "Bulldozer",
-      "name_fr": "Bulldozer",
+      "name": { "en": "Bulldozer", "fr": "Bulldozer" },
+      "about": {
+        "en": "Increases the impact force during collisions",
+        "fr": "Augmente la force d'impact lors des collisions"
+      },
       "max": 84.0,
       "unit": "%",
-      "about_en": "increases the impact force during collisions",
-      "about_fr": "Augmente la force d'impact lors des collisions"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/bulldozer.webp"
     }
   ],
   "set": [
     {
-      "name_en": "Bucks Magnet",
-      "name_fr": "Aimant à Bucks",
+      "name": { "en": "Bucks Magnet", "fr": "Aimant à Bucks" },
+      "about": { "en": "", "fr": "" },
       "semi": 7.0,
       "max": 15.0,
       "unit": "%",
-      "about_en": ""
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/bucks_magnet.webp"
     },
     {
-      "name_en": "Score Breaker",
-      "name_fr": "Pulvérisateur de score",
+      "name": { "en": "Score Breaker", "fr": "Pulvérisateur de score" },
+      "about": { "en": "", "fr": "" },
       "semi": 50.0,
       "max": 100.0,
       "unit": "%",
-      "about_en": ""
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/score_breaker.webp"
     },
     {
-      "name_en": "XP Magnet",
-      "name_fr": "Aimant à XP",
+      "name": { "en": "XP Magnet", "fr": "Aimant à XP" },
+      "about": { "en": "", "fr": "" },
       "semi": 12.0,
       "max": 25.0,
       "unit": "%",
-      "about_en": ""
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/xp_magnet.webp"
     },
     {
-      "name_en": "Nitro Chemist",
-      "name_fr": "Chimiste Nitro",
+      "name": { "en": "Nitro Chemist", "fr": "Chimiste Nitro" },
+      "about": { "en": "", "fr": "" },
       "semi": 25.0,
       "max": 50.0,
       "unit": "%",
-      "about_en": ""
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/nitro_chemist.webp"
     },
     {
-      "name_en": "Loot Digger",
-      "name_fr": "Chasseur de loot",
+      "name": { "en": "Loot Digger", "fr": "Chasseur de loot" },
+      "about": { "en": "", "fr": "" },
       "semi": 50.0,
       "max": 100.0,
       "unit": "%",
-      "about_en": ""
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/loot_digger.webp"
     },
     {
-      "name_en": "Treasure Sniffer",
-      "name_fr": "Chasseur de trésors",
+      "name": { "en": "Treasure Sniffer", "fr": "Chasseur de trésors" },
+      "about": {
+        "en": "Increases the LOOT earned",
+        "fr": "Augmente le LOOT gagné"
+      },
       "semi": 50.0,
       "max": 100.0,
       "unit": "%",
-      "about_en": ""
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/treasure_sniffer.webp"
     },
     {
-      "name_en": "Treasure Sniffer",
-      "name_fr": "Chasseur de loot",
-      "semi": 50.0,
-      "max": 100.0,
+      "name": {
+        "en": "Neutralization expert",
+        "fr": "Expert de la neutralisation"
+      },
+      "about": { "en": "", "fr": "" },
+      "semi": 25.0,
+      "max": 50.0,
       "unit": "%",
-      "about_en": "increases the LOOT earned",
-      "about_fr": "augmente le LOOT gagné"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/neutralization_expert.webp"
     }
   ]
 }
