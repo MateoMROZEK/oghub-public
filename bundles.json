@@ -1,4 +1,56 @@
 {
+  "2025-12": [
+    {
+      "url": "neo-tokyo",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7pDeIaLZ1d6YOfYSy1cdJV/3522ee6c2a9d316f22eade46ed3d8f1a/05_WEEK_05_NEO_TOKYO.jpg",
+          "crewcredits": "80,800",
+          "bucks": "565,600",
+          "rewards": [
+            {
+              "name": "Honda NSX (1992) - Street Car"
+            },
+            {
+              "name": "Honda INTEGRA TYPE R (1998) - Street Car"
+            },
+            {
+              "name": "Nissan Fairlady Z 432 (2016) - Street Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6Q9DTK8LahGPAM0HCQCJg/3b217b64e77f7eeb82dbc4ba75815e46/06_CUSTOM_BUNDLE_w5_NEO_TOKYO.jpg",
+          "crewcredits": "121,660",
+          "rewards": [
+            {
+              "name": "Mitsubishi Lancer EVO IX (2006) - Street Car"
+            },
+            {
+              "name": "Mitsubishi Lancer EVO X (2014) - Street Car"
+            },
+            {
+              "name": "Mini John Cooper Works GP"
+            },
+            {
+              "name": "Iridescent Purple Tint"
+            },
+            {
+              "name": "Deep Blue Sideblade Underglow"
+            },
+            {
+              "name": "Cosmic Nitro"
+            },
+            {
+              "name": "Branded Rim - HRE"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025-11": [
     {
       "url": "no-guts-no-glory",

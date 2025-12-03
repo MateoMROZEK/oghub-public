@@ -1,4 +1,98 @@
 {
+  "2025-12": [
+    {
+      "url": "neo-tokyo",
+      "events": [
+        {
+          "name": "Neo-Shibuya",
+          "activitie": "Midnight Magic",
+          "restriction": "Honda NSX [Loan]"
+        },
+        {
+          "name": "Tatsumi Dorifuto",
+          "activitie": "Initial Drill",
+          "restriction": "Mazda RX7 Drift [Loan]"
+        },
+        {
+          "name": "Okutama Neonkaido",
+          "activitie": "Hashiriya Style",
+          "restriction": "Japan Street 1"
+        },
+        {
+          "name": "Akagi Toge Ruto",
+          "activitie": "Legendary X Rivalry",
+          "restriction": "Honda NSX"
+        },
+        {
+          "name": "Shinagawa Rodo",
+          "activitie": "French Dreams",
+          "restriction": "Nissan Fairylady Z 432"
+        },
+        {
+          "name": "Shin-Kiba Rupu",
+          "activitie": "Still GNX",
+          "restriction": "Honda Integra Type R"
+        },
+        {
+          "name": "Slalom",
+          "activitie": "",
+          "restriction": "Japan Street T2"
+        },
+        {
+          "name": "Bulls Eye",
+          "activitie": "",
+          "restriction": "Free"
+        },
+        {
+          "name": "Escape",
+          "activitie": "",
+          "restriction": "Nissan Fairlady Z 432"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10 Legendary Points",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100 P Tickets",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Honda CIVIC Type R",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Outer White Tire",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    }
+  ],
   "2025-11": [
     {
       "url": "no-guts-no-glory",

@@ -1,4 +1,59 @@
 {
+  "2025-12": [
+    {
+      "url": "neo-tokyo",
+      "vanities": [
+        {
+          "name": "Aesthetic Underglow",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Squadx Tire",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Common"
+        },
+        {
+          "name": "Synthwave Shade Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Dense Drift Smoke",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Purple Electricity Nitro",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Neon Rally Tire",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Retro Vibe Tint",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Synthwave Shade Tire",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Common"
+        }
+      ]
+    }
+  ],
   "2025-11": [
     {
       "url": "no-guts-no-glory",

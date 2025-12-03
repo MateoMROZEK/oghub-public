@@ -1,6 +1,135 @@
 {
   "2025-11": [
     {
+      "name": "December Program",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "xpNeed": 201600,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "20 Legends Points",
+          "level": "2",
+          "xpNeed": 302400,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+        },
+        {
+          "name": "Keep IT Natural Charger - Uncommon",
+          "level": "3",
+          "xpNeed": 100800,
+          "image": "https://i.oghub.fr/thecrew/motorfest/cars/0WesZpUENieOSNlUYEhVFJNO.jpg"
+        },
+        {
+          "name": "300,000 Bucks",
+          "level": "4",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+        },
+        {
+          "name": "BMW Z4 M40i Agent Ed.",
+          "level": "10",
+          "xpNeed": 100800,
+          "image": "https://i.oghub.fr/thecrew/motorfest/cars/Photos_dXYxRLHYgN.png"
+        },
+        {
+          "name": "300 P Tickets",
+          "level": "20",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "50",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ],
+      "technologies": [
+        {
+          "blue": [
+            {
+              "name": "10,000 Consumables",
+              "level": "1",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "+10%",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "15 Legend Points",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "Aston Martin V8 Vantage S",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://i.oghub.fr/thecrew/motorfest/cars/5Xi7vUjCp7cD4mFMp7Nj3Ecw.jpg"
+            }
+          ],
+          "orange": [
+            {
+              "name": "15 Legend Points",
+              "level": "1",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "200 P Tickets",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
+            },
+            {
+              "name": "+15ù",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "Beanie: Monkey's Kitchen Dusk Edition",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://i.oghub.fr/thecrew/motorfest/cars/bAniHuycJQF4GzQ26uRpFD1K.jpg"
+            }
+          ],
+          "green": [
+            {
+              "name": "+5%",
+              "level": "1",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "10 Legend Points",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "150,000 Bucks",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+            },
+            {
+              "name": "Ivory-Tower : LUCENTEZZA 5-RX Carbon Ed.",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://i.oghub.fr/thecrew/motorfest/cars/Rcg8shkP5vRYaO0nddO85Nlh.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "November Program",
       "rewardsLevels": [
         {

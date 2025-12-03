@@ -1,4 +1,51 @@
 {
+  "2025-12": [
+    {
+      "startDate": "01/01/2026 05:00:00",
+      "endDate": "07/01/2026 05:00:00",
+      "name": "Midnight Millionaires",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-12/midnight-millionaires.webp",
+      "url": "midnight-millionaires",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "24/12/2025 05:00:00",
+      "endDate": "31/12/2025 05:00:00",
+      "name": "Merry Motorfest",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-12/merry-motorfest.webp",
+      "url": "merry-motorfest",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "17/12/2025 05:00:00",
+      "endDate": "24/12/2025 05:00:00",
+      "name": "Born In The USA",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-12/born-in-the_usa.webp",
+      "url": "born-in-the-usa",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "10/12/2025 05:00:00",
+      "endDate": "17/12/2025 05:00:00",
+      "name": "Euro Prestige",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-12/euro-prestige.webp",
+      "url": "euro-prestige",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "03/12/2025 05:00:00",
+      "endDate": "10/12/2025 05:00:00",
+      "name": "Neo Tokyo",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-12/neo-tokyo.webp",
+      "url": "neo-tokyo",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "Japanese Street T1, Street T2 and Drift"
+    }
+  ],
   "2025-11": [
     {
       "startDate": "26/11/2025 05:00:00",
@@ -6,8 +53,8 @@
       "name": "No Guts No Glory!",
       "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-11/no-guts-no-glory.webp",
       "url": "no-guts-no-glory",
-      "modifiersSummit": "",
-      "modifiersCustomShow": ""
+      "modifiersSummit": "Mix Mods",
+      "modifiersCustomShow": "European Street T2 & Hypercar"
     },
     {
       "startDate": "19/11/2025 05:00:00",
