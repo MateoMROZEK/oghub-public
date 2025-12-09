@@ -1,6 +1,98 @@
 {
   "2025-12": [
     {
+      "url": "euro-prestige",
+      "events": [
+        {
+          "name": "The European Gumball",
+          "activitie": "Return of the \"D\"",
+          "restriction": "Pagani Imola [Loan]"
+        },
+        {
+          "name": "The Chosen Few",
+          "activitie": "\"La\" Ferrari",
+          "restriction": "Ferrari 12Cilindri [Loan]"
+        },
+        {
+          "name": "The Celestial Sanctum",
+          "activitie": "France : Citroen",
+          "restriction": "Maserati MC20 Cielo [Loan]"
+        },
+        {
+          "name": "The Golden Club",
+          "activitie": "Detroit Finisher",
+          "restriction": "Zenvo Aurora Agil [Loan]"
+        },
+        {
+          "name": "The Velvet Comet",
+          "activitie": "Dream Bugattis",
+          "restriction": "Pagani Imola"
+        },
+        {
+          "name": "The Guardians of the Night",
+          "activitie": "Creating a Legend",
+          "restriction": "Pagani Imola"
+        },
+        {
+          "name": "Slalom",
+          "activitie": "",
+          "restriction": "Pagani Imola"
+        },
+        {
+          "name": "Escape",
+          "activitie": "",
+          "restriction": "Italian Hypercar"
+        },
+        {
+          "name": "Speedtrap",
+          "activitie": "",
+          "restriction": "Hypercar"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10 Legendary Points",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "50 P Tickets",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Pagani Zonda F",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Colored Ribbon Tire - Epic",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "neo-tokyo",
       "events": [
         {

@@ -1,6 +1,38 @@
 {
   "2025-12": [
     {
+      "url": "euro-prestige",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2D5mSxMNopyQE5N3ycML22/6614d813f95b5f98d4d69c38ca716af6/05_WEEK_06_EURO_PRESTIGE.jpg",
+          "crewcredits": "185,000",
+          "bucks": "1,295,000",
+          "rewards": [
+            {
+              "name": "Pagani Imola (2021) - Hypercar"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7Dw0cXj4i991ypNp6CfcfK/b00a789b31b8b9a6863fa3961828efde/06_CUSTOM_BUNDLE_W6_EURO_PRESTIGE.jpg",
+          "crewcredits": "212,500",
+          "rewards": [
+            {
+              "name": "Pagani Imola (2021) - Hypercar"
+            },
+            {
+              "name": "Orange Wiring Underglow"
+            },
+            {
+              "name": "Light Trail Nitro"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "neo-tokyo",
       "bundles": [
         {
