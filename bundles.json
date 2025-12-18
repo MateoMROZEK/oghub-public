@@ -1,6 +1,50 @@
 {
   "2025-12": [
     {
+      "url": "born-in-the-usa",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4YjR2DLdPURJVe96okGXNW/4419692a43e632ac54c79fbbfc2b6816/05_WEEK_07_BORN_IN_THE_USA.jpg",
+          "crewcredits": "86,720",
+          "bucks": "607,040",
+          "rewards": [
+            {
+              "name": "Ford Mustang Dark Horse (2024) - Street Car"
+            },
+            {
+              "name": "Chevrolet Camaro RS (1969) - Street Car"
+            },
+            {
+              "name": "Ford Focus RS (2016) - Street Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/P4MXmhP0bVu793BwbxRe6/26b8855293b40c221a641bda18c6a618/06_CUSTOM_BUNDLE_W7_BORN_IN_THE_USA.jpg",
+          "crewcredits": "206,780",
+          "rewards": [
+            {
+              "name": "Chevrolet Corvette C7 ZR1 (2019) - Hypercar"
+            },
+            {
+              "name": "Deep Blue Tire"
+            },
+            {
+              "name": "Prismatic Blue Underglow"
+            },
+            {
+              "name": "Nitrogen Smoke"
+            },
+            {
+              "name": "Black Window Tint"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "euro-prestige",
       "bundles": [
         {

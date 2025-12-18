@@ -1,6 +1,98 @@
 {
   "2025-12": [
     {
+      "url": "born-in-the-usa",
+      "events": [
+        {
+          "name": "Resort Rampage",
+          "activitie": "Celebrating Enzo",
+          "restriction": "Ford Focus RS [Loan]"
+        },
+        {
+          "name": "Airport Showdown",
+          "activitie": "Zeroyon Style",
+          "restriction": "Dodge Challenger SRT-8 392 [Loan]"
+        },
+        {
+          "name": "Country Clash",
+          "activitie": "Get it or Donk Come Back",
+          "restriction": "American Street 2"
+        },
+        {
+          "name": "Harbor Havoc",
+          "activitie": "MO X Powa",
+          "restriction": "Ford Mustang Dark Horse"
+        },
+        {
+          "name": "Hometown Smackdown",
+          "activitie": "Jackson V8",
+          "restriction": "Ford Focus RS"
+        },
+        {
+          "name": "Rural Rumble",
+          "activitie": "The Way you Drive",
+          "restriction": "Chevrolet Camaro RS"
+        },
+        {
+          "name": "Escape",
+          "activitie": "",
+          "restriction": "American Street 2"
+        },
+        {
+          "name": "Speedtrap",
+          "activitie": "",
+          "restriction": "Dragster"
+        },
+        {
+          "name": "Slalom",
+          "activitie": "",
+          "restriction": "Ford Mustang Dark Horse"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "10 Legendary Points",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "50,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "20,000 Details",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "FORD MUSTANG SHELBY GT500 Road Force One",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Patriot Lines Tire - Rare",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "euro-prestige",
       "events": [
         {

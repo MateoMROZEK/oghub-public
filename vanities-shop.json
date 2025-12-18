@@ -1,6 +1,237 @@
 {
   "2025-12": [
     {
+      "url": "midnight-millionaires",
+      "vanities": [
+        {
+          "name": "Encrusted Gold Tire",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "F1R3 Underglow",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Prismatic Green Tire",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Green Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Blue Prismatic Nitro",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Prismatic Blue Underglow",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Dark Punch Nitro",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Pink Confettis Smoke",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Gloden Stripes Tire",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "A Billionaire’s Work Smoke",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Fireworks Underglow",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Celebration Horn",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        }
+      ]
+    },
+    {
+      "url": "merry-motorfest",
+      "vanities": [
+        {
+          "name": "White Spotlight Rooftop",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Prismatic White Underglow",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Silver Coated Tint",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Deep Blue Segment",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Winter Agent Tire",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Red Blizzard Smoke",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Santa Cruise Tire",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Red Thunder Nitro",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Police Rooftop",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Santa Horn",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Outer White Tire",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Prismatic Red Smoke",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        }
+      ]
+    },
+    {
+      "url": "born-in-the-usa",
+      "vanities": [
+        {
+          "name": "Blue Lighting Smoke",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Neon Lavender Tire",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Yellow Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Yellow Bushimura Tire",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Ghost Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Green Thunder Nitro",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Whitebands Tire",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Nola Horn",
+          "image": "",
+          "price": "10,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "Raindbow Party Underglow",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Purple Chemical Smoke",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "The Masked Nitro",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Multicolor Nitro",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        }
+      ]
+    },
+    {
       "url": "euro-prestige",
       "vanities": [
         {
@@ -37,7 +268,7 @@
           "name": "Red Tire",
           "image": "",
           "price": "10,000",
-          "rarety": "Common"
+          "rarety": "Uncommon"
         },
         {
           "name": "Red Underglow",
