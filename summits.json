@@ -1,6 +1,190 @@
 {
   "2025-12": [
     {
+      "url": "midnight-millionaires",
+      "events": [
+        {
+          "name": "This Car is a Firework",
+          "activitie": "911 Challenge",
+          "restriction": "Mercedes-AMG ONE Motorsport Styling Package Star Pattern [Loan]"
+        },
+        {
+          "name": "Midnight, All Night...",
+          "activitie": "France : Bugatti Part 2",
+          "restriction": "Pagani Utopia"
+        },
+        {
+          "name": "Years Fly By",
+          "activitie": "Staggering Blue",
+          "restriction": "Dassault Aviation Alpha JET"
+        },
+        {
+          "name": "Crazy Rich Hawaiian",
+          "activitie": "Dream Bulls",
+          "restriction": "German Hypercar"
+        },
+        {
+          "name": "Apollo Vs Dionysus",
+          "activitie": "Gran Turismo Omologato",
+          "restriction": "Apollo Project EVO"
+        },
+        {
+          "name": "The Great Pagani",
+          "activitie": "Great Britain: McLaren",
+          "restriction": "Pagani Utopia"
+        },
+        {
+          "name": "Buoy Smashing",
+          "activitie": "",
+          "restriction": "Free"
+        },
+        {
+          "name": "Slalom",
+          "activitie": "",
+          "restriction": "Pagani Utopia"
+        },
+        {
+          "name": "Low Altitude",
+          "activitie": "",
+          "restriction": "Free"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "Legendary random parts 5 pieces",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "NIGHT SHIFT SMOKE - Epic",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "MERCEDES-AMG ONE Motorsport Styling Package Star Pattern",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
+      "url": "merry-motorfest",
+      "events": [
+        {
+          "name": "Mele Kalikimaka",
+          "activitie": "K-Cars Style",
+          "restriction": "Bugatti Veyron Barchetta Velvet ED. [Loan]"
+        },
+        {
+          "name": "Racing Night, Holy Night",
+          "activitie": "911 Freeway",
+          "restriction": "Porsche 911 GT3 RS [Loan]"
+        },
+        {
+          "name": "All I want is a Lambo",
+          "activitie": "Trailblazing Forever",
+          "restriction": "Lamborghini Centenario Roadster [Loan]"
+        },
+        {
+          "name": "Here comes the Fearless",
+          "activitie": "Kiss me Kombi",
+          "restriction": "Lamborghini Temerario [Loan]"
+        },
+        {
+          "name": "Oh what fun it is to Race",
+          "activitie": "German X QualitÃ¤t",
+          "restriction": "Audi RS6 Avant"
+        },
+        {
+          "name": "Let it Roar",
+          "activitie": "Great Britain: Jaguar",
+          "restriction": "McLaren P1"
+        },
+        {
+          "name": "Escape",
+          "activitie": "",
+          "restriction": "Porsche 911 GT3 RS"
+        },
+        {
+          "name": "Speedtrap",
+          "activitie": "",
+          "restriction": "Audi RS6 Avant"
+        },
+        {
+          "name": "Escape",
+          "activitie": "",
+          "restriction": "McLaren P1"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "5 Legend Points",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "200 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "10,000 Details",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "10 Legend Points",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "BUGATTI VEYRON BARCHETTA Velvet Ed.",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "MELE KALIKIMAKA Underglow",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "born-in-the-usa",
       "events": [
         {

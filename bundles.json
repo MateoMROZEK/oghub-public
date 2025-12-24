@@ -1,6 +1,82 @@
 {
   "2025-12": [
     {
+      "url": "midnight-millionaires",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3Rzab4xH2JNjF9Tl8Kx2Tf/f097672d3c31aa7bd1bb45060a5a8d27/05_WEEK_09_MIDNIGHT_MILLIONAIRES.jpg",
+          "crewcredits": "380,000",
+          "bucks": "2,660,000",
+          "rewards": [
+            {
+              "name": "Apollo Project EVO (2021) - Hypercar"
+            },
+            {
+              "name": "Pagani Utopia (2023) - Hypercar"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/eAFePm2nc267wri25knEs/001f342ae1204da8b027645483153cf4/06_CUSTOM_BUNDLE_W9_MIDNIGHT_MILLIONAIRES.jpg",
+          "crewcredits": "262,500",
+          "rewards": [
+            {
+              "name": "Lamborghini Revuelto (2023) - Hypercar"
+            },
+            {
+              "name": "The Ultimate Nitro"
+            },
+            {
+              "name": "Golden Smoke"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "merry-motorfest",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/46cOp2sE8UDwFMU6sksTGD/ab17720e415b5dc4538b2fa8bc924bb1/05_WEEK_08_MERRY_MOTORFEST.jpg",
+          "crewcredits": "215,600",
+          "bucks": "1,509,200",
+          "rewards": [
+            {
+              "name": "Porsche 911 GT3 RS (2023) - Street Car"
+            },
+            {
+              "name": "McLaren P1 (2013) - Hypercar"
+            },
+            {
+              "name": "Audi RS6 Avant (2021) - Street car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/64hooNTYpTHhr8bqWk0aGq/0af80594fd530a7db76f4b564d82a6cf/06_CUSTOM_BUNDLE_W8_MERRY_MOTORFEST.jpg",
+          "crewcredits": "318,150",
+          "rewards": [
+            {
+              "name": "Bugatti Chiron Super Sport 300+ (2019) - Hypercar"
+            },
+            {
+              "name": "Lovely Storm Smoke"
+            },
+            {
+              "name": "Lovely Petals Nitro"
+            },
+            {
+              "name": "Black Window Tint"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "born-in-the-usa",
       "bundles": [
         {
