@@ -429,6 +429,22 @@
       "release": "08/10/2025"
     },
     {
+      "name": "Ferrari Main Stage Legacy",
+      "slug": "ferrari-main-stage-legacy",
+      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/ferrari-main-stage.webp",
+      "themes": [10],
+      "isLegagy": true,
+      "release": "12/11/2025"
+    },
+    {
+      "name": "French Main Stage Legacy",
+      "slug": "french-main-stage-legacy",
+      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/french-main-stage.webp",
+      "themes": [10],
+      "isLegagy": true,
+      "release": "10/12/2025"
+    },
+    {
       "name": "Ferrari Supercars",
       "slug": "ferrari-supercars",
       "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/ferrari-supercars.jpg",

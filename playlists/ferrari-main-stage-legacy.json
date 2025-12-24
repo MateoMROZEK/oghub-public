@@ -1,0 +1,30 @@
+{
+  "playlist": {
+    "name": "Ferrari Main Stage Legacy",
+    "slug": "ferrari-main-stage-legacy",
+    "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/ferrari-main-stage.webp",
+    "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
+    "themes": [10],
+    "isLegagy": true,
+    "release": "12/11/2025",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "Playlist",
+      "description": "Complete 4 events for get Ruby Glasses (Dashboard Car Item)",
+      "rewards": {
+        "car": "Ruby Glasses (Dashboard Car Item)"
+      },
+      "requirement": {}
+    },
+    {
+      "name": "Playlist",
+      "description": "Complete the Main Stage Legacy challenges",
+      "rewards": {
+        "car": "ALFA ROMEO 4C Serpente Edizione"
+      },
+      "requirement": {}
+    }
+  ]
+}
