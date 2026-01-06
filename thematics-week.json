@@ -1,4 +1,42 @@
 {
+  "2026-01": [
+    {
+      "startDate": "28/01/2025 05:00:00",
+      "endDate": "04/02/2025 05:00:00",
+      "name": "ON x Offroad",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2026-01/on-x-offroad.webp",
+      "url": "on-x-offroad",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "21/01/2025 05:00:00",
+      "endDate": "28/01/2025 05:00:00",
+      "name": "M2 CS",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2026-01/m2-cs.webp",
+      "url": "m2-cs",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "14/01/2025 05:00:00",
+      "endDate": "21/01/2025 05:00:00",
+      "name": "BUILT to WIN",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2026-01/built-to-win.webp",
+      "url": "built-to-win",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "07/01/2025 05:00:00",
+      "endDate": "14/01/2025 05:00:00",
+      "name": "BMW Legacy",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2026-01/bmw-legacy.webp",
+      "url": "bmw-legacy",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "BMW"
+    }
+  ],
   "2025-12": [
     {
       "startDate": "31/12/2025 05:00:00",
@@ -7,7 +45,7 @@
       "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-12/midnight-millionaires.webp",
       "url": "midnight-millionaires",
       "modifiersSummit": "",
-      "modifiersCustomShow": ""
+      "modifiersCustomShow": "ST2 / Hypercar European"
     },
     {
       "startDate": "24/12/2025 05:00:00",
@@ -16,7 +54,7 @@
       "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2025-12/merry-motorfest.webp",
       "url": "merry-motorfest",
       "modifiersSummit": "",
-      "modifiersCustomShow": ""
+      "modifiersCustomShow": "ST2 / Hypercar European"
     },
     {
       "startDate": "17/12/2025 05:00:00",

@@ -1,4 +1,98 @@
 {
+  "2026-01": [
+    {
+      "url": "bmw-legacy",
+      "events": [
+        {
+          "name": "The Roadster Thrill",
+          "activitie": "Classic of the Future",
+          "restriction": "BMW Z4 M40i [Loan]"
+        },
+        {
+          "name": "Sheer Driving Pleasure",
+          "activitie": "Z4 Tour",
+          "restriction": "BMW M8 [Loan]"
+        },
+        {
+          "name": "The Power of Choice",
+          "activitie": "Global Nation",
+          "restriction": "BMW Street 2"
+        },
+        {
+          "name": "Leaving Limits Behind",
+          "activitie": "Bike Adventure",
+          "restriction": "BMW Z4 IDrive35IS Rally [Loan]"
+        },
+        {
+          "name": "Make Life a Ride",
+          "activitie": "M Innovation",
+          "restriction": "BMW R1200GS"
+        },
+        {
+          "name": "Escaping the Racetrack",
+          "activitie": "E30 Tribute",
+          "restriction": "BMW M Hybrid V8 #15"
+        },
+        {
+          "name": "Escape",
+          "activitie": "",
+          "restriction": "BMW Racing"
+        },
+        {
+          "name": "Long Jump",
+          "activitie": "",
+          "restriction": "BMW Car"
+        },
+        {
+          "name": "Speedtrap",
+          "activitie": "",
+          "restriction": "BMW Street 2"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100 P Tickets",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "BMW i8 Roadster Stellar Ed.",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Vavarian Nitro - Rare",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    }
+  ],
   "2025-12": [
     {
       "url": "midnight-millionaires",

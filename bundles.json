@@ -1,4 +1,47 @@
 {
+  "2026-01": [
+    {
+      "url": "bmw-legacy",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/10tIkXp0XZlxumFCL1wO0j/ccc82bf3c03412399753f0e7a9119015/05_CLASSIC_BUNDLE_S08_W10_BMW.jpg",
+          "crewcredits": "69,380",
+          "bucks": "485,660",
+          "rewards": [
+            {
+              "name": "BMW M Hybrid V8 #15 (2025) - Hypercar"
+            },
+            {
+              "name": "BMW Motorrad Rt1200GS Adventure (2024) - Street Bike"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3o8pbUGCuR46fy8subfB0X/ceb4e51d772f223db4577e192dbe2492/06_W10_CUSTOM_BUNDLE_BMW_LEGACY.jpg",
+          "crewcredits": "126,000",
+          "rewards": [
+            {
+              "name": "BMW M8 Competition Coupe (2019) - Street Car"
+            },
+            {
+              "name": "Raging Blast Nitro"
+            },
+            {
+              "name": "Red Wings Underglow"
+            },
+            {
+              "name": "Dense Drift Smoke"
+            },
+            {
+              "name": "Black Window Tint"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025-12": [
     {
       "url": "midnight-millionaires",
