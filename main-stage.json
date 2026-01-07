@@ -1,4 +1,135 @@
 {
+  "2026-01": [
+    {
+      "name": "January Program",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "xpNeed": 201600,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "20 Legends Points",
+          "level": "2",
+          "xpNeed": 302400,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+        },
+        {
+          "name": "VICTORIOUS BAVARIAN GLOW",
+          "level": "3",
+          "xpNeed": 100800,
+          "image": "https://i.oghub.fr/thecrew/motorfest/cars/ELYyIlDzQvJQnlURw4wOqYsI.jpg"
+        },
+        {
+          "name": "300,000 Bucks",
+          "level": "4",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+        },
+        {
+          "name": "BMW M Hybrid V8 No. 20",
+          "level": "10",
+          "xpNeed": 100800,
+          "image": "https://i.oghub.fr/thecrew/motorfest/cars/oyobN6zD8jzDGjafb7EbWJ13.jpg"
+        },
+        {
+          "name": "300 P Tickets",
+          "level": "20",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "50",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ],
+      "technologies": [
+        {
+          "blue": [
+            {
+              "name": "15 Legend Points",
+              "level": "1",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "100,000 Bucks",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+            },
+            {
+              "name": "+15% XP",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "Ivory-Tower : Obsidian X-AERO Carbon Ed.",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://i.oghub.fr/thecrew/motorfest/cars/u7LabQ67WLmtvewJCQ2ynbz8.jpg"
+            }
+          ],
+          "orange": [
+            {
+              "name": "+5% XP",
+              "level": "1",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "10 Legend Points",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "30,000 Consumables",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+            },
+            {
+              "name": "BMW M8 No Rules Ed.",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://i.oghub.fr/thecrew/motorfest/cars/vUvuabfILYJA3UBoFH94Rg9r.jpg"
+            }
+          ],
+          "green": [
+            {
+              "name": "100 P Tickets",
+              "level": "1",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
+            },
+            {
+              "name": "+10% XP",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "10 Legend Points",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "Pants: Monkey's Kitchen Dusk Edition",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://i.oghub.fr/thecrew/motorfest/cars/C8nCyMbIy6oZOfn3PrzAwGpT.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025-12": [
     {
       "name": "December Program",
@@ -37,7 +168,7 @@
           "name": "300 P Tickets",
           "level": "20",
           "xpNeed": 100800,
-          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
         },
         {
           "name": "LEGENDARY Title",
