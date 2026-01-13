@@ -1,52 +1,161 @@
 {
   "2026-01": [
     {
+      "url": "built-to-win",
+      "events": [
+        {
+          "name": "History in Motion",
+          "activitie": "Racing Through Time",
+          "restriction": "BMW 3.0 CSL + BMW Z4 GT3 + BMW M Hybrid V8 #15 [Loan]"
+        },
+        {
+          "name": "Every Second Counts",
+          "activitie": "Dream Duel: Veyron VS Noire",
+          "restriction": "BMW M Hybrid V8 #15 [Loan]",
+          "metaURL": ""
+        },
+        {
+          "name": "We are Gen M",
+          "activitie": "The Asphalt Clash",
+          "restriction": "BMW Racing",
+          "metaURL": ""
+        },
+        {
+          "name": "The Best Never Rest",
+          "activitie": "Master Works",
+          "restriction": "BMW M6 GT3",
+          "metaURL": ""
+        },
+        {
+          "name": "From Roadster to Racer",
+          "activitie": "Hectic Hanauma",
+          "restriction": "BMW Z4 GT3",
+          "metaURL": ""
+        },
+        {
+          "name": "Pure M Performance",
+          "activitie": "911 Arrival",
+          "restriction": "BMW M Performance M4 Racing",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom",
+          "activitie": "",
+          "restriction": "BMW Car",
+          "metaURL": ""
+        },
+        {
+          "name": "Escape",
+          "activitie": "",
+          "restriction": "BMW Racing",
+          "metaURL": ""
+        },
+        {
+          "name": "Slalom",
+          "activitie": "",
+          "restriction": "BMW Racing",
+          "metaURL": ""
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "50 P Tickets",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "BMW M PERFORMANCE M4 RACING",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "PROHIBITED DREAM SMOKE - EPIC",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "bmw-legacy",
       "events": [
         {
           "name": "The Roadster Thrill",
           "activitie": "Classic of the Future",
-          "restriction": "BMW Z4 M40i [Loan]"
+          "restriction": "BMW Z4 M40i [Loan]",
+          "metaURL": ""
         },
         {
           "name": "Sheer Driving Pleasure",
           "activitie": "Z4 Tour",
-          "restriction": "BMW M8 [Loan]"
+          "restriction": "BMW M8 [Loan]",
+          "metaURL": ""
         },
         {
           "name": "The Power of Choice",
           "activitie": "Global Nation",
-          "restriction": "BMW Street 2"
+          "restriction": "BMW Street 2",
+          "metaURL": ""
         },
         {
           "name": "Leaving Limits Behind",
           "activitie": "Bike Adventure",
-          "restriction": "BMW Z4 IDrive35IS Rally [Loan]"
+          "restriction": "BMW Z4 IDrive35IS Rally [Loan]",
+          "metaURL": ""
         },
         {
           "name": "Make Life a Ride",
           "activitie": "M Innovation",
-          "restriction": "BMW R1200GS"
+          "restriction": "BMW R1200GS",
+          "metaURL": ""
         },
         {
           "name": "Escaping the Racetrack",
           "activitie": "E30 Tribute",
-          "restriction": "BMW M Hybrid V8 #15"
+          "restriction": "BMW M Hybrid V8 #15",
+          "metaURL": ""
         },
         {
           "name": "Escape",
           "activitie": "",
-          "restriction": "BMW Racing"
+          "restriction": "BMW Racing",
+          "metaURL": ""
         },
         {
           "name": "Long Jump",
           "activitie": "",
-          "restriction": "BMW Car"
+          "restriction": "BMW Car",
+          "metaURL": ""
         },
         {
           "name": "Speedtrap",
           "activitie": "",
-          "restriction": "BMW Street 2"
+          "restriction": "BMW Street 2",
+          "metaURL": ""
         }
       ],
       "rewards": [
@@ -100,47 +209,56 @@
         {
           "name": "This Car is a Firework",
           "activitie": "911 Challenge",
-          "restriction": "Mercedes-AMG ONE Motorsport Styling Package Star Pattern [Loan]"
+          "restriction": "Mercedes-AMG ONE Motorsport Styling Package Star Pattern [Loan]",
+          "metaURL": ""
         },
         {
           "name": "Midnight, All Night...",
           "activitie": "France : Bugatti Part 2",
-          "restriction": "Pagani Utopia"
+          "restriction": "Pagani Utopia",
+          "metaURL": ""
         },
         {
           "name": "Years Fly By",
           "activitie": "Staggering Blue",
-          "restriction": "Dassault Aviation Alpha JET"
+          "restriction": "Dassault Aviation Alpha JET",
+          "metaURL": ""
         },
         {
           "name": "Crazy Rich Hawaiian",
           "activitie": "Dream Bulls",
-          "restriction": "German Hypercar"
+          "restriction": "German Hypercar",
+          "metaURL": ""
         },
         {
           "name": "Apollo Vs Dionysus",
           "activitie": "Gran Turismo Omologato",
-          "restriction": "Apollo Project EVO"
+          "restriction": "Apollo Project EVO",
+          "metaURL": ""
         },
         {
           "name": "The Great Pagani",
           "activitie": "Great Britain: McLaren",
-          "restriction": "Pagani Utopia"
+          "restriction": "Pagani Utopia",
+          "metaURL": ""
         },
         {
           "name": "Buoy Smashing",
           "activitie": "",
-          "restriction": "Free"
+          "restriction": "Free",
+          "metaURL": ""
         },
         {
           "name": "Slalom",
           "activitie": "",
-          "restriction": "Pagani Utopia"
+          "restriction": "Pagani Utopia",
+          "metaURL": ""
         },
         {
           "name": "Low Altitude",
           "activitie": "",
-          "restriction": "Free"
+          "restriction": "Free",
+          "metaURL": ""
         }
       ],
       "rewards": [
@@ -192,47 +310,56 @@
         {
           "name": "Mele Kalikimaka",
           "activitie": "K-Cars Style",
-          "restriction": "Bugatti Veyron Barchetta Velvet ED. [Loan]"
+          "restriction": "Bugatti Veyron Barchetta Velvet ED. [Loan]",
+          "metaURL": ""
         },
         {
           "name": "Racing Night, Holy Night",
           "activitie": "911 Freeway",
-          "restriction": "Porsche 911 GT3 RS [Loan]"
+          "restriction": "Porsche 911 GT3 RS [Loan]",
+          "metaURL": ""
         },
         {
           "name": "All I want is a Lambo",
           "activitie": "Trailblazing Forever",
-          "restriction": "Lamborghini Centenario Roadster [Loan]"
+          "restriction": "Lamborghini Centenario Roadster [Loan]",
+          "metaURL": ""
         },
         {
           "name": "Here comes the Fearless",
           "activitie": "Kiss me Kombi",
-          "restriction": "Lamborghini Temerario [Loan]"
+          "restriction": "Lamborghini Temerario [Loan]",
+          "metaURL": ""
         },
         {
           "name": "Oh what fun it is to Race",
           "activitie": "German X QualitÃ¤t",
-          "restriction": "Audi RS6 Avant"
+          "restriction": "Audi RS6 Avant",
+          "metaURL": ""
         },
         {
           "name": "Let it Roar",
           "activitie": "Great Britain: Jaguar",
-          "restriction": "McLaren P1"
+          "restriction": "McLaren P1",
+          "metaURL": ""
         },
         {
           "name": "Escape",
           "activitie": "",
-          "restriction": "Porsche 911 GT3 RS"
+          "restriction": "Porsche 911 GT3 RS",
+          "metaURL": ""
         },
         {
           "name": "Speedtrap",
           "activitie": "",
-          "restriction": "Audi RS6 Avant"
+          "restriction": "Audi RS6 Avant",
+          "metaURL": ""
         },
         {
           "name": "Escape",
           "activitie": "",
-          "restriction": "McLaren P1"
+          "restriction": "McLaren P1",
+          "metaURL": ""
         }
       ],
       "rewards": [
@@ -284,47 +411,56 @@
         {
           "name": "Resort Rampage",
           "activitie": "Celebrating Enzo",
-          "restriction": "Ford Focus RS [Loan]"
+          "restriction": "Ford Focus RS [Loan]",
+          "metaURL": ""
         },
         {
           "name": "Airport Showdown",
           "activitie": "Zeroyon Style",
-          "restriction": "Dodge Challenger SRT-8 392 [Loan]"
+          "restriction": "Dodge Challenger SRT-8 392 [Loan]",
+          "metaURL": ""
         },
         {
           "name": "Country Clash",
           "activitie": "Get it or Donk Come Back",
-          "restriction": "American Street 2"
+          "restriction": "American Street 2",
+          "metaURL": ""
         },
         {
           "name": "Harbor Havoc",
           "activitie": "MO X Powa",
-          "restriction": "Ford Mustang Dark Horse"
+          "restriction": "Ford Mustang Dark Horse",
+          "metaURL": ""
         },
         {
           "name": "Hometown Smackdown",
           "activitie": "Jackson V8",
-          "restriction": "Ford Focus RS"
+          "restriction": "Ford Focus RS",
+          "metaURL": ""
         },
         {
           "name": "Rural Rumble",
           "activitie": "The Way you Drive",
-          "restriction": "Chevrolet Camaro RS"
+          "restriction": "Chevrolet Camaro RS",
+          "metaURL": ""
         },
         {
           "name": "Escape",
           "activitie": "",
-          "restriction": "American Street 2"
+          "restriction": "American Street 2",
+          "metaURL": ""
         },
         {
           "name": "Speedtrap",
           "activitie": "",
-          "restriction": "Dragster"
+          "restriction": "Dragster",
+          "metaURL": ""
         },
         {
           "name": "Slalom",
           "activitie": "",
-          "restriction": "Ford Mustang Dark Horse"
+          "restriction": "Ford Mustang Dark Horse",
+          "metaURL": ""
         }
       ],
       "rewards": [
@@ -376,47 +512,56 @@
         {
           "name": "The European Gumball",
           "activitie": "Return of the \"D\"",
-          "restriction": "Pagani Imola [Loan]"
+          "restriction": "Pagani Imola [Loan]",
+          "metaURL": ""
         },
         {
           "name": "The Chosen Few",
           "activitie": "\"La\" Ferrari",
-          "restriction": "Ferrari 12Cilindri [Loan]"
+          "restriction": "Ferrari 12Cilindri [Loan]",
+          "metaURL": ""
         },
         {
           "name": "The Celestial Sanctum",
           "activitie": "France : Citroen",
-          "restriction": "Maserati MC20 Cielo [Loan]"
+          "restriction": "Maserati MC20 Cielo [Loan]",
+          "metaURL": ""
         },
         {
           "name": "The Golden Club",
           "activitie": "Detroit Finisher",
-          "restriction": "Zenvo Aurora Agil [Loan]"
+          "restriction": "Zenvo Aurora Agil [Loan]",
+          "metaURL": ""
         },
         {
           "name": "The Velvet Comet",
           "activitie": "Dream Bugattis",
-          "restriction": "Pagani Imola"
+          "restriction": "Pagani Imola",
+          "metaURL": ""
         },
         {
           "name": "The Guardians of the Night",
           "activitie": "Creating a Legend",
-          "restriction": "Pagani Imola"
+          "restriction": "Pagani Imola",
+          "metaURL": ""
         },
         {
           "name": "Slalom",
           "activitie": "",
-          "restriction": "Pagani Imola"
+          "restriction": "Pagani Imola",
+          "metaURL": ""
         },
         {
           "name": "Escape",
           "activitie": "",
-          "restriction": "Italian Hypercar"
+          "restriction": "Italian Hypercar",
+          "metaURL": ""
         },
         {
           "name": "Speedtrap",
           "activitie": "",
-          "restriction": "Hypercar"
+          "restriction": "Hypercar",
+          "metaURL": ""
         }
       ],
       "rewards": [

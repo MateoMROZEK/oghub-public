@@ -1,6 +1,31 @@
 {
   "2026-01": [
     {
+      "url": "built-to-win",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "100,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "100 P Tickets",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "RED BRACKETS TIRE - Rare",
+          "type": "rank"
+        }
+      ]
+    },
+    {
       "url": "bmw-legacy",
       "rewards": [
         {

@@ -1,6 +1,50 @@
 {
   "2026-01": [
     {
+      "url": "built-to-win",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3swogXV4olWmVslzRMMrp3/14fb889e91424dc41ec62197754d7a36/05_WEEK_11_BUILT_TO_WIN.jpg",
+          "crewcredits": "111,120",
+          "bucks": "777,840",
+          "rewards": [
+            {
+              "name": "BMW M6 GT3 (2016) - Racing Car"
+            },
+            {
+              "name": "BMW Z4 GT3 (2011) - Racing Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6JaCYAsT9T7UDolFatGIPM/3ea5adde824c3b685a6203ec982535b9/06_W11_CUSTOM_BUNDLE_BUILT_TO_WIN.jpg",
+          "crewcredits": "137,275",
+          "rewards": [
+            {
+              "name": "Volkswagen Golf GTI 1800 (1982) - Street Car"
+            },
+            {
+              "name": "Volkswagen Golf GTI (2014) - Street Car"
+            },
+            {
+              "name": "Retro Gaming Smoke"
+            },
+            {
+              "name": "Low HP Nitro"
+            },
+            {
+              "name": "Red Underglow"
+            },
+            {
+              "name": "Black Window Tint"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "bmw-legacy",
       "bundles": [
         {

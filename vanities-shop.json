@@ -1,6 +1,59 @@
 {
   "2026-01": [
     {
+      "url": "built-to-win",
+      "vanities": [
+        {
+          "name": "Safety Car Rooftop",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Fail Horn",
+          "image": "",
+          "price": "5,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "\"Catch me\" Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Uncommon"
+        },
+        {
+          "name": "\"The Hunt\" Tire",
+          "image": "",
+          "price": "25,000",
+          "rarety": "Rare"
+        },
+        {
+          "name": "Stuntman Smoke",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Stuntman Nitro",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Coil Effect Smoke",
+          "image": "",
+          "price": "70,000",
+          "rarety": "Epic"
+        },
+        {
+          "name": "Prismatic Blue Tire",
+          "image": "",
+          "price": "40,000",
+          "rarety": "Epic"
+        }
+      ]
+    },
+    {
       "url": "bmw-legacy",
       "vanities": [
         {
