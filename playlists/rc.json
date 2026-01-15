@@ -2,7 +2,7 @@
   "playlist": {
     "name": "RC",
     "slug": "rc",
-    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/rc.jpg",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/rc.webp",
     "icon": "playlists/icons/rc.png",
     "themes": [1, 2],
     "isLegagy": false,
@@ -197,8 +197,7 @@
         "xp": 24000,
         "bucks": 18000
       },
-      "requirement": {
-      }
+      "requirement": {}
     },
     {
       "name": "RC Monkey",

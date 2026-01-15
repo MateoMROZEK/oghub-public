@@ -2,7 +2,7 @@
   "playlist": {
     "name": "Nascar",
     "slug": "nascar",
-    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/nascar.jpg",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/nascar.webp",
     "icon": "playlists/icons/nascar.png",
     "themes": [1, 2],
     "isLegagy": false,
@@ -240,8 +240,7 @@
         "xp": 48000,
         "bucks": 36000
       },
-      "requirement": {
-      }
+      "requirement": {}
     },
     {
       "name": "NASCAR Silver",
@@ -250,8 +249,7 @@
         "xp": 80000,
         "bucks": 60000
       },
-      "requirement": {
-      }
+      "requirement": {}
     },
     {
       "name": "NASCAR Summit",

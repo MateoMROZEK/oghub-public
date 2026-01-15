@@ -49,6 +49,11 @@
       "id": 10,
       "name": "main_stage_legagy_year1",
       "year": 2
+    },
+    {
+      "id": 11,
+      "name": "main_stage_legagy_year1",
+      "year": 3
     }
   ],
   "playlists": [
@@ -475,6 +480,22 @@
       "themes": [5],
       "isLegagy": false,
       "release": "01/11/2025"
+    },
+    {
+      "name": "Nascar",
+      "slug": "nascar",
+      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/nascar.webp",
+      "themes": [1, 2],
+      "isLegagy": false,
+      "release": "04/03/2026"
+    },
+    {
+      "name": "RC",
+      "slug": "rc",
+      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/rc.webp",
+      "themes": [1, 2],
+      "isLegagy": false,
+      "release": "06/05/2026"
     }
   ]
 }
