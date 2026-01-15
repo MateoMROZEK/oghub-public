@@ -1,0 +1,611 @@
+{
+  "playlist": {
+    "name": "RC",
+    "slug": "rc",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/rc.jpg",
+    "icon": "playlists/icons/rc.png",
+    "themes": [1, 2],
+    "isLegagy": false,
+    "release": "06/05/2026",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "RC Coaster",
+      "description": "Drive 10km in the PU'UKAHUA COASTER PARK (Kaho) in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "Rust Bucket"
+      }
+    },
+    {
+      "name": "RC Coaster Summit",
+      "description": "Perform a JUMP at the HIGHEST POINT of the PU'UKAHUA COASTER PARK (Kaho) in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "Trickshot"
+      }
+    },
+    {
+      "name": "RC Acrobat",
+      "description": "Perform 20 BACKFLIP in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "Trickshot"
+      }
+    },
+    {
+      "name": "RC Boost",
+      "description": "Drive on BOOSTERS 10 TIMES on the PU'UKAHUA COASTER PARK (Kaho) in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "Trickshot"
+      }
+    },
+    {
+      "name": "RC Loop",
+      "description": "Drive on the INVERTED LOOPING in PU'UKAHUA COASTER PARK (Kaho) in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "Rust Bucket"
+      }
+    },
+    {
+      "name": "RC Explorer",
+      "description": "Reach the STRANDED SHIP high up in the PU'UKAHUA COASTER PARK (Kaho) in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "Rust Bucket"
+      }
+    },
+    {
+      "name": "RC Feats",
+      "description": "Complete 4 different FEATS",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "Trickshot"
+      }
+    },
+    {
+      "name": "RC Off-roader",
+      "description": "Drive from MAUNA PELE UNUI CRATER to the TUTLE BAY BEACH (Oahu) WITHOUT TOUCHING ASPHALT",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "Trickshot"
+      }
+    },
+    {
+      "name": "RC Sprint",
+      "description": "Drive from TUTLE BAY BEACH to HALEIWA ISLAND RESORT (Oahu) in less than 2min",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "General"
+      }
+    },
+    {
+      "name": "RC Maestro",
+      "description": "Drive HALEIWA ISLAND RESORT to WAHIAWA (Oahu) WITHOUT COLLISION while STAYING ON THE ASPHALT",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "General"
+      }
+    },
+    {
+      "name": "RC Beating",
+      "description": "Finish FACING SOFIA VALENTINA HERRERA (Challenger Sofia Valentina Herrera) in less than 7min.",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "General"
+      }
+    },
+    {
+      "name": "RC Master",
+      "description": "Complete 6 LIST against any CHALLENGER RC",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "General"
+      }
+    },
+    {
+      "name": "RC Confrontation",
+      "description": "Finish FACING THE QUEEN Challenger The Queen)",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "General"
+      }
+    },
+    {
+      "name": "RC Bird",
+      "description": "Accumulate 10sec. IN AIR during the event RUST BUCKET LIST",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "General"
+      }
+    },
+    {
+      "name": "RC All Action",
+      "description": "Finish PROJECT F.A.V.O.R.I.T.E in less than 7min 30sec",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "General"
+      }
+    },
+    {
+      "name": "RC Clash",
+      "description": "Complete all of THE QUEEN TRIAL'S",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+      }
+    },
+    {
+      "name": "RC Monkey",
+      "description": "Win the event FREE KAHULUI (Street Riders)",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "Rust Bucket"
+      }
+    },
+    {
+      "name": "RC Speedster",
+      "description": "Reach 200km/h in the event COYOTE'S BAMBOO GROVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "General"
+      }
+    },
+    {
+      "name": "RC Super 8",
+      "description": "Finish the event GENERAL'S 8 in less than 1min 40sec",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "Trickshot"
+      }
+    },
+    {
+      "name": "RC Delicacy",
+      "description": "Finish the event RAPTOR x DELICACY (Rule the Steet) in less than 3min 30sec",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "Trickshot"
+      }
+    },
+    {
+      "name": "RC Show Off",
+      "description": "Perform 5 FRONTFLIP during the event RUSTY BOAT and WIN",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "Rust Bucket"
+      }
+    },
+    {
+      "name": "RC All-Rounder",
+      "description": "Complete 3 SUMMIT ACTIVITIES with a RC VEHICLE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "RC Granc Racer",
+      "description": "Participate in a GRAND RACE with a RC VEHICLE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "RC Customiser",
+      "description": "Equip VISUAL PARTS in ALL AVAILABLE SLOTS",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "PHAZR RC",
+        "model": "Rust Bucket"
+      }
+    },
+    {
+      "name": "RC Collector",
+      "description": "Find all the RC COLLECTIBLES located around PU'UKAHUA COASTER PARK (Kaho)",
+      "rewards": {
+        "xp": 40000,
+        "bucks": 40000
+      },
+      "requirement": {
+        "item": 6
+      }
+    }
+  ],
+  "races": [
+    {
+      "name": "Tricky Coaster",
+      "type": "Time Attack",
+      "defaultCar": "Trickshot",
+      "category": "Street Tier 1",
+      "xp": 8000,
+      "bucks": 15000,
+      "duration": "0"
+    },
+    {
+      "name": "Rusty Boat",
+      "type": "Time Attack",
+      "defaultCar": "Rust Bucket",
+      "category": "Street Tier 1",
+      "xp": 8000,
+      "bucks": 15000,
+      "duration": "0"
+    },
+    {
+      "name": "Monster Comet",
+      "type": "Time Attack",
+      "defaultCar": "Kombi High School ed.",
+      "category": "Monster",
+      "xp": 12000,
+      "bucks": 22500,
+      "duration": "0"
+    },
+    {
+      "name": "Trick Loop",
+      "type": "Race",
+      "defaultCar": "Trickshot",
+      "category": "Street Tier 1",
+      "xp": 4000,
+      "bucks": 7500,
+      "duration": "0"
+    },
+    {
+      "name": "Coyote's Territory",
+      "type": "Race",
+      "defaultCar": "Afternoon",
+      "category": "Rally Raid",
+      "xp": 15000,
+      "bucks": 28815,
+      "duration": "0"
+    },
+    {
+      "name": "Comet Tour",
+      "type": "Race",
+      "defaultCar": "Comet",
+      "category": "Street Tier 1",
+      "xp": 6000,
+      "bucks": 11250,
+      "duration": "0"
+    },
+    {
+      "name": "Rust Bucket List",
+      "type": "Action List",
+      "defaultCar": "Rust Bucket",
+      "category": "Street Tier 1",
+      "xp": 10000,
+      "bucks": 18750,
+      "duration": "0"
+    },
+    {
+      "name": "General's 8",
+      "type": "Race",
+      "defaultCar": "General",
+      "category": "Rally Raid",
+      "xp": 6000,
+      "bucks": 11250,
+      "duration": "0"
+    },
+    {
+      "name": "Coyote's Bamboo Grove",
+      "type": "Time Attack",
+      "defaultCar": "Coyote",
+      "category": "Rally Raid",
+      "xp": 9000,
+      "bucks": 16875,
+      "duration": "0"
+    },
+    {
+      "name": "Trickshot's Hood",
+      "type": "Race",
+      "defaultCar": "Trickshot",
+      "category": "Street Tier 1",
+      "xp": 8000,
+      "bucks": 15000,
+      "duration": "0"
+    }
+  ],
+  "rewardRaces": ["N/A"],
+  "activities": [
+    {
+      "name": "RC Feats - Main Street",
+      "type": "Long Jump",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Jump a distance of 260m"
+    },
+    {
+      "name": "RC Views - Pit",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture in front of the speedway's pit with a Cup car"
+    },
+    {
+      "name": "RC Feats - Kaulana",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 150.0 km/h"
+    },
+    {
+      "name": "RC Views - N/A",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "N/A"
+    },
+    {
+      "name": "RC Feats - Pailolo",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 1500m"
+    },
+    {
+      "name": "RC Views - N/A",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "N/A"
+    },
+    {
+      "name": "RC Feats - Hanauma",
+      "type": "Long Jump",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Jump a distance of 250m"
+    },
+    {
+      "name": "RC Feats - Barbers Point",
+      "type": "Bullseye",
+      "xp": 4000,
+      "bucks": 7500,
+      "text": "Get 7,500 PTS"
+    },
+    {
+      "name": "RC Feats - Kuikahi",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 1,000 PTS"
+    },
+    {
+      "name": "RC Feats - Iao Valley",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 6,000 PTS"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Cup Car",
+    "Racing",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+    [1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1],
+    [1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0],
+    [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0],
+    [1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0],
+    [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0],
+    [1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
+  ],
+  "rivals": [
+    {
+      "name": "Sofia Valentina Herrera",
+      "position": "left",
+      "races": [
+        {
+          "name": "RC Coaster Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any Rally Raid RC vehicle",
+          "xp": 15000,
+          "bucks": 18125
+        },
+        {
+          "name": "Waterbike Playground Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any Waterbike",
+          "xp": 12000,
+          "bucks": 22500
+        },
+        {
+          "name": "Boat Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any Boat",
+          "xp": 12000,
+          "bucks": 22500
+        },
+        {
+          "name": "Plane Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any Plane",
+          "xp": 12000,
+          "bucks": 22500
+        },
+        {
+          "name": "No Name",
+          "rivalName": "N/A",
+          "defaultCar": "Any Rally Raid RC vehicle",
+          "xp": 15000,
+          "bucks": 28125
+        }
+      ]
+    },
+    {
+      "name": "The Queen",
+      "position": "left",
+      "races": [
+        {
+          "name": "Monster Truck Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any ST1 RC vehicle",
+          "xp": 15000,
+          "bucks": 28125
+        },
+        {
+          "name": "RC Mall Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any ST1 RC vehicle",
+          "xp": 12000,
+          "bucks": 22500
+        },
+        {
+          "name": "RC Hoonigan Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any ST1 RC vehicle",
+          "xp": 12000,
+          "bucks": 22500
+        },
+        {
+          "name": "Waterbike River Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any Waterbike",
+          "xp": 12000,
+          "bucks": 22500
+        },
+        {
+          "name": "No Name",
+          "rivalName": "N/A",
+          "defaultCar": "Any ST1 RC vehicle",
+          "xp": 15000,
+          "bucks": 28125
+        }
+      ]
+    },
+    {
+      "name": "Phazer's Favorite",
+      "position": "center",
+      "races": [
+        {
+          "name": "Phazer's Favorite",
+          "rivalName": "N/A",
+          "defaultCar": "Any Rally Raid RC vehicle",
+          "xp": 18000,
+          "bucks": 33750
+        }
+      ]
+    }
+  ]
+}
