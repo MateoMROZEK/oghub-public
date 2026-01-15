@@ -1,0 +1,636 @@
+{
+  "playlist": {
+    "name": "Nascar",
+    "slug": "nascar",
+    "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/nascar.jpg",
+    "icon": "playlists/icons/nascar.png",
+    "themes": [1, 2],
+    "isLegagy": false,
+    "release": "04/03/2026",
+    "policeFont": ""
+  },
+  "challenges": [
+    {
+      "name": "NASCAR Rivals",
+      "description": "Win against 3 NASCAR CHALLENGERS",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "NASCAR Rides",
+      "description": "Drive for a total of 2h with any NASCAR VEHICLES",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "NASCAR Cruising",
+      "description": "Drive 10km in the KAHO'OLAWE SPEEDWAY (Kaho) in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Modified Tour"
+      }
+    },
+    {
+      "name": "NASCAR Speed",
+      "description": "Reach 250km/h in the KAHO'OLAWE SPEEDWAY PITLANE (Oahu) in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Modified Tour"
+      }
+    },
+    {
+      "name": "NASCAR Kaho'olawe Tour",
+      "description": "Starting from the tunnel coming from OAHU, drive all around KAHO'OLAWE in an ANTI-CLOCKWISE direction WITHOUT TOUCHING OFF-ROAD in FREEDRIVE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Next Gen Ford Mustang Dark Horse"
+      }
+    },
+    {
+      "name": "NASCAR Blast",
+      "description": "Reach 300km/h in the A'A MOANA TUNNEL located at the center of the PU'UKAHUA COASTER PARK",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Next Gen Chevrolet Camaro ZL1"
+      }
+    },
+    {
+      "name": "NASCAR Holidays",
+      "description": "Spend 10min in the PU'UKAHUA COASTER PARK (Kaho) in FREEDRIVE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Next Gen Ford Mustang Dark Horse"
+      }
+    },
+    {
+      "name": "NASCAR Stroll",
+      "description": "Drive from HANAUMA RACETRACK (Oahu) to the PU'UKAHUA COASTER PARK via the RED BULL PLAYGROUND (Maui) in Freedrive",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Modified Tour"
+      }
+    },
+    {
+      "name": "NASCAR Caretaker",
+      "description": "Drive frm HANAUMA RACETRACK (Oahu) to the REDBULL PLAYGROUND (Maui) WITHOUT COLLISIONS in FREEDRIVE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Modified Tour"
+      }
+    },
+    {
+      "name": "NASCAR Sprint",
+      "description": "Drive from the RED BULL PLAUGROUND (Maui) to the KAHO'OLAWE SPEEDWAY (Kaho) in less than 7min 30sec in FREEDRIVE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Modified Tour"
+      }
+    },
+    {
+      "name": "Team NASCAR",
+      "description": "Spend 3min in CREW in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Next Gen Chevrolet Camaro ZL1"
+      }
+    },
+    {
+      "name": "NASCAR Superspeed",
+      "description": "Reach 250 km/h in FREEDRIVE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Next Gen Chevrolet Camaro ZL1"
+      }
+    },
+    {
+      "name": "NASCAR in the Air",
+      "description": "Complete 2 different LONG JUMP on KAHO'OLAWE",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Next Gen Ford Mustang Dark Horse"
+      }
+    },
+    {
+      "name": "SNASCAR Trial",
+      "description": "Complete NASCAR SPEEDWAY TRIAL (Challenger Clarence Bishop III)",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Next Gen Chevrolet Camaro ZL1"
+      }
+    },
+    {
+      "name": "NASCAR Vs. Sinclair",
+      "description": "Complete BURT SINCLAIR (Challenger Big Boss)",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Next Gen Ford Mustang Dark Horse"
+      }
+    },
+    {
+      "name": "NASCAR Wave",
+      "description": "Stay 30sec in SLIPSTREAM during NASCAR MOTORFEST TOUR",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Next Gen Ford Mustang Dark Horse"
+      }
+    },
+    {
+      "name": "NASCAR Strategist",
+      "description": "Win the event BRAWL LEAGUE by using the PIT STOP ONCE",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Modified Tour"
+      }
+    },
+    {
+      "name": "NASCAR Vs. Bishop III",
+      "description": "Beat NASCAR STREET TRIAL (Challenger Clarence Bishop III) in less than 5min.",
+      "rewards": {
+        "xp": 24000,
+        "bucks": 18000
+      },
+      "requirement": {
+        "brand": "NASCAR",
+        "model": "Modified Tour"
+      }
+    },
+    {
+      "name": "NASCAR Vs. The Ace",
+      "description": "Complete 3 ACTIONS in less than 30sec in FACING THE ACE (Nascar Challenger)",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+        "item": 2,
+        "brand": "NASCAR",
+        "model": "Modified Tour"
+      }
+    },
+    {
+      "name": "NASCAR Alpha",
+      "description": "Reach the TOP 15 in a DEMOLITION ROYALE",
+      "rewards": {
+        "xp": 48000,
+        "bucks": 36000
+      },
+      "requirement": {
+      }
+    },
+    {
+      "name": "NASCAR Silver",
+      "description": "Reach SILVER RANK during the current GRAND RACE SEASON",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {
+      }
+    },
+    {
+      "name": "NASCAR Summit",
+      "description": "Complete 6 SUMMIT ACTIVITIES",
+      "rewards": {
+        "xp": 80000,
+        "bucks": 60000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "NASCAR Style",
+      "description": "Register any AMERICAN VEHICLE in the CUSTOM SHOW",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "NASCAR Legendary",
+      "description": "Own 2 LEGENDARY PERF PARTS for CUP CAR vehicles",
+      "rewards": {
+        "xp": 12000,
+        "bucks": 9000
+      },
+      "requirement": {}
+    },
+    {
+      "name": "NASCAR Stars And Stripes",
+      "description": "Find all the FLAG COLLECTIBLES located around KAOHO'OLAWE SPEEDWAY (Kaho)",
+      "rewards": {
+        "xp": 40000,
+        "bucks": 40000
+      },
+      "requirement": {
+        "item": 6
+      }
+    }
+  ],
+  "races": [
+    {
+      "name": "The Speedway",
+      "type": "Endurance Race",
+      "defaultCar": "Next Gen Ford Mustang Dark Horse",
+      "category": "Cup Car",
+      "xp": 12000,
+      "bucks": 22500,
+      "duration": "0"
+    },
+    {
+      "name": "Coach Roy Henson",
+      "type": "Endurance Time Attack",
+      "defaultCar": "Impala Sport Sedan",
+      "category": "Cup Car",
+      "xp": 20000,
+      "bucks": 37500,
+      "duration": "0"
+    },
+    {
+      "name": "Brawl League",
+      "type": "Endurance Race",
+      "defaultCar": "Impala Sport Sedan",
+      "category": "Cup Car",
+      "xp": 19000,
+      "bucks": 35625,
+      "duration": "0"
+    },
+    {
+      "name": "Golden Ticket",
+      "type": "Endurance Race",
+      "defaultCar": "Impala Sport Sedan",
+      "category": "Cup Car",
+      "xp": 18000,
+      "bucks": 33750,
+      "duration": "0"
+    },
+    {
+      "name": "IOWA JIM",
+      "type": "Race",
+      "defaultCar": "Next Gen Ford Mustang Dark Horse",
+      "category": "Cup Car",
+      "xp": 24000,
+      "bucks": 45000,
+      "duration": "0"
+    },
+    {
+      "name": "Nascar Motorfest Tour",
+      "type": "Endurance Race",
+      "defaultCar": "Next Gen Ford Mustang Dark Horse",
+      "category": "Cup Car",
+      "xp": 8000,
+      "bucks": 15000,
+      "duration": "0"
+    },
+    {
+      "name": "Semifinal",
+      "type": "Endurance Race",
+      "defaultCar": "Next Gen Ford Mustang Dark Horse",
+      "category": "Cup Car",
+      "xp": 24000,
+      "bucks": 45000,
+      "duration": "0"
+    },
+    {
+      "name": "Show Night",
+      "type": "Time Attack",
+      "defaultCar": "Next Gen Ford Mustang Dark Horse",
+      "category": "Cup Car",
+      "xp": 8000,
+      "bucks": 15000,
+      "duration": "0"
+    },
+    {
+      "name": "Big One At Kaho'Olawe",
+      "type": "Endurance Race",
+      "defaultCar": "Next Gen Ford Mustang Dark Horse",
+      "category": "Cup Car",
+      "xp": 24000,
+      "bucks": 45000,
+      "duration": "0"
+    },
+    {
+      "name": "Bonus Ride: Kaho Unleashed",
+      "type": "Time attack",
+      "defaultCar": "Modified Tour",
+      "category": "Cup Car",
+      "xp": 10000,
+      "bucks": 18750,
+      "duration": "0"
+    }
+  ],
+  "rewardRaces": ["N/A"],
+  "activities": [
+    {
+      "name": "NASCAR Feats - Main Street",
+      "type": "Long Jump",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Jump a distance of 260m"
+    },
+    {
+      "name": "NASCAR Views - Pit",
+      "type": "Photo Ops",
+      "xp": 16000,
+      "bucks": 30000,
+      "text": "Take a picture in front of the speedway's pit with a Cup car"
+    },
+    {
+      "name": "NASCAR Feats - Kanaha Pond",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 200.0 km/h"
+    },
+    {
+      "name": "NASCAR Views - Bamboo Forest",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22000,
+      "text": "Take a picture of a Street Tier 2 car drifting in the middle of Pipiwai Bamboo forest"
+    },
+    {
+      "name": "NASCAR Feats - Airport",
+      "type": "Long Jump",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Jump a distance of 250m"
+    },
+    {
+      "name": "NASCAR Views - Grandstands",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture in front of the speedway's grandstand at high speed"
+    },
+    {
+      "name": "NASCAR Feats - Pit Stop",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 210.0 km/h"
+    },
+    {
+      "name": "NASCAR Views - A'AMoana Tunnel",
+      "type": "Photo Ops",
+      "xp": 12000,
+      "bucks": 22500,
+      "text": "Take a picture of a Cup Car inside the A'A Moana tunnel located in Kaho'Olawe"
+    },
+    {
+      "name": "NASCAR Feats - Rainbow Tunnel",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 200.0 km/h"
+    },
+    {
+      "name": "NASCAR Feats - East Connection",
+      "type": "Speedtrap",
+      "xp": 800,
+      "bucks": 1500,
+      "text": "Reach 210.0 km/h"
+    },
+    {
+      "name": "NASCAR Feats - Infield Road",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 11,140 PTS"
+    },
+    {
+      "name": "NASCAR Feats - Coastal Road",
+      "type": "Slalom",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Get 7,870 PTS"
+    },
+    {
+      "name": "NASCAR Feats - Diagonal road",
+      "type": "Bullseye",
+      "xp": 4000,
+      "bucks": 7500,
+      "text": "Get 5,930 PTS"
+    },
+    {
+      "name": "NASCAR Feats - Ko'Olina",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 1290m"
+    },
+    {
+      "name": "O'AHU Connection - Escape",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 1580m"
+    }
+  ],
+  "customModeTypes": [
+    "Street Tier 1",
+    "Street Tier 2",
+    "Drift",
+    "Cup Car",
+    "Racing",
+    "Hypercar",
+    "Alpha GP",
+    "Motocross",
+    "Rally Raid",
+    "Demolition",
+    "Rally",
+    "Monster"
+  ],
+  "customModeMatrix": [
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+  ],
+  "othersRewardsCustomModes": [
+    {
+      "name": "200 Prestige Tickets",
+      "rewards": 200
+    },
+    {
+      "name": "400 Prestige Tickets",
+      "rewards": 400
+    },
+    {
+      "name": "600 Prestige Tickets",
+      "rewards": 600
+    },
+    {
+      "name": "Legendary Title",
+      "rewards": 0
+    }
+  ],
+  "rivals": [
+    {
+      "name": "Clarence Bishop III",
+      "position": "left",
+      "races": [
+        {
+          "name": "Nascar Speedway Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any Cup Car",
+          "xp": 12000,
+          "bucks": 22500
+        },
+        {
+          "name": "Gymkhana Rally Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any Cup Car",
+          "xp": 12000,
+          "bucks": 22500
+        },
+        {
+          "name": "Nascar Street Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any Cup Car",
+          "xp": 12000,
+          "bucks": 22500
+        },
+        {
+          "name": "Drift Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any Drift Car",
+          "xp": 12000,
+          "bucks": 22500
+        },
+        {
+          "name": "No Name",
+          "rivalName": "N/A",
+          "defaultCar": "Any Cup Car",
+          "xp": 15000,
+          "bucks": 28125
+        }
+      ]
+    },
+    {
+      "name": "The ace",
+      "position": "left",
+      "races": [
+        {
+          "name": "Rally Cross Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any Cup Car",
+          "xp": 15000,
+          "bucks": 28125
+        },
+        {
+          "name": "Nascar Highway Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any Cup Car",
+          "xp": 12000,
+          "bucks": 22500
+        },
+        {
+          "name": "Touge Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any Drift Car",
+          "xp": 12000,
+          "bucks": 22500
+        },
+        {
+          "name": "Alpha Grand Prix Trial",
+          "rivalName": "N/A",
+          "defaultCar": "Any Alpha GP",
+          "xp": 12000,
+          "bucks": 22500
+        },
+        {
+          "name": "No Name",
+          "rivalName": "N/A",
+          "defaultCar": "Any Cup car",
+          "xp": 15000,
+          "bucks": 28125
+        }
+      ]
+    },
+    {
+      "name": "The Chase Squad",
+      "position": "center",
+      "races": [
+        {
+          "name": "Omni's Top Dog",
+          "rivalName": "N/A",
+          "defaultCar": "Any Cup Car",
+          "xp": 18000,
+          "bucks": 33750
+        }
+      ]
+    }
+  ]
+}
