@@ -397,20 +397,6 @@
   "rewardRaces": ["N/A"],
   "activities": [
     {
-      "name": "RC Feats - Main Street",
-      "type": "Long Jump",
-      "xp": 1600,
-      "bucks": 3000,
-      "text": "Jump a distance of 260m"
-    },
-    {
-      "name": "RC Views - Pit",
-      "type": "Photo Ops",
-      "xp": 16000,
-      "bucks": 30000,
-      "text": "Take a picture in front of the speedway's pit with a Cup car"
-    },
-    {
       "name": "RC Feats - Kaulana",
       "type": "Speedtrap",
       "xp": 800,
@@ -451,6 +437,20 @@
       "xp": 4000,
       "bucks": 7500,
       "text": "Get 7,500 PTS"
+    },
+    {
+      "name": "RC Feats - Hanama",
+      "type": "Escape",
+      "xp": 2400,
+      "bucks": 4500,
+      "text": "Drive a distance of 1000m"
+    },
+    {
+      "name": "RC Feats - Kailua",
+      "type": "Long Jump",
+      "xp": 1600,
+      "bucks": 3000,
+      "text": "Jump a distance of 400m"
     },
     {
       "name": "RC Feats - Kuikahi",
