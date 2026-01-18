@@ -4,7 +4,7 @@
     "slug": "nascar",
     "image": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/bg/nascar.webp",
     "icon": "playlists/icons/nascar.png",
-    "themes": [1, 2],
+    "themes": [2, 6],
     "isLegagy": false,
     "release": "04/03/2026",
     "policeFont": ""
@@ -382,7 +382,7 @@
       "duration": "0"
     }
   ],
-  "rewardRaces": ["N/A"],
+  "rewardRaces": ["NASCAR Modified Tour"],
   "activities": [
     {
       "name": "NASCAR Feats - Main Street",
