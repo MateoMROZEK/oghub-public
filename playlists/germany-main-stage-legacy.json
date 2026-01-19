@@ -1,12 +1,12 @@
 {
   "playlist": {
-    "name": "French Main Stage Legacy",
-    "slug": "french-main-stage-legacy",
-    "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/french-main-stage-legacy.webp",
+    "name": "Germany Main Stage Legacy",
+    "slug": "germany-main-stage-legacy",
+    "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/germany-main-stage-legacy.webp",
     "icon": "https://raw.githubusercontent.com/DevKilioZOfficiel/oghub-public/refs/heads/main/playlists/icons/main-stage-legacy.png",
     "themes": [10],
     "isLegagy": true,
-    "release": "10/12/2025",
+    "release": "14/01/2026",
     "policeFont": ""
   },
   "challenges": [
@@ -14,7 +14,7 @@
       "name": "Playlist",
       "description": "Complete 4 events for get Sapphire Glasses (Dashboard Car Item)",
       "rewards": {
-        "car": "Sapphire Glasses (Dashboard Car Item)"
+        "car": "Glass: Silver Tongue"
       },
       "requirement": {}
     },
@@ -22,7 +22,7 @@
       "name": "Playlist",
       "description": "Complete the Main Stage Legacy challenges",
       "rewards": {
-        "car": "PROTO LUCKY-ONE Marble Edition"
+        "car": "PORSCHE Cayman GT4 Wasp Edition"
       },
       "requirement": {}
     }
