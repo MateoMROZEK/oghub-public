@@ -482,6 +482,14 @@
       "release": "01/11/2025"
     },
     {
+      "name": "Germany Main Stage Legacy",
+      "slug": "germany-main-stage-legacy",
+      "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/germany-main-stage-legacy.webp",
+      "themes": [10],
+      "isLegagy": true,
+      "release": "14/01/2026"
+    },
+    {
       "name": "Nascar",
       "slug": "nascar",
       "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/playlists/bg/nascar.webp",
