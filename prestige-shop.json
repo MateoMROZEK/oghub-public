@@ -393,5 +393,87 @@
         }
       ]
     }
+  ],
+  "season07": [
+    {
+      "cars": [
+        {
+          "brand": "",
+          "model": "",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": ""
+        },
+        {
+          "brand": "",
+          "model": "",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": ""
+        },
+        {
+          "brand": "",
+          "model": "",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": ""
+        },
+        {
+          "brand": "",
+          "model": "",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": ""
+        }
+      ],
+      "vanities": [
+        {
+          "name": "Supercar Glow",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1605"
+        },
+        {
+          "name": "The Crew Y2 Underglow",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1895"
+        },
+        {
+          "name": "Paint AHEAD Nitro",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1750"
+        },
+        {
+          "name": "Luxury Nitro",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1605"
+        },
+        {
+          "name": "Neo Tokyo Smoke",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1750"
+        },
+        {
+          "name": "Silver Blades Tire",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1460"
+        },
+        {
+          "name": "IVT Tire",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1605"
+        },
+        {
+          "name": "Luxury Tire",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1605"
+        },
+        {
+          "name": "Halloween Mood Kit",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "1605"
+        },
+        {
+          "name": "Supercar Kit",
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
+          "price": "0"
+        }
+      ]
+    }
   ]
 }
