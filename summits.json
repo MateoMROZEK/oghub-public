@@ -1,6 +1,98 @@
 {
   "2026-01": [
     {
+      "url": "m2-cs",
+      "events": [
+        {
+          "name": "The M3's Nemesis",
+          "activitie": "Defining Perfection",
+          "restriction": "BMW M2 CS [Loan]"
+        },
+        {
+          "name": "Facing the Fantastic M4",
+          "activitie": "Dream Duel: Trezor VS Citroen GT",
+          "restriction": "BMW M2 CS [Loan]"
+        },
+        {
+          "name": "Fighting M, For Honor",
+          "activitie": "Haleiwa Heyday",
+          "restriction": "BMW M2 CS [Loan]"
+        },
+        {
+          "name": "The M5 in its Element",
+          "activitie": "Palm Springs Riot",
+          "restriction": "BMW CS"
+        },
+        {
+          "name": "M2 for one",
+          "activitie": "Scene 7: The Love Story",
+          "restriction": "BMW CS"
+        },
+        {
+          "name": "The Lost Race of BMW Z",
+          "activitie": "Reno Roar",
+          "restriction": "BMW CS"
+        },
+        {
+          "name": "Long Jump",
+          "activitie": "",
+          "restriction": "BMW Car"
+        },
+        {
+          "name": "Slalom Asphalt",
+          "activitie": "",
+          "restriction": "BMW Street T2"
+        },
+        {
+          "name": "Escape Asphalt",
+          "activitie": "",
+          "restriction": "BMW CS"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "50,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "20,000 Details",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "BMW X6 M",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "JDM WHITE UNDERGLOW - RARE",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "built-to-win",
       "events": [
         {

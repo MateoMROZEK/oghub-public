@@ -16,7 +16,7 @@
       "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2026-01/m2-cs.webp",
       "url": "m2-cs",
       "modifiersSummit": "",
-      "modifiersCustomShow": ""
+      "modifiersCustomShow": "BMW M2 CS [2025]"
     },
     {
       "startDate": "14/01/2026 05:00:00",
@@ -25,7 +25,8 @@
       "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2026-01/built-to-win.webp",
       "url": "built-to-win",
       "modifiersSummit": "Pro Racing",
-      "modifiersCustomShow": "BMW"
+      "modifiersCustomShow": "BMW",
+      "summitPlayers": "140000"
     },
     {
       "startDate": "07/01/2026 05:00:00",

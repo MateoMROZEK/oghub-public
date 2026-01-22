@@ -1,6 +1,44 @@
 {
   "2026-01": [
     {
+      "url": "m2-cs",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1QV270Xy5HPUEYkkUW7pLq/b5baa3ec369a2e2eb63dfb2f8e4237ab/05_WEEK_12_M2_CS.jpg",
+          "crewcredits": "80,000",
+          "bucks": "560,000",
+          "rewards": [
+            {
+              "name": "BMW M2 CS (2025) - Street Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6C16ohj73q6HfHSHPSqXnc/79e685ee0b7d70169a7474dfd2fb2480/06_W12_CUSTOM_BUNDLE_M2_CS.jpg",
+          "crewcredits": "132,600",
+          "rewards": [
+            {
+              "name": "BMW M2 CS (2025) - Street Car"
+            },
+            {
+              "name": "Orange Pro Yohmhoy Tire"
+            },
+            {
+              "name": "Yellow Inferno Nitro"
+            },
+            {
+              "name": "T-Shirt: BMW - \"Ultimate Driving Machine\""
+            },
+            {
+              "name": "Black Window Tint"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "built-to-win",
       "bundles": [
         {
