@@ -4,6 +4,98 @@
       "url": "m2-cs",
       "events": [
         {
+          "name": "Find your own Trail",
+          "activitie": "Special Event",
+          "restriction": "Jeep Gladiator - ONX ED. [Loan]"
+        },
+        {
+          "name": "Follow the Guide",
+          "activitie": "Special Event",
+          "restriction": "Jeep Gladiator - ONX ED. [Loan]"
+        },
+        {
+          "name": "In Shallow Waters",
+          "activitie": "Special Event",
+          "restriction": "Jeep Gladiator - ONX ED. [Loan]"
+        },
+        {
+          "name": "Rugged Adventure",
+          "activitie": "Dealing the Cards",
+          "restriction": "Jeep Gladiator - ONX ED. [Loan]"
+        },
+        {
+          "name": "Born to Roam",
+          "activitie": "The Descent",
+          "restriction": "Jeep Gladiator - ONX ED. [Loan]"
+        },
+        {
+          "name": "Extreme Off-Roaders",
+          "activitie": "Gear Valley",
+          "restriction": "Jeep Gladiator - ONX ED. [Loan]"
+        },
+        {
+          "name": "Long Jump",
+          "activitie": "",
+          "restriction": "No Restriction"
+        },
+        {
+          "name": "Slalom Offroad",
+          "activitie": "",
+          "restriction": "No Restriction"
+        },
+        {
+          "name": "Escape Asphalt",
+          "activitie": "",
+          "restriction": "No Restriction"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "Legendary random parts 2 pieces",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 Consumables",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "Jeep Gladiator - ONX ED.",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "Legendary random parts 5 pieces - Rally Raid",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "300,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "OnX Climber Tire - Epic",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
+      "url": "m2-cs",
+      "events": [
+        {
           "name": "The M3's Nemesis",
           "activitie": "Defining Perfection",
           "restriction": "BMW M2 CS [Loan]"
