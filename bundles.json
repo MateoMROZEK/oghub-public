@@ -1,6 +1,41 @@
 {
   "2026-01": [
     {
+      "url": "on-x-offroad",
+      "bundles": [
+        {
+          "name": "Classic Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5dHM3HTMyWIZvN6wzh9uwG/923f6fffa7b5ff63827cbc77df4df30d/05_CLASSIC_BUNDLE_S08_W13_OnX_OFFROAD.jpg",
+          "crewcredits": "290,400",
+          "bucks": "2,032,800",
+          "rewards": [
+            {
+              "name": "Chevrolet Corvette C8 Z06 (2023) - Hypercar"
+            },
+            {
+              "name": "Porsche Carrera GT (2003) - Hypercar"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/2ZJeUfkb1HuVuBv1OzpgB9/1c03123052cedbd13ba31e32c93b8a7f/06_W13_CUSTOM_BUNDLE_ONX_OFFROAD.jpg",
+          "crewcredits": "242,250",
+          "rewards": [
+            {
+              "name": "Lamborghini Temerario (2024) - Hypercar"
+            },
+            {
+              "name": "Purple Smoke"
+            },
+            {
+              "name": "Purple Nitro"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "m2-cs",
       "bundles": [
         {
