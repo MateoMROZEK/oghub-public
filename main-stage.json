@@ -1,4 +1,135 @@
 {
+  "2026-02": [
+    {
+      "name": "February Program",
+      "rewardsLevels": [
+        {
+          "name": "+10% XP",
+          "level": "1",
+          "xpNeed": 201600,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+        },
+        {
+          "name": "20 Legends Points",
+          "level": "2",
+          "xpNeed": 302400,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+        },
+        {
+          "name": "IL6 Turbo Bavarian Engine",
+          "level": "3",
+          "xpNeed": 100800,
+          "image": "https://i.oghub.fr/thecrew/motorfest/cars/tfsvRDalGperOupw9AYRyZds.jpg"
+        },
+        {
+          "name": "300,000 Bucks",
+          "level": "4",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+        },
+        {
+          "name": "FORD GT Ruby Ed",
+          "level": "10",
+          "xpNeed": 100800,
+          "image": "https://i.oghub.fr/thecrew/motorfest/cars/EEeaBoGhrd0SZQLT769t5bTX.jpg"
+        },
+        {
+          "name": "300 P Tickets",
+          "level": "20",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
+        },
+        {
+          "name": "LEGENDARY Title",
+          "level": "50",
+          "xpNeed": 100800,
+          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/legendary-title.webp"
+        }
+      ],
+      "technologies": [
+        {
+          "blue": [
+            {
+              "name": "+5% XP",
+              "level": "1",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "10 Legend Points",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "300 P Tickets",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/prestige-ticket.webp"
+            },
+            {
+              "name": "Sneakers: Monkey's Kitchen Dusk Edition",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://i.oghub.fr/thecrew/motorfest/cars/ey8y94iemRRTyAaDmOI62RNY.jpg"
+            }
+          ],
+          "orange": [
+            {
+              "name": "50,000 Bucks",
+              "level": "1",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
+            },
+            {
+              "name": "+10% XP",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "15 Legend Points",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "Ivory-Tower : VALKAAR S5-X Carbon Ed.",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://i.oghub.fr/thecrew/motorfest/cars/iB4zQdUsvNwre430vjVM7PRl.jpg"
+            }
+          ],
+          "green": [
+            {
+              "name": "15 Legend Points",
+              "level": "1",
+              "xpNeed": 36000,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
+            },
+            {
+              "name": "20,000 Consumables",
+              "level": "2",
+              "xpNeed": 50400,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/consumables.webp"
+            },
+            {
+              "name": "+15% XP",
+              "level": "3",
+              "xpNeed": 151200,
+              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
+            },
+            {
+              "name": "Saleen S7 Twin-Turbo Glacier Edition",
+              "level": "4",
+              "xpNeed": 252000,
+              "image": "https://i.oghub.fr/thecrew/motorfest/cars/JrJwE2Z0ZNYm2sADSnQv8ECX.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2026-01": [
     {
       "name": "January Program",
