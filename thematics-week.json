@@ -1,4 +1,44 @@
 {
+  "2026-02": [
+    {
+      "startDate": "25/02/2026 05:00:00",
+      "endDate": "04/03/2026 05:00:00",
+      "name": "Timelines Collide",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2026-02/timelines-collide.webp",
+      "url": "timelines-collide",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    },
+    {
+      "startDate": "18/02/2026 05:00:00",
+      "endDate": "25/02/2026 05:00:00",
+      "name": "Year of the horse",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2026-02/year-of-the-horse.webp",
+      "url": "year-of-the-horse",
+      "modifiersSummit": "",
+      "modifiersCustomShow": "",
+      "summitPlayers": "155000"
+    },
+    {
+      "startDate": "11/02/2026 05:00:00",
+      "endDate": "18/02/2026 05:00:00",
+      "name": "Beat the Devs",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2026-02/beat-the-devs.webp",
+      "url": "beat-the-devs",
+      "modifiersSummit": "Pro Racing",
+      "modifiersCustomShow": "",
+      "summitPlayers": "140000"
+    },
+    {
+      "startDate": "04/02/2026 05:00:00",
+      "endDate": "11/02/2026 05:00:00",
+      "name": "Clash of Goos",
+      "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2026-02/clash-of-goos.webp",
+      "url": "clash-of-goos",
+      "modifiersSummit": "",
+      "modifiersCustomShow": ""
+    }
+  ],
   "2026-01": [
     {
       "startDate": "28/01/2026 05:00:00",
@@ -7,7 +47,8 @@
       "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2026-01/on-x-offroad.webp",
       "url": "on-x-offroad",
       "modifiersSummit": "",
-      "modifiersCustomShow": "Rally Raid"
+      "modifiersCustomShow": "Rally Raid",
+      "summitPlayers": "150000"
     },
     {
       "startDate": "21/01/2026 05:00:00",

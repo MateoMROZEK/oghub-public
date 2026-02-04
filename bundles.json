@@ -1,4 +1,38 @@
 {
+  "2026-02": [
+    {
+      "url": "clash-of-goos",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3U95bV4GX1JbaqaKpcbwpA/3aa9f13425e2563fafdc59ed2631a119/05_WEEK_14_CLASH_OF_GODS.jpg",
+          "crewcredits": "240,400",
+          "bucks": "1,680,000",
+          "rewards": [
+            {
+              "name": "Aston Martin Valhalla (2023) - Hypercar"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4pHoIjfmjLVy2rZQmVeMLs/becda8a187e7bcf6538778f45f405630/06_CUSTOM_BUNDLE_W14_CLASH_OF_GODS.jpg",
+          "crewcredits": "284,750",
+          "rewards": [
+            {
+              "name": "Aston Martin Valhalla (2023) - Hypercar"
+            },
+            {
+              "name": "Blue Shockwave Smoke"
+            },
+            {
+              "name": "F1R3 Nitro"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2026-01": [
     {
       "url": "on-x-offroad",
