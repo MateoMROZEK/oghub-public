@@ -1,6 +1,98 @@
 {
   "2026-02": [
     {
+      "url": "beat-the-devs",
+      "events": [
+        {
+          "name": "Can you beat Toto?",
+          "activitie": "The Premiere",
+          "restriction": "BMW M3 Street Rider ED. [Loan]"
+        },
+        {
+          "name": "Can you beat S-A-F-E-R?",
+          "activitie": "Encounter",
+          "restriction": "Volkswagen Golf GTI 1800 [Loan]"
+        },
+        {
+          "name": "Can you beat Yugs?",
+          "activitie": "Waimea Sky",
+          "restriction": "BMW R1200GS Adventure [Loan]"
+        },
+        {
+          "name": "Can you beat Dessu?",
+          "activitie": "Germany: Mercedes",
+          "restriction": "McLaren 720S Spider"
+        },
+        {
+          "name": "Can you beat Samy?",
+          "activitie": "Get Dirt on it",
+          "restriction": "Audi S1 EKS RX Quattro [Loan]"
+        },
+        {
+          "name": "Can you beat Guille?",
+          "activitie": "Gymkhana Motorfest",
+          "restriction": "Ford Shelby GR-1 Concept"
+        },
+        {
+          "name": "Can you beat Jahpit?",
+          "activitie": "Moto Rush",
+          "restriction": "Proto Concept Spear Racing [Loan]"
+        },
+        {
+          "name": "Can you beat Masko?",
+          "activitie": "Great Britain: Aston Martin",
+          "restriction": "Audi R8 LMS GT2"
+        },
+        {
+          "name": "Can you beat Dedel?",
+          "activitie": "Blue Rush",
+          "restriction": "Porsche 959 Raid"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "5 Legend Points",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "5x Legendary Perf Part Street",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Glow Motorsport Window Tint",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "BMW M3 Street Rider Ed.",
+          "type": "rank"
+        }
+      ],
+      "guides": []
+    },
+    {
       "url": "clash-of-goos",
       "events": [
         {

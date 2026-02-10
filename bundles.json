@@ -1,6 +1,44 @@
 {
   "2026-02": [
     {
+      "url": "beat-the-devs",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3izuAoJZpvMwJ0gC7KI6mj/556d83aa2b1d2f10b0d79d536a6541f1/05_WEEK_15_BEAT_THE_DEVS.jpg",
+          "crewcredits": "328,950",
+          "bucks": "2,302,650",
+          "rewards": [
+            {
+              "name": "McLaren 720S Spider (2019) - Hypercar"
+            },
+            {
+              "name": "Ford Shelby GR-1 Concept (2004) - Street Car"
+            },
+            {
+              "name": "Audi R8 LMS GT2 (2020) - Racing Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1oBYmwAOAE4YQvRQBIzENn/6ef6c312d5de2dff5ba0ccd2f9d85386/06_W15_CUSTOM_BUNDLE_BEAT_THE_DEVS.jpg",
+          "crewcredits": "178,500",
+          "rewards": [
+            {
+              "name": "Bugatti Vision GT (2015) - Racing Car"
+            },
+            {
+              "name": "Shockwave Nitro"
+            },
+            {
+              "name": "Blue Speed Vortex Smoke"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "clash-of-goos",
       "bundles": [
         {
