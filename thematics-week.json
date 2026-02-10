@@ -17,7 +17,7 @@
       "url": "year-of-the-horse",
       "modifiersSummit": "",
       "modifiersCustomShow": "",
-      "summitPlayers": "155000"
+      "summitPlayers": "0"
     },
     {
       "startDate": "11/02/2026 05:00:00",
@@ -27,7 +27,7 @@
       "url": "beat-the-devs",
       "modifiersSummit": "Pro Racing",
       "modifiersCustomShow": "",
-      "summitPlayers": "140000"
+      "summitPlayers": "0"
     },
     {
       "startDate": "04/02/2026 05:00:00",
@@ -36,7 +36,8 @@
       "bannerUrl": "https://i.oghub.fr/thecrew/motorfest/summits/2026-02/clash-of-goos.webp",
       "url": "clash-of-goos",
       "modifiersSummit": "",
-      "modifiersCustomShow": ""
+      "modifiersCustomShow": "",
+      "summitPlayers": "132000"
     }
   ],
   "2026-01": [
