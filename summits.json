@@ -90,7 +90,15 @@
           "type": "rank"
         }
       ],
-      "guides": []
+      "guides": [
+        {
+          "name": "GUIDE THE CREW MOTORFEST - BEAT THE DEVS SUMMIT CONTEST GUIDE",
+          "channelName": "OGHubFR",
+          "channelURL": "https://www.youtube.com/@OGHubFR",
+          "url": "https://youtu.be/qB47mF6n-gs",
+          "urlEmbed": "https://www.youtube.com/embed/qB47mF6n-gs"
+        }
+      ]
     },
     {
       "url": "clash-of-goos",
