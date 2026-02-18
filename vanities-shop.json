@@ -1,6 +1,59 @@
 {
   "2026-02": [
     {
+      "url": "year-of-the-horse",
+      "vanities": [
+        {
+          "name": "Lunar Print Smoke",
+          "image": "",
+          "price": "70,000",
+          "rarety": ""
+        },
+        {
+          "name": "Lunar Print Underglow",
+          "image": "",
+          "price": "70,000",
+          "rarety": ""
+        },
+        {
+          "name": "Gold Rush Tire",
+          "image": "",
+          "price": "40,000",
+          "rarety": ""
+        },
+        {
+          "name": "Gold Wings Underglow",
+          "image": "",
+          "price": "40,000",
+          "rarety": ""
+        },
+        {
+          "name": "Lunar Year Smoke",
+          "image": "",
+          "price": "40,000",
+          "rarety": ""
+        },
+        {
+          "name": "Red Petals Nitro",
+          "image": "",
+          "price": "25,000",
+          "rarety": ""
+        },
+        {
+          "name": "Lunar Year Tire",
+          "image": "",
+          "price": "40,000",
+          "rarety": ""
+        },
+        {
+          "name": "Sparrow Competition Underglow",
+          "image": "",
+          "price": "25,000",
+          "rarety": ""
+        }
+      ]
+    },
+    {
       "url": "beat-the-devs",
       "vanities": [
         {

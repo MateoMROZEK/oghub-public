@@ -1,6 +1,47 @@
 {
   "2026-02": [
     {
+      "url": "year-of-the-horse",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://i.oghub.fr/thecrew/motorfest/summits/2026-02/year-of-the-horse.webp",
+          "crewcredits": "153,680",
+          "bucks": "1,075,760",
+          "rewards": [
+            {
+              "name": "Porsche 911 GT3 RS (2016) - Street Car"
+            },
+            {
+              "name": "Ferrari 458 Italia GT2 (2011) - Racing Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7lZoNWSlGQhlPOtrqXf0ip/93e8d9d2dcc278eccaeed11524a98415/05_CUSTOM_BUNDLE_W16_YEAR_OF_THE_HORSE.jpg",
+          "crewcredits": "160,300",
+          "rewards": [
+            {
+              "name": "Porsche 918 Spyder (2015) - Hypercar"
+            },
+            {
+              "name": "Lucky Card Nitro"
+            },
+            {
+              "name": "Blinking Yellow Underglow"
+            },
+            {
+              "name": "Low Poly Golden Smoke"
+            },
+            {
+              "name": "Golden Stripes Tire"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "beat-the-devs",
       "bundles": [
         {
