@@ -8,7 +8,7 @@
       },
       "max": 56.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/hothead.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/hothead.svg"
     },
     {
       "name": { "en": "Slippery", "fr": "Glissant" },
@@ -18,7 +18,7 @@
       },
       "max": 98,
       "unit": "",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/slippery.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/slippery.svg"
     },
     {
       "name": { "en": "Extra Pump", "fr": "Ultragonflé" },
@@ -28,7 +28,7 @@
       },
       "max": 35,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/extra_pump.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/extra-pump.svg"
     },
     {
       "name": { "en": "Pure", "fr": "Pur" },
@@ -38,7 +38,7 @@
       },
       "max": 35,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/pure.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/pure.svg"
     },
     {
       "name": { "en": "Skilled", "fr": "Surdoué" },
@@ -48,7 +48,7 @@
       },
       "max": 70,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/skilled.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/skilled.svg"
     },
     {
       "name": { "en": "Trailer", "fr": "Remorque" },
@@ -58,7 +58,7 @@
       },
       "max": 70.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/trailer.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/trailer.svg"
     },
     {
       "name": { "en": "Legend", "fr": "Légende" },
@@ -68,7 +68,7 @@
       },
       "max": 28.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/legend.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/legend.svg"
     },
     {
       "name": { "en": "Drifty", "fr": "Drift+" },
@@ -78,7 +78,7 @@
       },
       "max": 14.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/drifty.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/drifty.svg"
     },
     {
       "name": { "en": "Collector", "fr": "Collectionneur" },
@@ -88,7 +88,7 @@
       },
       "max": 56.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/collector.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/collector.webp"
     },
     {
       "name": { "en": "Clean Driver", "fr": "Pilote irréprochable" },
@@ -98,7 +98,7 @@
       },
       "max": 21.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/clean_driver.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/clean-driver.webp"
     },
     {
       "name": { "en": "Air Outtake", "fr": "Aspirateur" },
@@ -108,7 +108,7 @@
       },
       "max": 42.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/air_outtake.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/air-outtake.svg"
     },
     {
       "name": { "en": "Frenetic", "fr": "Frénétique" },
@@ -118,7 +118,7 @@
       },
       "max": 0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/frenetic.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/frenetic.svg"
     },
     {
       "name": { "en": "Goldfinger", "fr": "Goldfinger" },
@@ -128,7 +128,7 @@
       },
       "max": 42.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/goldfinger.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/goldfinger.svg"
     },
     {
       "name": { "en": "Resourceful", "fr": "Débrouillard" },
@@ -138,7 +138,7 @@
       },
       "max": 14.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/resourceful.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/resourceful.svg"
     },
     {
       "name": { "en": "Treasure Hunt", "fr": "Chasse au trésor" },
@@ -148,7 +148,7 @@
       },
       "max": 70.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/treasure_hunt.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/treasure-hunt.svg"
     },
     {
       "name": { "en": "Ventilated", "fr": "Hyperventilation" },
@@ -158,7 +158,7 @@
       },
       "max": 14.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/ventilated.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/ventilated.svg"
     },
     {
       "name": { "en": "Shifty", "fr": "Habile" },
@@ -168,7 +168,7 @@
       },
       "max": 70,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/shifty.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/shifty.svg"
     },
     {
       "name": { "en": "Air Intake", "fr": "Expirateur" },
@@ -178,7 +178,7 @@
       },
       "max": 0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/air_intake.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/air-intake.svg"
     },
     {
       "name": { "en": "Bended", "fr": "Penché" },
@@ -188,7 +188,7 @@
       },
       "max": 56.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/bended.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/bended.svg"
     },
     {
       "name": { "en": "Rocket", "fr": "Rocket" },
@@ -198,7 +198,7 @@
       },
       "max": 14.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/rocket.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/rocket.svg"
     },
     {
       "name": { "en": "Lucky", "fr": "Chanceux" },
@@ -208,7 +208,7 @@
       },
       "max": 178.5,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/lucky.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/lucky.svg"
     },
     {
       "name": { "en": "Rich", "fr": "Riche" },
@@ -218,7 +218,7 @@
       },
       "max": 21.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/rich.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/rich.svg"
     },
     {
       "name": { "en": "Trawler", "fr": "Chalutier" },
@@ -228,7 +228,7 @@
       },
       "max": 14.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/trawler.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/trawler.svg"
     },
     {
       "name": { "en": "Extra Impact", "fr": "Extra Impact" },
@@ -238,7 +238,7 @@
       },
       "max": 28.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/extra_impact.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/extra-impact.webp"
     },
     {
       "name": { "en": "Iron Grip", "fr": "Main de fer" },
@@ -248,7 +248,7 @@
       },
       "max": 42,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/iron_grip.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/iron-grip.svg"
     },
     {
       "name": { "en": "Bulldozer", "fr": "Bulldozer" },
@@ -258,13 +258,63 @@
       },
       "max": 84.0,
       "unit": "%",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/bulldozer.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/bulldozer.svg"
+    },
+    {
+      "name": { "en": "Extreme", "fr": "Extreme" },
+      "about": {
+        "en": "Increase EXTREME mode efficiency for PLANES",
+        "fr": "Augmente l'efficacité du mode EXTRÊME pour les AVIONS"
+      },
+      "max": 28.0,
+      "unit": "%",
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/extreme.svg"
+    },
+    {
+      "name": { "en": "Perfectionist", "fr": "Perfectionniste" },
+      "about": {
+        "en": "Increase gate allowance in AIR RACE Events",
+        "fr": "Augmente ...."
+      },
+      "max": 42.0,
+      "unit": "%",
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/perfectionist.svg"
+    },
+    {
+      "name": { "en": "Cluster", "fr": "Jauge" },
+      "about": {
+        "en": "Increase GEARSHIFTING BOOST EFFECT in DRAG RACE events",
+        "fr": "Augmente l'effet de BOOST DU CHANGEMENT DE VITESSE en épreuve DRAG RACE"
+      },
+      "max": 14.0,
+      "unit": "%",
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/cluster.svg"
+    },
+    {
+      "name": { "en": "Gateway", "fr": "Portes ouvertes" },
+      "about": {
+        "en": "NITRO refills when passing Perfect Gate in AIR RACE Events",
+        "fr": "La NITRO se recherche lors des franchissements de porte parfaits pendant les épreuves d'AVIONS."
+      },
+      "max": 28.0,
+      "unit": "%",
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/gateway.svg"
+    },
+    {
+      "name": { "en": "Tricky", "fr": "Tricks+" },
+      "about": {
+        "en": "NITRO refills when performing figure",
+        "fr": "NITRO se recharge lors de l'exécution d'une figure"
+      },
+      "max": 28.0,
+      "unit": "%",
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/tricky.svg"
     }
   ],
   "set": [
     {
       "name": { "en": "Bucks Magnet", "fr": "Aimant à Bucks" },
-      "about": { "en": "", "fr": "" },
+      "about": { "en": "Earn more Bucks", "fr": "Augmente le gains d'ARGENT" },
       "semi": 7.0,
       "max": 15.0,
       "unit": "%",
@@ -272,7 +322,10 @@
     },
     {
       "name": { "en": "Score Breaker", "fr": "Pulvérisateur de score" },
-      "about": { "en": "", "fr": "" },
+      "about": {
+        "en": "Increase POINTS in FEATS",
+        "fr": "Gagne plus POINTS dans les DEFIS"
+      },
       "semi": 50.0,
       "max": 100.0,
       "unit": "%",
@@ -280,7 +333,10 @@
     },
     {
       "name": { "en": "XP Magnet", "fr": "Aimant à XP" },
-      "about": { "en": "", "fr": "" },
+      "about": {
+        "en": "Increase XP gains",
+        "fr": "Augmente le gains XP"
+      },
       "semi": 12.0,
       "max": 25.0,
       "unit": "%",
@@ -288,7 +344,10 @@
     },
     {
       "name": { "en": "Nitro Chemist", "fr": "Chimiste Nitro" },
-      "about": { "en": "", "fr": "" },
+      "about": {
+        "en": "Increrase the NITRO Duration",
+        "fr": "Augmente la durée de la NITRO"
+      },
       "semi": 25.0,
       "max": 50.0,
       "unit": "%",
@@ -296,7 +355,10 @@
     },
     {
       "name": { "en": "Loot Digger", "fr": "Chasseur de loot" },
-      "about": { "en": "", "fr": "" },
+      "about": {
+        "en": "Increase the LOOT earned",
+        "fr": "Augmente le LOOT gagné"
+      },
       "semi": 50.0,
       "max": 100.0,
       "unit": "%",
@@ -318,7 +380,10 @@
         "en": "Neutralization expert",
         "fr": "Expert de la neutralisation"
       },
-      "about": { "en": "", "fr": "" },
+      "about": {
+        "en": "Increase POINTS in CHASE",
+        "fr": "Gagne plus de POINTS en CHASE"
+      },
       "semi": 25.0,
       "max": 50.0,
       "unit": "%",
