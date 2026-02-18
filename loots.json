@@ -1,6 +1,7 @@
 {
   "loots": [
     {
+      "id": "hothead",
       "name": { "en": "Hothead", "fr": "Véloce" },
       "about": {
         "en": "Increases the speed multiplier during DRIFT events",
@@ -8,9 +9,11 @@
       },
       "max": 56.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/hothead.svg"
     },
     {
+      "id": "slippery",
       "name": { "en": "Slippery", "fr": "Glissant" },
       "about": {
         "en": "Increases the maximum multiplier during DRIFT events",
@@ -18,9 +21,11 @@
       },
       "max": 98,
       "unit": "",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/slippery.svg"
     },
     {
+      "id": "extra_pump",
       "name": { "en": "Extra Pump", "fr": "Ultragonflé" },
       "about": {
         "en": "Increases the regeneration speed of NITRO",
@@ -28,9 +33,11 @@
       },
       "max": 35,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/extra-pump.svg"
     },
     {
+      "id": "pure",
       "name": { "en": "Pure", "fr": "Pur" },
       "about": {
         "en": "Increases the power of NITRO",
@@ -38,9 +45,11 @@
       },
       "max": 35,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/pure.svg"
     },
     {
+      "id": "skilled",
       "name": { "en": "Skilled", "fr": "Surdoué" },
       "about": {
         "en": "Increases the score in all point-based CHALLENGES",
@@ -48,9 +57,11 @@
       },
       "max": 70,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/skilled.svg"
     },
     {
+      "id": "trailer",
       "name": { "en": "Trailer", "fr": "Remorque" },
       "about": {
         "en": "Increases speed when you are in front of another vehicle",
@@ -58,9 +69,11 @@
       },
       "max": 70.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/trailer.svg"
     },
     {
+      "id": "legend",
       "name": { "en": "Legend", "fr": "Légende" },
       "about": {
         "en": "Increases your XP gain",
@@ -68,9 +81,11 @@
       },
       "max": 28.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/legend.svg"
     },
     {
+      "id": "drifty",
       "name": { "en": "Drifty", "fr": "Drift+" },
       "about": {
         "en": "Nitro recharges during drifts.",
@@ -78,9 +93,11 @@
       },
       "max": 14.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/drifty.svg"
     },
     {
+      "id": "collector",
       "name": { "en": "Collector", "fr": "Collectionneur" },
       "about": {
         "en": "Increases the frequency of treasure appearances",
@@ -88,9 +105,11 @@
       },
       "max": 56.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/collector.webp"
     },
     {
+      "id": "clean_driver",
       "name": { "en": "Clean Driver", "fr": "Pilote irréprochable" },
       "about": {
         "en": "Reduces the loss of BUCKS from the flawless driving modifier",
@@ -98,9 +117,11 @@
       },
       "max": 21.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/clean-driver.webp"
     },
     {
+      "id": "air_outtake",
       "name": { "en": "Air Outtake", "fr": "Aspirateur" },
       "about": {
         "en": "Increases the suction distance",
@@ -108,9 +129,11 @@
       },
       "max": 42.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/air-outtake.svg"
     },
     {
+      "id": "frenetic",
       "name": { "en": "Frenetic", "fr": "Frénétique" },
       "about": {
         "en": "Nitro power increases as it is used",
@@ -118,9 +141,11 @@
       },
       "max": 0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/frenetic.svg"
     },
     {
+      "id": "goldfinger",
       "name": { "en": "Goldfinger", "fr": "Goldfinger" },
       "about": {
         "en": "Increases the rate at which loot appears",
@@ -128,9 +153,11 @@
       },
       "max": 42.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/goldfinger.svg"
     },
     {
+      "id": "resourceful",
       "name": { "en": "Resourceful", "fr": "Débrouillard" },
       "about": {
         "en": "Nitro recharges during braking",
@@ -138,9 +165,11 @@
       },
       "max": 14.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/resourceful.svg"
     },
     {
+      "id": "treasure_hunt",
       "name": { "en": "Treasure Hunt", "fr": "Chasse au trésor" },
       "about": {
         "en": "Increases the range of the radar, allowing treasures to be detected",
@@ -148,9 +177,11 @@
       },
       "max": 70.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/treasures-hunt.svg"
     },
     {
+      "id": "ventilated",
       "name": { "en": "Ventilated", "fr": "Hyperventilation" },
       "about": {
         "en": "Nitro recharges during a jump",
@@ -158,9 +189,11 @@
       },
       "max": 14.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/ventilated.svg"
     },
     {
+      "id": "shifty",
       "name": { "en": "Shifty", "fr": "Habile" },
       "about": {
         "en": "Increases suction power",
@@ -168,9 +201,11 @@
       },
       "max": 70,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/shifty.svg"
     },
     {
+      "id": "air_intake",
       "name": { "en": "Air Intake", "fr": "Expirateur" },
       "about": {
         "en": "Increases air flow for better engine performance",
@@ -178,9 +213,11 @@
       },
       "max": 0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/air-intake.svg"
     },
     {
+      "id": "bended",
       "name": { "en": "Bended", "fr": "Penché" },
       "about": {
         "en": "Increase the player's lean bonus",
@@ -188,9 +225,11 @@
       },
       "max": 56.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/bended.svg"
     },
     {
+      "id": "rocket",
       "name": { "en": "Rocket", "fr": "Rocket" },
       "about": {
         "en": "Increases the power of AIR nitro",
@@ -198,9 +237,11 @@
       },
       "max": 14.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/rocket.svg"
     },
     {
+      "id": "lucky",
       "name": { "en": "Lucky", "fr": "Chanceux" },
       "about": {
         "en": "Increases the quality of LOOT",
@@ -208,9 +249,11 @@
       },
       "max": 178.5,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/lucky.svg"
     },
     {
+      "id": "rich",
       "name": { "en": "Rich", "fr": "Riche" },
       "about": {
         "en": "Increase your BUCKS earnings",
@@ -218,9 +261,11 @@
       },
       "max": 21.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/rich.svg"
     },
     {
+      "id": "trawler",
       "name": { "en": "Trawler", "fr": "Chalutier" },
       "about": {
         "en": "Increases speed in WATER for land vehicles",
@@ -228,9 +273,11 @@
       },
       "max": 14.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/trawler.svg"
     },
     {
+      "id": "extra_impact",
       "name": { "en": "Extra Impact", "fr": "Extra Impact" },
       "about": {
         "en": "Increases TRACKING Points",
@@ -238,9 +285,11 @@
       },
       "max": 28.0,
       "unit": "%",
+      "released": "Season 5",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/extra-impact.webp"
     },
     {
+      "id": "iron_grip",
       "name": { "en": "Iron Grip", "fr": "Main de fer" },
       "about": {
         "en": "Reduces the loss of adhesion of the adhesion loss modifier",
@@ -248,9 +297,11 @@
       },
       "max": 42,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/iron-grip.svg"
     },
     {
+      "id": "bulldozer",
       "name": { "en": "Bulldozer", "fr": "Bulldozer" },
       "about": {
         "en": "Increases the impact force during collisions",
@@ -258,9 +309,11 @@
       },
       "max": 84.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/bulldozer.svg"
     },
     {
+      "id": "extreme",
       "name": { "en": "Extreme", "fr": "Extreme" },
       "about": {
         "en": "Increase EXTREME mode efficiency for PLANES",
@@ -268,19 +321,23 @@
       },
       "max": 28.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/extreme.svg"
     },
     {
+      "id": "perfectionist",
       "name": { "en": "Perfectionist", "fr": "Perfectionniste" },
       "about": {
         "en": "Increase gate allowance in AIR RACE Events",
-        "fr": "Augmente ...."
+        "fr": "Augmente  la marge de sécurité dans les courses en avion"
       },
       "max": 42.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/perfectionist.svg"
     },
     {
+      "id": "cluster",
       "name": { "en": "Cluster", "fr": "Jauge" },
       "about": {
         "en": "Increase GEARSHIFTING BOOST EFFECT in DRAG RACE events",
@@ -288,9 +345,11 @@
       },
       "max": 14.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/cluster.svg"
     },
     {
+      "id": "gateway",
       "name": { "en": "Gateway", "fr": "Portes ouvertes" },
       "about": {
         "en": "NITRO refills when passing Perfect Gate in AIR RACE Events",
@@ -298,9 +357,11 @@
       },
       "max": 28.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/gateway.svg"
     },
     {
+      "id": "tricky",
       "name": { "en": "Tricky", "fr": "Tricks+" },
       "about": {
         "en": "NITRO refills when performing figure",
@@ -308,19 +369,23 @@
       },
       "max": 28.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/tricky.svg"
     }
   ],
   "set": [
     {
+      "id": "bucks_magnet",
       "name": { "en": "Bucks Magnet", "fr": "Aimant à Bucks" },
       "about": { "en": "Earn more Bucks", "fr": "Augmente le gains d'ARGENT" },
       "semi": 7.0,
       "max": 15.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/bucks_magnet.webp"
     },
     {
+      "id": "score_breaker",
       "name": { "en": "Score Breaker", "fr": "Pulvérisateur de score" },
       "about": {
         "en": "Increase POINTS in FEATS",
@@ -329,9 +394,11 @@
       "semi": 50.0,
       "max": 100.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/score_breaker.webp"
     },
     {
+      "id": "xp_magnet",
       "name": { "en": "XP Magnet", "fr": "Aimant à XP" },
       "about": {
         "en": "Increase XP gains",
@@ -340,9 +407,11 @@
       "semi": 12.0,
       "max": 25.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/xp_magnet.webp"
     },
     {
+      "id": "nitro_chemist",
       "name": { "en": "Nitro Chemist", "fr": "Chimiste Nitro" },
       "about": {
         "en": "Increrase the NITRO Duration",
@@ -351,9 +420,11 @@
       "semi": 25.0,
       "max": 50.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/nitro_chemist.webp"
     },
     {
+      "id": "loot_digger",
       "name": { "en": "Loot Digger", "fr": "Chasseur de loot" },
       "about": {
         "en": "Increase the LOOT earned",
@@ -362,9 +433,11 @@
       "semi": 50.0,
       "max": 100.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/loot_digger.webp"
     },
     {
+      "id": "treasure_sniffer",
       "name": { "en": "Treasure Sniffer", "fr": "Chasseur de trésors" },
       "about": {
         "en": "Increases the LOOT earned",
@@ -373,9 +446,11 @@
       "semi": 50.0,
       "max": 100.0,
       "unit": "%",
+      "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/treasure_sniffer.webp"
     },
     {
+      "id": "neutralization_expert",
       "name": {
         "en": "Neutralization expert",
         "fr": "Expert de la neutralisation"
@@ -387,7 +462,106 @@
       "semi": 25.0,
       "max": 50.0,
       "unit": "%",
+      "released": "Season 5",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/neutralization_expert.webp"
+    }
+  ],
+  "bestFarm": [
+    {
+      "name": {
+        "en": "Nitro Chemist",
+        "fr": "Chimiste Nitro"
+      },
+      "loots": ["extra_pump", "pure"],
+      "set": "nitro_chemist"
+    },
+    {
+      "name": {
+        "en": "XP Farm",
+        "fr": "Farm d'XP"
+      },
+      "loots": ["legend", "rich"],
+      "set": "xp_magnet"
+    },
+    {
+      "name": {
+        "en": "BUCKS Farm",
+        "fr": "Farm de BUCKS"
+      },
+      "loots": ["legend", "rich"],
+      "set": "bucks_magnet"
+    },
+    {
+      "name": {
+        "en": "DEMOLITION Monster",
+        "fr": "Démolition"
+      },
+      "loots": ["bulldozer", "extra_pump"],
+      "set": "nitro_chemist"
+    },
+    {
+      "name": {
+        "en": "Drag Master",
+        "fr": "Monstre du Drag"
+      },
+      "loots": ["cluster", "frenetic"],
+      "set": "nitro_chemist"
+    },
+    {
+      "name": {
+        "en": "Loot Digger",
+        "fr": "Qualité du loot"
+      },
+      "loots": ["goldfinger", "lucky"],
+      "set": "loot_digger"
+    },
+    {
+      "name": {
+        "en": "Neutralization expert",
+        "fr": "Expert de la neutralisation"
+      },
+      "loots": ["extra_impact", "pure"],
+      "set": "neutralization_expert"
+    },
+    {
+      "name": {
+        "en": "Plane Perfection",
+        "fr": "Perfection de l'avion"
+      },
+      "loots": ["perfectionist", "gateway"],
+      "set": "nitro_chemist"
+    },
+    {
+      "name": {
+        "en": "Score Breaker",
+        "fr": "Pulvérisateur de score"
+      },
+      "loots": ["skilled", "pure"],
+      "set": "score_breaker"
+    },
+    {
+      "name": {
+        "en": "Slipstream master",
+        "fr": "Maître du sillage"
+      },
+      "loots": ["air_intake", "air_outtake"],
+      "set": "nitro_chemist"
+    },
+    {
+      "name": {
+        "en": "Slipstream master 2",
+        "fr": "Maître du sillage 2"
+      },
+      "loots": ["shifty", "trailer"],
+      "set": "nitro_chemist"
+    },
+    {
+      "name": {
+        "en": "Treasure Sniffer",
+        "fr": "Chasseurs aux trésors"
+      },
+      "loots": ["collector", "treasure_hunt"],
+      "set": "treasure_sniffer"
     }
   ]
 }
