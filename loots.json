@@ -199,7 +199,7 @@
         "en": "Increases suction power",
         "fr": "Augmente la puissance de l'aspiration"
       },
-      "max": 70,
+      "max": 70.0,
       "unit": "%",
       "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/shifty.svg"
@@ -211,7 +211,7 @@
         "en": "Increases air flow for better engine performance",
         "fr": "Augmente le flux d'air pour de meilleures performances moteur"
       },
-      "max": 0,
+      "max": 42.0,
       "unit": "%",
       "released": "Season 1",
       "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/air-intake.svg"
