@@ -1,6 +1,106 @@
 {
   "2026-02": [
     {
+      "url": "year-of-the-horse",
+      "events": [
+        {
+          "name": "Horsing Around",
+          "activitie": "Owning the Racetracks",
+          "restriction": "Porsche 911 GT3 RS [Loan]"
+        },
+        {
+          "name": "Healthy as a Horse",
+          "activitie": "Wangan Soul",
+          "restriction": "Ford Mustang GT Fastback Stunt Edition [Loan]"
+        },
+        {
+          "name": "Electrical Horse",
+          "activitie": "Hyper E-Volution",
+          "restriction": "Porsche 911 GT3 RS"
+        },
+        {
+          "name": "A Two-Horse Race",
+          "activitie": "Egoista VS Terzo Millennio",
+          "restriction": "Ferrari 458 Italia GT2 [Loan]"
+        },
+        {
+          "name": "Wild Horse",
+          "activitie": "Jungle Bruise",
+          "restriction": "Ford Bronco Hawaii Scenic Tour ED. [Loan]"
+        },
+        {
+          "name": "Horses in the Rain",
+          "activitie": "911 Legends",
+          "restriction": "Ferrari 458 Italia GT2"
+        },
+        {
+          "name": "Slalom Asphalt",
+          "activitie": "",
+          "restriction": "Porsche 911 GT3 RS"
+        },
+        {
+          "name": "Speedtrap",
+          "activitie": "",
+          "restriction": "Porsche/Ferrari"
+        },
+        {
+          "name": "Escape Asphalt",
+          "activitie": "",
+          "restriction": "Ferrari 458 Italia GT2"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "5 Legend Points",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "50 P Tickets",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Jaguar C-X75 Concept Lunar Year Ed.",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Kuroi Kumo Underglow - Rare",
+          "type": "rank"
+        }
+      ],
+      "guides": [
+        {
+          "name": "GUIDE THE CREW MOTORFEST - YEAR OF THE HORSE",
+          "channelName": "OGHubFR",
+          "channelURL": "https://www.youtube.com/@OGHubFR",
+          "url": "https://youtu.be/76IXOAAAf3k",
+          "urlEmbed": "https://www.youtube.com/embed/76IXOAAAf3k"
+        }
+      ]
+    },
+    {
       "url": "beat-the-devs",
       "events": [
         {
