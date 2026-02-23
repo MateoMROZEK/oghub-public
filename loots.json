@@ -382,7 +382,7 @@
       "max": 15.0,
       "unit": "%",
       "released": "Season 1",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/bucks_magnet.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/bucks_magnet.svg"
     },
     {
       "id": "score_breaker",
@@ -447,7 +447,7 @@
       "max": 100.0,
       "unit": "%",
       "released": "Season 1",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/treasure_sniffer.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/treasure_sniffer.svg"
     },
     {
       "id": "neutralization_expert",
@@ -463,7 +463,7 @@
       "max": 50.0,
       "unit": "%",
       "released": "Season 5",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/neutralization_expert.svg"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/neutralization-expert.svg"
     }
   ],
   "bestFarm": [
