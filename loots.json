@@ -106,7 +106,7 @@
       "max": 56.0,
       "unit": "%",
       "released": "Season 1",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/collector.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/collector.svg"
     },
     {
       "id": "clean_driver",
@@ -118,7 +118,7 @@
       "max": 21.0,
       "unit": "%",
       "released": "Season 1",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/clean-driver.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/clean-driver.svg"
     },
     {
       "id": "air_outtake",
@@ -286,7 +286,7 @@
       "max": 28.0,
       "unit": "%",
       "released": "Season 5",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/extra-impact.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/loots/extra-impact.svg"
     },
     {
       "id": "iron_grip",
