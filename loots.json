@@ -395,7 +395,7 @@
       "max": 100.0,
       "unit": "%",
       "released": "Season 1",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/score_breaker.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/score_breaker.svg"
     },
     {
       "id": "xp_magnet",
@@ -408,7 +408,7 @@
       "max": 25.0,
       "unit": "%",
       "released": "Season 1",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/xp_magnet.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/xp_magnet.svg"
     },
     {
       "id": "nitro_chemist",
@@ -421,7 +421,7 @@
       "max": 50.0,
       "unit": "%",
       "released": "Season 1",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/nitro_chemist.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/nitro_chemist.svg"
     },
     {
       "id": "loot_digger",
@@ -434,7 +434,7 @@
       "max": 100.0,
       "unit": "%",
       "released": "Season 1",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/loot_digger.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/loot_digger.svg"
     },
     {
       "id": "treasure_sniffer",
@@ -463,7 +463,7 @@
       "max": 50.0,
       "unit": "%",
       "released": "Season 5",
-      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/neutralization_expert.webp"
+      "image": "https://i.oghub.fr/thecrew/motorfest/loots/sets/neutralization_expert.svg"
     }
   ],
   "bestFarm": [
