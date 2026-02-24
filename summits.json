@@ -1,6 +1,106 @@
 {
   "2026-02": [
     {
+      "url": "timelines-collide",
+      "events": [
+        {
+          "name": "Conceptual Confrontation",
+          "activitie": "France: Bugatti Part 1",
+          "restriction": "Cadillac Cyclone XP 74 Concept + Apollo Project EVO [Loan]"
+        },
+        {
+          "name": "Porsche Power",
+          "activitie": "Racing DNA",
+          "restriction": "Porsche 917K + Porsche 919 Clubsport [Loan]"
+        },
+        {
+          "name": "Convertible Continuum",
+          "activitie": "HI X Low",
+          "restriction": "Porsche 550 Spyder + McLaren Elva"
+        },
+        {
+          "name": "Volkswagen Vortex",
+          "activitie": "Final E-Vent",
+          "restriction": "Volkswagen Electric R + Volkswagen Beetle + Volkswagen Beetle Rally Raid ED"
+        },
+        {
+          "name": "Mercedes Momentum",
+          "activitie": "Scene 3: The First Job",
+          "restriction": "Mercedes-Benz 300 SLR Uhlenhaut Coupe + Mercedes-Benz Vision EQ Silver Arrow [Loan]"
+        },
+        {
+          "name": "Red Revolution",
+          "activitie": "Ground Works",
+          "restriction": "Alfa Romeo 33 Stradale + Hyperion XP-1 [Loan]"
+        },
+        {
+          "name": "Speedtrap",
+          "activitie": "",
+          "restriction": "Volkswagen Electric R"
+        },
+        {
+          "name": "Speedtrap",
+          "activitie": "",
+          "restriction": "Porsche"
+        },
+        {
+          "name": "Slalom Asphalt",
+          "activitie": "",
+          "restriction": "Volkswagen Car"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "5 Legend Points",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "50,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "20,000 Consumables",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Delorean DMC-12",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Orange Streaks Smoke - Rare",
+          "type": "rank"
+        }
+      ],
+      "guides": [
+        {
+          "name": "GUIDE THE CREW MOTORFEST - YEAR OF THE HORSE",
+          "channelName": "OGHubFR",
+          "channelURL": "https://www.youtube.com/@OGHubFR",
+          "url": "https://youtu.be/76IXOAAAf3k",
+          "urlEmbed": "https://www.youtube.com/embed/76IXOAAAf3k"
+        }
+      ]
+    },
+    {
       "url": "year-of-the-horse",
       "events": [
         {
@@ -460,7 +560,7 @@
         {
           "eventsNeed": 60000,
           "rankName": "Silver",
-          "name": "20,000 Details",
+          "name": "20,000 Consumables",
           "type": "rank"
         },
         {
@@ -860,7 +960,7 @@
         {
           "eventsNeed": 999999,
           "rankName": "Bronze",
-          "name": "10,000 Details",
+          "name": "10,000 Consumables",
           "type": "rank"
         },
         {
@@ -967,7 +1067,7 @@
         {
           "eventsNeed": 60000,
           "rankName": "Silver",
-          "name": "20,000 Details",
+          "name": "20,000 Consumables",
           "type": "rank"
         },
         {
@@ -1346,7 +1446,7 @@
         {
           "eventsNeed": 60000,
           "rankName": "Silver",
-          "name": "20,000 Details",
+          "name": "20,000 Consumables",
           "type": "rank"
         },
         {

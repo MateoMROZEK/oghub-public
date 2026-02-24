@@ -1,6 +1,31 @@
 {
   "2026-02": [
     {
+      "url": "timelines-collide",
+      "rewards": [
+        {
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "rankName": "Silver",
+          "name": "100,000 Bucks",
+          "type": "rank"
+        },
+        {
+          "rankName": "Gold",
+          "name": "100 P Tickets",
+          "type": "rank"
+        },
+        {
+          "rankName": "Platinum",
+          "name": "Orange Reactor Nitro - Rare",
+          "type": "rank"
+        }
+      ]
+    },
+    {
       "url": "year-of-the-horse",
       "rewards": [
         {

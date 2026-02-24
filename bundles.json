@@ -1,6 +1,44 @@
 {
   "2026-02": [
     {
+      "url": "timelines-collide",
+      "bundles": [
+        {
+          "name": "Main Stage Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/23gMAASFUbQGXf0fkSyBpn/3824533c339887ebc8970bdee7101877/05_WEEK_17_TIMELINES_COLLIDE.jpg",
+          "crewcredits": "134,320",
+          "bucks": "940,240",
+          "rewards": [
+            {
+              "name": "Volkswagen Electric R (2019) - Racing Car"
+            },
+            {
+              "name": "Volkswagen Beetle (1967) - Street Car"
+            },
+            {
+              "name": "Volkswagen Beetle Rally Raid ED. (1967) - Rally Raid Car"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5fkvG7MVfhcLNCcDnSCdv1/514d0eadbefb9084033e70d3e3308952/06_W17_CUSTOM_BUNDLE_TIMELINES_COLLIDE.jpg",
+          "crewcredits": "287,300",
+          "rewards": [
+            {
+              "name": "Hyperion XP-1 (2022) - Hypercar"
+            },
+            {
+              "name": "Bifröst Voyager Smoke"
+            },
+            {
+              "name": "Icy Lightening Underglow"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "url": "year-of-the-horse",
       "bundles": [
         {
