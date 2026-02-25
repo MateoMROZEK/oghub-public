@@ -1,6 +1,44 @@
 {
   "motorfest": [
     {
+      "season": 9,
+      "date": "2026-03-04",
+      "addElements": [
+        "New NASCAR Playlist",
+        "New RC Playlist (May 2026 - Year 3 Pass be required)",
+        "New Trackforge Playground",
+        "Dedicated NASCAR & RC areas in Trackforge",
+        "New NASCAR & RC Rivals",
+        "New Grand Race routes (including new island)",
+        "Pantheon’s Strike Smoke",
+        "Rabbit Hole Nitro",
+        "Motorfest’s Walk of Flame Outfit",
+        "New exclusive RC reward part (RC challenges only)",
+        "Multi-brand filters in Shop and Inventory",
+        "Garage filters saved during session",
+        "New Main Stage vehicle tag",
+        "Improved Shop homepage logic",
+        "HDR settings adjustments",
+        "Updated Looking for Crew feature",
+        "New ranked reward distribution flow (Grand Race transition S08 → S09)"
+      ],
+      "changesElements": [
+        "Chevrolet Impala Sport Sedan [BUFF]",
+        "Chevrolet Corvette C3 F1R3 Edition [BUFF]",
+        "Shelby GT500 (1967) [BUFF]",
+        "Dodge Charger R/T Hemi (1969) [BUFF]",
+        "Mazda MX-5 (NA) 1989 [BUFF]",
+        "Mazda RX-7 Turbo 10th Anniversary [BUFF]",
+        "Mazda RX-7 Turbo Outline Edition [BUFF]",
+        "Mazda RX-7 Turbo Sakura Edition [BUFF]",
+        "Porsche 911 Carrera RS 2.7 [NERF]",
+        "Peugeot 205 T16 EVO 2 [NERF]",
+        "Gordon Murray T.50s [NERF]",
+        "Koenigsegg Agera R [NERF]",
+        "Bugatti Centodieci [NERF]"
+      ]
+    },
+    {
       "season": 8,
       "date": "2025-11-13",
       "addElements": [],
