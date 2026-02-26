@@ -541,6 +541,14 @@
     },
     {
       "name": {
+        "en": "King of drifting",
+        "fr": "Roi du drift"
+      },
+      "loots": ["hothead", "slippery"],
+      "set": "nitro_chemist"
+    },
+    {
+      "name": {
         "en": "Slipstream master",
         "fr": "Maître du sillage"
       },
