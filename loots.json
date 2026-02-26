@@ -469,10 +469,18 @@
   "bestFarm": [
     {
       "name": {
-        "en": "Nitro Chemist",
-        "fr": "Chimiste Nitro"
+        "en": "Nitro Chemist (Quickly Regen.)",
+        "fr": "Chimiste Nitro (Regen. Rapide)"
       },
       "loots": ["extra_pump", "pure"],
+      "set": "nitro_chemist"
+    },
+    {
+      "name": {
+        "en": "Nitro Power (Quality of Nitro)",
+        "fr": "Puissance Nitro (Qualité de la nitro)"
+      },
+      "loots": ["frenetic", "pure"],
       "set": "nitro_chemist"
     },
     {
