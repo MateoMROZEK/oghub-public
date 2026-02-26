@@ -501,6 +501,14 @@
     },
     {
       "name": {
+        "en": "Bucks at will",
+        "fr": "Bucks à Volonté"
+      },
+      "loots": ["clean_driver", "rich"],
+      "set": "bucks_magnet"
+    },
+    {
+      "name": {
         "en": "DEMOLITION Monster",
         "fr": "Démolition"
       },
