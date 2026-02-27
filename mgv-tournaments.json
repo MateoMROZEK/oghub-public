@@ -147,6 +147,32 @@
             "youtube": "https://youtube.com/@ebl_vinc",
             "twitch": "https://twitch.tv/ebl_vinc"
           }
+        },
+        {
+          "id": "ebl_vinc2",
+          "name": "EBL_vinc",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "EBL",
+          "team": "",
+          "ogHubProfile": "ebl_vinc",
+          "socials": {
+            "youtube": "https://youtube.com/@ebl_vinc",
+            "twitch": "https://twitch.tv/ebl_vinc"
+          }
+        },
+        {
+          "id": "ebl_vinc3",
+          "name": "EBL_vinc",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "EBL",
+          "team": "",
+          "ogHubProfile": "ebl_vinc",
+          "socials": {
+            "youtube": "https://youtube.com/@ebl_vinc",
+            "twitch": "https://twitch.tv/ebl_vinc"
+          }
         }
       ],
       "events": [
@@ -253,6 +279,31 @@
         {
           "eventId": "mg_week4",
           "playerId": "ebl_vinc",
+          "time": "1:50.124"
+        },
+        {
+          "eventId": "mg_week4",
+          "playerId": "motorgames",
+          "time": "1:55.000"
+        },
+        {
+          "eventId": "vinc_week2",
+          "playerId": "ebl_vinc",
+          "time": "1:50.124"
+        },
+        {
+          "eventId": "vinc_week2",
+          "playerId": "motorgames",
+          "time": "1:50.124"
+        },
+        {
+          "eventId": "vinc_week2",
+          "playerId": "ebl_vinc2",
+          "time": "1:50.124"
+        },
+        {
+          "eventId": "vinc_week2",
+          "playerId": "ebl_vinc3",
           "time": "1:50.124"
         }
       ]
