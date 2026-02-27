@@ -157,8 +157,8 @@
           "shareId": "123-567-901",
           "creator": "motorgames",
           "week": 2,
-          "date": "2024-03-15",
-          "status": "completed"
+          "date": "2026-03-11",
+          "status": "ongoing"
         },
         {
           "id": "vinc_week1",
@@ -169,8 +169,80 @@
           "shareId": "234-678-012",
           "creator": "ebl_vinc",
           "week": 2,
-          "date": "2024-03-15",
-          "status": "completed"
+          "date": "2026-03-11",
+          "status": "ongoing"
+        },
+        {
+          "id": "mg_week2",
+          "name": {
+            "fr": "Circuit MGV2",
+            "en": "MGV2 Circuit"
+          },
+          "shareId": "123-567-901",
+          "creator": "motorgames",
+          "week": 2,
+          "date": "2026-03-18",
+          "status": "upcoming"
+        },
+        {
+          "id": "vinc_week2",
+          "name": {
+            "fr": "Speedway EBL2",
+            "en": "EBL2 Speedway"
+          },
+          "shareId": "234-678-012",
+          "creator": "ebl_vinc",
+          "week": 2,
+          "date": "2026-03-18",
+          "status": "upcoming"
+        },
+        {
+          "id": "mg_week3",
+          "name": {
+            "fr": "Circuit MGV3",
+            "en": "MGV3 Circuit"
+          },
+          "shareId": "123-567-901",
+          "creator": "motorgames",
+          "week": 3,
+          "date": "2026-03-25",
+          "status": "upcoming"
+        },
+        {
+          "id": "vinc_week3",
+          "name": {
+            "fr": "Speedway EBL3",
+            "en": "EBL3 Speedway"
+          },
+          "shareId": "234-678-012",
+          "creator": "ebl_vinc",
+          "week": 3,
+          "date": "2026-03-25",
+          "status": "upcoming"
+        },
+        {
+          "id": "mg_week4",
+          "name": {
+            "fr": "Circuit MGV3",
+            "en": "MGV3 Circuit"
+          },
+          "shareId": "123-567-901",
+          "creator": "motorgames",
+          "week": 4,
+          "date": "2026-04-01",
+          "status": "upcoming"
+        },
+        {
+          "id": "vinc_week4",
+          "name": {
+            "fr": "Speedway EBL3",
+            "en": "EBL3 Speedway"
+          },
+          "shareId": "234-678-012",
+          "creator": "ebl_vinc",
+          "week": 4,
+          "date": "2026-04-01",
+          "status": "upcoming"
         }
       ],
       "results": [
