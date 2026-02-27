@@ -6,6 +6,8 @@
   "seasons": {
     "9": {
       "year": 2026,
+      "launchDate": "2026-03-11",
+      "endDate": "2026-05-08",
       "totalPrize": {
         "cash": 200,
         "currency": "€",
@@ -157,8 +159,7 @@
           "shareId": "123-567-901",
           "creator": "motorgames",
           "week": 2,
-          "date": "2026-03-11",
-          "status": "ongoing"
+          "date": "2026-03-11"
         },
         {
           "id": "vinc_week2",
@@ -169,8 +170,7 @@
           "shareId": "234-678-012",
           "creator": "ebl_vinc",
           "week": 2,
-          "date": "2026-03-11",
-          "status": "ongoing"
+          "date": "2026-03-11"
         },
         {
           "id": "mg_week4",
@@ -178,11 +178,10 @@
             "fr": "Circuit MGV2",
             "en": "MGV2 Circuit"
           },
-          "shareId": "123-567-901",
+          "shareId": "123-567-902",
           "creator": "motorgames",
           "week": 4,
-          "date": "2026-03-25",
-          "status": "upcoming"
+          "date": "2026-03-25"
         },
         {
           "id": "vinc_week4",
@@ -190,11 +189,10 @@
             "fr": "Speedway EBL2",
             "en": "EBL2 Speedway"
           },
-          "shareId": "234-678-012",
+          "shareId": "234-678-013",
           "creator": "ebl_vinc",
           "week": 4,
-          "date": "2026-03-25",
-          "status": "upcoming"
+          "date": "2026-03-25"
         },
         {
           "id": "mg_week6",
@@ -202,11 +200,10 @@
             "fr": "Circuit MGV3",
             "en": "MGV3 Circuit"
           },
-          "shareId": "123-567-901",
+          "shareId": "123-567-903",
           "creator": "motorgames",
           "week": 6,
-          "date": "2026-04-08",
-          "status": "upcoming"
+          "date": "2026-04-08"
         },
         {
           "id": "vinc_week6",
@@ -214,35 +211,32 @@
             "fr": "Speedway EBL3",
             "en": "EBL3 Speedway"
           },
-          "shareId": "234-678-012",
+          "shareId": "234-678-014",
           "creator": "ebl_vinc",
           "week": 6,
-          "date": "2026-04-08",
-          "status": "upcoming"
+          "date": "2026-04-08"
         },
         {
           "id": "mg_week8",
           "name": {
-            "fr": "Circuit MGV3",
-            "en": "MGV3 Circuit"
+            "fr": "Circuit MGV4",
+            "en": "MGV4 Circuit"
           },
-          "shareId": "123-567-901",
+          "shareId": "123-567-904",
           "creator": "motorgames",
           "week": 8,
-          "date": "2026-04-22",
-          "status": "upcoming"
+          "date": "2026-04-22"
         },
         {
           "id": "vinc_week8",
           "name": {
-            "fr": "Speedway EBL3",
-            "en": "EBL3 Speedway"
+            "fr": "Speedway EBL4",
+            "en": "EBL4 Speedway"
           },
-          "shareId": "234-678-012",
+          "shareId": "234-678-015",
           "creator": "ebl_vinc",
           "week": 8,
-          "date": "2026-04-22",
-          "status": "upcoming"
+          "date": "2026-04-22"
         }
       ],
       "results": [
