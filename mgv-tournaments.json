@@ -29,12 +29,12 @@
         {
           "position": 1,
           "cash": 60,
-          "crewCredits": 360000,
+          "crewCredits": 0,
           "dlc": [],
           "physical": [],
           "description": {
-            "fr": "60€ + 360 000 Crew Credits",
-            "en": "60€ + 360,000 Crew Credits"
+            "fr": "60€",
+            "en": "60€"
           }
         },
         {
@@ -119,230 +119,19 @@
             "fr": "5€",
             "en": "5€"
           }
-        }
-      ],
-      "players": [
-        {
-          "id": "motorgames",
-          "name": "MotorGames",
-          "country": "FR",
-          "countryCode": "fr",
-          "avatar": "MG",
-          "team": "",
-          "ogHubProfile": "motorgames",
-          "socials": {
-            "youtube": "https://youtube.com/@motorgamesytb",
-            "twitch": "https://twitch.tv/motorgamesytb"
-          }
         },
         {
-          "id": "motorgames2",
-          "name": "MotorGames2",
-          "country": "FR",
-          "countryCode": "fr",
-          "avatar": "MG",
-          "team": "",
-          "ogHubProfile": "motorgames",
-          "socials": {
-            "youtube": "https://youtube.com/@motorgamesytb",
-            "twitch": "https://twitch.tv/motorgamesytb"
-          }
-        },
-        {
-          "id": "motorgames3",
-          "name": "MotorGames3",
-          "country": "FR",
-          "countryCode": "fr",
-          "avatar": "MG",
-          "team": "",
-          "ogHubProfile": "motorgames",
-          "socials": {
-            "youtube": "https://youtube.com/@motorgamesytb",
-            "twitch": "https://twitch.tv/motorgamesytb"
-          }
-        },
-        {
-          "id": "ebl_vinc",
-          "name": "EBL_vinc",
-          "country": "FR",
-          "countryCode": "fr",
-          "avatar": "EBL",
-          "team": "",
-          "ogHubProfile": "ebl_vinc",
-          "socials": {
-            "youtube": "https://youtube.com/@ebl_vinc",
-            "twitch": "https://twitch.tv/ebl_vinc"
-          }
-        },
-        {
-          "id": "ebl_vinc2",
-          "name": "EBL_vinc2",
-          "country": "FR",
-          "countryCode": "fr",
-          "avatar": "EBL",
-          "team": "",
-          "ogHubProfile": "ebl_vinc",
-          "socials": {
-            "youtube": "https://youtube.com/@ebl_vinc",
-            "twitch": "https://twitch.tv/ebl_vinc"
-          }
-        },
-        {
-          "id": "ebl_vinc3",
-          "name": "EBL_vinc3",
-          "country": "FR",
-          "countryCode": "fr",
-          "avatar": "EBL",
-          "team": "",
-          "ogHubProfile": "ebl_vinc",
-          "socials": {
-            "youtube": "https://youtube.com/@ebl_vinc",
-            "twitch": "https://twitch.tv/ebl_vinc"
+          "cash": 0,
+          "crewCredits": 360000,
+          "description": {
+            "fr": "Pass Année 1/2 ou 3 pour le meilleur résultat moyen sur les 8 épreuves",
+            "en": "1/2 or 3-year pass for the best average result across the 8 exams"
           }
         }
       ],
-      "events": [
-        {
-          "id": "mg_week2",
-          "name": {
-            "fr": "Circuit MGV",
-            "en": "MGV Circuit"
-          },
-          "shareId": "123-567-901",
-          "creator": "motorgames",
-          "week": 2,
-          "date": "2026-03-11"
-        },
-        {
-          "id": "vinc_week2",
-          "name": {
-            "fr": "Speedway EBL",
-            "en": "EBL Speedway"
-          },
-          "shareId": "234-678-012",
-          "creator": "ebl_vinc",
-          "week": 2,
-          "date": "2026-03-11"
-        },
-        {
-          "id": "mg_week4",
-          "name": {
-            "fr": "Circuit MGV2",
-            "en": "MGV2 Circuit"
-          },
-          "shareId": "123-567-902",
-          "creator": "motorgames",
-          "week": 4,
-          "date": "2026-03-25"
-        },
-        {
-          "id": "vinc_week4",
-          "name": {
-            "fr": "Speedway EBL2",
-            "en": "EBL2 Speedway"
-          },
-          "shareId": "234-678-013",
-          "creator": "ebl_vinc",
-          "week": 4,
-          "date": "2026-03-25"
-        },
-        {
-          "id": "mg_week6",
-          "name": {
-            "fr": "Circuit MGV3",
-            "en": "MGV3 Circuit"
-          },
-          "shareId": "123-567-903",
-          "creator": "motorgames",
-          "week": 6,
-          "date": "2026-04-08"
-        },
-        {
-          "id": "vinc_week6",
-          "name": {
-            "fr": "Speedway EBL3",
-            "en": "EBL3 Speedway"
-          },
-          "shareId": "234-678-014",
-          "creator": "ebl_vinc",
-          "week": 6,
-          "date": "2026-04-08"
-        },
-        {
-          "id": "mg_week8",
-          "name": {
-            "fr": "Circuit MGV4",
-            "en": "MGV4 Circuit"
-          },
-          "shareId": "123-567-904",
-          "creator": "motorgames",
-          "week": 8,
-          "date": "2026-04-22"
-        },
-        {
-          "id": "vinc_week8",
-          "name": {
-            "fr": "Speedway EBL4",
-            "en": "EBL4 Speedway"
-          },
-          "shareId": "234-678-015",
-          "creator": "ebl_vinc",
-          "week": 8,
-          "date": "2026-04-22"
-        }
-      ],
-      "results": [
-        {
-          "eventId": "mg_week2",
-          "playerId": "motorgames",
-          "time": "1:32.456"
-        },
-        {
-          "eventId": "mg_week2",
-          "playerId": "ebl_vinc",
-          "time": "1:33.123"
-        },
-        {
-          "eventId": "mg_week4",
-          "playerId": "ebl_vinc",
-          "time": "1:50.124"
-        },
-        {
-          "eventId": "mg_week4",
-          "playerId": "motorgames",
-          "time": "1:55.000"
-        },
-        {
-          "eventId": "vinc_week2",
-          "playerId": "ebl_vinc",
-          "time": "1:50.124"
-        },
-        {
-          "eventId": "vinc_week2",
-          "playerId": "motorgames",
-          "time": "1:50.124"
-        },
-        {
-          "eventId": "vinc_week2",
-          "playerId": "ebl_vinc2",
-          "time": "1:50.124"
-        },
-        {
-          "eventId": "vinc_week2",
-          "playerId": "ebl_vinc3",
-          "time": "1:50.124"
-        },
-        {
-          "eventId": "vinc_week2",
-          "playerId": "motorgames2",
-          "time": "1:55.154"
-        },
-        {
-          "eventId": "vinc_week2",
-          "playerId": "motorgames3",
-          "time": "1:59.201"
-        }
-      ]
+      "players": [],
+      "events": [],
+      "results": []
     }
   }
 }
