@@ -122,10 +122,10 @@
         },
         {
           "cash": 0,
-          "crewCredits": 360000,
+          "crewCredits": 0,
           "description": {
             "fr": "Pass Année 1/2 ou 3 pour le meilleur résultat moyen sur les 8 épreuves",
-            "en": "1/2 or 3-year pass for the best average result across the 8 exams"
+            "en": "1/2 or 3-year pass for the best average result across the 8 events"
           }
         }
       ],
