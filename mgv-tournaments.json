@@ -29,7 +29,7 @@
         {
           "position": 1,
           "cash": 60,
-          "crewCredits": 3600000,
+          "crewCredits": 360000,
           "dlc": [],
           "physical": [],
           "description": {
@@ -128,7 +128,7 @@
           "country": "FR",
           "countryCode": "fr",
           "avatar": "MG",
-          "team": "MGV Racing",
+          "team": "",
           "ogHubProfile": "motorgames",
           "socials": {
             "youtube": "https://youtube.com/@motorgamesytb",
@@ -141,7 +141,7 @@
           "country": "FR",
           "countryCode": "fr",
           "avatar": "EBL",
-          "team": "MGV Racing",
+          "team": "",
           "ogHubProfile": "ebl_vinc",
           "socials": {
             "youtube": "https://youtube.com/@ebl_vinc",
