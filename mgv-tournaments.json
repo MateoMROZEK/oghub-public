@@ -1,390 +1,192 @@
 {
   "tournament": {
     "name": "MGV Championship",
-    "season": 9,
-    "year": 2024,
-    "totalPrize": {
-      "cash": 200,
-      "currency": "€",
-      "description": "Cash + Crew Credits"
-    }
+    "currentSeason": 9
   },
-  "pointSystem": [
-    { "position": 1, "points": 25 },
-    { "position": 2, "points": 18 },
-    { "position": 3, "points": 15 },
-    { "position": 4, "points": 12 },
-    { "position": 5, "points": 10 },
-    { "position": 6, "points": 8 },
-    { "position": 7, "points": 6 },
-    { "position": 8, "points": 4 },
-    { "position": 9, "points": 2 },
-    { "position": 10, "points": 1 }
-  ],
-  "rewards": [
-    {
-      "position": 1,
-      "cash": 60,
-      "crewCredits": 5000,
-      "dlc": ["Season Pass Vol. 1", "Exclusive MGV Car Pack"],
-      "physical": ["T-shirt MGV Tournament", "Stickers Pack"],
-      "description": {
-        "fr": "60€ + 5000 Crew Credits + Season Pass + Pack exclusif",
-        "en": "60€ + 5000 Crew Credits + Season Pass + Exclusive Pack"
-      }
-    },
-    {
-      "position": 2,
-      "cash": 45,
-      "crewCredits": 3000,
-      "dlc": ["Season Pass Vol. 1"],
-      "physical": ["T-shirt MGV Tournament"],
-      "description": {
-        "fr": "45€ + 3000 Crew Credits + Season Pass + T-shirt",
-        "en": "45€ + 3000 Crew Credits + Season Pass + T-shirt"
-      }
-    },
-    {
-      "position": 3,
-      "cash": 30,
-      "crewCredits": 2000,
-      "dlc": ["Starter Pack"],
-      "physical": ["Casquette MGV"],
-      "description": {
-        "fr": "30€ + 2000 Crew Credits + Starter Pack + Casquette",
-        "en": "30€ + 2000 Crew Credits + Starter Pack + Cap"
-      }
-    },
-    {
-      "position": 4,
-      "cash": 20,
-      "crewCredits": 1500,
-      "dlc": ["Car Pack"],
-      "description": {
-        "fr": "20€ + 1500 Crew Credits + Car Pack",
-        "en": "20€ + 1500 Crew Credits + Car Pack"
-      }
-    },
-    {
-      "position": 5,
-      "cash": 15,
-      "crewCredits": 1000,
-      "description": {
-        "fr": "15€ + 1000 Crew Credits",
-        "en": "15€ + 1000 Crew Credits"
-      }
-    },
-    {
-      "position": 6,
-      "cash": 10,
-      "crewCredits": 800,
-      "description": {
-        "fr": "10€ + 800 Crew Credits",
-        "en": "10€ + 800 Crew Credits"
-      }
-    },
-    {
-      "position": 7,
-      "cash": 5,
-      "crewCredits": 500,
-      "description": {
-        "fr": "5€ + 500 Crew Credits",
-        "en": "5€ + 500 Crew Credits"
-      }
-    },
-    {
-      "position": 8,
-      "cash": 5,
-      "crewCredits": 500,
-      "description": {
-        "fr": "5€ + 500 Crew Credits",
-        "en": "5€ + 500 Crew Credits"
-      }
-    },
-    {
-      "position": 9,
-      "cash": 5,
-      "crewCredits": 500,
-      "description": {
-        "fr": "5€ + 500 Crew Credits",
-        "en": "5€ + 500 Crew Credits"
-      }
-    },
-    {
-      "position": 10,
-      "cash": 5,
-      "crewCredits": 500,
-      "description": {
-        "fr": "5€ + 500 Crew Credits",
-        "en": "5€ + 500 Crew Credits"
-      }
-    }
-  ],
-  "players": [
-    {
-      "id": "motorgames",
-      "name": "MotorGames",
-      "country": "FR",
-      "countryCode": "fr",
-      "avatar": "MG",
-      "team": "MGV Racing",
-      "ogHubProfile": "motorgames",
-      "socials": {
-        "youtube": "https://youtube.com/@motorgamesytb",
-        "twitch": "https://twitch.tv/motorgamesytb"
-      }
-    },
-    {
-      "id": "ebl_vinc",
-      "name": "EBL_vinc",
-      "country": "FR",
-      "countryCode": "fr",
-      "avatar": "EBL",
-      "team": "MGV Racing",
-      "ogHubProfile": "ebl_vinc",
-      "socials": {
-        "youtube": "https://youtube.com/@ebl_vinc",
-        "twitch": "https://twitch.tv/ebl_vinc"
-      }
-    },
-    {
-      "id": "speed_demon",
-      "name": "SpeedDemon",
-      "country": "DE",
-      "countryCode": "de",
-      "avatar": "SD",
-      "team": "Autobahn Kings",
-      "ogHubProfile": "speed_demon"
-    },
-    {
-      "id": "nitro_lady",
-      "name": "NitroLady",
-      "country": "JP",
-      "countryCode": "jp",
-      "avatar": "NL",
-      "team": "Tokyo Drift",
-      "ogHubProfile": "nitro_lady"
-    },
-    {
-      "id": "drift_king",
-      "name": "DriftKing",
-      "country": "GB",
-      "countryCode": "gb",
-      "avatar": "DK",
-      "team": "UK Drifters",
-      "ogHubProfile": "drift_king"
-    },
-    {
-      "id": "rally_queen",
-      "name": "RallyQueen",
-      "country": "SE",
-      "countryCode": "se",
-      "avatar": "RQ",
-      "team": "Nordic Rally",
-      "ogHubProfile": "rally_queen"
-    },
-    {
-      "id": "street_king",
-      "name": "StreetKing",
-      "country": "US",
-      "countryCode": "us",
-      "avatar": "SK",
-      "team": "Liberty Crew",
-      "ogHubProfile": "street_king"
-    },
-    {
-      "id": "mountain_goat",
-      "name": "MountainGoat",
-      "country": "CH",
-      "countryCode": "ch",
-      "avatar": "MG",
-      "team": "Alpine Racers",
-      "ogHubProfile": "mountain_goat"
-    },
-    {
-      "id": "city_sprinter",
-      "name": "CitySprinter",
-      "country": "IT",
-      "countryCode": "it",
-      "avatar": "CS",
-      "team": "Italian Stallions",
-      "ogHubProfile": "city_sprinter"
-    },
-    {
-      "id": "desert_fox",
-      "name": "DesertFox",
-      "country": "AE",
-      "countryCode": "ae",
-      "avatar": "DF",
-      "team": "Sandstorm Crew",
-      "ogHubProfile": "desert_fox"
-    },
-    {
-      "id": "night_ghost",
-      "name": "NightGhost",
-      "country": "FR",
-      "countryCode": "fr",
-      "avatar": "NG",
-      "team": "Midnight Club",
-      "ogHubProfile": "night_ghost"
-    },
-    {
-      "id": "storm_rider",
-      "name": "StormRider",
-      "country": "CA",
-      "countryCode": "ca",
-      "avatar": "SR",
-      "team": "Maple Leaf Racers",
-      "ogHubProfile": "storm_rider"
-    }
-  ],
-  "events": [
-    {
-      "id": "mg_week1",
-      "name": {
-        "fr": "Circuit MGV",
-        "en": "MGV Circuit"
+  "seasons": {
+    "9": {
+      "year": 2026,
+      "totalPrize": {
+        "cash": 200,
+        "currency": "€",
+        "description": "Cash + Crew Credits"
       },
-      "shareId": "123-567-901",
-      "creator": "motorgames",
-      "week": 2,
-      "date": "2024-03-15",
-      "status": "completed"
-    },
-    {
-      "id": "vinc_week1",
-      "name": {
-        "fr": "Speedway EBL",
-        "en": "EBL Speedway"
-      },
-      "shareId": "234-678-012",
-      "creator": "ebl_vinc",
-      "week": 2,
-      "date": "2024-03-15",
-      "status": "completed"
+      "pointSystem": [
+        { "position": 1, "points": 25 },
+        { "position": 2, "points": 18 },
+        { "position": 3, "points": 15 },
+        { "position": 4, "points": 12 },
+        { "position": 5, "points": 10 },
+        { "position": 6, "points": 8 },
+        { "position": 7, "points": 6 },
+        { "position": 8, "points": 4 },
+        { "position": 9, "points": 2 },
+        { "position": 10, "points": 1 }
+      ],
+      "rewards": [
+        {
+          "position": 1,
+          "cash": 60,
+          "crewCredits": 3600000,
+          "dlc": [],
+          "physical": [],
+          "description": {
+            "fr": "60€ + 360 000 Crew Credits",
+            "en": "60€ + 360,000 Crew Credits"
+          }
+        },
+        {
+          "position": 2,
+          "cash": 45,
+          "crewCredits": 0,
+          "dlc": [],
+          "physical": [],
+          "description": {
+            "fr": "45€",
+            "en": "45€"
+          }
+        },
+        {
+          "position": 3,
+          "cash": 30,
+          "crewCredits": 0,
+          "description": {
+            "fr": "30€",
+            "en": "30€"
+          }
+        },
+        {
+          "position": 4,
+          "cash": 20,
+          "crewCredits": 0,
+          "description": {
+            "fr": "20€",
+            "en": "20€"
+          }
+        },
+        {
+          "position": 5,
+          "cash": 15,
+          "crewCredits": 0,
+          "description": {
+            "fr": "15€",
+            "en": "15€"
+          }
+        },
+        {
+          "position": 6,
+          "cash": 10,
+          "crewCredits": 0,
+          "description": {
+            "fr": "10€",
+            "en": "10€"
+          }
+        },
+        {
+          "position": 7,
+          "cash": 5,
+          "crewCredits": 0,
+          "description": {
+            "fr": "5€",
+            "en": "5€"
+          }
+        },
+        {
+          "position": 8,
+          "cash": 5,
+          "crewCredits": 0,
+          "description": {
+            "fr": "5€",
+            "en": "5€"
+          }
+        },
+        {
+          "position": 9,
+          "cash": 5,
+          "crewCredits": 0,
+          "description": {
+            "fr": "5€",
+            "en": "5€"
+          }
+        },
+        {
+          "position": 10,
+          "cash": 5,
+          "crewCredits": 0,
+          "description": {
+            "fr": "5€",
+            "en": "5€"
+          }
+        }
+      ],
+      "players": [
+        {
+          "id": "motorgames",
+          "name": "MotorGames",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "MG",
+          "team": "MGV Racing",
+          "ogHubProfile": "motorgames",
+          "socials": {
+            "youtube": "https://youtube.com/@motorgamesytb",
+            "twitch": "https://twitch.tv/motorgamesytb"
+          }
+        },
+        {
+          "id": "ebl_vinc",
+          "name": "EBL_vinc",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "EBL",
+          "team": "MGV Racing",
+          "ogHubProfile": "ebl_vinc",
+          "socials": {
+            "youtube": "https://youtube.com/@ebl_vinc",
+            "twitch": "https://twitch.tv/ebl_vinc"
+          }
+        }
+      ],
+      "events": [
+        {
+          "id": "mg_week1",
+          "name": {
+            "fr": "Circuit MGV",
+            "en": "MGV Circuit"
+          },
+          "shareId": "123-567-901",
+          "creator": "motorgames",
+          "week": 2,
+          "date": "2024-03-15",
+          "status": "completed"
+        },
+        {
+          "id": "vinc_week1",
+          "name": {
+            "fr": "Speedway EBL",
+            "en": "EBL Speedway"
+          },
+          "shareId": "234-678-012",
+          "creator": "ebl_vinc",
+          "week": 2,
+          "date": "2024-03-15",
+          "status": "completed"
+        }
+      ],
+      "results": [
+        {
+          "eventId": "mg_week1",
+          "playerId": "motorgames",
+          "position": 1,
+          "time": "1:32.456"
+        },
+        {
+          "eventId": "mg_week1",
+          "playerId": "ebl_vinc",
+          "position": 2,
+          "time": "1:33.123"
+        }
+      ]
     }
-  ],
-  "results": [
-    {
-      "eventId": "mg_week1",
-      "playerId": "motorgames",
-      "position": 1,
-      "time": "1:32.456"
-    },
-    {
-      "eventId": "mg_week1",
-      "playerId": "ebl_vinc",
-      "position": 2,
-      "time": "1:33.123"
-    },
-    {
-      "eventId": "mg_week1",
-      "playerId": "speed_demon",
-      "position": 3,
-      "time": "1:33.789"
-    },
-    {
-      "eventId": "mg_week1",
-      "playerId": "nitro_lady",
-      "position": 4,
-      "time": "1:34.234"
-    },
-    {
-      "eventId": "mg_week1",
-      "playerId": "drift_king",
-      "position": 5,
-      "time": "1:34.567"
-    },
-    {
-      "eventId": "mg_week1",
-      "playerId": "rally_queen",
-      "position": 6,
-      "time": "1:35.123"
-    },
-    {
-      "eventId": "mg_week1",
-      "playerId": "street_king",
-      "position": 7,
-      "time": "1:35.456"
-    },
-    {
-      "eventId": "mg_week1",
-      "playerId": "mountain_goat",
-      "position": 8,
-      "time": "1:35.789"
-    },
-    {
-      "eventId": "mg_week1",
-      "playerId": "city_sprinter",
-      "position": 9,
-      "time": "1:36.234"
-    },
-    {
-      "eventId": "mg_week1",
-      "playerId": "desert_fox",
-      "position": 10,
-      "time": "1:36.567"
-    },
-
-    {
-      "eventId": "vinc_week1",
-      "playerId": "ebl_vinc",
-      "position": 1,
-      "time": "1:28.456"
-    },
-    {
-      "eventId": "vinc_week1",
-      "playerId": "speed_demon",
-      "position": 2,
-      "time": "1:29.123"
-    },
-    {
-      "eventId": "vinc_week1",
-      "playerId": "motorgames",
-      "position": 3,
-      "time": "1:29.789"
-    },
-    {
-      "eventId": "vinc_week1",
-      "playerId": "street_king",
-      "position": 4,
-      "time": "1:30.234"
-    },
-    {
-      "eventId": "vinc_week1",
-      "playerId": "desert_fox",
-      "position": 5,
-      "time": "1:30.567"
-    },
-    {
-      "eventId": "vinc_week1",
-      "playerId": "drift_king",
-      "position": 6,
-      "time": "1:31.123"
-    },
-    {
-      "eventId": "vinc_week1",
-      "playerId": "night_ghost",
-      "position": 7,
-      "time": "1:31.456"
-    },
-    {
-      "eventId": "vinc_week1",
-      "playerId": "nitro_lady",
-      "position": 8,
-      "time": "1:31.789"
-    },
-    {
-      "eventId": "vinc_week1",
-      "playerId": "rally_queen",
-      "position": 9,
-      "time": "1:32.234"
-    },
-    {
-      "eventId": "vinc_week1",
-      "playerId": "storm_rider",
-      "position": 10,
-      "time": "1:32.567"
-    }
-  ]
+  }
 }
