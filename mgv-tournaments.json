@@ -28,37 +28,55 @@
       "rewards": [
         {
           "position": 1,
-          "cash": 60,
+          "cash": 70,
           "crewCredits": 0,
           "dlc": [],
           "physical": [],
           "description": {
-            "fr": "60€",
-            "en": "60€"
+            "fr": "70€",
+            "en": "70€"
           }
         },
         {
           "position": 2,
-          "cash": 45,
+          "cash": 65,
           "crewCredits": 0,
           "dlc": [],
           "physical": [],
+          "description": {
+            "fr": "65€",
+            "en": "65€"
+          }
+        },
+        {
+          "position": 3,
+          "cash": 45,
+          "crewCredits": 0,
           "description": {
             "fr": "45€",
             "en": "45€"
           }
         },
         {
-          "position": 3,
-          "cash": 30,
+          "position": 4,
+          "cash": 35,
           "crewCredits": 0,
           "description": {
-            "fr": "30€",
-            "en": "30€"
+            "fr": "35€",
+            "en": "35€"
           }
         },
         {
-          "position": 4,
+          "position": 5,
+          "cash": 25,
+          "crewCredits": 0,
+          "description": {
+            "fr": "25€",
+            "en": "25€"
+          }
+        },
+        {
+          "position": 6,
           "cash": 20,
           "crewCredits": 0,
           "description": {
@@ -67,7 +85,7 @@
           }
         },
         {
-          "position": 5,
+          "position": 7,
           "cash": 15,
           "crewCredits": 0,
           "description": {
@@ -76,7 +94,7 @@
           }
         },
         {
-          "position": 6,
+          "position": 8,
           "cash": 10,
           "crewCredits": 0,
           "description": {
@@ -85,30 +103,12 @@
           }
         },
         {
-          "position": 7,
-          "cash": 5,
-          "crewCredits": 0,
-          "description": {
-            "fr": "5€",
-            "en": "5€"
-          }
-        },
-        {
-          "position": 8,
-          "cash": 5,
-          "crewCredits": 0,
-          "description": {
-            "fr": "5€",
-            "en": "5€"
-          }
-        },
-        {
           "position": 9,
-          "cash": 5,
+          "cash": 10,
           "crewCredits": 0,
           "description": {
-            "fr": "5€",
-            "en": "5€"
+            "fr": "10€",
+            "en": "10€"
           }
         },
         {
@@ -124,8 +124,8 @@
           "cash": 0,
           "crewCredits": 0,
           "description": {
-            "fr": "Pass Année 1/2 ou 3 pour le meilleur résultat moyen sur les 8 épreuves",
-            "en": "1/2 or 3-year pass for the best average result across the 8 events"
+            "fr": "Pass Année 1 ou 2 ou 3 OU 30€ (si vous avez tout les Pass Année) pour le meilleur résultat moyen sur les 8 épreuves",
+            "en": "1 or 2 or 3-year pass OR 30€ (if you have all Year Pass) for the best average result across the 8 events"
           }
         }
       ],
