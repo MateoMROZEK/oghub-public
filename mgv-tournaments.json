@@ -9,9 +9,9 @@
       "launchDate": "2026-03-11",
       "endDate": "2026-05-08",
       "totalPrize": {
-        "cash": 200,
+        "cash": 300,
         "currency": "€",
-        "description": "Cash + Crew Credits"
+        "description": "Cash + Crew Credits + DLC"
       },
       "pointSystem": [
         { "position": 1, "points": 25 },
