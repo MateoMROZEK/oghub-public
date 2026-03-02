@@ -129,7 +129,32 @@
           }
         }
       ],
-      "players": [],
+      "players": [
+        {
+          "id": "mateo",
+          "name": "Mateo",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "MG",
+          "team": "OGHub Team",
+          "ogHubProfile": "mateo",
+          "socials": {
+            "youtube": "https://youtube.com/@oghubfr",
+            "twitch": "https://twitch.tv/z3kdevelopment"
+          }
+        },
+        {
+          "id": "gaijin",
+          "name": "Gaijin",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "MG",
+          "team": "",
+          "socials": {
+            "twitch": "https://twitch.tv/s_gaijin"
+          }
+        }
+      ],
       "events": [],
       "results": []
     }
