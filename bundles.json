@@ -1,4 +1,46 @@
 {
+  "2026-03": [
+    {
+      "url": "nascar-opening",
+      "bundles": [
+        {
+          "name": "Welcome Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/23gMAASFUbQGXf0fkSyBpn/3824533c339887ebc8970bdee7101877/05_WEEK_17_TIMELINES_COLLIDE.jpg",
+          "crewcredits": "62,400",
+          "rewards": [
+            {
+              "name": "CHEVROLET CORVETTE C8.R (RACING)"
+            },
+            {
+              "name": "OVAL SPIRIT UNDERGLOW"
+            },
+            {
+              "name": "YELLOW SPANGLED NITRO"
+            }
+          ]
+        },
+        {
+          "name": "Custom Bundle",
+          "banner": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5fkvG7MVfhcLNCcDnSCdv1/514d0eadbefb9084033e70d3e3308952/06_W17_CUSTOM_BUNDLE_TIMELINES_COLLIDE.jpg",
+          "crewcredits": "110,110",
+          "rewards": [
+            {
+              "name": "FORD MUSTANG GT (RACING)"
+            },
+            {
+              "name": "RED ROFFO TIRE"
+            },
+            {
+              "name": "MOTORFLIX THUNDER UNDERGLOW"
+            },
+            {
+              "name": "PURE PLASMA NITRO"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2026-02": [
     {
       "url": "timelines-collide",
