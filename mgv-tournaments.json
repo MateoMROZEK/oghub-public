@@ -164,8 +164,33 @@
           "ogHubProfile": "supra2jztcm"
         }
       ],
-      "events": [],
-      "results": []
+      "events": [
+        {
+          "id": "mg_week2",
+          "name": {
+            "fr": "Course de MotorGames",
+            "en": "Race by MotorGames"
+          },
+          "shareId": "000 000 000",
+          "creator": "motorgames",
+          "week": 2,
+          "date": "2026-03-11"
+        },
+        {
+          "id": "vinc_week2",
+          "name": {
+            "fr": "Course de Vinc",
+            "en": "Race by Vinc"
+          },
+          "shareId": "000 000 000",
+          "creator": "ebl_vinc",
+          "week": 2,
+          "date": "2026-03-11"
+        }
+      ],
+      "results": [],
+      "registrations": [],
+      "submissions": []
     }
   }
 }
