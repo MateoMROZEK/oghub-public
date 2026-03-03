@@ -179,10 +179,10 @@
         },
         {
           "id": "gaijin",
-          "name": "Mateo",
+          "name": "Gaijin",
           "country": "FR",
           "countryCode": "fr",
-          "avatar": "Ma",
+          "avatar": "Ga",
           "team": "",
           "oghub_profile": "",
           "discord": {
@@ -228,7 +228,7 @@
           "shareId": "000-000-000",
           "creator": "ebl_vinc",
           "week": 2,
-          "date": "2026-03-02"
+          "date": "2026-03-11"
         },
         {
           "id": "mg_week4",
