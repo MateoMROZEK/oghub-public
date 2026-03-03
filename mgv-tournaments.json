@@ -297,13 +297,7 @@
           "date": "2026-04-22"
         }
       ],
-      "results": [
-        {
-          "eventId": "mg_week2",
-          "playerId": "mateo",
-          "time": "1:55.150"
-        }
-      ],
+      "results": [],
       "registrations": [
         {
           "discordUserId": "206117019752464384",
@@ -313,24 +307,24 @@
           "youtube": "https://youtube.com/@oghubfr",
           "twitch": "https://twitch.tv/z3kdevelopment",
           "registeredAt": "2026-03-03T08:24:17.742Z"
+        },
+        {
+          "discordUserId": "1279487396097949831",
+          "discordUsername": "shokyoo",
+          "username": "gaijin",
+          "nationality": "FR",
+          "twitch": "https://twitch.tv/s_gaijin",
+          "registeredAt": "2026-03-03T08:24:17.742Z"
+        },
+        {
+          "discordUserId": "1266828386982952981",
+          "discordUsername": "supra2jztcm",
+          "username": "HP_Supra2jz",
+          "nationality": "FR",
+          "registeredAt": "2026-03-03T08:24:17.742Z"
         }
       ],
-      "submissions": [
-        {
-          "eventId": "mg_week2",
-          "discordUserId": "206117019752464384",
-          "videos": [
-            {
-              "url": "https://www.youtube.com/watch?v=XAft_GdvE9Y",
-              "submittedAt": "2026-03-03T09:00:25.571Z"
-            },
-            {
-              "url": "https://www.youtube.com/watch?v=XAft_GdvE9Y",
-              "submittedAt": "2026-03-03T09:08:21.609Z"
-            }
-          ]
-        }
-      ]
+      "submissions": []
     }
   }
 }
