@@ -297,7 +297,13 @@
           "date": "2026-04-22"
         }
       ],
-      "results": [],
+      "results": [
+        {
+          "eventId": "mg_week2",
+          "playerId": "mateo",
+          "time": "1:55.150"
+        }
+      ],
       "registrations": [
         {
           "discordUserId": "206117019752464384",
