@@ -159,7 +159,25 @@
           }
         }
       ],
-      "players": [],
+      "players": [
+        {
+          "id": "mateo",
+          "name": "mateo",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "ma",
+          "team": "OGHub Team",
+          "oghub_profile": "mateo",
+          "discord": {
+            "id": "206117019752464384",
+            "username": "mateomrozek"
+          },
+          "socials": {
+            "youtube": "https://youtube.com/@oghubfr",
+            "twitch": "https://twitch.tv/z3kdevelopment"
+          }
+        }
+      ],
       "events": [
         {
           "id": "mg_week2",
@@ -185,7 +203,17 @@
         }
       ],
       "results": [],
-      "registrations": [],
+      "registrations": [
+        {
+          "discordUserId": "206117019752464384",
+          "discordUsername": "mateomrozek",
+          "username": "mateo",
+          "nationality": "FR",
+          "youtube": "https://youtube.com/@oghubfr",
+          "twitch": "https://twitch.tv/z3kdevelopment",
+          "registeredAt": "2026-03-03T08:24:17.742Z"
+        }
+      ],
       "submissions": []
     }
   }
