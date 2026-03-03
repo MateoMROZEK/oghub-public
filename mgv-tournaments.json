@@ -153,6 +153,15 @@
           "socials": {
             "twitch": "https://twitch.tv/s_gaijin"
           }
+        },
+        {
+          "id": "hp_supra2jz",
+          "name": "HP_Supra2jz",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "MG",
+          "team": "HP Team",
+          "ogHubProfile": "supra2jztcm"
         }
       ],
       "events": [],
