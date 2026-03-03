@@ -1,4 +1,106 @@
 {
+  "2026-03": [
+    {
+      "url": "nascar-opening",
+      "events": [
+        {
+          "name": "ENTERING THE SPEEDWAY",
+          "activitie": "IOWA JIM",
+          "restriction": "FORD MUSTANG DARK HORSE NASCAR (LOAN)"
+        },
+        {
+          "name": "KAHO'OLAWE NIGHTS",
+          "activitie": "SPEEDWAY",
+          "restriction": "CHEVROLET CAMARO ZL1 NASCAR (LOAN)"
+        },
+        {
+          "name": "IT'S SHOWTME!",
+          "activitie": "SHOWNIGHT",
+          "restriction": "NASCAR MODIFIED TOUR NASCAR (LOAN)"
+        },
+        {
+          "name": "TALLADEGA SPIRIT",
+          "activitie": "SEMI-FINALS",
+          "restriction": "NASCAR CAR"
+        },
+        {
+          "name": "MIDNIGHT EXPRESS",
+          "activitie": "TOURNAMENT OPENING",
+          "restriction": "FORD MUSTANG DARK HORSE NASCAR (LOAN)"
+        },
+        {
+          "name": "DAYS OF TROPIC THUNDER",
+          "activitie": "BIG DAY",
+          "restriction": "CHEVROLET CAMARO ZL1 NASCAR"
+        },
+        {
+          "name": "Speedtrap",
+          "activitie": "",
+          "restriction": ""
+        },
+        {
+          "name": "Speedtrap",
+          "activitie": "",
+          "restriction": ""
+        },
+        {
+          "name": "TOTW: NASCAR IN THE SKY",
+          "activitie": "RACE ABOVE EARTH",
+          "restriction": "NASCAR CAR"
+        }
+      ],
+      "rewards": [
+        {
+          "eventsNeed": 3,
+          "name": "5 Legend Points",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 6,
+          "name": "10,000 XP",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 9,
+          "name": "100 P Tickets",
+          "type": "completion"
+        },
+        {
+          "eventsNeed": 999999,
+          "rankName": "Bronze",
+          "name": "100,000 XP",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 60000,
+          "rankName": "Silver",
+          "name": "100 P Tickets",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 30000,
+          "rankName": "Gold",
+          "name": "Chevrolet Impala 1697 Racing Car",
+          "type": "rank"
+        },
+        {
+          "eventsNeed": 15000,
+          "rankName": "Platinum",
+          "name": "Smoke...",
+          "type": "rank"
+        }
+      ],
+      "guides": [
+        {
+          "name": "GUIDE THE CREW MOTORFEST - Nascar Opening",
+          "channelName": "OGHubFR",
+          "channelURL": "https://www.youtube.com/@OGHubFR",
+          "url": "https://youtu.be/",
+          "urlEmbed": "https://www.youtube.com/embed/"
+        }
+      ]
+    }
+  ],
   "2026-02": [
     {
       "url": "timelines-collide",
