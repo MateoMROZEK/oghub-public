@@ -162,10 +162,10 @@
       "players": [
         {
           "id": "mateo",
-          "name": "mateo",
+          "name": "Mateo",
           "country": "FR",
           "countryCode": "fr",
-          "avatar": "ma",
+          "avatar": "Ma",
           "team": "OGHub Team",
           "oghub_profile": "mateo",
           "discord": {
@@ -175,6 +175,35 @@
           "socials": {
             "youtube": "https://youtube.com/@oghubfr",
             "twitch": "https://twitch.tv/z3kdevelopment"
+          }
+        },
+        {
+          "id": "gaijin",
+          "name": "Mateo",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Ma",
+          "team": "",
+          "oghub_profile": "",
+          "discord": {
+            "id": "1279487396097949831",
+            "username": "shokyoo"
+          },
+          "socials": {
+            "twitch": "https://twitch.tv/s_gaijin"
+          }
+        },
+        {
+          "id": "supra2jztcm",
+          "name": "HP_Supra2jz",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Su",
+          "team": "HP",
+          "oghub_profile": "supra2jztcm",
+          "discord": {
+            "id": "1266828386982952981",
+            "username": "supra2jztcm"
           }
         }
       ],
