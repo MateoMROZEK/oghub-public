@@ -309,7 +309,18 @@
           "registeredAt": "2026-03-03T08:24:17.742Z"
         }
       ],
-      "submissions": []
+      "submissions": [
+        {
+          "eventId": "mg_week2",
+          "discordUserId": "206117019752464384",
+          "videos": [
+            {
+              "url": "https://www.youtube.com/watch?v=XAft_GdvE9Y",
+              "submittedAt": "2026-03-03T09:00:25.571Z"
+            }
+          ]
+        }
+      ]
     }
   }
 }
