@@ -211,10 +211,10 @@
         {
           "id": "mg_week2",
           "name": {
-            "fr": "Course de MotorGames",
-            "en": "Race by MotorGames"
+            "fr": "Course de MotorGames n°1",
+            "en": "Course de MotorGames n°1"
           },
-          "shareId": "000 000 000",
+          "shareId": "000-000-000",
           "creator": "motorgames",
           "week": 2,
           "date": "2026-03-11"
@@ -222,13 +222,79 @@
         {
           "id": "vinc_week2",
           "name": {
-            "fr": "Course de Vinc",
-            "en": "Race by Vinc"
+            "fr": "Course de Vinc n°1",
+            "en": "Course de Vinc n°1"
           },
-          "shareId": "000 000 000",
+          "shareId": "000-000-000",
           "creator": "ebl_vinc",
           "week": 2,
           "date": "2026-03-11"
+        },
+        {
+          "id": "mg_week4",
+          "name": {
+            "fr": "Course de MotorGames n°2",
+            "en": "Course de MotorGames n°2"
+          },
+          "shareId": "000-000-000",
+          "creator": "motorgames",
+          "week": 4,
+          "date": "2026-03-25"
+        },
+        {
+          "id": "vinc_week4",
+          "name": {
+            "fr": "Course de Vinc n°2",
+            "en": "Course de Vinc n°2"
+          },
+          "shareId": "000-000-000",
+          "creator": "ebl_vinc",
+          "week": 4,
+          "date": "2026-03-25"
+        },
+        {
+          "id": "mg_week6",
+          "name": {
+            "fr": "Course de MotorGames n°3",
+            "en": "Course de MotorGames n°3"
+          },
+          "shareId": "000-000-000",
+          "creator": "motorgames",
+          "week": 6,
+          "date": "2026-04-08"
+        },
+        {
+          "id": "vinc_week6",
+          "name": {
+            "fr": "Course de Vinc n°3",
+            "en": "Course de Vinc n°3"
+          },
+          "shareId": "000-000-000",
+          "creator": "ebl_vinc",
+          "week": 6,
+          "date": "2026-04-08"
+        },
+        {
+          "id": "mg_week8",
+          "name": {
+            "fr": "Course de MotorGames n°4",
+            "en": "Course de MotorGames n°4"
+          },
+          "shareId": "000-000-000",
+          "creator": "motorgames",
+          "week": 8,
+          "date": "2026-04-22"
+        },
+        {
+          "id": "vinc_week8",
+          "name": {
+            "fr": "Course de Vinc n°4",
+            "en": "Course de Vinc n°4"
+          },
+          "shareId": "000-000-000",
+          "creator": "ebl_vinc",
+          "week": 8,
+          "date": "2026-04-22"
         }
       ],
       "results": [],
