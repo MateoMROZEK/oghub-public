@@ -398,28 +398,28 @@
     {
       "cars": [
         {
-          "brand": "",
-          "model": "",
+          "brand": "Ferrari",
+          "model": "SF90 Stradale Asseto Fiorano",
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
-          "price": ""
+          "price": "6630"
         },
         {
-          "brand": "",
-          "model": "",
+          "brand": "Ivory-Tower",
+          "model": "Ogmios Rally Spec",
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
-          "price": ""
+          "price": "3500"
         },
         {
-          "brand": "",
-          "model": "",
+          "brand": "Porsche",
+          "model": "919 Clubsport",
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
-          "price": ""
+          "price": "4375"
         },
         {
-          "brand": "",
-          "model": "",
+          "brand": "Lotus",
+          "model": "EMIRA Gold Shadow Ed.",
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp",
-          "price": ""
+          "price": "4735"
         }
       ],
       "vanities": [
@@ -471,7 +471,7 @@
         {
           "name": "Supercar Kit",
           "image": "https://i.oghub.fr/thecrew/motorfest/cars/Ae6oJsb8cJyXjX26DjnKPYry.jpg",
-          "price": "0"
+          "price": "1750"
         }
       ]
     }
