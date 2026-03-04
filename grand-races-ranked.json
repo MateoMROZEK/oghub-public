@@ -3,8 +3,8 @@
     "seasons": [
       {
         "id": 9,
-        "startDate": 1772701200,
-        "endDate": 1762333200,
+        "startDate": 1772614800,
+        "endDate": 1783670400,
         "ranks": [
           {
             "name": "Bronze",
@@ -75,7 +75,7 @@
       {
         "id": 8,
         "startDate": 1762333200,
-        "endDate": 1772701200,
+        "endDate": 1772614800,
         "ranks": [
           {
             "name": "Bronze",
