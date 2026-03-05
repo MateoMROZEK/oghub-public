@@ -527,35 +527,35 @@
       "races": [
         {
           "name": "Nascar Speedway Trial",
-          "rivalName": "N/A",
+          "rivalName": "",
           "defaultCar": "Any Cup Car",
           "xp": 12000,
           "bucks": 22500
         },
         {
           "name": "Gymkhana Rally Trial",
-          "rivalName": "N/A",
+          "rivalName": "",
           "defaultCar": "Any Cup Car",
           "xp": 12000,
           "bucks": 22500
         },
         {
           "name": "Nascar Street Trial",
-          "rivalName": "N/A",
+          "rivalName": "",
           "defaultCar": "Any Cup Car",
           "xp": 12000,
           "bucks": 22500
         },
         {
           "name": "Drift Trial",
-          "rivalName": "N/A",
+          "rivalName": "",
           "defaultCar": "Any Drift Car",
           "xp": 12000,
           "bucks": 22500
         },
         {
-          "name": "No Name",
-          "rivalName": "N/A",
+          "name": "Affronter Clarence",
+          "rivalName": "",
           "defaultCar": "Any Cup Car",
           "xp": 15000,
           "bucks": 28125
@@ -568,35 +568,35 @@
       "races": [
         {
           "name": "Rally Cross Trial",
-          "rivalName": "N/A",
+          "rivalName": "",
           "defaultCar": "Any Cup Car",
           "xp": 15000,
           "bucks": 28125
         },
         {
           "name": "Nascar Highway Trial",
-          "rivalName": "N/A",
+          "rivalName": "",
           "defaultCar": "Any Cup Car",
           "xp": 12000,
           "bucks": 22500
         },
         {
           "name": "Touge Trial",
-          "rivalName": "N/A",
+          "rivalName": "",
           "defaultCar": "Any Drift Car",
           "xp": 12000,
           "bucks": 22500
         },
         {
           "name": "Alpha Grand Prix Trial",
-          "rivalName": "N/A",
+          "rivalName": "",
           "defaultCar": "Any Alpha GP",
           "xp": 12000,
           "bucks": 22500
         },
         {
-          "name": "No Name",
-          "rivalName": "N/A",
+          "name": "Affronter l'Ace",
+          "rivalName": "",
           "defaultCar": "Any Cup car",
           "xp": 15000,
           "bucks": 28125
@@ -609,7 +609,7 @@
       "races": [
         {
           "name": "Omni's Top Dog",
-          "rivalName": "N/A",
+          "rivalName": "",
           "defaultCar": "Any Cup Car",
           "xp": 18000,
           "bucks": 33750
