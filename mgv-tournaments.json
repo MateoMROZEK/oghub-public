@@ -205,6 +205,23 @@
             "id": "1266828386982952981",
             "username": "supra2jztcm"
           }
+        },
+        {
+          "id": "mateotest",
+          "name": "Mateo_Test",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Ma",
+          "team": "",
+          "oghub_profile": "mateo",
+          "discord": {
+            "id": "368832865850621952",
+            "username": "wtasqd"
+          },
+          "socials": {
+            "youtube": "",
+            "twitch": ""
+          }
         }
       ],
       "events": [
@@ -322,10 +339,20 @@
           "username": "HP_Supra2jz",
           "nationality": "FR",
           "registeredAt": "2026-03-03T08:24:17.742Z"
+        },
+        {
+          "discordUserId": "368832865850621952",
+          "discordUsername": "wtasqd",
+          "username": "Mateo_Test",
+          "nationality": "FR",
+          "youtube": "",
+          "twitch": "",
+          "registeredAt": "2026-03-05T06:25:51.650Z"
         }
       ],
       "submissions": [],
       "banned": []
     }
-  }
+  },
+  "banned": []
 }
