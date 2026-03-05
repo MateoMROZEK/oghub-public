@@ -222,6 +222,23 @@
             "youtube": "",
             "twitch": ""
           }
+        },
+        {
+          "id": "zkorsk",
+          "name": "zKorsk",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "zK",
+          "team": "",
+          "oghub_profile": "",
+          "discord": {
+            "id": "1178024745980149771",
+            "username": "ebl_vinc."
+          },
+          "socials": {
+            "youtube": "",
+            "twitch": ""
+          }
         }
       ],
       "events": [
@@ -348,6 +365,15 @@
           "youtube": "",
           "twitch": "",
           "registeredAt": "2026-03-05T06:25:51.650Z"
+        },
+        {
+          "discordUserId": "1178024745980149771",
+          "discordUsername": "ebl_vinc.",
+          "username": "zKorsk",
+          "nationality": "FR",
+          "youtube": "",
+          "twitch": "",
+          "registeredAt": "2026-03-05T06:53:56.870Z"
         }
       ],
       "submissions": [],
