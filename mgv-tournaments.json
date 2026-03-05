@@ -331,7 +331,13 @@
           "date": "2026-04-22"
         }
       ],
-      "results": [],
+      "results": [
+        {
+          "eventId": "mg_week2",
+          "playerId": "zkorsk",
+          "time": "2:19.551"
+        }
+      ],
       "registrations": [
         {
           "discordUserId": "206117019752464384",
