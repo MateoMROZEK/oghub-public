@@ -376,7 +376,18 @@
           "registeredAt": "2026-03-05T06:53:56.870Z"
         }
       ],
-      "submissions": [],
+      "submissions": [
+        {
+          "eventId": "mg_week2",
+          "discordUserId": "1178024745980149771",
+          "videos": [
+            {
+              "url": "https://youtu.be/Ps8r6cAD20w?is=Q0_H4g0qbvz7FMao",
+              "submittedAt": "2026-03-05T11:23:48.574Z"
+            }
+          ]
+        }
+      ],
       "banned": []
     }
   },
