@@ -2,18 +2,6 @@
   "ROTATION_START": 1772782200,
   "EVENT_DURATION": 600,
   "ROTATION": [
-    ["Ma'akua Black Beach", "AGP > RR > Hypercar", "", "OLD"],
-    ["Kula", "Hypercar > Jet > AGP", "Air Selection", "OLD"],
-    ["Kaena Point", "ST2 > RR > Motocross", "", "OLD"],
-    ["Paia", "ST1 > Drift > AGP", "Special Selection", "OLD"],
-    ["Waikiki", "AGP > Racing > Rally", "", "OLD"],
-    [
-      "Diamond Head",
-      "Hypercar > Hypercar > Hypercar",
-      "Special Selection",
-      "OLD"
-    ],
-    ["Haleakala", "ST1 > Racing > Hypercar", "No collision", "OLD"],
     ["Nuuanu - Punchbowl", "RR > Monster > Rally", "", "OLD"],
     ["N/A", "Racing > AGP > Hypercar", "", "OLD"],
     ["N/A", "Rally > ST2 > Racing", "", "OLD"],
@@ -46,7 +34,19 @@
     ["Wahiawa Fields", "ST1 > ST2 > Rally Raid", "", "OLD"],
     ["Kahakuloa", "Racing > ST2 > Racing", "No collision", "OLD"],
     ["Kaho'olawe", "Hypercar > Hypercar > Hypercar", "", "NEW"],
-    ["Lahaina", "ST2 > Hypercar > Racing", "Special Selection", "OLD"]
+    ["Lahaina", "ST2 > Hypercar > Racing", "Special Selection", "OLD"],
+    ["Ma'akua Black Beach", "AGP > RR > Hypercar", "", "OLD"],
+    ["Kula", "Hypercar > Jet > AGP", "Air Selection", "OLD"],
+    ["Kaena Point", "ST2 > RR > Motocross", "", "OLD"],
+    ["Paia", "ST1 > Drift > AGP", "Special Selection", "OLD"],
+    ["Waikiki", "AGP > Racing > Rally", "", "OLD"],
+    [
+      "Diamond Head",
+      "Hypercar > Hypercar > Hypercar",
+      "Special Selection",
+      "OLD"
+    ],
+    ["Haleakala", "ST1 > Racing > Hypercar", "No collision", "OLD"]
   ],
   "SATURDAY__ROTATION": [
     ["Kaena Point", "AGP > Rally > RR", "No Collision", "OLD"],
