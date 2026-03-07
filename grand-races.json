@@ -2,7 +2,6 @@
   "ROTATION_START": 1772814600,
   "EVENT_DURATION": 600,
   "ROTATION": [
-    ["Nuuanu - Punchbowl", "RR > Monster > Rally", "", "OLD"],
     ["Wailea", "Hypercar > ST2 > Racing", "", "OLD"],
     ["Kalaeloa", "RR > Rally > ST2", "", "OLD"],
     ["Hana", "AGP > Racing > Hypercar", "Pro Racing", "OLD"],
@@ -56,7 +55,8 @@
       "Special Selection",
       "OLD"
     ],
-    ["Haleakala", "ST1 > Racing > Hypercar", "No collision", "OLD"]
+    ["Haleakala", "ST1 > Racing > Hypercar", "No collision", "OLD"],
+    ["Nuuanu - Punchbowl", "RR > Monster > Rally", "", "OLD"]
   ],
   "SATURDAY__ROTATION": [
     ["Nuuanu - Punchbowl", "RR > Monster > Rally", "", "OLD"],
@@ -75,7 +75,6 @@
       "Special Section",
       "NEW"
     ],
-    ["Ma'akua Black Beach", "Hypercar > Racing > ST2", "", "OLD"],
     ["Kahakuloa", "Drift > AGP > RR", "", "OLD"],
     ["Haleiwa", "ST2 > Hypercar > Racing", "Pro Racing", "NEW"],
     ["Kealaloloa", "ST1 > Motocross > Hypercar", "", "OLD"],
@@ -113,6 +112,7 @@
       "Special Selection",
       "OLD"
     ],
-    ["Haleakala", "ST1 > Racing > Hypercar", "No collision", "OLD"]
+    ["Haleakala", "ST1 > Racing > Hypercar", "No collision", "OLD"],
+    ["Ma'akua Black Beach", "Hypercar > Racing > ST2", "", "OLD"]
   ]
 }
