@@ -11,10 +11,10 @@
             "color": "#94653e",
             "majorReward": [],
             "levels": [
-              { "id": 4, "reward": [""], "requiredRP": 50 },
-              { "id": 3, "reward": ["50,000 XP"], "requiredRP": 50 },
-              { "id": 2, "reward": ["100,000 Bucks"], "requiredRP": 50 },
-              { "id": 1, "reward": ["10 Legends Points"], "requiredRP": 50 }
+              { "id": 4, "reward": [""], "requiredRP": 100 },
+              { "id": 3, "reward": ["50,000 XP"], "requiredRP": 100 },
+              { "id": 2, "reward": ["100,000 Bucks"], "requiredRP": 100 },
+              { "id": 1, "reward": ["10 Legends Points"], "requiredRP": 100 }
             ]
           },
           {
@@ -27,9 +27,9 @@
                 "reward": ["250 Prestige Tickets"],
                 "requiredRP": 100
               },
-              { "id": 3, "reward": ["110,000 XP"], "requiredRP": 100 },
-              { "id": 2, "reward": ["200,000 Bucks"], "requiredRP": 100 },
-              { "id": 1, "reward": ["20 Legends Points"], "requiredRP": 100 }
+              { "id": 3, "reward": ["110,000 XP"], "requiredRP": 150 },
+              { "id": 2, "reward": ["200,000 Bucks"], "requiredRP": 150 },
+              { "id": 1, "reward": ["20 Legends Points"], "requiredRP": 150 }
             ]
           },
           {
@@ -67,7 +67,7 @@
             "color": "#e0cb21",
             "majorReward": ["... Title (Unique)"],
             "levels": [
-              { "id": 1, "reward": ["250 Prestige Tickets"], "requiredRP": 600 }
+              { "id": 1, "reward": ["250 Prestige Tickets"], "requiredRP": 0 }
             ]
           }
         ]
@@ -138,7 +138,7 @@
             "color": "#e0cb21",
             "majorReward": ["Urban Legend Title (Unique)"],
             "levels": [
-              { "id": 1, "reward": ["250 Prestige Tickets"], "requiredRP": 600 }
+              { "id": 1, "reward": ["250 Prestige Tickets"], "requiredRP": 0 }
             ]
           }
         ]

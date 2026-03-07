@@ -2,7 +2,7 @@
   "ROTATION_START": 1772814600,
   "EVENT_DURATION": 600,
   "ROTATION": [
-    ["Nuuanu - Punchbowl", "RR > Monster > Rally", "", "OLD"],
+    ["Nuuanu - Punchbowl", "RR > Monster > Rally", "", "OLD"], 
     ["Wailea", "Hypercar > ST2 > Racing", "", "OLD"],
     ["Kalaeloa", "RR > Rally > ST2", "", "OLD"],
     ["Hana", "AGP > Racing > Hypercar", "Pro Racing", "OLD"],
@@ -10,7 +10,7 @@
     ["Kaneohe", "RR > Hypercar > Drift", "No collision", "OLD"],
     ["Kula", "ST2 > RR > Racing", " ", "OLD"],
     ["Nuuanu - Punchbowl", "Racing > Jet > ST2", "Air Section", "OLD"],
-    ["Wahiawa Fields", "ST1 > ST2 < Racing", "No collision", "OLD"],
+    ["Wahiawa Fields", "ST1 > ST2 > Racing", "No collision", "OLD"],
     ["Kahakuloa", "AGP > Rally > Hypercar", "", "OLD"],
     [
       "Ma'akua Black Beach",
@@ -18,8 +18,9 @@
       "Special Section",
       "NEW"
     ],
+    ["Ma'akua Black Beach", "Hypercar > Racing > ST2", "", "OLD"],
     ["Kahakuloa", "Drift > AGP > RR", "", "OLD"],
-    ["Haleiwa", "ST2 > Hypercar > Racing", "N/A Info", "NEW"],
+    ["Haleiwa", "ST2 > Hypercar > Racing", "Pro Racing", "NEW"],
     ["Kealaloloa", "ST1 > Motocross > Hypercar", "", "OLD"],
     ["Kaena Point", "Racing > ST2 > AGP", "No collision", "OLD"],
     ["Lahaina", "Hypercar > Monster > Rally", "", "OLD"],
@@ -31,6 +32,8 @@
     ["Wailea", "Racing > RR > Hypercar", "", "OLD"],
     ["Nuuanu - Punchbowl", "ST1 > Hypercar > AGP", "Special Selection", "OLD"],
     ["Hana", "ST2 > Racing > Motocross", "", "OLD"],
+    ["Kalaeloa", "Hypercar > AGP > Racing", "Special Weather", "OLD"],
+    ["Lahaina", "Monster > ST2 > Hypercar", "", "OLD"],
     ["Peacock Flats", "ST1 > AGP > Racing", "No collision", "OLD"],
     ["Haleakala", "AGP > Drift > Rally", "", "OLD"],
     ["The Berrens", "ST2 > Racing > Hypercar", "Special Selection", "NEW"],
@@ -42,6 +45,8 @@
     ["Lahaina", "ST2 > Hypercar > Racing", "Special Selection", "OLD"],
     ["Ma'akua Black Beach", "AGP > RR > Hypercar", "", "OLD"],
     ["Kula", "Hypercar > Jet > AGP", "Air Selection", "OLD"],
+    ["Kahuku", "ST1 > Monster > Hypercar", "", "OLD"]
+    ["Kaneohe", "ST1 > Hypercar > Racing", "No collision", "OLD"]
     ["Kaena Point", "ST2 > RR > Motocross", "", "OLD"],
     ["Paia", "ST1 > Drift > AGP", "Special Selection", "OLD"],
     ["Waikiki", "AGP > Racing > Rally", "", "OLD"],
@@ -62,7 +67,7 @@
     ["Kaneohe", "RR > Hypercar > Drift", "No collision", "OLD"],
     ["Kula", "ST2 > RR > Racing", " ", "OLD"],
     ["Nuuanu - Punchbowl", "Racing > Jet > ST2", "Air Section", "OLD"],
-    ["Wahiawa Fields", "ST1 > ST2 < Racing", "No collision", "OLD"],
+    ["Wahiawa Fields", "ST1 > ST2 > Racing", "No collision", "OLD"],
     ["Kahakuloa", "AGP > Rally > Hypercar", "", "OLD"],
     [
       "Ma'akua Black Beach",
@@ -70,8 +75,9 @@
       "Special Section",
       "NEW"
     ],
+    ["Ma'akua Black Beach", "Hypercar > Racing > ST2", "", "OLD"],
     ["Kahakuloa", "Drift > AGP > RR", "", "OLD"],
-    ["Haleiwa", "ST2 > Hypercar > Racing", "N/A Info", "NEW"],
+    ["Haleiwa", "ST2 > Hypercar > Racing", "Pro Racing", "NEW"],
     ["Kealaloloa", "ST1 > Motocross > Hypercar", "", "OLD"],
     ["Kaena Point", "Racing > ST2 > AGP", "No collision", "OLD"],
     ["Lahaina", "Hypercar > Monster > Rally", "", "OLD"],
@@ -83,6 +89,8 @@
     ["Wailea", "Racing > RR > Hypercar", "", "OLD"],
     ["Nuuanu - Punchbowl", "ST1 > Hypercar > AGP", "Special Selection", "OLD"],
     ["Hana", "ST2 > Racing > Motocross", "", "OLD"],
+    ["Kalaeloa", "Hypercar > AGP > Racing", "Special Weather", "OLD"],
+    ["Lahaina", "Monster > ST2 > Hypercar", "", "OLD"],
     ["Peacock Flats", "ST1 > AGP > Racing", "No collision", "OLD"],
     ["Haleakala", "AGP > Drift > Rally", "", "OLD"],
     ["The Berrens", "ST2 > Racing > Hypercar", "Special Selection", "NEW"],
@@ -94,6 +102,8 @@
     ["Lahaina", "ST2 > Hypercar > Racing", "Special Selection", "OLD"],
     ["Ma'akua Black Beach", "AGP > RR > Hypercar", "", "OLD"],
     ["Kula", "Hypercar > Jet > AGP", "Air Selection", "OLD"],
+    ["Kahuku", "ST1 > Monster > Hypercar", "", "OLD"]
+    ["Kaneohe", "ST1 > Hypercar > Racing", "No collision", "OLD"]
     ["Kaena Point", "ST2 > RR > Motocross", "", "OLD"],
     ["Paia", "ST1 > Drift > AGP", "Special Selection", "OLD"],
     ["Waikiki", "AGP > Racing > Rally", "", "OLD"],
