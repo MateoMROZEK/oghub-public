@@ -74,8 +74,8 @@
           "dlc": [],
           "physical": [],
           "description": {
-            "fr": "65€",
-            "en": "65€"
+            "fr": "60€",
+            "en": "60€"
           }
         },
         {
@@ -146,8 +146,8 @@
           "cash": 10,
           "crewCredits": 0,
           "description": {
-            "fr": "5€",
-            "en": "5€"
+            "fr": "10€",
+            "en": "10€"
           }
         },
         {
@@ -176,40 +176,6 @@
             "youtube": "https://youtube.com/@oghubfr",
             "twitch": "https://twitch.tv/z3kdevelopment"
           }
-        },
-        {
-          "id": "mateotest",
-          "name": "Mateo_Test",
-          "country": "FR",
-          "countryCode": "fr",
-          "avatar": "Ma",
-          "team": "",
-          "oghub_profile": "mateo",
-          "discord": {
-            "id": "368832865850621952",
-            "username": "wtasqd"
-          },
-          "socials": {
-            "youtube": "",
-            "twitch": ""
-          }
-        },
-        {
-          "id": "zkorsk",
-          "name": "zKorsk",
-          "country": "FR",
-          "countryCode": "fr",
-          "avatar": "zK",
-          "team": "",
-          "oghub_profile": "",
-          "discord": {
-            "id": "1178024745980149771",
-            "username": "ebl_vinc."
-          },
-          "socials": {
-            "youtube": "",
-            "twitch": ""
-          }
         }
       ],
       "events": [
@@ -222,7 +188,7 @@
           "shareId": "000-000-000",
           "creator": "motorgames",
           "week": 2,
-          "date": "2026-03-01"
+          "date": "2026-03-11"
         },
         {
           "id": "vinc_week2",
@@ -302,18 +268,7 @@
           "date": "2026-04-22"
         }
       ],
-      "results": [
-        {
-          "eventId": "mg_week2",
-          "playerId": "zkorsk",
-          "time": "2:19.551"
-        },
-        {
-          "eventId": "mg_week2",
-          "playerId": "mateo",
-          "time": "2:18.551"
-        }
-      ],
+      "results": [],
       "registrations": [
         {
           "discordUserId": "206117019752464384",
@@ -323,24 +278,6 @@
           "youtube": "https://youtube.com/@oghubfr",
           "twitch": "https://twitch.tv/z3kdevelopment",
           "registeredAt": "2026-03-03T08:24:17.742Z"
-        },
-        {
-          "discordUserId": "368832865850621952",
-          "discordUsername": "wtasqd",
-          "username": "Mateo_Test",
-          "nationality": "FR",
-          "youtube": "",
-          "twitch": "",
-          "registeredAt": "2026-03-05T06:25:51.650Z"
-        },
-        {
-          "discordUserId": "1178024745980149771",
-          "discordUsername": "ebl_vinc.",
-          "username": "zKorsk",
-          "nationality": "FR",
-          "youtube": "",
-          "twitch": "",
-          "registeredAt": "2026-03-05T06:53:56.870Z"
         }
       ],
       "submissions": [],
