@@ -16,10 +16,10 @@
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
         },
         {
-          "name": "Custo Nitro Orl 029",
+          "name": "American Racing Whirl - Epic",
           "level": "3",
           "xpNeed": 100800,
-          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+          "image": "https://i.oghub.fr/thecrew/motorfest/cars/jEXI1icMgjlFgGHT09s03RcN.jpg"
         },
         {
           "name": "300,000 Bucks",
@@ -28,10 +28,10 @@
           "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/bucks.webp"
         },
         {
-          "name": "Dodge Chazrger R/T Hemi MAD Edition",
+          "name": "Dodge Charger R/T Hemi MAD Edition",
           "level": "10",
           "xpNeed": 100800,
-          "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+          "image": "https://i.oghub.fr/thecrew/motorfest/cars/ZD0lULoeeSH49OfI0vh42OKS.jpg"
         },
         {
           "name": "300 P Tickets",
@@ -71,7 +71,7 @@
               "name": "Suit Rookie",
               "level": "4",
               "xpNeed": 252000,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://i.oghub.fr/thecrew/motorfest/cars/oIcDXhuZyO9XXkRcmeWfd8rJ.jpg"
             }
           ],
           "orange": [
@@ -94,10 +94,10 @@
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/pts-legends.webp"
             },
             {
-              "name": "Ivory-Tower : Ivory Tower 005 ED1",
+              "name": "Ivory-Tower : Zerion-X Dark Blue Ed.",
               "level": "4",
               "xpNeed": 252000,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://i.oghub.fr/thecrew/motorfest/cars/1uFMQy2jHKVjPR8oSQbQxJTE.jpg"
             }
           ],
           "green": [
@@ -120,10 +120,10 @@
               "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/xp.webp"
             },
             {
-              "name": "Chbevrolet Camaro SS Bend Edition",
+              "name": "Chevrolet Camaro SS Bend Edition",
               "level": "4",
               "xpNeed": 252000,
-              "image": "https://raw.githubusercontent.com/MateoMROZEK/oghub-public/refs/heads/main/assets/main-stage/no-bg.webp"
+              "image": "https://i.oghub.fr/thecrew/motorfest/cars/FpvTLr4J6HXPbbi6WMBO5JS3.jpg"
             }
           ]
         }
