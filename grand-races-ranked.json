@@ -27,9 +27,9 @@
                 "reward": ["250 Prestige Tickets"],
                 "requiredRP": 100
               },
-              { "id": 3, "reward": ["110,000 XP"], "requiredRP": 150 },
-              { "id": 2, "reward": ["200,000 Bucks"], "requiredRP": 150 },
-              { "id": 1, "reward": ["20 Legends Points"], "requiredRP": 150 }
+              { "id": 3, "reward": ["110,000 XP"], "requiredRP": 100 },
+              { "id": 2, "reward": ["200,000 Bucks"], "requiredRP": 100 },
+              { "id": 1, "reward": ["20 Legends Points"], "requiredRP": 100 }
             ]
           },
           {

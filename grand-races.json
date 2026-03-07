@@ -2,7 +2,7 @@
   "ROTATION_START": 1772814600,
   "EVENT_DURATION": 600,
   "ROTATION": [
-    ["Nuuanu - Punchbowl", "RR > Monster > Rally", "", "OLD"], 
+    ["Nuuanu - Punchbowl", "RR > Monster > Rally", "", "OLD"],
     ["Wailea", "Hypercar > ST2 > Racing", "", "OLD"],
     ["Kalaeloa", "RR > Rally > ST2", "", "OLD"],
     ["Hana", "AGP > Racing > Hypercar", "Pro Racing", "OLD"],
@@ -45,8 +45,8 @@
     ["Lahaina", "ST2 > Hypercar > Racing", "Special Selection", "OLD"],
     ["Ma'akua Black Beach", "AGP > RR > Hypercar", "", "OLD"],
     ["Kula", "Hypercar > Jet > AGP", "Air Selection", "OLD"],
-    ["Kahuku", "ST1 > Monster > Hypercar", "", "OLD"]
-    ["Kaneohe", "ST1 > Hypercar > Racing", "No collision", "OLD"]
+    ["Kahuku", "ST1 > Monster > Hypercar", "", "OLD"],
+    ["Kaneohe", "ST1 > Hypercar > Racing", "No collision", "OLD"],
     ["Kaena Point", "ST2 > RR > Motocross", "", "OLD"],
     ["Paia", "ST1 > Drift > AGP", "Special Selection", "OLD"],
     ["Waikiki", "AGP > Racing > Rally", "", "OLD"],
@@ -102,8 +102,8 @@
     ["Lahaina", "ST2 > Hypercar > Racing", "Special Selection", "OLD"],
     ["Ma'akua Black Beach", "AGP > RR > Hypercar", "", "OLD"],
     ["Kula", "Hypercar > Jet > AGP", "Air Selection", "OLD"],
-    ["Kahuku", "ST1 > Monster > Hypercar", "", "OLD"]
-    ["Kaneohe", "ST1 > Hypercar > Racing", "No collision", "OLD"]
+    ["Kahuku", "ST1 > Monster > Hypercar", "", "OLD"],
+    ["Kaneohe", "ST1 > Hypercar > Racing", "No collision", "OLD"],
     ["Kaena Point", "ST2 > RR > Motocross", "", "OLD"],
     ["Paia", "ST1 > Drift > AGP", "Special Selection", "OLD"],
     ["Waikiki", "AGP > Racing > Rally", "", "OLD"],
