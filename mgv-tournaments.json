@@ -187,6 +187,17 @@
             "id": "1266828386982952981",
             "username": "supra2jztcm"
           }
+        },
+        {
+          "id": "eblghost",
+          "name": "EBLghost",
+          "country": "US",
+          "countryCode": "us",
+          "avatar": "EB",
+          "discord": {
+            "id": "999405890459422751",
+            "username": ".rnj."
+          }
         }
       ],
       "events": [
@@ -296,6 +307,13 @@
           "username": "HP-supra2jz",
           "nationality": "FR",
           "registeredAt": "2026-03-07T15:09:22.980Z"
+        },
+        {
+          "discordUserId": "999405890459422751",
+          "discordUsername": ".rnj.",
+          "username": "EBLghost",
+          "nationality": "US",
+          "registeredAt": "2026-03-08T19:46:31.395Z"
         }
       ],
       "submissions": [],
