@@ -352,6 +352,17 @@
             "id": "262766723776774144",
             "username": "dr.skeud"
           }
+        },
+        {
+          "id": "urralinn",
+          "name": "Urralinn",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Ur",
+          "discord": {
+            "id": "793536724088520724",
+            "username": "urralinn"
+          }
         }
       ],
       "events": [
@@ -566,6 +577,13 @@
           "username": "Dr.Skeud",
           "nationality": "FR",
           "registeredAt": "2026-03-08T22:37:50.147Z"
+        },
+        {
+          "discordUserId": "793536724088520724",
+          "discordUsername": "urralinn",
+          "username": "Urralinn",
+          "nationality": "FR",
+          "registeredAt": "2026-03-08T22:42:50.265Z"
         }
       ],
       "submissions": [],
