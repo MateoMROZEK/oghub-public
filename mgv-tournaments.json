@@ -330,6 +330,17 @@
             "id": "1019862637011537971",
             "username": "gyokoyou"
           }
+        },
+        {
+          "id": "swxtox",
+          "name": "Swxtox",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Sw",
+          "discord": {
+            "id": "926579397664866344",
+            "username": "swxtox"
+          }
         }
       ],
       "events": [
@@ -530,6 +541,13 @@
           "username": "gyokoyou",
           "nationality": "FR",
           "registeredAt": "2026-03-08T21:19:51.744Z"
+        },
+        {
+          "discordUserId": "926579397664866344",
+          "discordUsername": "swxtox",
+          "username": "Swxtox",
+          "nationality": "FR",
+          "registeredAt": "2026-03-08T21:27:41.748Z"
         }
       ],
       "submissions": [],
