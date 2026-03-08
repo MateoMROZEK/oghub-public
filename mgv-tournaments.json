@@ -242,6 +242,17 @@
             "id": "1279487396097949831",
             "username": "shokyoo"
           }
+        },
+        {
+          "id": "buntafujiwara",
+          "name": "Bunta_.Fujiwara",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Bu",
+          "discord": {
+            "id": "268402279466532865",
+            "username": "bunta_fujiwara"
+          }
         }
       ],
       "events": [
@@ -386,6 +397,13 @@
           "username": "Gaiijin.",
           "nationality": "FR",
           "registeredAt": "2026-03-08T20:15:32.902Z"
+        },
+        {
+          "discordUserId": "268402279466532865",
+          "discordUsername": "bunta_fujiwara",
+          "username": "Bunta_.Fujiwara",
+          "nationality": "FR",
+          "registeredAt": "2026-03-08T20:32:50.651Z"
         }
       ],
       "submissions": [],
