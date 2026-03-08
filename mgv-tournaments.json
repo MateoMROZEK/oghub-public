@@ -286,6 +286,17 @@
             "id": "1325478920216117415",
             "username": "akyumaa"
           }
+        },
+        {
+          "id": "nyvra",
+          "name": "Nyvra.",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Ny",
+          "discord": {
+            "id": "528711086665629716",
+            "username": "jst_destra"
+          }
         }
       ],
       "events": [
@@ -458,6 +469,13 @@
           "username": "akyuma",
           "nationality": "FR",
           "registeredAt": "2026-03-08T20:42:32.992Z"
+        },
+        {
+          "discordUserId": "528711086665629716",
+          "discordUsername": "jst_destra",
+          "username": "Nyvra.",
+          "nationality": "FR",
+          "registeredAt": "2026-03-08T20:51:50.077Z"
         }
       ],
       "submissions": [],
