@@ -275,6 +275,17 @@
             "id": "394573171401031681",
             "username": "malinmac1"
           }
+        },
+        {
+          "id": "akyuma",
+          "name": "akyuma",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "ak",
+          "discord": {
+            "id": "1325478920216117415",
+            "username": "akyumaa"
+          }
         }
       ],
       "events": [
@@ -440,6 +451,13 @@
           "username": "malinmac1",
           "nationality": "GB",
           "registeredAt": "2026-03-08T20:36:11.786Z"
+        },
+        {
+          "discordUserId": "1325478920216117415",
+          "discordUsername": "akyumaa",
+          "username": "akyuma",
+          "nationality": "FR",
+          "registeredAt": "2026-03-08T20:42:32.992Z"
         }
       ],
       "submissions": [],
