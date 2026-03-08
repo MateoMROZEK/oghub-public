@@ -253,6 +253,17 @@
             "id": "268402279466532865",
             "username": "bunta_fujiwara"
           }
+        },
+        {
+          "id": "mohamedmaxpro",
+          "name": "Mohamedmaxpro",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Mo",
+          "discord": {
+            "id": "1066066256580579398",
+            "username": "couscous_no_diff"
+          }
         }
       ],
       "events": [
@@ -404,6 +415,13 @@
           "username": "Bunta_.Fujiwara",
           "nationality": "FR",
           "registeredAt": "2026-03-08T20:32:50.651Z"
+        },
+        {
+          "discordUserId": "1066066256580579398",
+          "discordUsername": "couscous_no_diff",
+          "username": "Mohamedmaxpro",
+          "nationality": "FR",
+          "registeredAt": "2026-03-08T20:35:11.124Z"
         }
       ],
       "submissions": [],
