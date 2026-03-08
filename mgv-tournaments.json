@@ -341,6 +341,17 @@
             "id": "926579397664866344",
             "username": "swxtox"
           }
+        },
+        {
+          "id": "drskeud",
+          "name": "Dr.Skeud",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Dr",
+          "discord": {
+            "id": "262766723776774144",
+            "username": "dr.skeud"
+          }
         }
       ],
       "events": [
@@ -548,6 +559,13 @@
           "username": "Swxtox",
           "nationality": "FR",
           "registeredAt": "2026-03-08T21:27:41.748Z"
+        },
+        {
+          "discordUserId": "262766723776774144",
+          "discordUsername": "dr.skeud",
+          "username": "Dr.Skeud",
+          "nationality": "FR",
+          "registeredAt": "2026-03-08T22:37:50.147Z"
         }
       ],
       "submissions": [],
