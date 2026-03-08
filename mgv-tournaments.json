@@ -231,6 +231,17 @@
             "id": "484044286850105364",
             "username": "enuko"
           }
+        },
+        {
+          "id": "gaiijin",
+          "name": "Gaiijin.",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Ga",
+          "discord": {
+            "id": "1279487396097949831",
+            "username": "shokyoo"
+          }
         }
       ],
       "events": [
@@ -368,6 +379,13 @@
           "username": "Enukotaro",
           "nationality": "FR",
           "registeredAt": "2026-03-08T20:03:40.753Z"
+        },
+        {
+          "discordUserId": "1279487396097949831",
+          "discordUsername": "shokyoo",
+          "username": "Gaiijin.",
+          "nationality": "FR",
+          "registeredAt": "2026-03-08T20:15:32.902Z"
         }
       ],
       "submissions": [],
