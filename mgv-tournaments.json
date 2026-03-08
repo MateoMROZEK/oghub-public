@@ -264,6 +264,17 @@
             "id": "1066066256580579398",
             "username": "couscous_no_diff"
           }
+        },
+        {
+          "id": "malinmac1",
+          "name": "malinmac1",
+          "country": "GB",
+          "countryCode": "gb",
+          "avatar": "ma",
+          "discord": {
+            "id": "394573171401031681",
+            "username": "malinmac1"
+          }
         }
       ],
       "events": [
@@ -422,6 +433,13 @@
           "username": "Mohamedmaxpro",
           "nationality": "FR",
           "registeredAt": "2026-03-08T20:35:11.124Z"
+        },
+        {
+          "discordUserId": "394573171401031681",
+          "discordUsername": "malinmac1",
+          "username": "malinmac1",
+          "nationality": "GB",
+          "registeredAt": "2026-03-08T20:36:11.786Z"
         }
       ],
       "submissions": [],
