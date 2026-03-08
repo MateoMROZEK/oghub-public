@@ -319,6 +319,17 @@
             "id": "555623391298846730",
             "username": "sz3._"
           }
+        },
+        {
+          "id": "gyokoyou",
+          "name": "gyokoyou",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "gy",
+          "discord": {
+            "id": "1019862637011537971",
+            "username": "gyokoyou"
+          }
         }
       ],
       "events": [
@@ -512,6 +523,13 @@
           "username": "username:XNep.",
           "nationality": "FR",
           "registeredAt": "2026-03-08T21:16:22.208Z"
+        },
+        {
+          "discordUserId": "1019862637011537971",
+          "discordUsername": "gyokoyou",
+          "username": "gyokoyou",
+          "nationality": "FR",
+          "registeredAt": "2026-03-08T21:19:51.744Z"
         }
       ],
       "submissions": [],
