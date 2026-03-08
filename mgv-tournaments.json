@@ -308,6 +308,17 @@
             "id": "876092832232906822",
             "username": "trstn.__"
           }
+        },
+        {
+          "id": "usernamexnep",
+          "name": "username:XNep.",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "us",
+          "discord": {
+            "id": "555623391298846730",
+            "username": "sz3._"
+          }
         }
       ],
       "events": [
@@ -494,6 +505,13 @@
           "username": "itsTRSTN_",
           "nationality": "FR",
           "registeredAt": "2026-03-08T21:03:11.135Z"
+        },
+        {
+          "discordUserId": "555623391298846730",
+          "discordUsername": "sz3._",
+          "username": "username:XNep.",
+          "nationality": "FR",
+          "registeredAt": "2026-03-08T21:16:22.208Z"
         }
       ],
       "submissions": [],
