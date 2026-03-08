@@ -198,6 +198,17 @@
             "id": "999405890459422751",
             "username": ".rnj."
           }
+        },
+        {
+          "id": "zenryu",
+          "name": "Zenryu..",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Ze",
+          "discord": {
+            "id": "1208344445217542186",
+            "username": "k_edr29"
+          }
         }
       ],
       "events": [
@@ -314,6 +325,13 @@
           "username": "EBLghost",
           "nationality": "US",
           "registeredAt": "2026-03-08T19:46:31.395Z"
+        },
+        {
+          "discordUserId": "1208344445217542186",
+          "discordUsername": "k_edr29",
+          "username": "Zenryu..",
+          "nationality": "FR",
+          "registeredAt": "2026-03-08T19:47:53.358Z"
         }
       ],
       "submissions": [],
