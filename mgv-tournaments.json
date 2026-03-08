@@ -220,6 +220,17 @@
             "id": "1097154530568835193",
             "username": ".snics"
           }
+        },
+        {
+          "id": "enukotaro",
+          "name": "Enukotaro",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "En",
+          "discord": {
+            "id": "484044286850105364",
+            "username": "enuko"
+          }
         }
       ],
       "events": [
@@ -350,6 +361,13 @@
           "username": "snics77",
           "nationality": "FR",
           "registeredAt": "2026-03-08T19:50:02.776Z"
+        },
+        {
+          "discordUserId": "484044286850105364",
+          "discordUsername": "enuko",
+          "username": "Enukotaro",
+          "nationality": "FR",
+          "registeredAt": "2026-03-08T20:03:40.753Z"
         }
       ],
       "submissions": [],
