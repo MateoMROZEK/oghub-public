@@ -310,8 +310,8 @@
           }
         },
         {
-          "id": "usernamexnep",
-          "name": "username:XNep.",
+          "id": "xnep",
+          "name": "XNep.",
           "country": "FR",
           "countryCode": "fr",
           "avatar": "us",
@@ -531,7 +531,7 @@
         {
           "discordUserId": "555623391298846730",
           "discordUsername": "sz3._",
-          "username": "username:XNep.",
+          "username": "XNep.",
           "nationality": "FR",
           "registeredAt": "2026-03-08T21:16:22.208Z"
         },
