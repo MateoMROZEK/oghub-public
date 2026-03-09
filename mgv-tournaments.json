@@ -440,6 +440,17 @@
             "id": "1457837527221276674",
             "username": "adamguenifey"
           }
+        },
+        {
+          "id": "speedcol",
+          "name": "SpeedCol",
+          "country": "419",
+          "countryCode": "419",
+          "avatar": "Sp",
+          "discord": {
+            "id": "544943666125340711",
+            "username": "speedcol"
+          }
         }
       ],
       "events": [
@@ -710,6 +721,13 @@
           "username": "stade-range13",
           "nationality": "FR",
           "registeredAt": "2026-03-09T20:29:45.602Z"
+        },
+        {
+          "discordUserId": "544943666125340711",
+          "discordUsername": "speedcol",
+          "username": "SpeedCol",
+          "nationality": "419",
+          "registeredAt": "2026-03-09T22:52:09.766Z"
         }
       ],
       "submissions": [],
