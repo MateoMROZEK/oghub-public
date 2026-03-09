@@ -385,6 +385,17 @@
             "id": "1262580531871355002",
             "username": "cloud9593."
           }
+        },
+        {
+          "id": "davendrift",
+          "name": "daven_drift",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "da",
+          "discord": {
+            "id": "1295016246424895550",
+            "username": "daven_44"
+          }
         }
       ],
       "events": [
@@ -620,6 +631,13 @@
           "username": "Keviin9593",
           "nationality": "FR",
           "registeredAt": "2026-03-09T09:35:11.809Z"
+        },
+        {
+          "discordUserId": "1295016246424895550",
+          "discordUsername": "daven_44",
+          "username": "daven_drift",
+          "nationality": "FR",
+          "registeredAt": "2026-03-09T15:07:32.002Z"
         }
       ],
       "submissions": [],
