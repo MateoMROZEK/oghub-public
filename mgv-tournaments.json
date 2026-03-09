@@ -374,6 +374,17 @@
             "id": "870246106079068190",
             "username": "rostecke"
           }
+        },
+        {
+          "id": "keviin9593",
+          "name": "Keviin9593",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Ke",
+          "discord": {
+            "id": "1262580531871355002",
+            "username": "cloud9593."
+          }
         }
       ],
       "events": [
@@ -602,6 +613,13 @@
           "username": "rostecke",
           "nationality": "FR",
           "registeredAt": "2026-03-09T08:02:07.171Z"
+        },
+        {
+          "discordUserId": "1262580531871355002",
+          "discordUsername": "cloud9593.",
+          "username": "Keviin9593",
+          "nationality": "FR",
+          "registeredAt": "2026-03-09T09:35:11.809Z"
         }
       ],
       "submissions": [],
