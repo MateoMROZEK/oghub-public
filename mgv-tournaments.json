@@ -429,6 +429,17 @@
             "id": "274624108233228298",
             "username": "tanguybe"
           }
+        },
+        {
+          "id": "staderange13",
+          "name": "stade-range13",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "st",
+          "discord": {
+            "id": "1457837527221276674",
+            "username": "adamguenifey"
+          }
         }
       ],
       "events": [
@@ -692,6 +703,13 @@
           "username": "TanguyBE",
           "nationality": "FR",
           "registeredAt": "2026-03-09T18:19:15.794Z"
+        },
+        {
+          "discordUserId": "1457837527221276674",
+          "discordUsername": "adamguenifey",
+          "username": "stade-range13",
+          "nationality": "FR",
+          "registeredAt": "2026-03-09T20:29:45.602Z"
         }
       ],
       "submissions": [],
