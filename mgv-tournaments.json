@@ -407,6 +407,17 @@
             "id": "381161660448243712",
             "username": "rexspy16"
           }
+        },
+        {
+          "id": "purp7e",
+          "name": "purp7e_",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "pu",
+          "discord": {
+            "id": "353870639741796362",
+            "username": "purp7e_"
+          }
         }
       ],
       "events": [
@@ -656,6 +667,13 @@
           "username": "RexSpy",
           "nationality": "FR",
           "registeredAt": "2026-03-09T15:10:58.031Z"
+        },
+        {
+          "discordUserId": "353870639741796362",
+          "discordUsername": "purp7e_",
+          "username": "purp7e_",
+          "nationality": "FR",
+          "registeredAt": "2026-03-09T17:00:00.299Z"
         }
       ],
       "submissions": [],
