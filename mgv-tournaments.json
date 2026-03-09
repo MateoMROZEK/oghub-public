@@ -396,6 +396,17 @@
             "id": "1295016246424895550",
             "username": "daven_44"
           }
+        },
+        {
+          "id": "rexspy",
+          "name": "RexSpy",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Re",
+          "discord": {
+            "id": "381161660448243712",
+            "username": "rexspy16"
+          }
         }
       ],
       "events": [
@@ -638,6 +649,13 @@
           "username": "daven_drift",
           "nationality": "FR",
           "registeredAt": "2026-03-09T15:07:32.002Z"
+        },
+        {
+          "discordUserId": "381161660448243712",
+          "discordUsername": "rexspy16",
+          "username": "RexSpy",
+          "nationality": "FR",
+          "registeredAt": "2026-03-09T15:10:58.031Z"
         }
       ],
       "submissions": [],
