@@ -363,6 +363,17 @@
             "id": "793536724088520724",
             "username": "urralinn"
           }
+        },
+        {
+          "id": "rostecke",
+          "name": "rostecke",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "ro",
+          "discord": {
+            "id": "870246106079068190",
+            "username": "rostecke"
+          }
         }
       ],
       "events": [
@@ -584,6 +595,13 @@
           "username": "Urralinn",
           "nationality": "FR",
           "registeredAt": "2026-03-08T22:42:50.265Z"
+        },
+        {
+          "discordUserId": "870246106079068190",
+          "discordUsername": "rostecke",
+          "username": "rostecke",
+          "nationality": "FR",
+          "registeredAt": "2026-03-09T08:02:07.171Z"
         }
       ],
       "submissions": [],
