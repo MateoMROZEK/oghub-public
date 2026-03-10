@@ -473,6 +473,17 @@
             "id": "1288368998903451761",
             "username": "titiracing_011"
           }
+        },
+        {
+          "id": "cocoduroseau",
+          "name": "Coco_du_roseau",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Co",
+          "discord": {
+            "id": "624234034696028173",
+            "username": "cocoduroseau"
+          }
         }
       ],
       "events": [
@@ -764,6 +775,13 @@
           "username": "titi_racing011",
           "nationality": "FR",
           "registeredAt": "2026-03-10T15:54:05.712Z"
+        },
+        {
+          "discordUserId": "624234034696028173",
+          "discordUsername": "cocoduroseau",
+          "username": "Coco_du_roseau",
+          "nationality": "FR",
+          "registeredAt": "2026-03-10T17:33:03.976Z"
         }
       ],
       "submissions": [],
