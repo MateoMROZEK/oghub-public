@@ -495,6 +495,17 @@
             "id": "488743454688411659",
             "username": "johndoeuf81"
           }
+        },
+        {
+          "id": "dark",
+          "name": "dark",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "da",
+          "discord": {
+            "id": "899260025535602788",
+            "username": "dark_9275"
+          }
         }
       ],
       "events": [
@@ -800,6 +811,13 @@
           "username": "MaKaVeLi_Dior",
           "nationality": "FR",
           "registeredAt": "2026-03-10T17:46:42.015Z"
+        },
+        {
+          "discordUserId": "899260025535602788",
+          "discordUsername": "dark_9275",
+          "username": "dark",
+          "nationality": "FR",
+          "registeredAt": "2026-03-10T18:24:11.447Z"
         }
       ],
       "submissions": [],
