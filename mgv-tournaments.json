@@ -539,6 +539,17 @@
             "id": "685118017981513884",
             "username": "ebl_shino"
           }
+        },
+        {
+          "id": "fwink",
+          "name": "Fwink",
+          "country": "DE",
+          "countryCode": "de",
+          "avatar": "Fw",
+          "discord": {
+            "id": "528521597737500682",
+            "username": "fwink"
+          }
         }
       ],
       "events": [
@@ -872,6 +883,13 @@
           "username": "LittleBird..",
           "nationality": "US",
           "registeredAt": "2026-03-10T19:51:20.629Z"
+        },
+        {
+          "discordUserId": "528521597737500682",
+          "discordUsername": "fwink",
+          "username": "Fwink",
+          "nationality": "DE",
+          "registeredAt": "2026-03-10T19:55:53.922Z"
         }
       ],
       "submissions": [],
