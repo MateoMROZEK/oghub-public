@@ -506,6 +506,17 @@
             "id": "899260025535602788",
             "username": "dark_9275"
           }
+        },
+        {
+          "id": "kumarchello",
+          "name": "kumarchello",
+          "country": "RU",
+          "countryCode": "ru",
+          "avatar": "ku",
+          "discord": {
+            "id": "516675434486693908",
+            "username": "kumarick"
+          }
         }
       ],
       "events": [
@@ -818,6 +829,13 @@
           "username": "dark",
           "nationality": "FR",
           "registeredAt": "2026-03-10T18:24:11.447Z"
+        },
+        {
+          "discordUserId": "516675434486693908",
+          "discordUsername": "kumarick",
+          "username": "kumarchello",
+          "nationality": "RU",
+          "registeredAt": "2026-03-10T19:48:20.834Z"
         }
       ],
       "submissions": [],
