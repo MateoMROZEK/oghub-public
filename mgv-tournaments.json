@@ -462,6 +462,17 @@
             "id": "1068540384042557533",
             "username": "math057397"
           }
+        },
+        {
+          "id": "titiracing011",
+          "name": "titi_racing011",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "ti",
+          "discord": {
+            "id": "1288368998903451761",
+            "username": "titiracing_011"
+          }
         }
       ],
       "events": [
@@ -746,6 +757,13 @@
           "username": "Chef-A29",
           "nationality": "FR",
           "registeredAt": "2026-03-10T05:57:33.755Z"
+        },
+        {
+          "discordUserId": "1288368998903451761",
+          "discordUsername": "titiracing_011",
+          "username": "titi_racing011",
+          "nationality": "FR",
+          "registeredAt": "2026-03-10T15:54:05.712Z"
         }
       ],
       "submissions": [],
