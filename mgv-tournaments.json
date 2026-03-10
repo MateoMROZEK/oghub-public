@@ -528,6 +528,17 @@
             "id": "1047381720795725905",
             "username": "itsnoctaly"
           }
+        },
+        {
+          "id": "littlebird",
+          "name": "LittleBird..",
+          "country": "US",
+          "countryCode": "us",
+          "avatar": "Li",
+          "discord": {
+            "id": "685118017981513884",
+            "username": "ebl_shino"
+          }
         }
       ],
       "events": [
@@ -854,6 +865,13 @@
           "username": "babyNoctaly",
           "nationality": "FR",
           "registeredAt": "2026-03-10T19:51:07.017Z"
+        },
+        {
+          "discordUserId": "685118017981513884",
+          "discordUsername": "ebl_shino",
+          "username": "LittleBird..",
+          "nationality": "US",
+          "registeredAt": "2026-03-10T19:51:20.629Z"
         }
       ],
       "submissions": [],
