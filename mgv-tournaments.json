@@ -627,6 +627,17 @@
             "id": "1344357022342058064",
             "username": "soso599."
           }
+        },
+        {
+          "id": "conceptcarbone",
+          "name": "ConceptCarbone",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Co",
+          "discord": {
+            "id": "448129986961080320",
+            "username": "antoinehv"
+          }
         }
       ],
       "events": [
@@ -1016,6 +1027,13 @@
           "username": "WALTER-WHITE-l-",
           "nationality": "FR",
           "registeredAt": "2026-03-11T10:27:14.999Z"
+        },
+        {
+          "discordUserId": "448129986961080320",
+          "discordUsername": "antoinehv",
+          "username": "ConceptCarbone",
+          "nationality": "FR",
+          "registeredAt": "2026-03-11T11:15:37.097Z"
         }
       ],
       "submissions": [],
