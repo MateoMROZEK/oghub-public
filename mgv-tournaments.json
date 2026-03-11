@@ -682,6 +682,17 @@
             "id": "1476880733263106070",
             "username": "robzair"
           }
+        },
+        {
+          "id": "tigeraregentle",
+          "name": "TigerAreGentle",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Ti",
+          "discord": {
+            "id": "1243965770417967148",
+            "username": "tigergentle"
+          }
         }
       ],
       "events": [
@@ -1106,6 +1117,13 @@
           "username": "ecapdaspe",
           "nationality": "FR",
           "registeredAt": "2026-03-11T18:53:16.868Z"
+        },
+        {
+          "discordUserId": "1243965770417967148",
+          "discordUsername": "tigergentle",
+          "username": "TigerAreGentle",
+          "nationality": "FR",
+          "registeredAt": "2026-03-11T20:08:00.198Z"
         }
       ],
       "submissions": [],
