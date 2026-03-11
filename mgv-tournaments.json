@@ -649,6 +649,17 @@
             "id": "1020252465565798480",
             "username": "lorenzobxl862"
           }
+        },
+        {
+          "id": "kotoneonph",
+          "name": "KotoneOnPh",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Ko",
+          "discord": {
+            "id": "1400437605413294216",
+            "username": "kotoxon."
+          }
         }
       ],
       "events": [
@@ -1052,6 +1063,13 @@
           "username": "lorenzo'bxl'#862",
           "nationality": "FR",
           "registeredAt": "2026-03-11T12:02:20.036Z"
+        },
+        {
+          "discordUserId": "1400437605413294216",
+          "discordUsername": "kotoxon.",
+          "username": "KotoneOnPh",
+          "nationality": "FR",
+          "registeredAt": "2026-03-11T13:50:26.429Z"
         }
       ],
       "submissions": [],
