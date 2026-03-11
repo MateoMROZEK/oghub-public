@@ -671,6 +671,17 @@
             "id": "376039109744918528",
             "username": "anto2891"
           }
+        },
+        {
+          "id": "ecapdaspe",
+          "name": "ecapdaspe",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "ec",
+          "discord": {
+            "id": "1476880733263106070",
+            "username": "robzair"
+          }
         }
       ],
       "events": [
@@ -1088,6 +1099,13 @@
           "username": "ps-anto28",
           "nationality": "FR",
           "registeredAt": "2026-03-11T15:41:32.200Z"
+        },
+        {
+          "discordUserId": "1476880733263106070",
+          "discordUsername": "robzair",
+          "username": "ecapdaspe",
+          "nationality": "FR",
+          "registeredAt": "2026-03-11T18:53:16.868Z"
         }
       ],
       "submissions": [],
