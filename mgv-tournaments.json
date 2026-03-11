@@ -660,6 +660,17 @@
             "id": "1400437605413294216",
             "username": "kotoxon."
           }
+        },
+        {
+          "id": "psanto28",
+          "name": "ps-anto28",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "ps",
+          "discord": {
+            "id": "376039109744918528",
+            "username": "anto2891"
+          }
         }
       ],
       "events": [
@@ -1070,6 +1081,13 @@
           "username": "KotoneOnPh",
           "nationality": "FR",
           "registeredAt": "2026-03-11T13:50:26.429Z"
+        },
+        {
+          "discordUserId": "376039109744918528",
+          "discordUsername": "anto2891",
+          "username": "ps-anto28",
+          "nationality": "FR",
+          "registeredAt": "2026-03-11T15:41:32.200Z"
         }
       ],
       "submissions": [],
