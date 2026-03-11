@@ -594,6 +594,17 @@
             "id": "1019972831406202982",
             "username": "jheson"
           }
+        },
+        {
+          "id": "nanouille",
+          "name": "Nanouille___",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Na",
+          "discord": {
+            "id": "177773869577273346",
+            "username": "nanovii"
+          }
         }
       ],
       "events": [
@@ -962,6 +973,13 @@
           "username": "kenchiro-974",
           "nationality": "FR",
           "registeredAt": "2026-03-11T09:24:45.215Z"
+        },
+        {
+          "discordUserId": "177773869577273346",
+          "discordUsername": "nanovii",
+          "username": "Nanouille___",
+          "nationality": "FR",
+          "registeredAt": "2026-03-11T10:01:01.830Z"
         }
       ],
       "submissions": [],
