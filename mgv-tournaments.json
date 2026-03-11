@@ -561,6 +561,17 @@
             "id": "691947137558118483",
             "username": "wanted17"
           }
+        },
+        {
+          "id": "estelycaon",
+          "name": "EsteLycaon",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Es",
+          "discord": {
+            "id": "413771337673211915",
+            "username": "lycaon.4149"
+          }
         }
       ],
       "events": [
@@ -908,6 +919,13 @@
           "username": "OSRT_Natsu",
           "nationality": "FR",
           "registeredAt": "2026-03-10T22:49:46.028Z"
+        },
+        {
+          "discordUserId": "413771337673211915",
+          "discordUsername": "lycaon.4149",
+          "username": "EsteLycaon",
+          "nationality": "FR",
+          "registeredAt": "2026-03-11T05:59:09.048Z"
         }
       ],
       "submissions": [],
