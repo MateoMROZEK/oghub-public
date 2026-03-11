@@ -572,6 +572,17 @@
             "id": "413771337673211915",
             "username": "lycaon.4149"
           }
+        },
+        {
+          "id": "xscreamer575x",
+          "name": "xScreamer575x",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "xS",
+          "discord": {
+            "id": "579188125226500098",
+            "username": "ba.ptt"
+          }
         }
       ],
       "events": [
@@ -926,6 +937,13 @@
           "username": "EsteLycaon",
           "nationality": "FR",
           "registeredAt": "2026-03-11T05:59:09.048Z"
+        },
+        {
+          "discordUserId": "579188125226500098",
+          "discordUsername": "ba.ptt",
+          "username": "xScreamer575x",
+          "nationality": "FR",
+          "registeredAt": "2026-03-11T07:24:56.771Z"
         }
       ],
       "submissions": [],
