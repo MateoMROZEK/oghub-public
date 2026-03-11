@@ -605,6 +605,17 @@
             "id": "177773869577273346",
             "username": "nanovii"
           }
+        },
+        {
+          "id": "vinceb772",
+          "name": "Vinceb772",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Vi",
+          "discord": {
+            "id": "1323664695814656022",
+            "username": "wasp2."
+          }
         }
       ],
       "events": [
@@ -980,6 +991,13 @@
           "username": "Nanouille___",
           "nationality": "FR",
           "registeredAt": "2026-03-11T10:01:01.830Z"
+        },
+        {
+          "discordUserId": "1323664695814656022",
+          "discordUsername": "wasp2.",
+          "username": "Vinceb772",
+          "nationality": "FR",
+          "registeredAt": "2026-03-11T10:04:07.127Z"
         }
       ],
       "submissions": [],
