@@ -583,6 +583,17 @@
             "id": "579188125226500098",
             "username": "ba.ptt"
           }
+        },
+        {
+          "id": "kenchiro974",
+          "name": "kenchiro-974",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "ke",
+          "discord": {
+            "id": "1019972831406202982",
+            "username": "jheson"
+          }
         }
       ],
       "events": [
@@ -944,6 +955,13 @@
           "username": "xScreamer575x",
           "nationality": "FR",
           "registeredAt": "2026-03-11T07:24:56.771Z"
+        },
+        {
+          "discordUserId": "1019972831406202982",
+          "discordUsername": "jheson",
+          "username": "kenchiro-974",
+          "nationality": "FR",
+          "registeredAt": "2026-03-11T09:24:45.215Z"
         }
       ],
       "submissions": [],
