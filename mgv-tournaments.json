@@ -616,6 +616,17 @@
             "id": "1323664695814656022",
             "username": "wasp2."
           }
+        },
+        {
+          "id": "walterwhitel",
+          "name": "WALTER-WHITE-l-",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "WA",
+          "discord": {
+            "id": "1344357022342058064",
+            "username": "soso599."
+          }
         }
       ],
       "events": [
@@ -998,6 +1009,13 @@
           "username": "Vinceb772",
           "nationality": "FR",
           "registeredAt": "2026-03-11T10:04:07.127Z"
+        },
+        {
+          "discordUserId": "1344357022342058064",
+          "discordUsername": "soso599.",
+          "username": "WALTER-WHITE-l-",
+          "nationality": "FR",
+          "registeredAt": "2026-03-11T10:27:14.999Z"
         }
       ],
       "submissions": [],
