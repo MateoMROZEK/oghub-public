@@ -677,22 +677,22 @@
         {
           "id": "mg_week2",
           "name": {
-            "fr": "Course de MotorGames n°1",
-            "en": "Course de MotorGames n°1"
+            "fr": "Confusing Race",
+            "en": "Confusing Race"
           },
-          "shareId": "000-000-000",
-          "creator": "motorgames",
+          "shareId": "000 042 290",
+          "creator": "MotorGames",
           "week": 2,
           "date": "2026-03-11"
         },
         {
           "id": "vinc_week2",
           "name": {
-            "fr": "Course de Vinc n°1",
-            "en": "Course de Vinc n°1"
+            "fr": "Paradise Island",
+            "en": "Paradise Island"
           },
-          "shareId": "000-000-000",
-          "creator": "ebl_vinc",
+          "shareId": "000 045 644",
+          "creator": "EBL_Vinc",
           "week": 2,
           "date": "2026-03-11"
         },
@@ -703,7 +703,7 @@
             "en": "Course de MotorGames n°2"
           },
           "shareId": "000-000-000",
-          "creator": "motorgames",
+          "creator": "MotorGames",
           "week": 4,
           "date": "2026-03-25"
         },
@@ -714,7 +714,7 @@
             "en": "Course de Vinc n°2"
           },
           "shareId": "000-000-000",
-          "creator": "ebl_vinc",
+          "creator": "EBL_Vinc",
           "week": 4,
           "date": "2026-03-25"
         },
@@ -725,7 +725,7 @@
             "en": "Course de MotorGames n°3"
           },
           "shareId": "000-000-000",
-          "creator": "motorgames",
+          "creator": "MotorGames",
           "week": 6,
           "date": "2026-04-08"
         },
@@ -736,7 +736,7 @@
             "en": "Course de Vinc n°3"
           },
           "shareId": "000-000-000",
-          "creator": "ebl_vinc",
+          "creator": "EBL_Vinc",
           "week": 6,
           "date": "2026-04-08"
         },
@@ -747,7 +747,7 @@
             "en": "Course de MotorGames n°4"
           },
           "shareId": "000-000-000",
-          "creator": "motorgames",
+          "creator": "MotorGames",
           "week": 8,
           "date": "2026-04-22"
         },
@@ -758,7 +758,7 @@
             "en": "Course de Vinc n°4"
           },
           "shareId": "000-000-000",
-          "creator": "ebl_vinc",
+          "creator": "EBL_Vinc",
           "week": 8,
           "date": "2026-04-22"
         }
