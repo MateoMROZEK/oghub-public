@@ -693,6 +693,17 @@
             "id": "1243965770417967148",
             "username": "tigergentle"
           }
+        },
+        {
+          "id": "cptfoenix",
+          "name": "CptFoenix",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Cp",
+          "discord": {
+            "id": "528634912022986755",
+            "username": "cptfoenix"
+          }
         }
       ],
       "events": [
@@ -1124,6 +1135,13 @@
           "username": "TigerAreGentle",
           "nationality": "FR",
           "registeredAt": "2026-03-11T20:08:00.198Z"
+        },
+        {
+          "discordUserId": "528634912022986755",
+          "discordUsername": "cptfoenix",
+          "username": "CptFoenix",
+          "nationality": "FR",
+          "registeredAt": "2026-03-12T01:44:56.166Z"
         }
       ],
       "submissions": [],
