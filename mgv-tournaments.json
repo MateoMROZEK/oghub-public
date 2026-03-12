@@ -807,7 +807,13 @@
           "date": "2026-04-22"
         }
       ],
-      "results": [],
+      "results": [
+        {
+          "eventId": "vinc_week2",
+          "playerId": "drskeud",
+          "time": "2:05.670"
+        }
+      ],
       "registrations": [
         {
           "discordUserId": "206117019752464384",
