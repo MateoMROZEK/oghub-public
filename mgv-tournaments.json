@@ -704,6 +704,17 @@
             "id": "528634912022986755",
             "username": "cptfoenix"
           }
+        },
+        {
+          "id": "ultimeleo",
+          "name": "UltimeLeo",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Ul",
+          "discord": {
+            "id": "1475244770522697849",
+            "username": "rl_scooby"
+          }
         }
       ],
       "events": [
@@ -1142,6 +1153,13 @@
           "username": "CptFoenix",
           "nationality": "FR",
           "registeredAt": "2026-03-12T01:44:56.166Z"
+        },
+        {
+          "discordUserId": "1475244770522697849",
+          "discordUsername": "rl_scooby",
+          "username": "UltimeLeo",
+          "nationality": "FR",
+          "registeredAt": "2026-03-12T14:22:55.473Z"
         }
       ],
       "submissions": [],
