@@ -715,6 +715,17 @@
             "id": "1475244770522697849",
             "username": "rl_scooby"
           }
+        },
+        {
+          "id": "xener",
+          "name": "Xener-_-",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Xe",
+          "discord": {
+            "id": "683413205963505690",
+            "username": "xener_."
+          }
         }
       ],
       "events": [
@@ -1181,6 +1192,13 @@
           "username": "UltimeLeo",
           "nationality": "FR",
           "registeredAt": "2026-03-12T14:22:55.473Z"
+        },
+        {
+          "discordUserId": "683413205963505690",
+          "discordUsername": "xener_.",
+          "username": "Xener-_-",
+          "nationality": "FR",
+          "registeredAt": "2026-03-14T15:10:10.671Z"
         }
       ],
       "submissions": [],
