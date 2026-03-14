@@ -726,6 +726,17 @@
             "id": "683413205963505690",
             "username": "xener_."
           }
+        },
+        {
+          "id": "creazyyt",
+          "name": "CREAZYYT",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "CR",
+          "discord": {
+            "id": "528941807552299009",
+            "username": "creazyyt"
+          }
         }
       ],
       "events": [
@@ -1199,6 +1210,13 @@
           "username": "Xener-_-",
           "nationality": "FR",
           "registeredAt": "2026-03-14T15:10:10.671Z"
+        },
+        {
+          "discordUserId": "528941807552299009",
+          "discordUsername": "creazyyt",
+          "username": "CREAZYYT",
+          "nationality": "FR",
+          "registeredAt": "2026-03-14T15:52:28.520Z"
         }
       ],
       "submissions": [],
