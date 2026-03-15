@@ -748,6 +748,17 @@
             "id": "564896709986222100",
             "username": "ablezza"
           }
+        },
+        {
+          "id": "pukzee",
+          "name": "Pukzee",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Pu",
+          "discord": {
+            "id": "513242482025431040",
+            "username": "pukzee"
+          }
         }
       ],
       "events": [
@@ -1245,6 +1256,13 @@
           "username": "Ableza06",
           "nationality": "FR",
           "registeredAt": "2026-03-14T22:11:31.277Z"
+        },
+        {
+          "discordUserId": "513242482025431040",
+          "discordUsername": "pukzee",
+          "username": "Pukzee",
+          "nationality": "FR",
+          "registeredAt": "2026-03-15T16:48:32.353Z"
         }
       ],
       "submissions": [],
