@@ -759,6 +759,17 @@
             "id": "513242482025431040",
             "username": "pukzee"
           }
+        },
+        {
+          "id": "scarletmoon634",
+          "name": "scarletmoon634",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "sc",
+          "discord": {
+            "id": "911701458553016401",
+            "username": "gameiruka"
+          }
         }
       ],
       "events": [
@@ -1273,6 +1284,13 @@
           "username": "Pukzee",
           "nationality": "FR",
           "registeredAt": "2026-03-15T16:48:32.353Z"
+        },
+        {
+          "discordUserId": "911701458553016401",
+          "discordUsername": "gameiruka",
+          "username": "scarletmoon634",
+          "nationality": "FR",
+          "registeredAt": "2026-03-18T00:06:48.944Z"
         }
       ],
       "submissions": [],
