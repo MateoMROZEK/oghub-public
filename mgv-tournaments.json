@@ -768,6 +768,17 @@
             "youtube": "https://youtube.com/@oghubfr",
             "twitch": "https://twitch.tv/z3kdevelopment"
           }
+        },
+        {
+          "id": "dlebis86",
+          "name": "dlebis86",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "dl",
+          "discord": {
+            "id": "1481260857974591558",
+            "username": "dlebis86"
+          }
         }
       ],
       "events": [
@@ -1307,6 +1318,13 @@
           "username": "WWW.OGHUB.FR",
           "nationality": "US",
           "registeredAt": "2026-03-25T09:00:21.074Z"
+        },
+        {
+          "discordUserId": "1481260857974591558",
+          "discordUsername": "dlebis86",
+          "username": "dlebis86",
+          "nationality": "FR",
+          "registeredAt": "2026-03-25T16:09:15.331Z"
         }
       ],
       "submissions": [],
