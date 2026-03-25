@@ -807,10 +807,10 @@
         {
           "id": "mg_week4",
           "name": {
-            "fr": "Course de MotorGames n°2",
-            "en": "Course de MotorGames n°2"
+            "fr": "Street Tier 1 Time Attack Championship",
+            "en": "Street Tier 1 Time Attack Championship"
           },
-          "shareId": "000-000-000",
+          "shareId": "000 127 369",
           "creator": "MotorGames",
           "week": 4,
           "date": "2026-03-25"
@@ -818,10 +818,10 @@
         {
           "id": "vinc_week4",
           "name": {
-            "fr": "Course de Vinc n°2",
-            "en": "Course de Vinc n°2"
+            "fr": "Mountain hell",
+            "en": "Mountain hell"
           },
-          "shareId": "000-000-000",
+          "shareId": "000 102 448",
           "creator": "EBL_Vinc",
           "week": 4,
           "date": "2026-03-25"
