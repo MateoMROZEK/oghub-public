@@ -753,6 +753,17 @@
             "id": "911701458553016401",
             "username": "gameiruka"
           }
+        },
+        {
+          "id": "wwwoghubfr",
+          "name": "WWW.OGHUB.FR",
+          "country": "US",
+          "countryCode": "us",
+          "avatar": "WW",
+          "discord": {
+            "id": "206117019752464384",
+            "username": "mateomrozek"
+          }
         }
       ],
       "events": [
@@ -1285,6 +1296,13 @@
           "username": "scarletmoon634",
           "nationality": "FR",
           "registeredAt": "2026-03-18T00:06:48.944Z"
+        },
+        {
+          "discordUserId": "206117019752464384",
+          "discordUsername": "mateomrozek",
+          "username": "WWW.OGHUB.FR",
+          "nationality": "US",
+          "registeredAt": "2026-03-25T09:00:21.074Z"
         }
       ],
       "submissions": [],
