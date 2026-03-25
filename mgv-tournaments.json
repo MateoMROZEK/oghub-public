@@ -759,10 +759,14 @@
           "name": "WWW.OGHUB.FR",
           "country": "US",
           "countryCode": "us",
-          "avatar": "WW",
+          "avatar": "OG",
           "discord": {
             "id": "206117019752464384",
             "username": "mateomrozek"
+          },
+          "socials": {
+            "youtube": "https://youtube.com/@oghubfr",
+            "twitch": "https://twitch.tv/z3kdevelopment"
           }
         }
       ],
