@@ -161,23 +161,6 @@
       ],
       "players": [
         {
-          "id": "mateo",
-          "name": "WWW.OGHUB.FR",
-          "country": "FR",
-          "countryCode": "fr",
-          "avatar": "Ma",
-          "team": "OGHub Team",
-          "oghub_profile": "mateo",
-          "discord": {
-            "id": "206117019752464384",
-            "username": "mateomrozek"
-          },
-          "socials": {
-            "youtube": "https://youtube.com/@oghubfr",
-            "twitch": "https://twitch.tv/z3kdevelopment"
-          }
-        },
-        {
           "id": "supra2jztcm",
           "name": "HP-supra2jz",
           "country": "FR",
