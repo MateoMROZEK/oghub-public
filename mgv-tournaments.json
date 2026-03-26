@@ -801,6 +801,17 @@
             "id": "909120877923274762",
             "username": "dzzz3"
           }
+        },
+        {
+          "id": "fiery1303",
+          "name": "Fiery_1303",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Fi",
+          "discord": {
+            "id": "765582925738541077",
+            "username": "fiery1303"
+          }
         }
       ],
       "events": [
@@ -1361,6 +1372,13 @@
           "username": "bendxro",
           "nationality": "FR",
           "registeredAt": "2026-03-26T05:46:07.482Z"
+        },
+        {
+          "discordUserId": "765582925738541077",
+          "discordUsername": "fiery1303",
+          "username": "Fiery_1303",
+          "nationality": "FR",
+          "registeredAt": "2026-03-26T08:11:34.793Z"
         }
       ],
       "submissions": [],
