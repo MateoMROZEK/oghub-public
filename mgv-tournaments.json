@@ -812,6 +812,17 @@
             "id": "765582925738541077",
             "username": "fiery1303"
           }
+        },
+        {
+          "id": "scorpionblanco",
+          "name": "Scorpionblanco",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "Sc",
+          "discord": {
+            "id": "595225211205582864",
+            "username": "kilianlmx78"
+          }
         }
       ],
       "events": [
@@ -1379,6 +1390,13 @@
           "username": "Fiery_1303",
           "nationality": "FR",
           "registeredAt": "2026-03-26T08:11:34.793Z"
+        },
+        {
+          "discordUserId": "595225211205582864",
+          "discordUsername": "kilianlmx78",
+          "username": "Scorpionblanco",
+          "nationality": "FR",
+          "registeredAt": "2026-03-26T15:00:29.722Z"
         }
       ],
       "submissions": [],
