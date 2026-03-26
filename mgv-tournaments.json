@@ -779,6 +779,17 @@
             "id": "1481260857974591558",
             "username": "dlebis86"
           }
+        },
+        {
+          "id": "yotabzh974",
+          "name": "yotabzh974",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "yo",
+          "discord": {
+            "id": "1328485283875917906",
+            "username": "yodata29510"
+          }
         }
       ],
       "events": [
@@ -1325,6 +1336,13 @@
           "username": "dlebis86",
           "nationality": "FR",
           "registeredAt": "2026-03-25T16:09:15.331Z"
+        },
+        {
+          "discordUserId": "1328485283875917906",
+          "discordUsername": "yodata29510",
+          "username": "yotabzh974",
+          "nationality": "FR",
+          "registeredAt": "2026-03-26T00:10:53.857Z"
         }
       ],
       "submissions": [],
