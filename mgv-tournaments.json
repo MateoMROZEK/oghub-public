@@ -790,6 +790,17 @@
             "id": "1328485283875917906",
             "username": "yodata29510"
           }
+        },
+        {
+          "id": "bendxro",
+          "name": "bendxro",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "be",
+          "discord": {
+            "id": "909120877923274762",
+            "username": "dzzz3"
+          }
         }
       ],
       "events": [
@@ -1343,6 +1354,13 @@
           "username": "yotabzh974",
           "nationality": "FR",
           "registeredAt": "2026-03-26T00:10:53.857Z"
+        },
+        {
+          "discordUserId": "909120877923274762",
+          "discordUsername": "dzzz3",
+          "username": "bendxro",
+          "nationality": "FR",
+          "registeredAt": "2026-03-26T05:46:07.482Z"
         }
       ],
       "submissions": [],
