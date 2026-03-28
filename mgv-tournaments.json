@@ -823,6 +823,17 @@
             "id": "595225211205582864",
             "username": "kilianlmx78"
           }
+        },
+        {
+          "id": "chabins",
+          "name": "chabins",
+          "country": "FR",
+          "countryCode": "fr",
+          "avatar": "ch",
+          "discord": {
+            "id": "1487322432946573354",
+            "username": "julo_10642"
+          }
         }
       ],
       "events": [
@@ -1397,6 +1408,13 @@
           "username": "Scorpionblanco",
           "nationality": "FR",
           "registeredAt": "2026-03-26T15:00:29.722Z"
+        },
+        {
+          "discordUserId": "1487322432946573354",
+          "discordUsername": "julo_10642",
+          "username": "chabins",
+          "nationality": "FR",
+          "registeredAt": "2026-03-28T05:41:12.830Z"
         }
       ],
       "submissions": [],
