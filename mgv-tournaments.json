@@ -845,6 +845,17 @@
             "id": "708052937561210911",
             "username": "dylz9892"
           }
+        },
+        {
+          "id": "apollo13",
+          "name": "Apollo13",
+          "country": "US",
+          "countryCode": "us",
+          "avatar": "Ap",
+          "discord": {
+            "id": "1316584718304804955",
+            "username": "charismacracker"
+          }
         }
       ],
       "events": [
@@ -1468,6 +1479,13 @@
           "username": "Porschecrew23",
           "nationality": "US",
           "registeredAt": "2026-03-30T20:58:12.738Z"
+        },
+        {
+          "discordUserId": "1316584718304804955",
+          "discordUsername": "charismacracker",
+          "username": "Apollo13",
+          "nationality": "US",
+          "registeredAt": "2026-04-08T16:03:26.191Z"
         }
       ],
       "submissions": [],
