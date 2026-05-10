@@ -1243,6 +1243,11 @@
           "eventId": "vinc_week2",
           "playerId": "itstrstn",
           "time": "1:50.926"
+        },
+        {
+          "eventId": "mg_week2",
+          "playerId": "itstrstn",
+          "time": "2:28.925"
         }
       ],
       "registrations": [
